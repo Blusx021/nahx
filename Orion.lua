@@ -13,7 +13,9 @@ if not _0x1A()._0xVALID then
 end
 
 -- NÃO RESETAR _0xVALID SE JÁ ESTIVER AUTORIZADO (fix reexecução)
--- Removido reset para false - deixa o pastefy.lua controlar!
+if not getgenv()._0xVALID then
+	getgenv()._0xVALID = false
+end
 if not getgenv()._0xACTION then
 	getgenv()._0xACTION = "pending"
 end
@@ -92,31 +94,15 @@ if _content and _content ~= "" then
 	end
 end
 
-local maxWaitTime = 5 -- Aumentado para 5 segundos (tempo suficiente para autorização)
+local maxWaitTime = 1.5 -- Reduzido de 3 para 1.5 segundos
 local startTime = tick()
-
-print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-print("[UIUI] Aguardando autorização do pastefy.lua...")
-print("[UIUI] Tempo máximo de espera: " .. maxWaitTime .. " segundos")
-print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-
 while not getgenv()._0xVALID do
 	if tick() - startTime > maxWaitTime then
-		warn("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-		warn("[UIUI] ❌ TIMEOUT! Autorização não recebida em " .. maxWaitTime .. " segundos")
-		warn("[UIUI] getgenv()._0xVALID: " .. tostring(getgenv()._0xVALID))
-		warn("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 		game.Players.LocalPlayer:Kick("Verification timeout!\n\nYou were not approved to use this script.")
 		return
 	end
-	task.wait(0.1) -- Aumentado para 0.1 (menos spam)
+	task.wait(0.01) -- Reduzido de 0.05 para 0.01
 end
-
-print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-print("[UIUI] ✅ AUTORIZADO!")
-print("[UIUI] getgenv()._0xVALID: " .. tostring(getgenv()._0xVALID))
-print("[UIUI] Carregando UI...")
-print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
 task.spawn(function()
 	while task.wait(10) do
