@@ -1,1 +1,4752 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _xOgWEDyvyqzB = a; end)); return(function(f,...)local k;local n;local t;local d;local a;local e;local l=24915;local s=0;local _={};while s<798 do s=s+1;while s<0x2a9 and l%0x437c<0x21be do s=s+1 l=(l-337)%45872 local h=s+l if(l%0x25b4)>=0x12da then l=(l-0x12e)%0x8c8d while s<0x332 and l%0x3e08<0x1f04 do s=s+1 l=(l*557)%12703 local n=s+l if(l%0x2c7a)<=0x163d then l=(l*0xd9)%0x2a5a local l=99888 if not _[l]then _[l]=0x1 e=(not e)and _ENV or e;end elseif l%2~=0 then l=(l*0x87)%0x7c01 local l=38963 if not _[l]then _[l]=0x1 e=getfenv and getfenv();end else l=(l-0x250)%0x5f6a s=s+1 local l=48106 if not _[l]then _[l]=0x1 d=string;end end end elseif l%2~=0 then l=(l+0x35f)%0x923b while s<0x330 and l%0xf22<0x791 do s=s+1 l=(l+166)%27664 local e=s+l if(l%0x4274)>=0x213a then l=(l+0xc0)%0x79ca local l=27660 if not _[l]then _[l]=0x1 a=tonumber;end elseif l%2~=0 then l=(l-0x327)%0x7a5b local l=72332 if not _[l]then _[l]=0x1 end else l=(l*0x38b)%0x9b2a s=s+1 local l=83498 if not _[l]then _[l]=0x1 k={};end end end else l=(l*0x30c)%0x59c4 s=s+1 while s<0x232 and l%0xab4<0x55a do s=s+1 l=(l+814)%36521 local h=s+l if(l%0x46e6)>=0x2373 then l=(l*0x32c)%0x6def local l=29351 if not _[l]then _[l]=0x1 end elseif l%2~=0 then l=(l+0x359)%0x441d local l=60273 if not _[l]then _[l]=0x1 n=function(n)local l=0x01 local function _(s)l=l+s return n:sub(l-s,l-0x01)end while true do local s=_(0x01)if(s=="\5")then break end local l=d.byte(_(0x01))local l=_(l)if s=="\2"then l=k.mvFWUOCZ(l)elseif s=="\3"then l=l~="\0"elseif s=="\6"then e[l]=function(l,s)return f(8,nil,f,s,l)end elseif s=="\4"then l=e[l]elseif s=="\0"then l=e[l][_(d.byte(_(0x01)))];end local s=_(0x08)k[s]=l end end end else l=(l*0x181)%0x2465 s=s+1 local l=99203 if not _[l]then _[l]=0x1 t="\4\8\116\111\110\117\109\98\101\114\109\118\70\87\85\79\67\90\0\6\115\116\114\105\110\103\4\99\104\97\114\115\85\97\98\79\83\77\87\0\6\115\116\114\105\110\103\3\115\117\98\122\114\105\99\73\110\95\109\0\6\115\116\114\105\110\103\4\98\121\116\101\65\74\77\90\82\70\118\108\0\5\116\97\98\108\101\6\99\111\110\99\97\116\74\74\65\66\69\120\102\106\0\5\116\97\98\108\101\6\105\110\115\101\114\116\86\122\66\100\103\84\105\84\5";end end end end end l=(l*999)%48518 end n(t);local l={};for s=0x0,0xff do local _=k.sUabOSMW(s);l[s]=_;l[_]=s;end local function h(s)return l[s];end local d=(function(t,n)local f,_=0x01,0x10 local s={{},{},{}}local e=-0x01 local l=0x01 local d=t while true do s[0x03][k.zricIn_m(n,l,(function()l=f+l return l-0x01 end)())]=(function()e=e+0x01 return e end)()if e==(0x0f)then e=""_=0x000 break end end local e=#n while l<e+0x01 do s[0x02][_]=k.zricIn_m(n,l,(function()l=f+l return l-0x01 end)())_=_+0x01 if _%0x02==0x00 then _=0x00 k.VzBdgTiT(s[0x01],(h((((s[0x03][s[0x02][0x00]]or 0x00)*0x10)+(s[0x03][s[0x02][0x01]]or 0x00)+d)%0x100)));d=t+d;end end return k.JJABExfj(s[0x01])end);n(d(216,"cC#s+:!Bo&rlUehL#e"));n(d(184,"OSi%f/9-Lvk+KasGfLv9f+vfakSv99k-LK%fLaKaSL/+L%GSSLL/KkSS9i%f-a%=9++StffKva+i8%-/+aGSfX9L9v+/9L+iGS%sLKK%GG%KLiakSM/vvKk0ssk%sK%i-S+sGGs/v/aSiK9%+za+favka%i-9LLKa-aoSKKaWv9fkgL/%f-f+aSL/L-vK-Wa--vkG-fsLS-fKf-%kaAff/L/aKSS9KkSsk%K-aKS>a%fk9aLiG9f+akfG^kfs-%%-KKiuSfsLGasGv/kkKa+iQv<ks+gGa+fsv%iLfK/ks9/k9G)iv-%K%G9/GLL+K%f-sk-sfsfiss/i9-1kvG%f%-GKKRLfaLvG%SSL/9fka9lkksv%9LfKGsK/k-9K%.K-v+fvKs9v+a/if9/k+FfiGLsKSS-9Lk/sSi9SL9fS//SkKsLKa-9Kf*G/-kis%i--+Kiasia-/+f+a"));local l=(-13761+(function()local n,s=0,1;(function(s,_,l)_(l(s,s,s),l(l,l,l),l(l,s,l))end)(function(_,l,e)if n>271 then return l end n=n+1 s=(s-769)%14549 if(s%414)<=207 then s=(s-821)%42558 return l(_(e,e,e and e),_(l,e,_),_(l,_ and l,_))else return l end return l end,function(e,l,_)if n>489 then return _ end n=n+1 s=(s+518)%37900 if(s%1480)>=740 then s=(s+396)%31881 return e else return _(l(_ and _,l,l),l(l,l and _,l and _),_(_,l and e,e))end return l(_(e,e,e),_(l and _,e,e),e(e and l,l,_))end,function(l,_,e)if n>442 then return l end n=n+1 s=(s*678)%40584 if(s%260)<130 then return _ else return e(e(l,l,_),l(_ and _,l,l)and e(l,l and e,e),_(l and _,l,e))end return e(e(l,l and _,l and _),e(_,l,e)and l(l and _,e and e,_),e(e and _,l,_ and _))end)return s;end)())local r=k._dXUIkAm or k.VwXDtvWL;local dl=(getfenv)or(function()return _ENV end);local el=1;local e=2;local n=3;local t=4;local function nl(u,...)local o=d(l,"j+xvLD_NslU?FYHX_ {_sldFlx+xlD+sl?+HU+xLHNxYNUXFNX^xsDQsUvs+FND+F?LHY+lNLZFsLxFYLLYUDxFXX+NYXDNsX??X_XHN_XXlNXHrsxXXsN+ux+U_xDUsx?X/lx+NUx?FLvFRLvF_lFvFF+v?FvvXDYHL_+HL_NxXHzDvYL__YHXHs_JxsD0sY?NUXxsYXFsF+8xvUvx_UlxFUXYxxvNs?YDNF+LLFNlNvF?XL+UlvH?XvH?DDlYUDLYFDsHNvXHv_+HL_sXLLU!JsvPL+NUL+?lHx+XssX,XlU+Dsx+sUvx+Uxv_?sF?L?FHD+YLDN+UUHxP__H__lHF_XXxNDD???S-s_0LsN>UXYNvXLsx3D+HUvxxUDxsXHlNx?ll?lv??YLoFvsUF?DvFXDxYDlFLLYLLUFsLFYFHXNUXvN_XlFH_HXNNvHFD+imNx<+NFlFxsUtxvU__U+XlX+NlsxFsY+X?DxY?_FYLYY-DvY_DlYF?lxx_NHH_?HHN+LHF%_sH+_DX? slLdFsX+xHlNY+vlxXLsl+lUA+_lv+svs?YvF?XLxe?UlvHFxYLDLYNDUYY_._v?Xxl_HXXNxXDNsDkX+__X_DmXsNY7DsNHlNHdHlDz?ss^YxY?Nv+?LvNylUXxl?xvLs?vs?sLFDsDv_XsFUsFDH+_HUFXxssX_NlXFFFN?YD_YXYs+XUsN^?NXi?lLX_sl+?l++LUcXFUYxLL+F+LLFNLUFYss_xl_Y?_+YX_xHD?DDUYxDxHhXls+XYsG>vHFN?X?NFHLDFYU+YUDx+ULxNXUsH+LlN+XUNxvL+FHLDFsL?vD?xL+?FvlUDDLYND_?VD+HvXLNlXsN?XHFH_DXbNssX+?lv+_llDXaHlP+vsYMHUx+UUvxDUYFCL;FvL_FlLFFXl?+DD?L+FLLNFULYY;FvUXXDNXXlNFXXF?NsYUskXFNXXYsDW+xt+?vNDLNtsYUls_NL?ULv?HL+FLlpvsF2LL?LLL?FL+_+Hs_DHs_?DNH+DDH._FX&cxs?u_slzFHHLx,Y_HYF_UHU_sUlxHUYv/?vUU+UUXxULDFDLsF?LHY+DLxllUHp_8Hv__Hl_F_X?lvDNU-sNHr+sLDUHXNlXDN_yUNH6/NveUsU+Dl)?{vl?LvN?UsYxX?_xX?YvD?HL.DNH+D?YH_+LvlN_xUHvvFNvXFsLUs+-UsD0ss?DNIL_Nb?sXa+sl+xxlUlxFUXvx?DvsxLNHFxLDFUHL__Hl_FHXNxvD+H_LXv_sH?_HvUY?_DHl_XHDLUX?NxYDNYnDNUZF+HlHx+ULxNUUxYXYNv?sLD?FvXFxlNxY?HvvFDxvFDxYFYL+YUDL_?Xx_XXxNDL?Hs_YX;NsHXrYsY+:lv+_lllFX?_xUNxFU?xH?+s0+FU:v+L+FvLsYNLFFXDxxXU+LlFxL_YFxlFXDDY+_lYX_sHH>+sN9Dss7?YLsvXDsLXX+XUDxvU_xlXDlYB+UUxFvYFLL+FLLNkF?FLLFNLDF_YH_UHx_DHs?LD?YxD?YFvFXxNLXNNDXN:HlL+xlD+sHNNX*vsl+vxYUYvq?vv_?lXFv+sxFNDDF?LHY+UlLU?XLXUlD+Y_DHH.LvH?_DYYXYsLZ+sL9NYzDUXXssklNHlHxxUxxDUsll+vUs?_L+?UvYFOlNx?F+Ldl+LNFlLFFULF_vXx_NHU_Yv_YF_LYYLxHsNLXsNFFHN_XUsEX?+FULxPUvx_HYl+xxU_xNUNvLLrFULLFNLUx+FNvs??LNUDLYFsDL_UHX_HX+NLL)Hs__XLE_vHxN++XUHvFYD_DUUGxsULxNUUlY+DU++UUxxUU_FLLlFsL?FHlFvY?ULD_pHa_vH__lHFxXLH?DXUsLXHs+oLYNN_HHslXsssHRl+TsxDUDxsU?xH?+DLxxNUFcL:FvL_FlLFHX?s+DD?Y?DHH+_LHNUULl?JXDNsXlNFXXYNNDsUbYsH++lLN_H++XUlxvU_xl%+l?x_UN+ls++X?LvsLUFULYY=DvY_DlvDlXHLN+Hs_?HH?H_vHF_YHxLxXsNUXYN?XYLDlNxvl?+HU+lL+lllx+lD+_UU+sUvvLU?FsLsF?LHY+DLYNUs+Y_xHF__Hl_Fv_YN_lFY_HHvNvFYL?sF+Llp+vl__++qlv+x_F.YlX?3vl?LvN?UsxxFUsvvUHvUFvLDDsYsD?YH_+HL_NHxUFXxNUX_NlXFYD_?XsN+HYNUX_+_Uv+UlYx8b?lD+slN+DUNxvl?xXUNvE?xFULUFYDtYvD_YllF+X_DHD_sH?_HX+?LLX?U,!s evs_{lsFLXXDDDlUx_lHx+ULNv+llq++lX8_UD+Y?sxN?NFUDUFHD+YLUUvXF-DDYDLXYY_D?UDNHHxUU?v4?_w_lLbUsY+0XUNNw_s+XH_lTUlFHFU+xUUx+UvFFvLaFvL_vS?+Lv?ULUF+YY_xH+_LHNH+LHYl_NNsXYNFXXsxDvHlNsXv+vls+NlU+YXvsX+DU/UHvl?xvD?sss+XUFxllHvv??vLFxLYD?HNDXHx_DxYFF_+YU_xYHLYX+NlHX_?s?+xsX+xlD_?-Xle+/sXKFxF?+v{?vv_KDUDvx?_FNDLF?LHY+U+L_FXDIFDxDY?DYH>DHHhx_NU7_NH9+sLLXXHs+Gh__X?s?+xssdDsUUUxFUHv+?LNs?FLqF!LvF_?FLD?YYLDFYsD?YH?LLYFlD_Y_DHYUXssvXFNXJxFF_YXX_+X_s_OYsv{psDUDxHUlxFUXNl+UUFXF?+vU?xxULYFYDrYvD_YlDFv?UxHNNvH?_HX+FNDUHF_FHF_XFFN?HYNFXN+sls+?lHx+ULHNcF_Y?xvY?_vl?FU?v+U_xF?HLxFvvYFDL+_dHz_vH__lHF_XDP?DX?N?XHs+#LsNbUH_Y lD+lll+FlXN++UlFUYvD?+vL?NNFvx?LvNU?v?FDYxDxYDDsY?DHH+DLx__YHYN%XvN_XllF_+FxZNsF&?sH++HsNF+xl+UxxlU_xlUFNDx+U++FU(vhLLFLLNFULYYplvvLllYH_UHx_DHsUHD_Yx_xYHDXY+_sHsNvHHkHlv+xlD+sHysF+_l+UlvMUYvZ?vNlxsUsxH?LXsLUYFLHY+DLxY?XLXYLLFFlLUYsv5YHDHYX_lH?__XxN?sYYUDFYX_xHD_sX?H+xNUHx?UHv+qslX+XUUxD?_FsLYFFLXYxUsL+FlLv_LHL_NHU_YXWNvY_?sXXNXpxsDPss?HHXXDLlULvXlUX_D+?Y+XsHHvD?Dvs??vHF+LLxLsUFXD+YvD_Yl?vH+_YHD_sH??DD_HsvUHx__HF_NXs_HXU++lF+Dls+?2Hlv+vl? XlyxLlUx?Ux?HLLFxLDFslHvU?xLN?XYF_xH&_vH_??DDY_DUHlXUsxXHs+=LHH_Xi+NNXssLpX+HU_xxUDxsK+lv+LUsx_UFHXLxFNL_FlLF+vF+LFF_YHDHH+_LHN_UxYFlvvNs;LNFXXsxD+HlsLXYs_Rs__fFs+KDlDUlxlUFxX?xvD+sU_XHLvF?LNFULY+??sLXlFL?FvLN_NnX_?HHN+LsYX_vX-xcHl_XXDN+UXslX_s???sH+vlv+?sX+0UL+slUYl?vxs?_xY_s+s?YL;FxxU?XLqsIvlllHF_FHXNxXDNsv?HNL+sNqNsUVYlf+v+_NdYFx+?+xDUsx?XvlxxNUkxsUL1LUFvsUHxXFvv?FLL_DYHL_+HL_NxFHx_LHN_DHNXXNX3xsD<ss?LHXXDLllxslYx0UvsH+sl?+UlX+UUF+FU?x_?sxX?lv+DvYvD_YlDFYX_xDvUsHH_HX+NLXNNUYYHFLvss,XsFQXlx_lYHsYXXsH^lxl?+xY?)vvXlUsxHUL>l?Uv+LYHLD+YLDN+F?HLvFHLYY?D?HL_-YlLFHYDXHXNNXN_?XXNDh+Nl+x+HUFxxUDxscUU_f9l?GHNX^+?lvl?XvUF_++DDYDDsY?DHH+HLDvUUHXNlXvN_XlFX_HXLNlYNNYXxN_Q_+lYU+YU5xvXFsH+Hls+slH+?lFvxUUvv?DHUF+vlF/v?FsD+Yvpv_XXxFLDYH_+LHHDXHX_DUvNLXss:UXNvMDss}YsY+Nslz?LUx+lXYvU?xFU+YX?_xY?+vH_HLL?NLlFvLYYL++_lHl_FHXNxXDNsLx?HhvlLANsU6YYYsx ?sF.+_s8DlL+_N#+Flx+_Uv+XU+FxLlF_LlFFlFvN?lL+YML?_LHL_NHU_YXZNvxXvlXHsY.xsD%sXYNv/+sfXsNYpxsvAXlD+FU+x+lN?NvY??vHF+?NvNU?LL?HY_D_YlDFYX_xHDNFx?NTX_NLXNNULHXD_FXLNYsH+slx+DlsDYXXsL/XlU+UsH+vls?sLL?FvXFxlUvsUXxXFDvlU?LxFxLYFsHsNvHF_XXxFN_YHlD+H_N_XYNvXINDlD+Fll+FlXNDVUs?+UlF+Dv_?NvU?YLJFDLUFlLFFX?lv_FDLI_+H+_LHN_UHYX DY?_X?sLXXsxCDYFN*P_sDYsNs(FssUxxFU_xlUFsx+DUN+YUBxFssvl?GFYLYYPDvY_DlYFlsxx_NHF_?HHN+LDHFD?H+4vsvg_slhFsXYxXxDslH+HU+xLUNxUUYl?Xvvs?YvF?XLx+UsFvL??Yv__YNDUYYF_LFYsDFHe_vY?_xYY_LHF_?Hl_UXHN_XXs+ls+YlF+XUxll++sH+lvv?_vN?UvYxD?+FsDOFFLXYxUUL_F_LFYMD?YDHFNsXhNvX_FH_XHLNLYs_YXYsLXUNNXF+FUxxaUvx_Xxll+^ll+UvUFxvHF+LL}F?_xHFvLN?XvFDHHD_xHD_sv?FX_vYl_DHHXXsN/vs_,lYXNS&sNUY?s+bDxvUXxNUUxYXDU?x_UsxUULvz?lv+UFvUDvYDDNYUDYvv_DH?_lHF_XvsH+DlHxN+sL=LsNcUsY+elv+_ll+HU?xxUDxsXXUD+_llxDsYxx?xvlUXxF?+YxDxYDDsY?DHL+FNxN_FXFNmXvN_vFX+N+XL_UX_NXYUNxoxNHTXNHnNssUsxXUFxX?xNsxNUYxFU_v_LlY+LYY2Dv+U?HLxFoDNY+DF_Hss}UsY+hlv+_H+Fx:ssXuFsX+xYNsN+msFqLslUlv_UYvm?vsY+UUDvvssvL?UkH?_vUF9v?DFXK_GHv__v+Y?_+Y?_XHN_lXx_xXnLsX_N_XNs+JvNH(UlvUD++XlHvFF?_lXKsXlvXF_LvF_LlhX?LLqFlvYFYH2_lHL_NHU?F_xYF_DHNLsHs_LsN+Ls?VHl+_+#_sX+ZsDHDl?+YU>+HUuHNvUFivHF+LL+FsHv_?YWDDlYlDFYX_xHDHsLDUHXvsLXNNUXYFY_LX+_HYUNH^_NHXHsLc+sx+slR+ll??xv_?_vl?FlvxvUNFUD+FHD+YLlsvYY+LlYlL?_lUsNxXxNDXsXXXHs+qLsskUsY+OUDNUll+FlXxFUDxsU?L#UDvL?NvU_xLpFvL_HXsLFXDxYDDHY?DXH+XYHN_H+FN>XvN_XXNFVzsxfDll8?sH++lD+NlU+Y?x+NU_xlUFF+?xvD?sLY?xL+FDLNskLYY!DvHsLYYF_+HxYYHs_?HHsvHsNNXYNYfHsvC_slEFLU+xll+sl?+HU+xLUNlxUHvL?vvN?lvH?X_xlYLsFXLHYDDLe+DUHvU)HL_UHlNFHXNvXDNsX?sxv,sLyNsU+YlG+Ll_+YF?+XUxxD?Yx?UXv+?LXx?UL+FSL_F_LlFFDDFFDDYYD?+D_+HD_NHF_YX8YxX_NlXFs8ExsD&ss?_Yl++LlN+FlYxqUvx_YLxY?vvx?Nvs?FvHYvvsFNLHFYHxYvD_YlDFLN_vHl_sHF_HXvNL+NDxXYsLAvsU,l?_5XlsDDll+XlHvFULxsUUxY?MvNHDvl?FvXYYLDFlL?Yxs/YLDNYUN?HM_LH_N?H&_XX_NDsUN?XHs+.LHX9?l++-lL+_l?+FFXlUUDxFU?Ds?+_X?NLF?+L1FNL_D?LFFXDxYDF!YF_xH+_DHN_FHYlqYBN_XYNF8vsxvDss++UU++ls+NFe+YU+xvUNxl?;DH?xvD?s_+?HLxFLDl?HLYYLDv_sDlYFDXHxFYHl_XHHNxXLNlXUUYNssv1UslvFsXDHlDxUsX+HUDxLDYxUUYv%Yv,H?lLO?XL_FDD;F?_HUlDLY?DUH+_nL___3lLLHXN_XDNFX?F?Q+sUT+sU+xlR+Ll_+UlFx(UxxD#Nx?UHv+?svN?UvYF1FNF_LXFFLXYxDDYs_YYx_+H?_NXs_YXeNvXFNvXFsN4x?N8ssF9Hlx+LlNNllYxpUvxFUlxFUXvxH^vlFxvHFvLLFsLUFYYLYvDYYlDFYX_xHDNUYX_HXlNLD_NUXYshAlF_dUlLJXFs+Dll+?lHx+UsD_UUxY?:_l?_vU?FLvX+LDFsL?cUD+YDDNHFD+HT_?H_ZsHF_XXxN?HHN?q_s+L6sN)?sY++lv+UFs+FlXxxH+xsUFxHFvxs?NLx?YHYFvL_FlDxOXDvYYDs+sDHHx_LHN_UX+lXXvN_Xl?lXXsvEDsssXsH+slL+slU+YUnxv+Fxl?LxX?UvD?sv?YqDDFLD6FU_+Y^DvY__?XvDXHF_DNL_?HHN+=_NsXUssGZTX1_sliFU++DlDxLl?lvU+xLUNvF??voFrv_:NvF?XLxYNLHF?DFY+sUYNDUYYNxHX__Xs_F+FNxXDNs3YLD8+lLZN?N:YlJ+vl_s?lYxNUxvDUsxFUHvvF_vNFvvYY0LvF_LlFFFDYxDXYsD?YH_vHLNlYH_YX?NvUFNlXFNXxxDYbsl_cHlF+LXx+UUYNUULv{UlLYUXvY?DLUYNvHFFLLNYLUFYDfXvs+Yl_NYX_YHDY?H?sC?sNLqLNU_Fs qvs_Wl?F/XlY+DUD+?U#x+FLXXUUvs?avH?_UY?FLXxvLDYxL?vvD+YXDNYUYvHM_HH_NDHF_XXxsN,FN?hUs+NlsNWUsYxxlX+_U_+F}5xxUDxs?Yvx?+Lx?Nss?YLgFvDsYLLFYHDx_+DsY?DHXvN+HNNUHYhDXvN_XlsH++sx+_ssxvsH++lLxlUU+Y?xxvxNxlUFxXFLLl?lLH?HHUFLLNFUDXHFDvHUDlvYDXHx_DXU_HHHs_XLHFXUNYOAlD+_slxxsXsNlD+sl?vtUDxL?HxUYUvp?vv_?lvX?XLYFDDXF?LXY+DLLYDUHl_zHX__Hl_F6+s_XDsDX?Yc +sLdNlF+xlcx+l_xDlF+XUxvN?Fx??Yv+FsvN?UvYYxDLF_DlFF?0YxDDYs_YH?_+XD_NX__YXrNvRsNFXFl+(xXH9ss?6HUv+_lNxYlYLFUvx_UlvHFvvvFlvs++vHF+LLYl_+FY_DYvsvYlDFYXNLXx_sO+_HxUNLXNNU=XsXnvlYJlHY=Xlx+DUUxvlHvlULHvUUxY?mvvFDvlFsvXYULDFlL?YLL?YL_LYUsDHe_LH__UHF_XD+NDXsN?^ss+9LsN+FDL+#U++_XY+FlXxxUDlHU?vY?+LF?NvU?YDxYNL_YlLFLYDxYDDsHY_UH+NDHNP?HYNuXvssClNF++sxsXssK?sHxv?i+NUY+YvHxvU_xl?HvF?xLl?sH+?HL+FLDlHDLYHDDv?PDlYFDXXLNvHss+HHAFXLNNXUsX+Lsv+YslUNsX+xlDxUUD+H?lxLLDxUUYvoFDDW?lDD?XXlFDLsF?_/YFDLX+DUsv_rHv__X?sGHXsYXD:xX?NHK+l_&XsUxll Y(l_+llFv+UlxDFDx?XHv+?LvNFFD+F4_+F_D_FFLXYx_NXxD?XY_+NX_NHU_Y/xNUX_llXFv_BxsD}slY+xl+vDlN?slYx>Uvvs?+xFY+vxDvvs??vHYvD_FN_YFYH?YvD_Yl_HXU_x=l_sXL_HX+NLylsHXYUD<vx3ClsF%XUL+_lsL+lH?sULxNUUvX?vvvYYvlNvvXFxLDYUD_FHNlYLX+YUDYHENDXD_l+D_X?XNDXsN?+6lDmL?+WUxL+9lv+_U?xxlXLYUDNlU?xH?+L_NHvUHlLRDHL_FlLFH++lYDsDY?_NH+_LHNNF?LNIx+N_?qNFXXsx+NLXf??Y++X_+NlU+YU/lDUNvsUFDH?xv_?svYYqL+YLLNX?LYYmDvY_+LYFNKHxNDHs_?HHN+UXNNuFNYgXsva_sl#FLU+xUs+sUl+HU+xLUNDUUYL+?vLl?lvH?XLxs,LsYYLHYHDLYNDUYY+?HvNlHlNYHXNxXDNs_xNH+vsL}lsU*Xl=+lsF+lUH+XL-xDUlx?UXv+?s__?UvYFCH+F_LUFFDv7+DDYsD?NX_+HD_N+:UDXmsDX_+UXFs1CxvUnssXvYl++LlN??lYx+UvxUYsxFUXvx_Lvs?FvHF+XXFNDYFYDlYvD_YlDFlU_xXl_sXv_HX+NLXNH+XYlvmvssClsHrXlxY>lsxXlHxUULxNUUxY_?vvF?vlFNvXFxLDFs?xFH_DYLDlYUDXH{_vU+_l/+_XX?NDXsN?XHvFaLlYgUll+!lv+_llsvlXvNUDxUU?vQ?+vL?svUYQL3Y_L_YHLFFXSYYD_FY?_?H+_LHN_UUsNZ0sN_<FNFXXsxfDHX8?Ux++l_+NlF+YUAYHU_v?UFLv?xvD?sL+?LL+Y_LNNFLYY+DvYNDlHKsHHx_DHs+YHHNxXLN?xlNYQgsvF_sl;YsXvsFY+sUY+H_+xLUsxU_xvr?N_D?lvF?X)xFDLlF?_<FDDLHUDUH?_CHv__HX__HXs_XD?mX?NXg+sDRNsU_FlM+vl_x?lF+XUxxDUHxFF+v+?_vNFHvYF_vlF_DFFFWUYxD_YsDFYH_D+v_NHU_YU?NvXNNl}!UH#xsD8sL?,Hlx+LlYDUlHvLUvH_UlxYUXvx?DvFHUvHF+LLsNLUFHDIHDLUYlN+YXNBHD_sH?_HUFNLQYNU++s,2vs_wl?N+EUN+DlU+?lXx+?_HHUULc?(lt?_vl?FD+?_LDYFL?sHD+YLDNYUFDH+NNH__UHFN+XxsNHFN?+vs+l_sNrUsY+ZX?+NUH+FUrxxUNxsF?S??+Ll?NLX?Y_UFvLFYULFHLDxUHDsYFDHHx_LH?llHYNhXvLXXlNYXXlLXlssxcsHY+lL+NlU+Y5sxL??xlUYxX?LvD?sUs?XD_FLDFFU_+Y;DlDsDlHXDX?__DHl_?8vN+XsU_XUNYV0DN7_sU:FU+8_lDxYl?YLU+xLUNLUsDv.Fsv_FHvFFNLxHDx F?_vY+_lYN?YYYst%H__XH_F LNxLxNsrYLD#+l?%Nvx{Yl:+vl_lxlFvLUxvFUsxFUHv+FDvN?UvYF+LvF_LlYHLvYx_UYss_YH_+HLsNYl_Y)DNvm?Nl_vNX+LlLwsU+AHUF+LlN+UlYxFUvv?UlxHUXvv?DvFY+vHF+LLsULUFHDbHDLUYlN+YXsYHD_sH?sHFlNLqFNU+xsE?+s_(?lH0XUs+DU++?lHx+ULDxU?Lx?!vD?_vU?FD+?_LDYYL?_WD+YLDNYUFDH+NsH__UHFN+XxNN(UN?+Ls++YsN9UsYx#HY+NUH+FzDxx??xs?YLx?+Ll?NLs?YL5FvLsY?LFHDDxH_DsY?DHH+_UHsNXHYNxXvsFXlsxXDsx+UssXxsH+xlL+slUx+FXxvU_xllvxX?vvD?F_U?HL+FLvvFULHY(DlFFDlXxDXFF_DHl_?HXN+XsU_XUNY^/_YQ_sU,FlvL+lD+sl?n?U+xDUNxU?Hv^?vv_?UvF?XLxFlNNF?LHY+L+YND?YY_fXL__Hl_FX0NxXDNs2YNx,+l?%NYHbYlG+vF_l+lFv_UxHLUs__UHLvUsvNY+vYN_LvF_LlHFxNYx_FYsNxYH_lHLsNFx_YhNNvmYNlDXNXxx?/ysUv=HUs+L_U+UUXHNUvL{UlN?UXvx?DvsH?vHYlLLH+LUFXDuHDLUYlNDYX+sHD_sH?sH+FNL+mNU+_sPN_s_+?Dv;XUY+D?++?lHx+ULDNUUL_?rLH?_v??F_Xx_L_H+L?NsD+tNDNXU__H6NYH_s+HF?_XxsNusN?+Us+xCsNqUsY+}l_+_?v+F??xxUNxs?+L??+LH?NLg?HL+FvLNFlDaXHDxYDDsH+DXHx_LXlDHHYs?XvlHXlNFXXUxYYssx_sHxFlLDFlUxX_NxvFxxl_DxX?xvD?sUx?HDFFLLlFULXY<Dvl+DlX_DXXY_DHs_?+HHlXLl+XUHDbwlX;_ll_YsXxFlDYHl?v_U+DL+XxUFNvnHUv_XLvFY+v_FD_vF?N_Y+DLYNNU?D_1XH__aL_FvLNx!NvXX?lU=+FUSNsUzYlrNUl_vLlFx+UxxNUsvYxFvxY%vNlvvYFzLvH_D+FF_?YxN+YsUcYHNvc+_N1N_Y??NvX_Nl1HsH>xUv4s?YTHl++LUlxslYvXUvX+UlxFUXLL?svsY?vHHDLLFNLUFYDvYvNxYlNFYX_LHDNsLD_X-FNLf_NU+lsw+DsN)lUsoX_?+Dls+??HFXULLvUULl?^Ns?_L?F_vXYXLDD+L?FHD+H__fYUN?HEYYH__lHFs+BYND+NN?sNs+}LsN+Fl_+w?v+_LD+FlXxxUDv_U?LU?+DL?NvF?YDSY+L_HLLFXHDxX+Dsz?Y_H+NXHNRHHYHYXvU_N+NF+UsxsLssFrsHx+XD+N?D+Y__xvFqxlYFUN?xDQ?sDl?HNLFLDl?HLYHFDvsFDlYFDXfxltHssNHHsYXLHUXUsXFNsvxLslxDsX+xlD+sF?+H?YxLFDxUUXvQFDxU?lDl?XXsFDLsF?_HXFDLXLDUXU_wD___X?vvHXl+XDLLX?NHb+sLvNsUxUl-vxl_+?lFv+l_xDF_x?_Lv+?LvNYU_sFe_+F__NFFFxYx_NlXD?XH_+lN_NHU_YX/UvX_lNXFlXmxsN-slYBxl+vvlNY*lYxAUvL_YLxFFHvxYLvsxHvHYv8?FN_?FY?XYvD_YlDF:X_xoL_s*F_HXvNL5l_HXYU4 vvFelsFwX?xLplsv?lHL+ULlUUUvXNNvvYsvlDXvXFxLDFsN?FHN+YLNlYUDXH1NDYU_lyY_XUsNDXsN?+HUF9LUs&UUH+yK_+_U?HvlXLDUDvaU?xH?+vLHNvUYHL#H_L_F?LFH+L_YDNUY?+LH+_LHNsU+sNt+DN_+?NFNxsx+NLXi??x++DN+NlU+YUKDvU_L?UFDv?xvN?sLY?xL+HNLNsVLYYBDvX_sLYFsxHxssHsYHHHsv??NN+XNY+_svS_sldF?X+x?s+sFn+HUvxLFNUYUYDL?vDN?llX?XLxFYLsXRLHX_DLYNDUHvDUHvsFHlssHXNvXDNlX?NH_ sL1NsUv+l=+vl_+?UH+XFlxDYDx?UHv+?_Ll?U_DF>DxF_LlFFD+HLDDZ+D?+v_+HL_NXZ_NX3lYX_lFXFs^txs?dss?_Yl++LlNLxlYxIUvx_bsxFUXvxYHvs??vHF+UvFNLUFYNDYvD_YlDFvH_xHD_s++_HX+NLXNYlXYs8qvUYplsFeXlxNLls+?lHLDULxNUUxY_?vvH+vlH_vXFxLDFs?vFXNFYLDsYUDXH<_vU+_l++_X+YNDXsN?XHXNnL?x.UsY+olH+_U?+4lXLHUDN+U?xH?+DLsXvUHlL:HXL_tHLFH++lYDsDY?UlH+_LHNNFH+N5x+N_NFNFXXsxxD_,E??F++Fx+NGD+YF4DNU_DNUFDY?xHD?sLYYNL+XvLNLYLYYmDvX_NDYFsHHxlLHsoNHHl+Z?NNxlNYxXsvs+slRFlU+xF++sFU+HUvxL?NC?UYD??vs??l_s?XDLYFLsXNLH+UDLYNDUXYNNHvlxHllsHX?NXDsU+DNHxHsLlxsUPYl xDlX+lFU+XxDxDUsx?FHL+?L_D?U_?FqUHF__lYsLXdzDDz_D?sH_+X_D?HUlFXJX_X_NlXFlXYUsDvNs?vYl+?6lNvUNDx1Yxx_YsxFxUvx?D_s??_UF+NvFNLFFY_0?LD_tLDFX__x++_sXYslX+U-XNFvXYsW5vU_xDsFv?lxL+ls_6lHvvUlxNYNxYYNvv?_vlFHD_FxNvFsFHFHD+YLNNYHDYpH_v+L_lDN_X+xsYXsUlXHUXRLvN&UlXrLlvLDlllXlXxxUDLssvxHHbvLH_vUDlLqHv+HFlN?FXs+YDYvY?DH++_L+v_U+FNmXDN_2lDYXXUY=Dvv^??U++U_xXlULlU:_FU_xlUFLX?DvDHLv?HUL+wlLNYFDXY3s Y_sYYFDXHxNNHY_?+FN+NNNNXUNYxpsX,_?N!F?Y+x2&+s??xNU+DxUNDsUYXs?vLsUYvFHHLxLsLsF?LHX+xFYNslYYsXHvPxHlsFFNNxxLNsxUNHNFsLwN?U8Y?F+vFD+llH+X?x=_UsD_UH_l?L_v?ULXFvLvXxLl+DLXYxDDXs_HYHsYHLlvHU?xXOsD3dNlxlNXYvsDess?x3UF+LFD+Ux,x Uvx_FlvHUX_u?D__??UlF+_LYULUX?DWc+D_U+DFX+D_HDlNH?X+X+NLXNlUYDsRvxs_vssFU?lxvDN/+?FYx+YvxNxDxY?,_v?__D?F_HFxLNFsD?UXD+XXDNLvDYRF_vXsNsHFl?Xx?HXsN?XHU++NsNv_sYvFlvD?llxHUQxxYxxsv+xH?+vLFlLx?Y_HFvFlFlLFFXNxY?Ds5lDHTX_LDx_U8YNDXvULXlUUXXLN,DlUXXsHLflLlUlU+YUSLvNHxlY?xXH+vDDLv?YH+lFLN_FUNFYnFHY_DltFDXIH_D+N_?X7N+^LDsXUUs4RLs)_?D!FU+xIlDLLl?_NU+xLUNLU?xv<YXv_HDvFqLLxYND_F?N?Y+xDYNDUYYNxX?__+N_FNxNxXDNs+?llV+?xyN?sqYX?+v?_vxlFLYUxDvUsXYUHLvUsvNHlvYLvLvF_LlHFxNYxsLYssUYHXYHLsNFx_Y+XNvxDNlNNNX3x?D:s?NzHF6+Lll+UUY=+UvD+UlXHUXDH?DLUFUvHHYLL+ELUFYDEXvDXYlssYXsHHDUYH?s/XYNLxLNUxxsOtvs_+?lNfXFm+D+?+?lHx+FLvoUUD??,_+?_UL?FDXF?LDX_L?XFD+YlDNHFD+HilxH_HFHF_XXxlDYnN?xYs+vvsNU_sYvt_?+_Fs+FFHxxx(xsU?DH?+_t?N_l?YLxFvD_UULFXUDxYUDs8NDHXv_XHNl_HY?lXvN_XllF-=sxv+ssvNsHD_lLxl?++YFYxvUsxlUFxXFLLH?s_l?HFLFLLNFU_YHYDv5LDlhUDXLY_D#s_HHHlXXLUDXURDm&lDXUslv?sXlDlD+sl?vHNlxLY_xUYFv{LXv_Yl+L?XN+FDNNF?sFY+DLJNDUSl_o+x__H?_FXXDvXDUvX?s+o+?k1NlF++lOvXl__xlF+XUxLD?sx?YUv+H^vNXXvYYxLXF_N_FFxLYxDDYs_YXl_++x_N_Y_YX}Nv+_sXXFUYTx?v9sX_.H?+x?lNLslYLHUvH+UlvHUvvxHLvsvHvHF+LLHNxxFYNXYvsDYlXsYXsx?Y_s+U_HxmNLNxNUXY? #v?xzl??SXlL+DUsXFlHLFULUvUUDl?uLDF*vlHsvXQ?LDFsL?HHDDYLsvYUslH6UsH_N?XF_X+XNDs+N?XHs++_Uv!U??+d+_+_ll+F?Xv_UDD_U?DF?+lX?NDUFHLWX+L_XNLFlLDxHNLFY?sYH+HNHN_UHYl6F?N_xsNFxHsxU+ssx?__++Fv+NFl+Y+?xv?sXhUFDX?xy#?sv??HL+LsLNX?LYY5DvY_DlHHx_HxlNHsv_HHN+XLNNxUNYxFsvvsslrHsXxxX_+sF_+HUNxLYvxUUXLx?v_x?lLU?XLxFDLHFDLHXHDLg+DUYH_3HL__HlF?HXNxXDULX?NH^+s_+lsUv?l#vXl_+llF+X+sxDYNx?UHv+?LvNFFv+F:NvF_NLFFLXYxND?JD?5H_++L_Nls_YX__YX_UUXFNXexs_:ssY.Hl+NvlN+UlYLXUvx_UlxF!Hvx?DvsYUvHF+LLFNNDFHsBYvDsYlDYYX_sYX_s+?_HXHNLXsNUXHsfpvHD4lsFrXF++Dls+??HLFULDsUUL??c_L?_vlxvvXXvLDFUL?Y-D+YUlNY?sHHeLxHN_UHF_XXxNlxNN?XHs+Hvss<?sY+LFx+_ll+FNXxvU_xsU??x?+_D?NvU?YLpFvDs?YLFi+DxXYDsY?DHG+vFHNlFHYUxXv??XlsHF_sxvsssFLsH++lL+Nk++YYxxvUsxlUHxX?xUY?l_H?HNLFLLNFUNYLsDv(sDlLLDXXF_D+sHvHHUvXLUHXU?s}i?vNHslvHsXLNlDL?l?v(lDxLY?xUvwv;?vv_Yl+L?XN_FDNFF?sUY+NLUXDU++_(+N__D?_FXXFFX_UUX??UC+?sCNlFxllVLNl_UslF+XUxx?HsxFHxv+ULvs??vYFeLvFUNsFFLXYxLDYlDFYH_D+v_NHU_YHsNLXNNl6HNvrx?lOsXF2Hl++LlYDUlHDLUv+YUUxYUXvx?DvFHUvHF+LL?HL?FHDhHDLUYllhYXYvHD_sH?sHFHNLx?NUv+smD?s_oXl_<XF_+Dl%+FlXx+UDxNUHDF?cvv?_v+?YLzFxLNYUL?5xD+XLDNYUDYXxDNH_lHHFYDXxNDXss+vHsxvlsNcUsX++lv+_llx>FHxxUDxsU?v>?xvLFlxH?YNDFvUFFlLFFXDxvYDl+cDHHx_LHl_UXv?MXLU?XlNFq+sv<Dss5?lxLmlL+NlU+YUxxLU_xYY?xX?xvDFvvY?XL+Y_v?FUsxYn7lY_DlYFNX?U_D+Y_?xvN+lNNN6g?Yk+?s0_sH;Hl9+xlD+slXLYU+xLUNxXUXv+?vvUHsvF?XLxY4LUFFLHHvLsYNsXYY+_Hv__HlsFFNNxxUNsv2NHVlsLxN_x6YFD+vF?+lXX+XFxD;Us_ UH__?L}U?ULXsNLvXYLl+?LXYxDDYss?YHl_HLlHHU_XX)svDNNlxHNXFssDvYs?{HLF+LFY+UY+xSUvx_UlHNUX_l?D_U??vHF+LLXxL?*vD;YDD_YUDFX+D_HDlHH?YLX+NLXNsVXvsOvls_+FsH+zlx+_ls+XFYx+ULxN?YxX?+vv?U_s?FvXFx_?FULFFH_vFsDN+EDYel_vH__lXHYlXvUFXsH+XHs+zLsN+HsYLNlv+Nll+HlXLx??xsHxxHHsvLLDvU?YDYFvNYFlsLFXDxYDDsHYDH+N_LHN_UxDNoXNNXXlNFXXUD4Nslc?UHHllLDxlUDNU,s?U_LlsLxXHHvDHUv?x_L+FUlYFUssYRNxYsDUYFl?Hx_l+N_?HHN++vNlX?NY%L?x7_slZF?x+Ll_+sU+NLU+DHUNLYUXv+?v_s?lL&HHLxFDLsHHDnYxDLXNsDYYl?HvU.Hl?LHXNxx;Nlv_NH1vsLnssU+vXv+LFF+l?_x+UvxDUUx??x_k?LvN?UDNFxLLF_LYX?LXYxDD+/DYYX_+X_D?HUUvXBlFX_NlXFl+X_sDvXs?FLl++LlNvUNDxdYUx_HMxFDxvxYD_v??NDF+N?FNYsFYD;xFDN+nDF+N_xHD_sH?LDX+UUXNNUXY?s<vsUvssF3XlxL?lU+FlHL+NFxNHDxYHUvv+HvlYFlXFxs+FsNYFH?lYLDYHsDY+?_v+F_?HY_XxHNDXFUUXHs+GL?Y=FsH+Ill5YllD_lXD_UNxlU?_6?+vsH_vU?YL&XNLsFULFYvs+YDDsY?lLHv_DHNsU+sN#xHN_vvNFLNsx!D?vSFFl++l_+Nl?+YU_s_UNDXUFDF?Lv_?svY?HLDXvLNFULYXYDDYNDlYFYDHxl?Hs_?HHNUXLNNsDNYvNsvq_sl>FsXxx?%+sY++H_?xLYHxUUYLN?v_Y?lvF?XLxFDDsY+LH>NDLXUDU+L_%HvNlHlUvHXNxXDNsX?sH+7sLvYsU_llILUl_+lUX+XYlxDUsx?UHv+FLLD?UNvF<LHF_s FFLXHYDDfXD?YH_+HD_NHUsvXyU?X_NlXFsDnxlNXFs?LNl+lslN+UlYL{N?x_HxxFHsvxYLvsFYULFxNHFN>LFYDGYv_sH?DF+U_xlX_sH?_HbvNXXN?_XYvUBvs_>lsFxUlxLHlsDNlHxvULvN?UxYHsvvYsvlXDvXYLLHFssLFHYDYLDNYUNYH?_v+X_lxD_X++ND}UH+XX??2LHN/UsY+rUD+UllDNlXsxUDxsU?L:FLvLXvvU+YLdFvL_FlDvFXs?YDlLY?_1H+NLXv_UxDN(UNN_vxNF++ss8DF+:?+x++lL+N?UxVU1DFU__xUFLH?xLN+HvFXsL++YLNFULYHxDHY_lLYF?sHx_DHsNY{{N+v!NNDvNYh-sv7_sFBFFs+xY++slY+H?+vXUN_xUYlF?v_X?lLHFDLxXHLsLXLHY+DLXNDFYYllHvlXHls?HXsLD?NlvDNHDUsLzNsU+Xl_+vY++lXD+XUxxD?Uv+UH_Y?Ll2?UvYFJLvH-Ll(DLX HDDYUD?HH_YHLlXHUNHX6UFX_s?BXNXv?sDsFs?SHl+vLUF+UY_x^YFx_FsxFF+ls?_Nx??YHF+LLFNDFYUD<.HD_NlDFYX_xXNsxH?UUX++LXNNUXYsC+cs_LxsFL?lx+Nlsx?UUx+YFxNxlxYHlvvFsLl?FNsFxFlFsL?FHN+HDDN+vDY+l_v}D_lXHv_XxUXXsXxXHs+1LllY+sYL?lvsYll+FlXvL_FxsHNxHxsvL?NvU?YNBFvNXFlssFXDLYD_svFDH+l_LlX_Ux_N*,vYNXl?vXXDx.DFc#?lHNxlLLYlUULU,DUU_DlxLxXHsvDH_v?sHL+XL?XFUsvY;YvY_PHYFsXDU_D+H_??DN+xXNNxUXDi;?lQ_DNdFD!+xl?+xl?DDU+DXUNx?UYv+?vv_+svF?XLxXNLsF?LHH+?DYNlPYYs_HvlYHlNxHlNxxFNs+sNH5xsLEssU!YHX+vl_+lYx+XUxxD?U+XUH_l?L_x?UvYFk_vlHLl}LLXoUDDs_D?HLD?HLUtHUs?X NLX_NUXFNX_+sDtss?LLl++LlN+UFsx+Y?x_U?xF?{vx??vx??N_F+LNFNL?FYDxYvD_vsDFYX_x+F_sH?_HX+YvXNNUXYlFCvs_blsHx+lxLHlsv_lHx+ULxYULxYHUvvH_vl?YvXFvLDFsUUFHD+YLsYYUDYH4_lHt_lxN_XXHNDXlN?XXs+2LH_0UsY+SFl+_ll+FU+vLUD_LU?L+?+vL?NvFFXL0*1L_H+LFFXDxYN_UY?lFH+ssHN_UHYNxWDN_vsNF{_sxwDss++ss++YL+NlX+YU+xvUsxlUFsH?xvD?sN+?HL+FLLNxlLYYkDv+DDlYFDXHsDXHsUFHHlUXLNsXUNXR6sv_DslGFsXLslD+sl?+HoIxLUNxUHFv1?vv_??LH?XsLFDN_F?LHY+D_HlDUxA_g#H__Hl_FXD_FXD?FX?UDw+sD-NsHmYl.Nxl_+llFvHUxxDUsx?6Yv+?LvNX0vYF%LvF_UsFFLXYxlsYsD?YH_+Lv_NHU_Yv+NvX_NlXFlE*vFU%ssF4Hl++LlNv+lY__Uv_FUlxFUXLLFsvs^xvHFxLLFNLUYX_lYvlHYlxNYX_xHD_sXH_HvUNLXNNUXYsW{vl+&lY_IXYF+Dls+?lHxvULNxUUxY?uvv?_vX?_vXaHLDFHL?FXD+YDDNYU?FHQ_vH_UXHF_XXxN?XxN?L?s++?sNR?sY+Ylv+_Xs+FlXxxHUxsU?xH?+lv?NvU?YsFFvL_FlLFxHDxYDDsx_DHH+_LHNFlHYNMXv?HXlNFXXsx_Lss5?sHDslL+NlU+YXXxvU_xlXDxX?xvD?slU?HL+FLl+FULYYrDvvDDlYFDXxX_DHs_?HHYhXLNNXU?vn)sv/_sl_?sX+xlDDUl?+HU+xLV_xUUYv.Ysv_?lvF?XU+FDLsF?lLY+DLYNDUvF_QHv__es_FHXNxXDHHX?FFi+sNgNsUTYUx>Nl__slFUxUxxDUsL?LNv+avvNJlvY4vLvH_DYFFlHYxULYsFlYHNvXH_NvU_YNvNvX_Nl+FsvTxYD0sY?6HYL+L?NvOlYNSUvN_Ul8LUXLLF_vs7FvHLLLLFNLUHY_FYvUNYlUYYXUDHDssFv_HLxNLLsNUDLsK1vXstUYU-XHv+Dll+?lHlNULN_UUvU?%vv?_L??kvX+xLDL?L?FHD+XLXCYUUYHw?vH_-+HFsXXFNDLsN?LHs+F_sN+FsH+rHL+_+F+FlXxxFDvDU?NX?+sD?NYx?Y_5F?L_+ULFxADx_xDsHY_UH+?_HNHYHYN9Xvl_TUNFD+sxDNssUvsHv+_F+NHF+YXxxv+_xl?Hxv?xss?s?H?HL+FL_N_vLYxvDvxlDlNLDXkx_?Hs?HHHFLXLLyXUsX5xsvDUslsXsX+xlDvsUO+HXDxLX?xULDvcYvLl?llP?Xl_FDDsF?_=HLDLxFDU_c_:Hv__;lNUHXFNXDFYX?+_z+ULYXsU_xl._sl__FlFv+l_xDXHx?v+v+?LvNYUY_FellF_lXFFHNYxNDHXD?vL_+vU_NxL_Y*xsUX_YmXFcxqxsDWsU?x?l+_?lNN+lY?sUvL_?YxF5_vxtFvsLXvHYvDvFNUxFYYvYvD_YlNFX}_xvY_sLv_HslNL+NDxXYYs/vYHPl+Y-XULrllsNLlHULULxNUULYLlvvwXvl+DvXDULDHs_sFHUUYL?IYUHYH5NDHY_lL__XNDNDXsN?+HsURLH+gUHN+=x?+_?lvLlXNFUDsxU?^U?+L_YLvU+sLQL_L_FlLFHX_DYD?vY??lH+XFHNsUFDNPLHN_DLNF?tsx+NNF/?HU+++N+NlU+YF1X?U_sDUFs??xFY?sD?l_L+x0LNx_LYYNDvY_F?YYUHHxF+Hs_FHHN+UXNNLUNYvlsvy_sl+HK?+vH_+sH++HU+xLUNvvUYsx?vv_?lL_?XNxY?Ls+YLHvlDL+?DUHXNLHv?lHlLDHXNxXDlsXHNHDLsLDUsUDxlpxDUY+lXw+X_YxDUsx?F4vl?LsF?UusFmLvF_D?lvLXxsDDUvD?YH_+X_xHHUFLX)vHX_NlXFNXvxsDD?s?_Dl++_lNxUXLx7XDx_?sxF)xvxHDD+??l^F+HsFNFNFYsnYLD_x?DFDH_xlU_sXYNxX+FNXNDvXYs3SvU_PYsF_xlx_sls_<lHvvF+xNXHxYN?vv?_vlFHDvFxlUFs+_FHD+YL_lU+DYv__v?+_lHF_XCLvFXsYxXHLFTLsNCUsYLilv_lllNvlXxLUDvsfFxHuvvLH_vU+1L%Xv?HFllHFXN>YDs?Y?_HLx_Lvl_U?vNZxDN_xlXLXXYLwDH_C?Fl++FLsXlU_XUEvsU_L_UFDXxUvDAUv?l?L+XNLNFUNYYZUvY_U?YF_+Hx_D_F_?vXN+XLNNXUNYC_NYz_Y?qFFs+xl_+slH+HU+svUNxUUYs+?vv_?lvF+HLxFDLsHNLHY+DLYN?lYY_uHv?_Hl_FHXNLRNNsLHNH+?sL.NsUBY+++LHU+lY_+XUxxD?Uv!UHs_?Lg_?UvYFzLlFcLlxxLXYLDDYlD?YX_+HLF_HU_YX3UFX_NlXFNXN?sDDFs?_Ll++DlN+U+Hx+XNx_HvxFUXvxFNvU??lvF+DNFNLUFYD_FYD_xXDF^+_xH__sHF_HX+YvXNNUXY?lfvs_4lsFsslx_llsN+lHxxULxNx?xHoLvvXrvl?FvXYLD+FsUwFH?YYLDNYU_vYU_vvF_l++_XXvNDXlN?XHHI#LsNMUF_+7lv+_lllDlXN_UDNHU?xX?+vLvsv?++L&XYL_FlLFH+_lYDUYY?F?H+_LHNNCHNN;LlN_OYNFIosxn_ss5?HY++lL+NYv+YU(xvU_UxUFsv?xs??svF?HL+LDLs+HLYgUDvY_DlHH_YHx?UHss?HHN+XLNYXLNYD_svvlslEYsX+vlD+sXU+HU+xLHqxUUYv4?vUX?ll2?XlsFDLlF?LHDxDDx?DU+N_#Hv__X?ssHXFNXD+UX?NHa+sU4+sU_vl +Hl_+UlFx:UxxD)Nx?UHv+HYvN?UvYFf?FF_lYFFUDYxD_YsD?DX_xvs_NxL_YX}Nv,slvXFYLexFxpss?cHlN-HlNNalYv_UvxNUlxYUXvx+Lvs??vHXULLFNLUFYFlYvUUYl?xYX_vHD_s_F_XLDNLv+NUXYs:+DlDElH+,XUL+Dls+?UL+?ULNYUUDv?^vL?_vU?FvXx+LDFsL?,ND+YLDNYUY_HO?NH_?XHFNSXxNDNlNFDxs+vHsNEUsYxxUY+_HH+FvFxxUDxs?+xs?+sU?NLX?YL+FvLNFlLFxHDxYDDs+LDHH+_LHNHvHYFLXvFFXlNYXXsxs_slDXsHL?lL+NlUxX?+xvX?xlxxxX?xvD?HvD?HlNFL__FULHYoDLY_Dlv?DXHx_Dx+_?HHN+XLX,XUY+cnYlk_sUuFsXlvl__Fl?DsU+xLUNvFFLvJ5sv_NYvF?XLxF?LxF?ULY+DsYND?YY_xHv__Ls_FHXNxxHNsX?NHP+HvKNsUpYF2+vl_+llFlsUxNlUss+UHvx?LvNv?vH+LLvz=LlFFLXHL__Ys?7YHU+HL_NHUNvHUNvLFNlOLNX.vsD#ls?/HX>+LlN+UY_xMUvx_UlUDUXs_?DsH??vXF+LLLsL?x+D)iYD_YlDFX+NFHD?YH?UXX+NLXNs9XNsmDls_vssF+3lx+_ls+?XYx+ULxNHvxY?7vv?_?x?FlvFxl?FsLFFHD+sXDNxHDY+F_vH__lHFxUXxFUXs?sXHs+hLsNs?sH__lvD+ll+FlXvL?+xsaxxHDvvL?NvU?YUNFvlFFlLHFXDLYDDsD+DHvs_LHN_UHYN&Xvv+XlYLXX?HtDssT?sHlxlDNblUDsUbxvU_v??DxX7FvDxDv??HL+FLUHFUU_Y7DDY_D?YFDXDs_DLx_?HHN+XsNNGFN+ORYH7_oF{FsX+x?DXSl?NlU+NXUNXHUYDMs?v_+LvF+ULxl?LsY?UsYxUHYNxHYY??HvNsXD_FLUNxNsNsX?NHx+DF8NHD)YH?+vvY+l?FXNUxs Uss_UHFN?LLN+LvH+ULv_YLlxNLXHL_sYs?_YHHLHL_NHUsYFsNvD+NlDNNXsNsDxs_v9HHF+LXx+UYFxa?vsbUUs_UX?N?Dlv??D(YvLLxxLUs?D3YvD_XlvLYX?YHDFvH??vX+s_?HNUDls/FHs_!lsFx+Dl+DXD+?LYx+ULxNUUDY?/sH?_l_?FL+FxDDxlL?xsD+XLDNvDDYHQllH_F+HFFlXxNDXsN?Uls+D?sNMUsY++lv+_Fl+FXLxxXFxsUYxH?+Fv?Nlo?YL;FvLUFlDHYuDxxFDs?LDHH+_L8NN_HYFNXvFYXlF+XXlL+Xss_vsHsHlL+NlUxX?_xvXXxlDsxX?xvDFUvY?Hl?FLFLFULYYp_DHXDlvNDXsH_DHs_?HHNUXLFHXUYsM)sDa_llx+sX_slDLNl?NDU+v_UlxU/LvSsFv_?lvFYXDlFDlXF?UDY+llYN_FXx_:v?__?L_FHXNxMNs+X?YN0+F_,NsUcYUx+ll_NvlFlFUxxDUsvYUHv+cXvN__vYFCLvF__vFFU_Yx?AYsDYYHN+X+_NL-_YXXNvLYNleHs+OxYF0s+HZHl++L?NvNlYNNUvNYUlN+UXLL?Xvs+vvHvHLLFNLUYXDsYvUXYlYlYX_xHD_s+?_HLsNLD4NUXXs:+vHN,lHx:Xl_+DHX+?UHsxULNYUUXv?:_D?_vlHFvX+_LD+HL?YwD+YUD+YU?xH^sLH__UHFNDXxNDDNN?XHs+LMsNAUsY+ZXx+_ll+FYUxxUDxsU?sY?+vL?NsH?YLbFvL_xsLFFXDx+xDsY?DHH+FvHN_UHYU_XvN_XlNFDHsxgDssxssH++lLxNX?+YY_xvs+xlP+xX?sxX?slo?HL?FLLsFULXY;DvvDDlYFDX+s_DHs_?HHY XLNNXU?He)svf_ll_YsXLslDlUl?NvU+xUU+xUdxveHNv_?UvFF+LxFDUNF?LHY+sUYNDUYY_1Lx__Hl_FvmNxXDNsd?YXQ+?UcNvFCYHD+vlF+vlFNLUxvNUsxFUHv_?LvN+lvYF8LvXFLlFFLXYx?LYsD?YHUFHL_NHU_YLXNvX_Nlx+NX5xsD,sHUpHl++LYY+UlYxqUvsDUlxFUXN_?Dvs??LHxxLLXYLU+NDixsD_YXD_YX?NHDUxH?_XX+NDXNNUDFsfwvs_xHsFqXlxxDXl+?YLx+XHxNXXxY?_xY?_sH?FNDFxL_Fs_sFHD+vvDNYUDYv+_vH__lHFFHXxNDXslNXHs+gLsN_lsY+^lvLFll+FlXxx*LxsU?xHXNvL?NvU?YlXFvL_FllHFXDxYDDsvUDHH+_LxN_UHYNrXvYDXlNFXX?X2Dss<?sHNflL+NlUDlU3xvU_xlG?xX?xvDXvv??HL+FLU_FULYYSsDY_DlYFDXL+_DHs_?x_N+XLNNXUYF-8svB_FZCFsX+xlDNNl?+HU+L+UNxUUYva+xv_?lvFXsLxFDLsF?UYY+DLYNNHYY_tHv__Ls_FHXNx+vNsX?NHC+HvQNsU3YHI+vl_+llFNHUxxDUsL_UHv+?LvN+lvYFJLvX_LlFFLXYx?LYsD?YHsvHL_NHU_YLXNvX_NlxNNXRxsDPsHUTHl++LHL+UlYxSUvsDUlxFUX_D?Dvs??vHxSLLFNLUB?DdYvD_Yl??YX_xHDslH?_HX+NLD_NUXYsiD_s_5lsFyXX++Dls+?HYx+ULxNUUsF?6vv?_sN?FvXFxLDxNL?FHD++DDNYUDYX=?YHNlXHFYlXxFUXssYCHs+DlsNlFsY+mlv+_:++YXLxxU_xsUYxHF+lD?NsX?Y+NFvNFFlLFsYDxq?DsYYDHH+_LHNN?HYNhXvNNXlNFXX?HoDssB?sX++lL+NlFxxUzxvU_ll&Xl*+HU+?sL+?HL+FLDl?HLYYKDvYNDlYFDXHsDXHs_FHHN+XLNsXUNXInsvFsslmFsX+xlD+sl?+H_vxLUNxUUHvk?vv_?l_NF<LxFDLUF?LXY+DLHsDUYY_,HL__Hl_FXJNxXDNs{8NHS+sL%lsHyYlk+vXYNUBlsLULxUUsx?UHlU+NU_xs?nFxLXF_LlFFlNL_FlLsUxLvYDxDYU_vY?DvNDkZNlXFNXLFYsDNYlDxX_NNM_NHfxxxXFx_UlxF+NU_xlUsxHNsXONvvlU?LLNHvU?XLYFLDLFLDUY?DGH2DLHv_DHH_xHHNN?L_FX?NFF+NU}HsU NsXtNl_+FlYYXlXx?lFxDUvxNUNvL?UL_sbL+?sLYY+LDYD+DYFDHYxx+Hx_NYXNvHY_lXUvl3xsLXFsxFssDdxl++vl?YllsxLUvxDvUF?LrFvL_Y?N+FXDxYDDlY?DHH+sLXH_UHYNdXvN_XFNF++sXqDsU=?lv++lL+NlUxYUCxvU_x?UFv+?xvDFDv??XL+FDLNFULYX DFY_DUYF_;Hx_lHs_?esN+XNNNXUNYezsvm_lUhFlE+xls+slY+HF+d+UNx?UYv+?vvs?lLxYULxF_LsYNLHYxDLYsDUH+sXHv__HlNsHXNvXDNsN+NH;xsLrNsU>Ylt+v+X+llY+XUxxDUsx?UHLx?LvN?UvHFCLvF_LlFFLXYxDsYsD?YH_vHl_NHU_YDDHD_sHs_Hs+QNsD{ss?NHXLND;vs_lXxsUvx_Ul_HX2sBnvNYXXNsH+LDYlLUFYDhHDLUYlDYYX_LHD_sH?NLH?NLXlNUXHs:RLs_K?sFmXDL+Dls+?lHx+ULxNUUsF?5vv?_vl?FvXFxLDXvLFFXD+Y_DNY?DYXxDNH__UHFN+XxNDXss+Xss+T_sN#FsY++lv+Nll+FXHxxUDxsU?xH?+vL?N_D?HL+FvLsFlLYFX_LFlDsYFDHHv_LHN_UHXsxXvNsXlNFXXsxuDssYHsH+xlL+llU+HUBvD?vxlUYxX?vvD?sv?Y&DYFLLlFUDWY<DvY_DlHLDXHD_DHs_?HHN+XLlKXUNXkMsDi_sF8FsX+YlD+ll?xiU+xDUNxUUHvi?vv_?UvF?XLxFsLsF?LHYvDLYNDUYX_LHv__HlYvD1YXDUNU3vNHi+sLDUXxsx3LNNCDl50U+XU_xDUsx?F%xD?LvN?UvHFGLvF__lXNLXYxDDYsD?HW_+HLlxH?_YXyNDX_NUXFNX+vsDgss?WXl++LlN+UlYxcUvxlUlxFUXvL?Fvs??vH++?dxsFvvxFxL_DsHLDFYX_xv+YNLHFXDYFL_vY?N_HDNDss2YsFEXlxNFXlssGvx+U?xNUUxY?^YU?_vl?FvXFxLDFsDYYUD+YDDNYYDYHh_v<__UHFNnXxN_XsNFXHU+u?sNV?sY++lv+sll+FUFxxUNxsUFxH?+vL?Nv??YLtFvLsFlLYFXDxHxDsY?DHHx_LHN_UHYN^XvN_XYNFXXsx NsFZ?sH++YXsaXYssUxxNU_xlUFl_+vUx+YvYFlL+FLLN+_?Fvv?LLxUlLsF&D?FUDU_YXDN+XLNNLUHl_+XF_?X?NXsX+llD+sl?vAlDxLUNxUUXv}?vv_Yl+L?XLxFDLsF?DxY+NLUXDUYY_/Hv__HF_FnXlYXDNsX?NHc+sDiNsUFXlM+Dl_+llF+XUxxDx+x?UHv+?_vN??vYFmDLF_LlFFD>YxDDYsD?YH_+HL_YHU_YXaNDXHNlXFNXDNFHL?XUs5XXNl/l+YlYxpUvx_UlxFUXvx?svs??vHF+LLFNNx/YDxYND_YlDFvLU_LHYDHYN+X+NLXNHs_xXNWDlxmlsF XYDsLTUsltvlvX_ssoHl_xDU_?sLl?FvXFxLDsUL?YtD+YLDNYUDYXxxUH__FHFNZXxNDXsN?NLs+zssN,UsY++lvxssY+FULxxUlxsU?xHY+fF?NvX?YLDFvL?FlDx_UDxY?DsHvDHHx_LHN_UX+lXXvN_XlsLXXsvGDlUYxsH+NlL+llU+YU)xlL+xl?vxX?YvD?lv??XL+FsN_FULYYJDHY_DUYFN+Ul_DHX_?X+N+XLNNXUUY*.ss5_ldzFl++xUDNll?xxU+xUUNxXUYv-Hvv_??vFFvLxFNLsF?-FY+D_YNDFYY_dHv__XU_FHXNxX_NsX?NHO+sL3NsU0Hl6+vl_+?U++XUxxD+ssHgXlYx3vlFxvYFMLvYsvYFFD+YxD_YsD?YH_NYH_NHY_YXdNvXNNly9NX9xLNWss?tHl++LlN+UlYNXUvx_UlxFUXvx?Dvs+UvHF+LLFsLUFYD&Yv+sYlDFYX_vHD_sH?_H+FNDXlNUXXs%WLs_nllY6Xlx+Dll+?lHx+UDxNUUxY?xvv?_vl?HLlFxLDFslLvFF+LlF?+FFxLNFLDL_?Xs_XXxNDL+Hl_HX_NsFUNxHHNHXUN?XY+F??xxUDxsU??x?+vL?NvU?YLOFvL_L+LYY DxYsDsY?DHH+x_HN_HHYNWXvN_XlNFF+sx=Uss5FsH++lLvNNx+YUDxvU?xlUYxX?sxX?sL+?HLxFLLsFUD+Y)DvvDDlYFDXHx_DHs_?HHYQXLNNXUNX8Jsv;_sl_?sX+xlD+?l?+HU+xL_lxUUYvp?Dv_?lvF?X??FDLFF?DLY+DDYNDUlX_!HN__Hl_FHXNxXDvUX?svc+sDQNsU.Y?7H?l_+HlFxLUxxNUsv+Usv+?UvN?UvYF+LvFNLlFFUHYxDDYsDFYH_+HL_N_v_YXLNvXFNlXYNX>xLN,ssXTHl++LlN+UlYHxUvx?UlxXUXvx?DDslvvHF_LLFFLUFXD8YlD.Yl_xYX_LHD_lH?NvX+NLD_NUXYsw,Ls_1lsF^XX++Dls+?lHx+ULxNUUsF?rvv?_v??FvXFxLDsUL?FHD+Y_DNYUDYHQFxH__lHFNxXxNDXsN?NNs+fssN+zsY++lv+_UU+FlXxxU_xsU?xH?LvL?NvUF+L5FvL_F?DeFXDxYDlYLlYvLH__HF_UHYNSLNHD_HYX_NsL+xss.?sHDHpvsFkYsxHYlx+FsH+llLx*Ul?ULs?HL+FLlFvY?xLxlFLLFlD+Yvv_YHDsY#HXs+XLNNXUlYYssv!Nsl:FsX+_lDxUsX+HUvxLUsxUUYvtYvZH?lvH?XLLFDLFF?_Hv+DLYlDUYX_tH___HXsNHXNvXDNXX?NXQ+s_!NsHvFl5+vl_xRlFx%UxxlYNx?UHv+FxvN??vYHB+?F_LUFFLXYxDlYs_YYx_+H__NH?_YXINv+_D+XFs+7xsN}ssX(H?+HFlN+FlYxxUvxsUlvx:Dvx?_vsFlvHFxLLFlLUY+NXYvD_Yl_UYX_vHD_F+U_HX+NLh_NUXHswzv2XQlsF6Xlx+Dls+?lHvxULxNUUxH?#vv?_vl?FvXFxLFFsL?FHDvY?DNYUDYxvYxDLYND+Yx__NNf8N?XHs+DLX_NYX_sLXFsD%N+HU_xxUDxsHHl_+xUx+HlXx+LxFNL_FlLF+LFTLUFDYY_vH+_LHN?HDFHDD_YHX?ssXXsx(DYDNUVvsLXlDl(Xl++Llx+LDUUHvF?xvD?sl8v+U_v_lqvs?YLDFNxUYxLFFLHvs+Hs_?HHl+FFNNX?NY6tsveYsl+Hsv+xlN+slX+HU+xLFN xUYvx?vvs?lLv?X_xxDLsFYLHYvDLYYDUHv_LHv_NHlNvHXNvXDNUX?sxvhsLWNsU+Ll!+Ll_+YF?+XUxxD?_x?UXv+YLMX?UvHFuLvF_D,FF_+F_DDYUD?Hx_+HL_NyULDXQNDX_N?XFs_/xUDH)s?+ol++_lN+XlYx_Xlx_UUxF?Yvx?_vs?YvHFDNvFNLUFYDHYvDNYl_tcH_xHD_sC__HXxNLXNXHXYs+AvsN7lsF>XlxlHls+FlHx+ULxNUULYssvv?Nvl?FvXFLLDFsYLFHDxYLDsYUDYH=_vUs_lHY_XXDNDXsN?+HDlmLssAUsH+4lD+_llUDlXxvUDxUU?xH?+DLsXvU?HL}FvL_FFLFHXNYYDDlY?DXH+_DHNNIHNNWX_N_XlNF,<sxcNss!?HY++lL+NlU+YUAxvU_H?UFxX?xvD?sv??HL+vYLNF?LYYvDvYNDlYFNIHx_DHs_FHHN+XLNsXUNYm#s_B_sl)Fl++_lD+sl?_vCXll+LxF?-vm?vv_XHUUxvLLYvLsF?LHx_FNvFFFx_FHDvY?DY?X_vYv_lYYX?ssB+sL)NsUFXlR+vl_+llF+XUxLDs}x?UHv+?LvN?YvYYxvNF_LUFFDmYxDDYsN??__+HD_NH?_YXvNv+_YlXFsKhxs_WssYkHlN+slN+UlYxlUvxNUlxYUXv_HLvs??vHFULLFsLUFYYLYvD_YlDFYX_xHD_sNL_HX+NLXsNUXYsc1vlNwlsF0Xlv+Dls+?lHx+ULxN?+xY?ivv?svU?FvXFxlHFUD+FHD+YLU_LpFvDvFsDU_?XL_XXxNDLsHUN+HUNsX/NlX?+xls+_ll+FXL__PHlDYYv<?xvL?NvU+DLxF_L_FlLFvY?NLFDUHmDHH+_LvUFYLHYFDsNN+lNFXXsx,DLUu?sX++lL+NlU+YU_+UU_xlUFLH?xv_?svF?HLDXvLNFULYHXDvYNDlYFx+Hx__Hs_FHHN+XLNYX%NYh+svOYslTYsX+vlD+FFU+HU+xLUHxUUHv-?N_D?lvF?X_+FDLlF?_HUlDLYsDUYY_uH___HlxHHXNLXDNUX?NHa+sLNLs?zHlI+Ll_+?lF+X_LxDUUx??+v+?LvNFFv+FJL_F_LYFFLXYxND?0D?H+_+HN_NX(_YXVvDX_NYXFsvyxsD0sU?H_l++slN+HlYxDUvL_s+xF?vvx?lvsFxvHF+._FNLXFYDLYvD_YlNF?N_xHU_sX&_HX_NL+NDxXYsDAvs?klsHtX?xHYlsx+lHxxULxFUUxYXLvv??vlF+vXFsLDFs0YFHDNYLD?YUDYHZsv?H_lXx_XXsNDXlN?+HDlILsYzUlv+OlU+_llYHlXxlUDxFU?xH?+DLsXvUFLLSFUL_FULFHXxUYDDXY?_DH+__HNsUFDNpX?N_XUNFw7sx9DFF#?lD++l?+NUx+YUtDvU_xFUFv_?xvN?sL?+XL+F_LNFYLYYvDvY__UYFDXHx__Hs_?HHN+XLNNXUsx{tsv._s?++sX+xlD_+RsNX:sslUlvLUYvd?vNXx_lYx_UN++UlxY?vvYDNYNDUYY_SHv__YlU?X+ssXDNsX?Fg_xHNNxX+NXXXss,LNYX5l+/vlv+?l?)XUv+lUD+Y?_F1LLYsLlFFLXYx+NYsDFYH_+HL_NHUNX?NNvXsNlXHNXaxsDfs2+oHlL+LlN+UlXx*?vsNUlxXUXvv?Dvs??_HvlLLFULUY+D(Y_D_YlsFYX_vHD_?H?NpX+NL?lNUXXs9%Ls_ulsF7XLY+Dl?+?lHx+ULxNUUlL?(vD?_v??FL+Fx_?ULL?YqD+H:DNY?DYHD_vHUlsHF_XXxs+XsNFXHsDvvsNtUsYx:lv+Nll+F_+xxUNxsUFxH?+vL?NXD?YLvFvL_FlLFFXDxvFDsYYDHHv_LHl_UXYY+XvNNXlNYXXsLrDssFlsH+xlL+llU+YUpxv?NxlUFxX?vvD?sv??HL+FLLNFXLYYcDvYs__YFDXHx?sLYYNDvYL_sYFDHY+_sHsNvHHMHl?+xlD+sHXs_(_l+<FNlQXlU+sllxYUXF+LsFDLsF??NvXFNvFFFD+_xHl__Hl_FLvYUDUHD_kX+Tvsl:NsUbY1LNLXssD;+x+?XxDUsx?UHXv?Lvl?UvYFoLvF__lULLXYLDDYUD?H._+HLU_HU_XX{NDX_NUXFsDLxs_!Us?+Ll++DlN+UlYxLYxx_UlxF?Dvx?_vs?X_YF+LLFNDLFYD+YvD_l?DFH+_xHD_sH?_H++LFXNNFXYsxavsselsFsDlx+sls+?lHx+ULxNxXxH?xvv?Nvl?XvXYLvlFsLYFHD_YLDNYUNY?s_vHs_lHH_XXDNDXsvYXHsLpLsNuUsY+#?vHHll+XlXxDUDxUU?xHXivL?UvUFfLGFLL_Fl4NFXD_YDDsY?DHH+_L_9_UHXN;XNN_XUNFXXLL-DsU!?sX++lL+NlUYsU)x_U_xlUFxX?xvD+Xv?FzL+F_LNFFLYYc+DY_DFYFDXHx_DHss?F_N+XNNNXYNYdLsv%_L?(Flv+xlD+sl?+HF+XFUNxHUYvL?vvN?lvFXHLxFsLsFHLHYDDLYNllYY_vHv_lHl_YHXNxNUNlX?NHzvsL6UsUyYLH+vl_+llH+XUxxDUsvFUHv+?Lvs?UvYFQLvF_LlFFDxYxDDYsDYH__+HL_NDvH{D_Hx_xYY_+X+%LsU&ss?#Hz+NNXss_ilxxUYx_UlxF+FlvxwlYx+UYxYUsxF?FFY_sYvD_Yl_HYv_xHD_sHF_HX+NLXYNEXYskyvsU4lsY(Xlv+DlFLUlHx+ULx?UUxH?(vNHDvl?FvXFYLDFlL?H<LDYLDNYU_!Hh_vH__XxFN2XxND4vN?XXs+7LsN!H?F+(lv+_UL+FUExxUDHUU?xH?+vL?NvU?YL_QvLNFlLFYUDxY_DsY?DHHDlvHN_UHYN?XvNNXls)xHsxqDss+ssH+xlL+N+H+YU1xvU_xlUFxX?xXv?sv??HLvFLLNFUDXFLDvY_DlYHDXHx_DHH_DHHNxXLNNXUNHSAsLT_slFHsX+xlD+sl?+HU+xL9HxUUYvR?Dv_??vFFDvsFDLsF?_vY+DDYND?YY_L+x__Hl_FALNxX_NsX?9x^+sDbNsURYl8+vl_YNlFxaUxxNUsx?UHv+vsvN??vYF+LvF_LlFF,YYxD_YsDYYH_+HL_NX?_YXfNvXNNlXFNX>vsDZss?+Vl++LlN+FUDxGUvx_+xlX+DU+x+lFxZ?1FvLHFNLUFY?YvLF+vHFxLHFHLlFYDY_HX?NLXNNUGXNLEvs_AlsYmXlx+DlsYYlHxxULxNUUxY?&vv+Yvl?FvXFLLDFUL?YLl+YDDNYU_vHg_LH__lHFNvx+NDXsN? Ls+TDsNVH?F+zlv+_Ux+FUpxx?N+FU?xH?+v_?NvU?YL:sDL_FULFFXDxYDDsY?slHx_LHN_FHYN+XvN_^UNFXXsxa_ssA?sH++lL+NlUx?UOxvU_x??+xX?xvDXHUY+XUHxlLlYLLYY:DvxU?HDLYvxDYLDLYU_qULX_s^XUNYmCYN_?3+sTY?NvXNNYyNxeUFxLUNxUX_lY+LlY+HNXxHUHvL?UXHDCY_DLYNDUx7FXLXYDD?_HX_NxXDNsLXHvNlXsLlXlsDlxxNl_+llFNx&DlN+NlN+UNv+DUl=vUUx+UUx?sFv???L+FN9?DYH__+HL_NvX?_LvHN_sHs_NHL)Ll}qss?9HYUs+Xss+bx_x+slU+Yl?+YvL?Xvs??vH9U?+xs?+vxlFvL?svHFsH+_FHD_sH?FxD_HF_??FNxXLNNXDNNsH+Ylx+Dls_H +lv+vlv+_l_+HlUXFU?+YUFxNLNF?L?FHD++YFU+?DXX5_vH__lxHYzDDHeDXHY_YX_NxH?LYXFNFAxssFF+YYDxxUDxsF?Dl?+vD?NvU?YLYFvDslALFYxDxY_DsY?DHH+lLHN_?HYNvXvNsXlsxXDsx4_ss+DsH+xlL+slUx+FXxvU_xl?_xX?vvDYs__?HLxFLLNFUDUY1_DlYDlYXDXHY_DHs_?HHU+XLNsXUsywAsDK_sXLFl!+vlDxLl?+XU+xLUNxHYFva?vv_FDvFFVLxYNTXF?LXY+_xYNDUYY_}U+__HU_FX+NxXDNs+?Ult+sDaNsUOYlY+vUsH;lFxxUxv+Usx?UHv+HLvN??vYFvLvFsLlYxLDYxD_Ys_YYH_xHL_sHUN++XNvX_NlbHNXivsD6F?UtHl++LU?+UlHxu?DHYUlxYUXvl?Dvs??vHNXLLFsLUFXDMYvD_XlsNYX_vHD_sH?N?X+s_?HNUIKsb=?s_GlsF,XFx+Dll+?U+x+U_xN?Rxv?OvL?_Dv?FL#FxL_FsLXXYD+YLDNXLDYH+_vHUlsHF_XXxl+XsNFXHlvF?sN/?sY+Dlv+_ll+FDYxxU_xsUYxH?+vLYN_D?YL+FvL_FlDlFX_LlFDsYHDHHL_LHN_UHYUPXvNNXlNXXXsL)DsHL?sX+xlLvllU+HU1xvU_xYY?xX?xvDYUv??XL+FsN_FULYY NUY_DUYFNXEY_DHl_?HHN+ +NN0FLL2Os_2_sXmFsX+xlDLsl?+XU+xNUNxFUYv_XvvN?UvFHsLxF_LsF?LHYDsvYNDUYYslHv_NHlNH?_NxX_NsXYNHQ+sLkNLs Yl++vls+llF+XFxD.UsxFUHv+?LLL?ULXsNLvFlLlY_LXYxDDYss?YH_xHL_UHU_XX&NlHFNlXYNXvDsD}ls?wXl++sF_+UlYxKY_x_UUxFFXDY?Dvl??vHF+D+FNDFlLD=Y_D_HxDFYX_xHDlsH?_XX+NNXNNFXYs_LvsNpUsFLLlx+_ls+?lHxDYvxNUUxYHDvv?NvlFH;_FxL_FsLXFHD+YLDNlsDYH+_vHs_lHF_XXxs_XsN?XHsxzLsN<UsY+Ilv+_lY+FlXxxUNxYU?xH?+NYxLl?xLUDFDDFFlLFFXlLv_??L_FDDvYvDFYsD+FL_DYN_NHX_XHvNNHYNlX+sUl_xxlU+YUm_F+vsU+vlLXLUUxFUXxYUXFNLNFULYY=DvY_Ll+?_dHU_DHs_?HHvvXLNsXUNY1Asvy_l?YvsX+LlD+?l?+HU+xL+YxU?=v(?vv_??vFFXUvFDL?F?LXY+DLYNsUDD_%H___H?_FXvNxXDUsX?NXh+sNbNsFfYlPY+l_+UlFx+UxxDUsx??Xv+?LvN??vYFELvF_LlFFLXYFDDYsD?H+_+HL_NHU_YXnlNv_N?uNNX4xsDDLXUN+XxsVHNs_XHllrslsU?viUXvx?DlX+FU?x_L_FXLUFYD5vxs_D+?xxpUHxHUFHYNDX+NLXNFU_lH+NFH?N?XX++ll+Dls+?bDs_+ssH{Xl?x_vD?Uvl?FvX-YUHx??_Y5DDYLDNYUYLL+FFDU_?gX_XXxNDLHH:N4HU_UXR_YHHsLXFsDJNvFb?l++slFFFvs??ND+UlYxx?vv___v??+LDF+L7?YvXsFHv_sHN_UHYHLDLHl_LNF+LsxWDss+Ysx++lL+NUL+YU2xvF_e+UFxX?xvD?sLv?HDvs?LNF?LYY+DvY_DlYFF_Hx_DHs_YHHNvXLNYvUNHC0sv+Usl<YsX+xlD+FFU+HU+xL??xUUHv=FDxU?lvF?XLsFDLsF?LHvlDDYNDUYH_AHD__ClLLHXNxXDNsX?sxO+sULNs?VYlI+Xl_+UlF+XUxxlYNx?UHv+FnvN??vYFLNxF_LlFFLXYxD_Ys_YYx_+HL_NHY_YXhNv+_L_XFNXVxsDqslKyH?++NlN+UlYxhUvxsUlLFFxvx?Dvs??vHFsLLYlD?FYDxYvDXYlDFYX_xX+_sH?_HXvNLXsNUXYs?rvs_VlsYmXlx+DlFvNlHx+ULxNUUxH?wvvFNvl?FvXFvLDFsL?FHD+YLDNYHDYHc_vHsN_HF_XXxFsDYHN_vHLNsHF_HH+NsXssvXH+HUNxxUDxsWUDHxlsUXss_e_sLFDLYFlLFFX?lvUFFLxFvLXYUHlNOHYN#XvFU_+H+_FHNNssUx+sH++lLxlsH+YUxxvUlxlUFxX?xlY?lvY?HLxFLLlFU_YUsDvYsDlYHDXHL_DHHU?HXNvXLNYXUNH*!svi_sYv?sX+xlD+Hl?+XU+xsY_xUUYv^?Uv_?UvFFvN+FDLsF?DLY+DDYNDUlX_ HD__Hl_FHXNx+DDuX?s6m+s_uNsHJYl3Dxl_+?lFx+Uxx_Usv+HHvx?_vNFYvYF+LvF_LlY%NHYxDDYs_HYH_xHL_NUF_YXxNvX_NlXFNX+xH_assYSHlx+Lls+UlYHxUvxsUlxYUXvx?DvsbUvXFvLLFsLUFHD^YvYUYlDHYX_vHD_sH?_HUXNLXlNUXXs^dvs_bY??/Xlx+DUY+?lXx+ULU?UUxX?Zvv?_vl?FvXs=LDFUL?YRD+YLDNYU_HHp_vH__UHF_XXxNDXsN?XHsLpLsNyUsXx_lv+_llDHn1sD+{sX+YlYx_Ux+?sHxXU+v+?lvlUYL+?NLv??DL_+H+_LHN_UHYN(Hv?DX?s+XXsxeDFHNYHXNHXl+NU++YU=xvU_vLUYxX?xvD?sv??HDvY_LNF?LYYvDvY_DlYF_xHx_NHs_?HHNxXLUNX?NYaxsv.Nsl(HsX+xUN+sl?+HUvxLUlxUUYvH?vv_?lvH?XLxFDLsHDLHY+DLYsDUYY_,Hv__Hl_FXkNxXDNsXYs_,+sLONFXNlXDseX?sN+ylxUvxFUsx?UHv+N_vN?FvYFuLvF_LlHFxNYxDNYsDYYH_xHL_Nxl_YXxNvXsNlXFNX>xL+ ssHwHl++LlN+UlYN+UvxsUlxFUXvL?DvsNlvHFvLLFlLUFYDPYv_NYlDFYX_vHD_sH?_HX+NLXNNUXYs=3vsN2YsFnXlx+DDU+?lXx+ULxNUUxY?CNx?_vU?FL8FxLDFsL?sFD+YDDNYFDYH/_vH_NUHF_XXxN_XsN?XHs+/LsNuUl_+2lv+_lFUDHysxsUXsFY:+XQv_?svU?YL/)DLsFXLFFXDx+sFNLNFYDvlNHU_UHYN5XvN_XlDFvHsLP_ssQ?sHDsl_+slU+YUcNDUls??FsNH?Hlsy+YXYLvFULNFULYLLFFL_?HL?FDHDxHDHxlsYs?xvvLvlNH++svz_sl+Hsv+xl_+sUv+HU+xLUNHDUYvx?vv_?lvF?XLxxFLsFFLHYvDLYlDUmvlsHv_NHlNvHXNvXDN?X?sxv-sLWNsU+Llm+Ll_x?_v+XUvxDUFx?UHv+?LXD?UvHF(LDF_LlFF_XUUDDYlD?YH_+HU_NXUFYX+NLX_NUXFs=yxUDHOs?+bl++LlN+XlYv>RvxNU?xF?_vx?Nvs??sxF+LDFNL?FYDxYvN_?+DFH+_xHD_sHY_H7+YLXsNFXYsl!vssclsFDvlx+_ls+FlHxvULxN_sxY?+vv?svl?FvXFxD_FsL?FHDxYLDNYUDYHa_vH__UHF_XXxNNXYN?XHs+NLHU_?XlNFlvx;ll+FlXvLllxsU?xH?xvL?NvU?XDxFvLNFlLFFXDxYDDsH+DXH+_LHl_UHHNQXl?_XUNFXXsl8Dsl4?sH++lsL_lU+YU3xUU_xUUFvDLYvD?Uv?F_L+FDLNF?LYYLsxY_DlYF_NHx__Hs_?__NxX_NNXFNYGBsv&_LN^Fl++xlN+sl?+HU+vDUNxUUYv+?vv_?lvY?XLxFDL?F?LHY+D_H_DUYY_fvxYsDxY?DYFN_sYY_YFNLD?xN?Exs+lx+?l_+llFl+&Ns_zFl++NlY+lvlFqvYFVLvxX?Fvx?svH?UYs_UYH_+HLNlYH_YXQNvXlNlXFNXJsFD.ls?eHlY+Lls+UlYxaUNDDUlxFUXvH?Dvl??Dy?DLLFNLUYPD YvD_H?xvYX_vHD_lH?_HX+NLDHNUXYs}hDs_O?sF+DYx+_ls+?UUx+UDxNUUxY?L_x?_vl?FL?FxL_FsDYFxD+YLDNYFDYHy_vXsv-HFN8XxN_XsN?XHs++HsN!UsY++lv+_ll+FYNxvUDxsU?xH?+vL?N?x?HL}FvL_FlLFFXDxlvDsY?DHHv_LHN_UHYs+XvN_XlNYXXsx^Dssa?sH++ls+NlU+YUxxlU_xlUFlsxxl_x+UYv+LvFsLNFULYvv??vNF?YH_DHx_DHsYH_xHvDYHD_+NXm6sv7_slfYlH+xlD+sUYHDU+xDUNxHUYvf?vLsUYvFF+LxF_LsF?LHY+wXYNDYYY_/Hv__Hl_FXDNvXNNsXYNH&DsL4??l%Yl7+vU++llY+XUxHkUsvxUHvx?LvN?ULX?LLvFHLlFXLXYxDDXsvvYH_lHL_XHU_XX3Nv?+Nl*DNXcssD%ss?QHXs+LlX+UlXx<UDx_UlxYUXvv?DvX??L_F+LUxUL?FXDwYsD_YUDFH+_xHllNH?_HX+NlXNN?XYsOF+s_2UsF++lx+Dls+?UXx+ULxNU?xY?9vv?_vl?FvXFLLDFsL?YbDvYLDNYU?FxN_DXs_lHF_XDsYH_UHHNxXD_YXL_XX_NHXYN?XFlWisl++vxsUXxH?+vLFlxH?YL%FvLNFlLFFXNxUYDsY?DHH+_LHl_UHYxHXvN_XlNHXXsxTDss+FsH++lL+slU+YUaxvU_xlUFvL?xvD?svYFDL+FLLN+YUHL_?s+l?XLv_+HN_DHs_?DxY__*YsNvsAlU+FlXxxUDxsY?YL+UU0+HU+xL+NsYWHlF+Xvs?YvF?XLxvlUlvH?lYx_UYNDUYY_&UD__HU_FHXNxXDNs+?D_c+sD.Ns?3Yl++vlFDllYxPUxvUUsxFUHv+?Lv?HlvYF7LvY?LlFYLXYxYlYsDFYH_xHL_NHU_YNlNvXNNlXYNXixsD+UNX/Hlx+Ll?+UlYxcUlxSUlxHUXvx?Dvl??L+F+LLslLUFYDwYDD_YlDFYXxLHD_sH?N+X+NLXNNU?Xs={vs_KYsFoXlx+DlH+FlXx+U_xNUFxY?_Nv?NvU?FLHFxL_FsL?FHDDBvDNYUDYHX_vHN_lX-lHXxNDXssUXHsx6LllXHsY+vlv+?ll+FlXLxNYxsUHxH?LvL?lvUFXVNFvLUFlLXFXDxYDDHYDDHH__LHs_UHHN(XLN_XlvHXXsxBDsle?sH++lLlglUxkUVxsU_xUUFxXFvvD?sv??XL+FLLNFFLYYADvYHDlYFDXHL_lHs_?HHYsDDHLDXNX5UsvJ_slv+CxN+?Us?Flss+Llv+DxF?vvc?vv_xF?>v+U?vvUXFYDLY+DLYNU+vHFYLsUXLY_HXDNxXDNs_+HYNvX+_sXHmXl_+vl_+l^DlxAssH+LlO?Zvl?LvN?UUXxDULxUUXvD??vNDNYlD?YH_++v_N<l_YXfNves_YXFNXfxssVss?cH?+HFlN+UlYxqUvx?UlvHN_vx?_vs?YvHF+LLFNnFFYDxYvD_YlDFYXNLYl_sHH_HXxNLXNNU+YDs;vslGlsXJXl_+DlsL?lHx+ULxUUUxX?BvvNsvl?YvXFvLDFsL?HE+sYLDlYU_DH-_vH__lUN_XXDNDXsN?XHs+OLss&UsH+,lL+_lF+F?++_UDxUU?vL?+vL?NLy?vL(FDL_YsLFYKDxY_DsYXsYH+_LHNNlHYN+XvNUxsNFXXsxxvss5FsHxvss+NlF+YU_xvU_xlUFHU?xvs?svF?HL+FLLNv+LYYxDvYsDlYHDXHsUDHl_YHHsXXLNsXUNYZzsNvDsl.FsXv2lD+ll?vClDxLUlxU?Lv8?vv_?lXN?XLDFDLlF?LHY+DLvHDUYX_ HD__H?_FHXvLXDN?X?sM!+sL6NsUFsli+Nl_+?lF+XUxxD1Xx??+v+?_vN?FvYF_svFNLFFF_YYxD_YsD?YH_D+v_NHU_YSHNvXNNl/EUH<xsDfsUl8Hlx+Ll?LllYxpUvLLUlxYUXvxF_vs??vHFxLLFNLUFYD2YvD_YlDFYX_xHD_?H?_HX+NLN?NUXYs>hvs_5lsF3X+?+Dls+?lHx+ULxNUUvH?zvv?_vU?FvXFxLDFsL?FHDvYLDNYUDXHD_vH__l_7Y=DLH+DYNY}Ds+qLsNNEXFsxXsNNXFsLU+xUUDxsU?LTUDvL?lvU?HL-FvL_HlxLFXDLYDDUY?_;H+_LUx_UXKNoXLN_XlNF,DNFiDsFk?sH++lD+Nl?+YU1sxU_xlUFxX?xvD?sv?vNL+F_LNFHLYY+DvY_+NYFDXHx_NHs_?HHN+pDNNXUNYq+sv^_sliYsX+xlD+sl?+HU+x_UUxUUYvT?vXs?lvH?XLxFDLsF?LHD_DDYlDUYY_gHL__HlNYHXNxXDNlX?NHV+sL}NsU4Yls+vl_+llHxsUxxDUsNH+YUvxss_xFU+xD?DFsDLFFLXYxU+vlYLLYY_Ds?_DFY+DDHDXss3XFNX-xYD_lHXNxXUsxXH+FU+xSUvx_XHN6+slX?Nv???vHF+?xxFF+FXDLYvD_YlU+LYYNDx_UXN_HX+NLLFFvLlHlN_XUDDHYssT+sUIF+HlHx+ULxNUUxY?wvv?sLY?FvXFxLDDgL?YhD+YLDNYUDYXxN{H__FHFN_XxNDXsN?CXs+PssNkUsY+xlvxslF+FULxxU?xsU?xHY+v??NvX?YLDFvLNFl_FHsDxYUDsH9DHHv_LXNN_HYNLXvNNXls+XXlLXlss+OsH+DlL+NlUvYNsxvU?xl?+xX?NvD?HY_?HLNFLDvFULHYuDvY_DYK?DXHx_DXL_?HXN+n_vHXUsv23s?R_slIFlDUYlD+Xl?xYU+xDUNx?UYvLHxv_?lvFFHLxF_LsYY+DY+D?YN_xYY_VHv__+l_FXLNxXFNsXYNH++HD2NsH7Ylv+vl?+llFLXUxxNUsxXUHvv?LvNNsvYFxLvFsLlFFLXYx__YsD?YH_xHL_NHU_YX NvX_sxXFNX{xsN+Hs?eHl+D_XsNY3ssN+DlD+HlU+vs_xNllxl?+v+UDvlUXv??vLFDsYlDFYX_xHNNNH?_HX+?___HF_+HDNDYlNxP_NLHxNH+!s!uUxxULxl?lxY?&vvXNUHv)UHhL?UvF?XvY?X+NF_L_FFDx_DHU_lHF_XL_YUN}HXb+s+hLsNmUsY+clv+_lF+FlXxxUDxsU?+HX,v_F+vU?YLZ+NU?L+Fa++FNLlFFLUFFH+_HHN_UHYNZXsNNXlNFXXsxWDss+Yl+++lD+NUv+YU xvU_vYUFv+?xvD?svX?HN+FNLNFFLYY_DvYsDl1F_sHx_NHsNeHHNDXLUN1UNY.xsv>Nsl+LsXLxUA+slY+HULxLUHxUUY_)?vv_?lvH?XLLFDLsslLHY+DLYlDUYY_PHvNNHl_FHXNvXDNsX?NHT+sLwNl+JYl +vll+llF+XUxxDsslUHHvv??vN?UvYx_?DvD?_+Hl_+LDNHsD?YH_+x_FsLYYsDNHD_DHH_UHvLDXLNLXUsTFL+_lY+UlYxZH_lD+Dl?x+_D?NLN??vHF+s_v_?Fv+?DLDUlLxY_LL?xLHH DoYUXvNlXNNUXYF_NDHNN_X++xlx+Dls+?lHx+ULxNU?vY?%vv?_vlNHvXFvLDFsL?FHD+H_+HYUDXHq_lH__lHF_X_sNDX?N?XHs+._sN+hxs+IlN+_UL+FUgxxUDxsUXDY?+vL?NLD?YL+FvDs?YLFYvDxYlDsY?DHy+FHHN_HHYNLXvNsXlsHaLsxwUss7FsH++lLxlUG+YU_xvUNxlUFxXFLLl?sLx?HLxFLLNFULYYDDvYUDlHvDXHL_DXsFFHHNLXLNUXUs+CP?vNHsl#XsX+NlD+Xl?+HY+xLUsxU?kvz?Dv_?lXU?XLvFDLUF?LHY+DLHsDUYY_ZHL__Hl_FHXNxXDNsxLNH0+sL}lsF Yl2+vADsFlHxsUxxDUsNX+_l_x+lF=HUxvs?NFsLHFFLXYxU?vlFNDvF_H__HHU_YX5?U_xHsDHHn_HXstUl_kHl++LYUslqlsX+DN_+xsX+UlNxNvUFsvHF+LL+UUXvl?Dv_FUvHFpvvFULUYDDnN(XNNLXNNUN(XLNDHXNNXv++ls+Dls+?XxslbllLVXU#?xvN?_vl?FUvxv?lxYLYYLD+YLDNxYFxLvYxDLFYHHNLXxNDXsHN_YXs_lXltFl++Mlv+_qYNY+xsYUNvDU?xH?+svxlUvxFUHQXUNvN?vLL?vvF?YYY_lH+_LHN?HDDYD_BY?LFH+_xX+NvHF,Ylv++lL+NXHsxCFsL+Xx??/xX?xvDxFULx+UFF_L?FULYY(UNLXFlL+_+HX_DHs_?LxYlDlHLDXY+_DX?NUFY_Y2+NYlN+Yl?+HU+lN+Ns?xLlH?DvH?lvF?XlDxU?FvX?NvX??LUDFH__qHv___ YHDsH_DUYH_LHU__s_AFsU}YlrsvXNsxfHlxULxlUsx?UHsD+lUXxHvXF_LvF_Ll+XFvLLFLLvFTH(_DHL_NHUF D+HlD?N?uvNX8xsDD?HFsLX_NsYssHlXxsUvx_UlNs+fU}+FUY+FUDx_L_FHLUFYD{vU??LYFvLLYgD?_UXv_HX+NLL?YXNDXLLNHNN?XN++ll+Dls+?HxsU+Ul25HlxxxvDFNvl?FvXHNlHXDN5v?NHXl??XUsxxslY^??_x_lLLDNNhLN?XHs+DsHX_XXUNDYNNX)XsDivsN+NxUUXxH?+vL#Ll?x_UHFDLsFlLFFX?NLvDUH_DHH+_LLUYlDlYX_DH__xYX_UHNNNsU+ sH++lLDY6_NHVNl_UsvEUFxX?xsUx_U_xF?Ov??DFFDsYwDvY_UYLLFLLXFUv?YX_2HaDXYFXFsv}1sv3_HF_YXYNDXUsLlYxNU+xLUNNH+DlDxpl?t_lYxs?CFNLFF?LHY+FsDpFULx_+Ul__Hl_FHXvLXDNlX?NH6+sL6NlpLYl++Ll_xNlFx0UxxDUsxXYYv+?LvNFsvYF+LvYsvYFFDbYx_UYsD?YH_NxL_sH?_YXHNvXNNlXFNXn_?L/ss?}HlX+Lls+UlYHxUvxNUlxYUXvx?DvsxvvXFxLLFsLUFXD*Yll_YUDYYXNpHD_lH?_HX+Nsx_NUXYs9++s_ZUsF{XDL+Dll+?UKx+ULxN?3xv?EvL?_LN?FLyFxL_FsLXXYD+YLDNHsDYH+_vHUlsHF_XXxsLXsNFXHs++DsN>UsY++lv+_llxHlvxxU_xs??xH?+vL?NUx?HL+FvLNFlLHFXDxlNDsYYDHHL_LHN_UHYYYXLNsXlNYXXsL7DssFYsH+LlL+?lU+YUAxlXsxlUHxXFlvD?lv?F+L+FsN_FULYY/_UY_DUYF_v++_DHs_?+?N+XDNNXUvXT*sD;_sHSFsX+xl?,Hl?x{U+DiUNx?UYv+?vvUHsvF?XLxX+LsFFLHY+YsYNDFYY_+Hv__Hl_FNsNxXNNsh)NHG+sL8NLFaYlx+vlF+llF+XUs_DUlxYUHDL?Lvs?UvYF(LNXDLlFFLXXDDDYlD?X DDHL_lHUNlXANvX_llYLNX2LsD)Us?vDl++LDl+UU-xWUlx_UlxFUXDY?_vU??LyF+LDFNDFF+DyYDD_HDDFYX_x=DLtH?NbX+N_XNslXYsTFDs_wFsF+vlx+Dlsx+lsx+UsxNUUxY?+vv?lvl?F)+FxLDFsD=FHD+YLDNlFDYHO_vHY_lHF_XXxYLXsN?XHs+=LsNaUsYL6lv+sllx2lXxLUDxsvLxH?vvL?YvU?YLTFvDNFlLFFXDvYDDsY?DH_U_LHs_UXKNuXvN_XlkzXXsLQDssP?sH++lLUTlU+XUPxsU_xlUFxXxUv_?Uv?F2L+FLLNFUY_YBDDY_DXYFDXHx_DDH_?X0N+XLNNXHNYp6XlJ_sFbFsX+xlD+sU?NXU+x_UNLHUYvv?vv_xXvFFxLxFDLsF?LHH+?DYNDFYYNLHv_lHl_F_DNxXsNsX?NHm+sL+NHLnHlx+vlU+llX+X?LvvUsxHUHvx?LvN?UDYlsLvFlLlFXLXY?DDHUxxYH_DHLs_HU_YX4NvDYNlXXNXZLsDbUs?+HH?+Dll+U?NxOU_x_??vUUXvD?DLH??vHF+LLslLUY+DBY?D_YlDFXXvUHD_FH?NxX+lsXNNUZvs+K_s_6?sF+Llx+lFN+?lHx+(NxNU?xYY4m??_L+?FL_FxDHFsD+/HDxYFDNvYDYH+_vH__lX lHXxNDXsYHXHsxyLUNHxsY+slv+YllxYlXxsHDxl?vxHX?vL?svU?YL1FNNDFlLFFXlFYDDlY?_x+f_LHN_UvsNoXLN_b?LvXXsUcDUY^?sH++U_b?lUx_UzLFU_xlUFxX_YvDFxv?F_L+FLLNFU?LY>DFY_D?YF_+Hxs?FL_?XNN+D+NNX?NYMNsvVU?s(FsX+xXx+slF+HF+LXUNvvUYvs?vL+?lvFx_LxFHLsFYLHYvDLXYv_YY_lHvFvHl_YHXlDXDNFxUNHT+sL_LsUcHluvv_H+lUD+XULxDFFx?UHUN?LL+?UvYF4LDF_NlLLLXYFDDHlD?Hv_+HLxlHUNsXtNFX_NlXFlXYUsD+Ls?+Dl++NlN+UbLx7UHx_U?xF?+vxFDll??LsF+LNFNDDFYDzDsDNHxDFHD_xHX_sHXlYX+NLXNYYXYs+hvU_H+sF+slx+NlsvXlHx++UxN?LxY?Qvv?svlFFUAFxLXFsDFFHDlYLNN?xDYH?_vHY_lHX_X;xY_XssDXHsL#LlxJUsYlDlL+XllxxlXxFUDxH^HxX?LvLXUvU?HLpFDL_FYN?FXDxYDl?Y?DXH+sL?X_UXCNEXDN_5YNFXXF?(_sF3?sH++l_+NFUxYUWxNU_vUUFvL?xvDF+v?FvL+FYLNFULYY;_HY_DXYF_NHx_DHss?.lN+XUNN=eNY0ssvM_s?1Fl_+xlY+sl?+HF+xlUNv+UYvN?vvF?lvFXHLxF?LsY+LHYsDLXNvxYY__Hv_FHlsYHXNxDFNsB^NH!vsL{lsU+YX++vlU+llX+XUNxD?ssFUHvL?LDX?UL+F>_vlHLlFXLXYLDDHFD?YHUUHD_?HU_YX8NDX_Ulw*NX!_sD+ls?+vl++L?x+UUxx*UFx_UlxFUXv_?DvH??L_F+LLFN_UYLD2YlD_YXDFHN_xHDNNH?NDX+NFXNNUXYUC+ls_+GsF+_lx+?ls+?YYx+UUxN?>xY?NvvY_++?FLDFxL?FsDDFHD+v?DNYXDYHx_vHs_lXFYKXxNlXsNHXHs_!LlN_?sY+vlvxLllxklXLxNYxsUHxH?vvLF?vU?YslFLLUFlLFFXDLYDssH+DHHD_LXs_UXxNIXvNFXls+XXs?)Dss0?sH+DlL+YlUxDU8xvU_Ll?UxX?svD?Hv?F_L+FLLYFUDLY!D?Y_DlYFNXXn_DHX_?XDN+XUNNXU?FS#sl^_sX3Fl_+x?DXbl?xLU+xUUNLxUYvk+Uv_?HvFF+LxFNLsY?UXY+DsYNDYYY_DHvN_LU_FXxNx+?NsXXNHx+DFuNsY2Ylx+vUU+llF_sUvxlUsx?UHvv?L_NY+vYFLLvYNLlY+LXYx_HYs_cYH_UHL_NHU_YX?NvXFNlcLNXaxsDxsULSHlN+LlY+UUDx!UvvXUlvvUXvU?Dvs??DHF?LLFHLUYLD>YlD_Yll?YX_sHD_HH?NDX+lLFXNU7vs;Wls_xNsFPXXl+DlY+?Umx+U_xN?UsH?.vN?_vF?FLLFxDDxlL?Y+D+XLDNYHDYA2v?H__FHFN+XxslXsN?LNsx8ssNQUsY+xlvL_UP+FUvxx?_xs?bxH?+vs?NvX?YLlFvL_FlLFY?DxY?DsHvDHH+_LyN_YHYN_XvNFXlsLXXsxIXss+xsH+llL+NlUvY?vxvUYxl?vxX?svD?sNU?HLNFLLYFUDLYZNvUHDlHxDXHs_DXX_?HHYsXLNFXUNXtMsD>_ll_YsX+_lD+?l?xvU+vL;sxU?hv6?Dv_?YvFYX+UFDL?F?D;Y+_sYNDUx__+HN__Hl_FX+NxxDsUX?sxe+lD5NsX%YlP+_l_+HlFxsUxxDUsx??+v+?UvNFxvYFELvH__xFFDDYxD?Ys_vYH_+XU_NX+_YXsNvX_Nl+Fl=ZxsFoslxuHlN+LlNDllYx_UvxFUlvvUXDxsYvsF+vHFNLLHLLUFY?NYvD?YlDHYX_LHDNsLF_HXDNLXUNUpxs*+vHN)lsXrXUL+DlF+?lHlNULxUUUxY?OvL?_L??fvXF_LDHLL?FHD+YL?XY?_+Hm_LH__?HFsXFXNDXFN?Bxs+++sN+/U++(lN+_Dv+FUKxxU_xsUXDY?+vL?NXL?YL+FvDsl/LFYvDxXNDsY?DHX+FDHN_YHYs?XvNUXlsFDlsvpNssEXsH+LlLxlUx+YUvxv?xxlUFxXYx0Y?svH?HLLFLDUFUDvFUDvYUDlYYDXHv_DHY_?HHvvXLNNXUsN5!svz_sl_?sX+xlD+sl?+HU+xL_lxUUYvr?Hv_?lvF?XBLFDLsF?DUY+DLYNDUvF_WHv__H?_FHXNxXDUvXFs+Z+s_bNs?=Yl8xLl_+llFx)UxxDUsxYUHv+?LvN?UvYFcLvFFLlFFLXYxUDYsD?YH_+HL_NHU_YXUNvX_NlXFNX)xsD{sUsQHl++Lls+UlYx=UvvUUlxYUXvL?Dvs??vHYxLLFNLUFXDcYLD_Yl_sYX_xHD_lH?_HX+NLXNNUXYsD*vs_tlsH+llx+DlsLo++sKFllUYslNxvUxxLv?F+vXFxLDvsUHxX?YLbDlHfDYH7_vLFYsDHYFDvHlXUNFXHs+}L?_iFlv+tlv+_tFlT++s?+vsXU?Lx?+vL?NLF?+LTFvL_FHLFFXDxXDvtY?DHH+_LHN_YHYsx?UN_XUNF>Jsx%DssW?D&++l_+NlU+YUnxvU_H?UFvx?xv_?sv??HL+XLLNFULYYvDvYsDlYFx+Hx__Hs_YHHN+XLslF+NYmxsvKUsl/FsX+xDZ+slH+HU+xLUNxUUYv+?vvN?lvY?XLDFDDU?XLHYvDLYlDUYY_nHl_ Hl_XHXNxXDNlX?s+4+sL__sU%Yl,+Ll_+llF+X_LxDUsx??+v+?LvN?UXXFALvF_LYFFLXYxDDYHDFH)_+H__NHY_YX_?vXNN?XFlxhxs_;ss?eHlDLvlN+UlYvvUvxNUlv<YHvx?DvsFHvHFxLLFND?FYD4YvDNYlDFYX_vHD_sH?NyX+NLXNNFnNsCzvs_DvYXDHHpDUg_NHnYsDilxl?vxY?mvvxYU?xD?vxNU?v+?NvvD+YFDNYUDYXxDNH__lHFN+XxNDXsN?F>s+kDsN>UsY+>lv+_D?+FU+xxU_xsU?xHY+DX?NvF?YLxFvLNFlLFl+DxYlDsYYDHH+_LHNU)HYNxXvNUXlNFXXsxYUss4?sH++lL+slU+Y?+xvU_xlUYxX?xvD?sv??HL+F_LNFULYYxDUY_DlYFFDD+YNLYFFD+YlX_NFXUNYbMXN_NH?NsXL+LlY+sl?+H?v+sUNxFUYvx?vv_?lDFlNLxFNLsFYLHYxDLYN+DYY_vHv_NHl_FHXNsHXNsXXNHz+sL,ssUoHlm+vXD+llF+XUxxDUsx?UHUU?Lvl?UL+FALLF_LlsULXYxDDYUD?YH_+HLNsHU_YX9NLX_NlXFsnoxsDdssF>Hl++LllxAlYxbUvN_#UlH+LUIxlvU?HvHF+LLFNfFFYDxYvD_YlDFYXNxL__sHF_HXxNLXlNUXYl+pvs_-lsYdXlx+Dls+?lHx+U_xNUUxY?xvU?_vl?Fsxv+?NxYlxLv?UY_D?YUDYHhFULNY_D+_XX_NDXsN?+=NDzLsN9UsX+8lv+_?lXLlXxxUDxsU?xX?+vLNDvU?YLqFDL_FlLFFX_vYDDsY?DXH+_LHN_UHYNIXvNNXlNFXXsLtlssT?sHNXXlsXMH+XUFxvU_xl?Hxv?xvN?svF?HL+FLLNsDLYYvDvY_DlYFDXHxYYHl_XHHNDXLNNXUs+xXsvq_sl+DsX+vlD+HX++HUNxLUHxUUHv*?Lv_?Y_??XLxFDLXF?LXY+Ds9_DUYY_KHF__HU_FHXX_XDNXX?NXc+sLGNsUF?lJ+Ul_+?lF+XUxx?y?xF?Zv+?svN??vYFxLvFUNsFFLXYxDlYsDFYH_+XD_NHU_YX+NvX_NlXFNXAxsDGFs?kHl++_lX+UlYxyHFlL+FU8+<Ub+slY?YLLF+LLFNlUxHFxvsFLLYDHHv_xHD_sDlYv_lHsXlNYXYs)-vXL_HOv+xUU+Dls+??a+DULxUUUxH?,vv?_DllLvXFDLDF?L?YxD+YL+xYU_+HA_vH__lHF_XDlNDX?N?4ms+%_sN+Fs++JlN+_lF+FlXxxU?FvU?vv?+vF?Nv??YL+FvLUXsLFFXDxYYDsYFDHH+YUHN_XHYNgXvN_XlNFNNsvi?ss++sH++lL+?Fl+YU-xv?+xlUYxX?x?U?lvH?HLsFLLXFUDvvvDLYUDlH_DXHv_DHU_?XxU8XLNNXUsN<bsLS_l?^7sX+_lD+?l?+HU+xULxxU?xvTFLv_?UvFF+LxFlNNF?LHY+_DYND?YY_/Dl__HH_FHXNxXDNsX?X_3xsU1Nlp,Yl8+vlULslF+XUxvlUsxFUHL++DvNFxvYFxLvFlLlYx?xYvDlYs_HYH_xHL_lHUN++XNvX_NlAXNXtvsD&sLl1HlL+Lll+UlYxJUvvNUlxFUXvv?Dvs??vHF+LLFNDLFYDiYvDsYXDFYX_xL?YNDYY?DxHsXlstXYsMfvXs_UXUNvB+sxlU+YlHx+ULl_+YvC?9vv?_vl?FFNsDsDF?L?FHD+YLLNLvDDx&_DHF_lHF_X_DHl_UHL_FHsI_lL(UsY+BX?sY-xs)XHLN+ssNYplx+fDl+?vFF+LzFvL_vY?DvF?NYNDHY?DHH+?lDUFXDX?lDNNsXYNFXXsxNxHlNXX_++U_+NlU+Y?x+NU_xlUFvx?xvD?sD?l_L+FLLNFULYYsDvY_F+YYDXHx__Hs_YHHsvHsNNX?NYIUsvM_slxF_N+xl_+slF+HUvxL?lX+UYvx?vvU?lvF?XDLsFLsFHLHY_DLYNDUYYleHv_NHl_XHXNLXDsUHXNHVvsLRYsU0Ylbvv_H+llH+XULxDUlx?FZXs?LvU?ULLF&LvF_LlL?D=Y_DDYsD?YH_+iL_lHUN+XnNNX_sxXFNX+_sD=Ys? Hl++LlN+UUUx*Ulx_UUxFUXvx?DL_??LBF+LUFNLUFYD!HDD_Y?DFYX_xHD_sH?sDX+NLXNN?XYs04vs_2lsF8XlN+Dls+?U(xFULxNUUNy+XU+xLlH+X?vx??Lv_?HY%DUYLDNYUU_Dv?DD?YNDUYs_WYFXUs+XHs+:LXKNs^5NDtDsUl?xvlXxxUD_?+UlF+Xll+UUH?XLDFvL_FlFtv0?LL+?YYYNGH+_LHN_UUXN^XDN_XlNFXXsxxD?v7?lR++l_+NlF+YUJsUU_x?UFv+?xvN?sL+XHLxF_LNYdLYY+DvY_DlH5sHHx_DHsN+HHNxXLN?xlNYi)sv4YslJYsX+xU_+sl?+HUxxLUNxUFYD??vvs?lvF?XL_FDLsYxLHYDDLYsDUYY_}Hv_HHl_HHXN_XDNUX?lb!DsL.UsU+xlO+vl_vl?N+XUDxDU?x??+v+?LDL?UL+F.LvF_LlFF_XHsDDYFD?Hx_+HD_NHU_HX0NsX_N?XFNX8xsD+ls?++l++llN+?lYx(?Fx_U?xF?+vx?Dvs??DUF+LLFNL?FYDyYvD_YlDFYX_NHD_sH?NkXUNLXNNUL_XvDDX?NNXUNso^NFlU+XlHx+ULlHE?l_xLvDFnvl?FvXr_UHv?UHvY?XLx?FvYY+Hx_NH__lHFYYDNHY_FNYOls+mLsNLYXFNHV+N?XFlPOsl++vl?U?LG?+vL?NvUNXLuFvL_FlLFFXDxXDsvY?DHH+_LHN_?HYN=DUN_XlNF5+sx{Nss++FH+xlL+NUx+YU+xvU_xl?fDH?xvD?sLv?HLxFLDl?HLYY6DvYsDlYFDXHx?LHl_?HHNxXLNsXUs+xXsvd_sl.FsX+vlDxUsX+HU+xLU?xUUYv=?vXs?lvY?XLxFDLsF?_HDLDLYsDUYH_yHs__HlsDHXNLXDNUX?NH4+ssv_sUrYlaxxl_+UlFvXFYxDUYx??xv+?NvN?U_sF+LsF_L?FFDfYxD?v?DFYH_+X+_NH?_YXxNvXUUsXFNX&xlx2ssF2Hl+xDlN+UlYx+Uvx_UlxFUXvx?DDv??vHF+L_YlLUFYD(x_?lL?F?L?FHLHY_Dx?xDUH_DFYYN+HlNxXL4?sY6Xlx+DX++Y?sx+ULxNXYlnxxUxxxUDXHU(vLsHvDUFvD?_xsFlv?F?DvYvLNY?D+YYDDHHX?N?XHs+kLsNWUNYLXlD+?ll+FlXNa1UlH+wUw?vvl?NvU?YlDONUXv_NHY+DUYDDsY?U?LUFsv)YNLHYNDsNsXYNFXXsxLUX_s8X?+vU?+NlU+Y+xsD+HsU+XUx+NUlx+lXXsNRXvNHXHs+3DssoUsF+xlD+l_NXx_?HHN+vNYs_sXv_+X_DlXxs_XL+LU?+sl?+HHvsDwUlD+LUxxxU?xNU#+v?Lx_?_vH?HvxF_vFFsL*YlHDNvHl_FHX?v_UHF_UH?_xXsNCHY_GXlsYX?+??<+XUxxDX?sHx&U}xcUvXFlHvxsFvvUUvv?L+DFLLLFUD5lLH_NvHU_YXr?LDsHF_?H?NNXl_YYHNNI?NlllxllYx8Uv_s+slH+vlNxNs?xL?sx_lLv6Fxvx?FYD_sYlDFYXUvLNY?DUYU__HsDF?YDHHHNlHNNFYXNsnFNUlU+HlHx+ULlDTXUL?xLD?_vl?FlxxD?NvN?NvUlvvDFlxHFDLlF_D+YND+Hx_DNNXXN?XHs+LNX_NsX?NDX_sUl?x?lXxxUD_Y+NsXxLUsxblYXXUDx?UNvX?DvHFLYN_?Y?DHH+UDDFYHDFYYDLHU_xYXLxHvNvXH_F#+_LXYl+XX+XUHxvU_xlXXlxxLULxLUNxNUXx?sYvFUHvY?sYsN+YFDXHxUFLYYXvHHv_vHNDXHXNLXFLlX+_YXYNlXUNFHHsNRslxmsl_UXvs?vv_?llexH?xQH?DxF?Dv_D_HxDUYY_TxDYDDYHSDHYXvHHDDFHD__sNvU?YLRFvL_FlHFY?xxUxxDUsx?UHv+?LvN?F_XFhLvF_LlY+D.YLDDYsD?YH_+X_N?HUNrXzslX_NlXFNX+NsD0Fs?6Hl+xKlNLUUlxqUNx_?LxF?vvxHDvl??LxF+L?FNDvFYs6YFD_YYDFXs_xHH_s+?slX+NsXNlxXYslwvl__UsF+vlxxxls+?lHD++FxNUHxY?XvvY+vlFFllFvLlFsDYFHDxYL_lYXDYHD_vHF_lHF_X+xxvXss{XHs_eLlsaUlX++lv+FllvNlXxxUDvU?HxH?svLYxvU?YLrYD_+FlDLFX_YYDDsY?NqH__LXg_UPsNzXvN_XlssXXsNyDl+p?l-++ULv+lUx+U>xYU_xHUFL+YHv_?Yv?F_L+FLLNHUDxY5DsY_DHYF_^HxsDXv_?XvN+XlNNXFNY+2sUc_sYuFl +xlU+sF?xvU+xsUNxYUYLU?vLs?FvFFLLxFYLsF?LHX+_xYNDXYY_DHvNUHlsFFNNxXUNsG5NH!_sL+NHLaHlL+vUU+lU++X?LvuUsvqUHvl?LvN?UDYlsLvF?LlY+LXYHDDXsvvYH__HL_FHU_XXpsvDNNl KNX+NsDWYs?cHF++Lll+UU+x;UDx_UXx_UXvD?Dvs??vXF+LDFNLUxFDSYvD_Y?DFYX_xzDlvH?NxX+N_XNl+XYlxFUs_1XsF+Xlx+Dls+?FHx+UsxN?<xY?xvvY__L?FLvFxLlFsDHFHD+sXDNHPDYHv_vH__lHFHsXxNlXss+XHsxgLUNvDsY+Llv+sllvvlXvL_Fxs?+xH?XvL?NvU?YN3FvLUFlDxFXDLYDNsM_DHHD_LH?_Uf7NSXvv+XlsxXXsD4Dssk?sHsUlL+?lUxvUfxLU_xl_NxX?_vD??v??HL+FLl_F?D+YVDLY_DUYFDXUc_DHU_?X*N+XLNNXUsHWdsvG_sU*FsX+xl_+sl?+HUNxLUNxU?KvP?vv_?lvF?Xvx1LLUFFLHY+DLvQDFHl_RHv__xUFH_xH+_+HY_XHvDLHYs+HX+,FvL_FlLFFXDxND_LUULDUHv+?LsU+YUXxXUXvxs?xYF++?FxvlFxLv?DD_FsDsHt_>YL_sYH_UHxN?sN+Us?wHl+DDXlsY&FsF+slU5H_X+ Uux?llxHl+xU?HxFLUY?DCYvD_Yl+HYX_xHD_sH?_HX+lLFXNUXYsQ#vs_wXsFxX_U+Dls+?lHx+U_xNUUHX?evL?_vl?FvXFx_DUML?FXD+YDDNYYDYdOv?H__UHFNZXxNNXss+_Hs+ELsN+DsY++lv+NllxWFHxxUDxs?_xH?xvL?NXF?YLZFvL_FlLFFXsxLYDsY?DHH__LHs_UX+lXXvN_XlslXXsv5DssFYsH++lL+NlU+YU>Dv+HxlUFxX?NvD?Fv??HDxFLLNFULHYEDvY_DlYFDXHx_DHs_?HHN+XDNNXUNY#9lL6_sl8Fl(+xlD+sl?+HU+xLUlxUUYv8?Dv??lvF?X?DvDUlLx?FYvDsYNDUYYYLLLYlDL_HX?NxXDNs2YNx=+s_ NsFQYl3+v?_X+lFx+UxxNUsxFUHvNUHvN?YvYFzLvFNLlYvLXYx?LYsD?YH_xHL_NHU_Y?xNvX_NlXFNX-xsD)sLYeHl++Lls+UlYxdUvHsUlxFUXvL?Dvs??vHsvLLFNLUYID4YvD_Yl+HYX_xHD_FH?_HX+NL?lNUXYs3Vss_tlsFTX?Y+_lU+?UBx+UDxNUUvH?kvv?_vU?FvXFxL_FsL?FHlNYLDNYU_Z+vl_+llF+XUxYD?LX?N?XHs+iLsNhUsYD.lDxxll+FlXN4+LlF+LlL+UlN+sUHx_UXv+LsYlLFFXDxxl?YDvYxvDY_LsYs_PH=DLHsDHHU_xX?nNsF3?sH++HsNF!Yl+UxxFU_xlUFsvxllU+YUl1NUXxU?_FFD?Y2DvY_UCL?YvLUF_DD?HDvYHDYYl_lHl_LsD+:sltFsX__XUl7AX_++Al#+_lFHMvvH__lHF_XXxNDlssNFHLHY+DLYNDUYYFlxv_sX__FHXNxLsYY_NHv_LXs_FHH_+XsNs8vNHlX+XUxxDUsx?UH++XvvlF_vYFgLv+U??xY?YLDFDvlFYLvFXLNHTHY_YX%NvX_NlNFFUFxsNWHs?9Hl+DN._s_KFlxY_xsUHxFUXvx1+ll+YUvxYL_FFLUFYDuxN?XLYFsLL_DHD_sH?_HX+NLxv?UXXsLpvs_zlmvN)X?sllU+FlHx+ULsWUYxY?Ivv?_vl?FNY=xLsX+UNDY+vFlNXF_lFHvv7?xvD?sv??H_+vNNY%_s+mLsNDXY__vZNssAssNfLxLUlxsU?xHXUlNx_UsF8L/FvL_FlLFFXs_+DDUHqDHH+_LvFUHD_YYxDNsBXNFXXsxLNHl_HXlNsK_s_}Xs?.LNN+ssU+UUxxxl_xUU2xFULvYLlYLLYYKDv+YFsDSFNLvYxxUYUDUYDXNNNXUNY wsvg_?NLFl%+vlNxDl?+HU+Ns+HsX+xlHKvUDxFUDvvU?vL?_FYD?Y+DLYNl?DxYLDxYvLUHQDsYDLsH+NDHv.vsUSNsUuYYvsDX?NU+csLUDxDUsx?UHv+?LvN?UvXFxLvF_Ll+D?YYLDFYsD?YHULDvYDDHYxDHHNXsNFXFNX)xXv_Ymx+ZlD+LlN+UHvsX++lUU?vxUXvx?DsFJ+?}xx?+xFLFYHDEYvD_xxFlLBFlLU?FDYFXDXHN_NY?_XHDN+HlsxsXkXlx+Dls+?lHDUHLxl?DxY?IvvX?lUxXUsv#UF+??XLN?YvlDlH+DYHm_vv_FUD4YvD?HvDXNYRLs+ LsNDYXxNvcxsLXY+HU_xxUDxsHXlvxLUsxlUlv_LxF?L_FlLF+XF+LsF+LXFND:YxHlNhHYNmXvFU_+H+_FHNNss?d?sH++lL+NlUs?H!xDUFxlUFxX5xl_xUUrxF?DF_DHFULYYMFDvsY+vYYxDDFUDFYLDxU?xvU_xH?&vs?NvU?lvXFLLDFN+?vD?NvU?YLmFvl__X?_v_?lvF?XLxFDs_s?DAYDDLYNDUvqFlDYF?HF(_ssi?sH++lLDNLZs_)?sU-Ylc_vyxNU+DxxUxxDUsx?UHv+YFNN?YYNDlYFDXHx_DXs++DNHvD?YH_+xYYLL?YLDD?__DHD_?X+vDsNIYs?VHl+_D9FsvP?lLU_x_UlxFUXvx?DxsXUL-FDLLFNLUx+?lL6??Y?_wYX_xHD?_LFY?D_NNl++vl_+llF+XXHF?++lN+Dls+?HNsHZDsHTXxX?Uvv?_vlBHUHvN?vxFl+Lw?xL+?FYF_+H<_vH_UHDUHLDXNNXHN?XHs+DNX?NFXFN?Xs+sUV+FlXxxg?lU+Ul?fvN?XlvFFsLGFvL_+Y?+LNF_xFFUvFFHD+FlL?_UvDN+XvN_XlvHXXsxqDssR?sH++lLYllU+HUoxvU_xlUFLXsXvD?lv??XL+IvLNYhDxYSDLY_DXYF_%Hx__Hs_X+YN+XLNN{9NYy+sv+sDg#Fl2+xls+sl?+H?+sDUNxUUY_X?vvN?lvFs+LxFDLsF?LHY+DLYN+FYY_+Hv__Hl_FHXlxYxNsXFNH{xsLxFsU+vUL+vlN+lUl+XUvxDUlx??x_5?LvN?ULUFSLLF_D?lvLXYvDDYYD?YH_+XLFsHU_YXVlsX_NUXFNXFLsDpss?QHl++LlN+UDXx!ULx_UlxFUXvxYD+D??vXF+LDFNs?FYD_HxD_YUDFXv_xH__sHF_HXDUvXNNUXYlL=vsN%llHY_lx+_lsLHlHx+ULvNS?xY?ovvXNvl?YvXFxONFsL?FHD+YLDNYUDYUx_vHN_lHF_XXxND+sDsXHsxmLssBUF?+0llxUll+YlXvYUDxlU?xX?+vsH_vU?YLGYHL_FULFH++lYDDlY?NFH+_LHNNULHNIXvN_vNNF:=sxmDLUZ?sH++lD+NlU+YURHDU_xUUFv+?xvD?sLYsDL+F_LNXxLYYhDvY_FPYF_{Hx_NHs_YHHN+svNNXFNY><sv.lsl+HUl+xls+s?_+HU+xLFNv+UYvv?vvl?l_x?XDLFsLsFXLHoHDLYNDUHX_lHv_?HlsXHXNxXDsUXHNHnNsLxUsUSYl&xD?p+lUv+XFDxDUsx?UH_+?LvU?ULLFGLDF_Dlx_DZYLDDSHD?H+_+X_NlHUNOXi?_X_NlXFlXYUsDc?s?++l+vDlNvUNDx{U_x_UFxFFvvxFDll??LAF+_DFNLYFYD/lDD_YFDFHx_xHD_sX?FXX+N_XNUFXYsvcvs_vlsF#Xlx+Nls+YlHx+__xNU?xY?Lvv?_vl?F0+FxLNFsLFFHD+YLDNlFDYHv_vHs_lHF_X;LvFXsNXXHFv{LsN.UsYYxlv+?llx+lXxxUDLssvxH?_vL?FvUHYL^FvosFlDxFXDNYDDsY?NH?l_LHY_UXvNSXHN_Xl??XXsNiDsYR?lL++?LHXlUxxUQxsU_D_UFL+NlvD?Hv?H+L+FLLNYF+LYcDUY_NNYFDXHx_Dx__FX+N+X?NNXFNYz&lL3_sY(FsX+xlU+sU?+XU+xsUNDFUYva?vLsY_vFFLLxHOLsF?LHX+_DYNDXYY_DHvsFHlNH(LNxX?NsvsNHP+sL+ls?gYlN+v?l+llF+X?LXLUsvvUHDL?LvN?ULXF+LvFXLlHXLXYxDDYs_sYH__HLN HU_XXRsvX?Nlo-NXvssD2Ys?xcUx+LlF+U?sx3Uvx_FlvFUXvN?DvY??_LF+D_YxLUYvDo+KD_YlDFX+_NHD_XH?NFX+NLXNsF+ss,=?s_xFsF{XlxxNU_+?UNx+FNxNUUxY?6L_?_vH?FLsFxLNFsD?H+D+YsDNnlDYHD_v+_NLHFNvXxl+Xs?DXHlvPssN#XsYDvlv+_llvFUFxxUUxs?1xHYxvLYND;?YLDFvL?Fl_tFX_xv_DsYXDH x_LHF_UHYU)XvNsXlsaXXsLoDsss+sH+LlL+?lU+YU-xv_sxl?txX?LvD?sv?Yi*sFLLFFUl+YEDvY_DllHDXHs_DHY_?HHN++LLXXUsvQ1slg_?l*FsXYLlD+Xl?xvU+xLUNLUsDvy?Uv_F5vFFULxFDF+FFDLY+DUYN_+YYs#Hl__HX_FXDNxvlNsTYlU!+s?2NsF#Ylg+vl_x_lFxvUxxFUsxYUHv+?FvN?XvYFxLvF_LlYHDDYxD?YssNYH_+HLNly+_YXNNvxXNlXFNX+LLFfslvVHFU+LlN+UUXHNUvxXUl_DUXvx?DLUsxvHF?LLOALUFYDIYvs_Yl_+YX_FHD_UH?_H?vNLXYNUXHspgvs_RlLH>Xll+DlU+?lHx+?_HHUUvD?dNL?_vl?FvXsLLDY+L?FHD+YLDNXUvDHP_FH_NxHF?JXxNDxsN?PDs+TYsNAFsY+uxx+_U++FlXxxUsxs?Yvm?+vY?NDD?YLAFv__YsLFYsDxYHDs(+DHXv_DHNNLHYlvXvN_XlsHOXsx+PssxDsH++lLxlUY+YUFxvFlxlUFxXFLD)?sLs?HD?FLLNFULYYlDvYXDlHlDXHL_DXsNNHHNlXLUYXUs_PAlD;ssl+DsXx+lD+sl?vHUHxL?ZxU?_v1Xsv_F?L_?XLFFDNlF?LHY+__HDDUHs_O+L__Hl_F3+sLXDsLX?UXe+sL NsUvYl6+Fl_xDlFx+UxvD{lx??_v+HXvNFvvYX/??F_D+FFsHYx_HYsD?QH_+HU_NXx_YXxNvX_v?XFs_Bxs_!ss?rHl+Y_lNxxlYxxUvx_UlvHN_vx?HvsF?vHF+LLFNBFFYDUYvD_YlDFYXsxH__lXD_HX?NLv_NU;XlUIvl+ lUUPXlx+DlsxNlHxlULvxUUxX?Cvv?XvlFDvXFxLDFFL?H&DXYL_+YUNsHo_vH_slHY_XXFNDVxN?xLs++_lHPUls+oYp+_ll+F?+ssU_vLU?_v?+vL?NLFY+LpYbL_HFLFFXDxHN_YY?_FH+NHHN_UHYN7(_N_CvNFOYsx8Nss+?l<++lY+NYC+YUUxv?sx?UFvl?xD{?sv??H_+YLLNYLLYYUDvXFDlHHx_HxNoHssHHHN+XLsl_(NHQFsv+?sl^FsXxLl_+sUs+HFLxLUNxU?XvL?vLL?lDX?XLxFDLsYsLHY?DLHDDUYX_dXvNXHlNDHXU+XDsxX?lWMHsL++sUD(l3+vl_vllY+XUFxD?xx?YDv+YL.X?ULNFTLYF___FFDXvvDDH+D?uD_+HH_N+UHDX.NFX_?sXFl)1xsDvss?+Dl++YlN+FlYxK_Dx_?+xF?ivx?Dvs??#}F+LYFNLFFYDMYv_sU;DFHl_xXD_sH?_HX+v_XNsDXYsQpvs_/lUF+#lvxJlsx_lHL_ULvl?NxY?FvvFsvl?FvXFxLHFsDLFHDYYLDlYUDYXv_vX _lHF_XXlND5UlxXHsF7LUx<UsY+K?v+HllxNlXxYUDLHU?L(FYvLFvvUXULIFvL_Y??xY=DXYDN?Y?DHH+N_Xx_UX?NM+_N_XlNF++ls^DlNI??+++lL+NlUxLU-xHU_vsUFv+?xLD??v?FsL+XULNYDLYHx_UY__LYFNUHx_DHss?XFN+XXNNhDNYx_sv+sDkPFl?+x?s+sl?+H?vsUUsvNUYDv?vv_?lLHY{LxYvLsHHLHY+DLHlDHYY_XHvlRHl_FHXNxgYNs&_NH+2sLWlsU+YlD+vUk+lF?+XUYxD?ULsUHvF?LNU?UvYF&_vH6LlYNLXYYDDXXD?XHvlHLNxHUNsXkNUX_slDYNXyFsDxXs?+ll+LL3X+UUNx,Hxx_FHxFF+x_?DLv??s+F+LLFN_UUDD>YHD_HLDF=T_xBDUxHFNlX+NXXNsHXYl-+Us_+vsFv/lxxWlsxYUlx+UXxN?lxY?SvvY_Ls?FLUFxDVFsl9FH_vHDDNH_DYHU_vH__lXHN?XxsxXssDXHs+aLll+?sY+Hlvx^ll+FlXxxYDxs?_xH?XvL?lvUFYU+FvDMFlDLFXDYYDssDvDHH?_LxY_U8FN6XvUFXlsLXXsFkDss2?sH?FlL+UlU+YUbxLU_xlYFxX?vvD??v?FJL+FLUDF?LXYKDlY_DlYFNXX?_DHU_?XqN++_NNXUsF6,sN,_sU1FsX+xUNvDl?xvU+xUUNxUUYD*?lv_?HvFFLLxH?LsYYD?Y+DUYN__YY_7HvNsXU_FX_NxvsNsX?NHx+DFMNl+gYlN+vF++l?FXNUxxFUsvxUH_Y?LvNHUvYFDLvFYLlFHLXYxHLYs_+YH_+HL_sHUNX0?NvXYNl+NNXAxsDxsUsdHls+LlH+UFvx^?DvLUlvLUXDD?Dvs??DJFvLLY>LUX#DyYvD_H?_YYX_FHDs?H?_HX+s_*?NU ssIx_s_-lsF.XFx+DlX+?Ulx+U_xN?UsH?rvl?__s?FL_FxLDXsL?YaD+YUDNYFDY,1sHH__?HFN+XxUYXsN?xlsxf_sNfFsY++lvxssY+FU+xx?sxsU?xH?+X_?NvY?YLrFvL_Fl_FUNDxYsDsYHDH+X_LWNNlHYNvXvNlXllxXXsxv4sl{YsH+vlL+slU+Y_xxvUsxl?xxX?xvDYsxL?HLvFLLlFU_XYANvYUDlHEDXHv_D(+_?)}NHXLNFXUsvPVsv;_Ulx+sX+NlD+Yl?LLU+v_?+xU?vvCHUv_?lvFY+LYFDLXF?l+Y+DLYNNUHF_/HU__Xk_F+UNx+DNHX?sDV+s?RNF_1Yl xFl_+HlFx_UxxNUsx?vUv+?UvN?UvYF+LvX_LFFFDDYxNHYslsYH_+XN_NHF_YX_NvXsNl+Flv8xsNtssYtHFl+LlNv5lYxxUvxsUlxYUXvxFHvs?YvHFNLLFNLUHY_vYvDsYlDHYXsLHD_sU__HXDNLXsNUXYse+DNUnll+3Xls+Dls+??HXlULxFUUvx?^Dl?_L?svvXFsLDXFL?FHD+H_L?YU_LHyU_H__lHFsXFUNDXXN?#Ds+xXsNxU_D+JlU+_U0+FY?xxUDDsU?vv?+v??NvF?YL vlL_FXLFFXDxY_DsT?Y_H+_UHNs_HYN+XvN_xlNF/+sxR?ss}YsHv+?X+NlF+YUxxvYHxlUFDU?vvN?svY?HLxFLDl?HLYYxDvHlDlYFDXXLxFHs_HHHNUXLNNXUNYx?sL,ssl&HsX+vlD+sDY+HUvxLUYxUUYv!Yv+X?lvH?XLLFD_UF?_HYLDLY?DUYH_iX?__X?NUHXNNXDNHX?NH(+UL+UsU+xl7+sl_vXlFv+UDxDUHx?UXv+?LvNFFDlF2LUF_sFFFLXYxNDHCD?HD_+H?_N+D_Y+eNDX_s0XFs_{xF+3ss?xxl++llNx+lYxxUvx_vDxF?Dvx?Dvs?FvHX+DNFNDAFYDYYv_YYlDFXL_xHN_sX+_HXvNL+NsNXYsxIvss}lFL.Xlx+lls+YlHxvULxsUUxYF2vv?svlFxvXFxLDHsDXFHDvYLDlYUNXHtsv?H_lX8_XXvND lN?+cND{LsFQUlv+Jlv+_?lXLlXxNUDxYU?DL?+L_NHvUFvL%FLL_FlLFH+L_YDDXY?U+H+_LHNsUFDNKXUN_>pNFxUsxxD_PV?lD++l?+NY_+YUWDvU_xHUFv_?xvN?sv?LUL+FULNFULYY+Dv#_DHYF_DHx_lHsUxHHN+XUNNXFNYo_svmsslxFUl+xlN+slY+HYlxLUNvDUYvx?vvs?lvY?XLxFFLsFYLHYNDLYNDUXY_YHv_sHl_HHXlLXDlsYvNH!DsL%ssUvxlkxDsU+lU++XUsxDUsx?FH%l?LvF?ULxFf_lF_D?lvLXYsDDYlD?YH_+X_D?HUNLX7?_X_NlXFlXYUsDwXs?+Dl+vXlNvUNDxbUUx_?0xFH?vx?D_s??LvF+L?FNLFFYDbLlD_YXDFYX_xH__s+?H_X+NUXNNHXYsFevs_vlsF++lx+?ls+YlHL+FXxNUFxY?xvvHHvl?F_UFvLNFsLYFHDxYL_lFHDYHx_vXl_lHF_XBLvFXsNHXH??JLsNaUsYv?lL+sll+HlXxvUDLsY_xH?vvL?svUYYL!YDFLFUD4FX_YYDDsY?NHXs_LH?_UX+N:+lN_h?NHXXsNZDFDT?sH++U_+HlUxvUQvYU_xlUFL+FUvD?Xv?H+L+FLLNYF_sY4D?Y_NFYFDXHx_DXN_?XxN+XFNNXFNY+xLUk_sH8F?v+xlD+sUYHDU+xUUN__UYvR?vLsstvFF_LxXlLsF?LHY+YsYN_xYY_+Hv__Hl_F_sNxXNNsrvNH&xsL+lNH7Ylx+vUl+llF+X?LHFUsxHUHN+?LvN?UvYH?LLFsLlFHLXYvDDXss_YH_vHL_sHUl?XRNvx+NUXHNXOLsD;ls?(HUx+LlN+UlHxrUvx_UlxFUXvx?_vs??vHFvD?FNLUFYUD+FlNLFFFLLFDDl?ULFHxDUHvvUHl_?XvNNXs_UXDNY=_+DlY+?lHx+ULHlUUxY?7vv?_vl?FD+slLDFlL?FXD+YLDNYUFLHA_vH__?HFN+XxND?_N?XHs+p_sN}UsY+1UL+_ll+FU=xxUDxsU?xH?+vL?lvU?YL;FDLFFlLFFXUNLs?YLYUNLD__HF_UHYN{_sHlDHHHDHsxxLss3?sH++D_+NlU+YUcxvU_xlUFlN?vvD?svF?HLvFLLY4ULHY;DvHvDlYYDXHx_DHFlUHHN+XLsLXUNHOPsvFsslEYsX+vlD+sl?+HDFxLUlxUUYv!?vv_?lUv?XLvFDLUF?DqY+DUFYDUYH_iHY__HU_FX&NxXlUNX?NH;+sHZNs?QYlLLxl_+llFxFUxx_Usx?vNv+?LvN?FvYFwLvF_iNFFLXYxDNYsD?YH_D+v_NHU_Y8HNvXNNlXFL+>xs_bssHhHl++LlNXllYx+UvxNUlxHUXvxF_vs?YvHFDLLFNLUFYDHYvDlYlDYYX_xHD_sXD_HXvNLXlNUXXsR}llHrlsH#XUl+Dll+?lHx+UsD_UUxY?cLU?_vU?FvXL?LDFlL?YPD+YLDNYU+?HG_LH__?HF_XXxNlxNN?XHs+xxsNn?sYxxDU+_l?+FU+xxUDxsU?XV?+vN?NvX?YLmFv__U+LFYxDxYsDsYFDHH+_DHN_FHYNxXvNlXlNFsssxSNssBYsH++lL+NDF+YUxxvUsxlUFxX?xXv?svY?HLvFLLNFULYH+DvY_DlYYDXHx_DHs_?HHN+XlNNXUNYExsNr_sliF^xN?XFs_lYxvU+xLUNln+llXxxUs?FvF?XLxFDLsF?LHY+D_Y?DUYY_yDCFNDYYLXxNxXDNsX?NHr+_LL_sF+HlS+vl_x?l(+XULxDUFx?UHv+YLcX?UvXF^LDF_L?FFLXxDDDY?D?YH_+HD_NXF_+X2NNX_NYXFNXtxUDHws?+xl++slN+?lYxCDHx_UHxFUXvx?Dvs??UDF+LsFNLFFYDxYvN_HDDYHv_xHl_sXQ_HX+?sXNNYXYsv2vsU%lsFN_lx+Nls+YlHxvULxNF?xY?xvv?svl?YvXHsxsFsLYFHDXYLDsYU_7Hb_N+D_lHF_XVaNDXlN?ex?rwLsNJUlF+ lL+_ll_:lXxLUDxUU?xX?+vLNDvU?XL4FDL_FlLFFX_vYDDsY?DXH+_LHN_UHYN2XvNYXlNFXXsL!UssA?sHDL4vsvRlsXUvxvU_xlUFxXlxULXsvYFNL+FLLN+H?Dvl?_L+FNL+YxDD_NXm_?HHN+LlFrLYX+NxXxN+HHmXsX+xlD+sl?+Hl+_vUlv=UYv#?vNlxsUsxH?LXsLUYxLHY+DLvYFFLFFYvDUYx?_HixNxXDNsX?LyB+s_!NsUWYlW+vUsH}lFxxUxxlUsx?UHv+xUvN?HvYFeLvFsLlYxHUYxDUYs__YH_xHL_NHUN++XNvX_NlzNNX.vsD+UNX:Hl_+LlY+UlYxZFvlMUlv+UXvN?DvX??DTYHLLFYLUFXDpYvD_H?_sYX_lHD_UH?_HX+s_XHNU)Ds-4Ds_IlsFiXlY+DlY+?U_x+U_xN?UsH?ZvN?_vU?FLLFxL?_vL?YvD+HvDNY?DYH+_vHUlsHF_XXxsLXsNFXHlvF?sNCXsY+Dlv+_llxFuOxxUlxsUHxH?_vL?N_U?YLxFvLUFlLHFXDxlvDsYYDHHv_LHN_UHYs+XvN_XlNYXXsx%DssB?sH++lX+NlU+YUxxlU_xlUFNxx+U+xNUYX+LvF?LNFULYv_FDLDF_xHU_xL_NXN_?HHN+v_H__FH+_DXDDlXxs_XL_xXHl6:!sUUvxNUNxUUYlH+sUY??LL?XLxFDlY+Ll+L!F_LD?XLX_vHv__Hl_FHXDx_L?sXYsvW+sL1NYtNXX+s*X?+?UF+XUxxDHUsF++lF+?Ulxl?xxHUN}l?svs?HLLssYUDXYH_+HL?FxHY_DYNDexNlXFNXLDXLNUXlNv v__XsNHZ_lD+_xlUlxFUXvx?Dvs??vHFL_!FNLUFYD^lDD_YFDFYX_xHD_sXYvDX+NsXNs+XYshcvs_NXsF+Llx+Dls+YlHxNvXxN?GxY??vv?Nvl?FvXF_NLFsL?FHDFYLDsYU_XYL_vHF_lHY_XXxND+sHDXHsN1LsY6UsX+zUDx+llxvlXxsUDxsU?L0?LvL?XvUFvL8FvL_Y?DsFXD?YDDHY?DHH+_LHH_UXvN/XFN_X?NFMXHvGDsY8?l_++lU+NFUlDU<xsU_xFUFvU?xvDxHv?FLL+FLLNFULYYK+DY__iYFDXHx_DHsNY?DN+XFNNXXNYJ sv9_XX;Fls+xlD+slF+H?v+sUNvLUYvl?vv_?lDFlNLxFXLsYDLHYDDLYN+DYY_?Hv_NHl_FHXNx?(NsaNNH#vsLWNsUCYFW+vU,+lUs+XULxD?ssFUHvU?LL+?ULNFmLvXFLlYvLXY?DDYsD?YH}FHL_YHU_YXZNLX_NlxFNX6DsD=Hs?+rl++LDD+UUdx)UDx_UlxFUXLv?Dvs??vXF+LLFNLUFYD,YvNsYlDFYX_DHD_sH?_HX+NLHN?lXXs?uvs_3lHtNNXNsxXY_H+xlv+vlxmXxX??vv?_vldXULxD?Lv_UX++FVL;F_LFDXH__vH__lLrYNDNHxDYHH17s_fLsN6UXYNvXLsxZD+XlXxxUDxsU?xH?+vL?lL+?YLJFvUYxHFpv_?NLvFHYY_vH+_LHNFrLHYF_sY?X?NXXXsx*DY?NV.x+vlX+NlU+YXLs?d?l_++sx+NlsxNUlxxLvY+LNFULYxv?sLx?HvXYvLNFlvFYvDvYHDlNlbvNY.,svDUX+N+XFNNHxNlPLsFUvx?UNxUUYNN+XUD+?lYx??DFNLXF?LHY+lsLqY,L_FLLsYsH?NLHXNxXDF?_qXxNDHYNDX+sWlx+sl_+llFlx+xs_+Xll?VvN?LvN?Ul#vL?DvD?Lv+D+YHDDYsD?vxFlLlYLLX?+DlHlDXYY_+X+bLsU/ss?8HS+ND0IsF+/xxUNx_UlxFBvlNxYUF?YLLF+LLFNlYvx?vLxFLvYDHHH_xHD_sxYFXDLYXDHHF_FXDN+HULFX?N?S+sNlU+XlHx+ULl?7?Uz+?vDFvvl?FvX++?Nv+?UvFlYvDFDL+YxL+FUL?_?XD_XXxNDLFHv_vHH_lY?_XMDsLlD+Hll+FlX_HQ_l_+xUv+xl?+FvFFULOFvL_+Y?+LNF_+l?lLYFlxLYvDvYlDXNxXNN_XlNFLFHv_HX_8YlN++lL+NHHsx+slNHlls+slHxLvNF*v??HL++sUFLxF++L?LLsFLYH_LHx_DHs?+DUYxD?HUXFsl)osva_FYND>DN?XlNY:Y_++Iln+_lFUXvY?vv_?llmxNUNvxUY+X?vLlFs+???LXF?HDN+Hl_FHX?vDsY?_IHFNDFNN_X_NFhx+L?X+UlF+X?L+lUsxFUHv_?LvN?ULv?ULvFsLlFFLXYvDDYUD?YHxvHL_NHU_YX7NvX_NlD?NXCxsDkss?bHl++LlY+?lHxIUDx_U?xF?Dxs?Dvl??LNF+LDFNL?FYDLTxD_YlDFHs_xH__sH?XxX+NNXNNUXYsT9vs_FNsF+xlx+Nls+?lHvv_?xNUYxY?_vv?_vlYF+FFxLlFsLYFH_MYLDYXNDYHL_vXL_lHY_XXvNDXFUUXHs+KLlD;UsH+1lNLDll+FlX+HUDxlU?LHslvL??vU?XLJYxL_HlxlFXD_YDDFY?_UH+_UX%_UX+Nbq_N_XUNF3=sx:l?N!?sH++UN+Nl?+YULDxU_xlUFDv?xv_?sD?l_L+FsLNFFLYYXDvX_v+YF_vHx_lHsNNHHl+FFNNXHNYELsvcHsl+xFX+vll+s?X+HUxxLUNxU?+DX?vv_?l_n?XLvFDLssYLHYDDLYsDUYY_kqvUlHlN{HXN_XDNFX?NH6XsL/FsU<Hl#+vl_vlU_+XUNxDUYx??lv+?LL??UL+FdLNF_LHFFLXYLDDYYD?HV_+HL_N6UsxXBNlX_N?XFsHbxUD+Ns?+Ll++UlNx_lYL8?sx_UXxF?Dvx?Yvs??LYF+LlFNLFFYDxYv__HNDFHv_xc+_sXr_H++YlXNNYXYsvJvsN{lUFHNlx+lls+YlHveULLNsxxY?Lvv?UvlF_vXFssDFlLXFHs?YLDsYUDYHg_N+D_lHF_XxFNDXlN?+HDl*Ls?OUsX+{Ux+_?lXLlXx_UDxFU?vs?+DLlLvUF+L/FNL_Y+LFYDDHYDDFY?sFH+_DHN_?HYNLxxN_XlNFxYsxB_ssSX?Y++lL+NYL+YU+xvU_H?UFvv?xv_?sv??H_+ENLNFHLYYLDvYUDlYFN_Hx_UHs_FHHN+XLlN=sNYWDsvG?sl+NsX+xUD+slX+HUDxLUFxUUYLU?vv??lvH?XLxFD_sYsLHYNDLYlDUHF_E=vNLHlNxHXNsXDsxX?lH+UsL-YsU+vl!+?l_+l?y+XUNxDUUx?? v+FLLD?UL+FoDsF_LHFF_XvNDDY?D?H+_+HD_NZULDXbNNX_N?XFsH%xUDHts?+xl++slN+FlYx_HvxNUYxFXHvx?_vs??vHFDNvFNLUFYlXYvDNYlNF?N_xHl_sHY_H=yNL+NDxXYsLkvsU.lsH#X?xHYls+XlHxDULxXUUvvXfvL?Uvlk?vXFvLDFsL?Yxs%YLDNYUUFH}_LH__lUH_XX_NDXlN?XHs+xLFUuUl++5lN+_lY+FlXxlUDxYU?xX?+vL?NDUF_LIFsL_FHLFYUDxYD__Y?_xH+_sHN_XHYNwOUN_XHNF#+sxbDssx?lx++lU+NlF+YUXxvF_x?UFvD?xv??svY?H_+FDLNYaLYY_DvYHDlYF_?Hx_UHs_YHHNvXLsNrYNYWLsv+Nsl++sXvxXU+slH+HULxLUsxUFYks?vvU?lvH?XD+FD_sUsLHYDDLY?DUHX_6Hl_YHlNbHXF_XDNlX?NX%+ssv_sUeYlp_Nl_+UlFxvY+xDUsx?+Lv+?DvNYU+DF}LNF_L?FFDHYxND?MD?Hx_+Hs_NXF_Y+#DcX_NYXFsv.xsY.sl++Ul++slNNLlYx+UvxNUlvQYHvx?Dvs+DvHFxLLF?NlFYDmYv?FYlDYYX_xUN_sHX_HXxNLXNNU+YFv7vsU2llhJXl_+Dls+HlHx_ULxsUUxY?*DvFYvlF+vXFNLDYvL?FHDvYLD?YU_+H(_sH__lX__XXNNDXUN?XHs+xLlNpUlv+elD+_Us+F?XvXUDxHU?vL?+L_?NDUFNL4FlL_FXLFYNDxYD_FY?_vH+__HN_FHYsSXLN_XYNFaYsxcUssx?Xv++lN+NlY+YU+xvF_p+UFvv?xvN?sLU?H_+U+LNFHLYYLDvHXDlHx_+Hx_lHsY_HHNxXLNsXUs+xXsvV_slNNsX+vlD+FFU+HU+xLxLxUUHvwYvfH?lLK?XLLFDDNF?_HUlDLY?DUH+_#XF__QlLlHXN_XDNFX?s_.+sU+lsU++lmsLl_+UlFx7UxxlYNx?UHv+xDvN??vYFLNxF_LlFFFFYxD_YsD?Uc_+Hs_NH?_YXENv+_?FXFsv7xslZssX2Hl+xFlN+XlYx+Uvx_UlLFFsvx?UvsFZvHFFLLFND+FYDLYvDUYl_+YX_xHN_sXc_HXvNLXNNU+Yl+fvsF<lsHkXU++D?sxLlHxNULxYUUL_?ADvF+vlFxvXFsLDY5L?FH_lYLDFYUDXH3_DH_NlX+_XX_NDTFN?Kvs+xLHF-UlI+bl_+_lU+F?XXUUDxFU?vr?+Lv?NDUlUL7FNL_FYLFX2DxY?_vY?_xH+H_HN_?HYN+XvNUxsNFXXsxsNss)FsH+DFv+NlU+YvLxvUNxlFFzN?xvl?svY?HD(FL_NUxLYYLDvYUDlXYDX xLxHs_XHHNDXLNXXUsvevsvIUsllLsX+vlD+ll?xxYPxLUNxUvDv=?Lv_?Y_??XLxFDYFF?LXY+DLllDUH+_2HL__Hl_FEX?DXDNFX?sxT+ss NsU+Yl +sl_+UlF+XUxLDUYx??vv+?lvNFDvYFALYF_LYFFDvYxDUYsD?HU_+Hl_NHF_YX-Nv+_sYXFsDWxsNrslU%H?++llNxZlYx_UvLNUlLFFlvx??vsF+vHFlLLFN_LFYDDYvDsYlDHYXNx(^_sHX_HBXNLXFNU+YHD5vsl/lsXrXlv+DU_SvlHxNUL?HUUxH?Cv_?_vYH?vXFxLDDXL?FXD+Yss_YUDYH&DXH__UHF_X?LNDXFN?%+s+aLsN2UYF++lN+_lU+FU%xxUDHUU?vx?+vD?NvU?Y_fl?L_FYLFYvDxXLDsX?v?H+_sHN_HHYlxXvNF+vNF5vsxULssGFsH+xlL+?Fl+YU7xvLDxlUYxX?__L?sv??HH?FLLsFULYlxDvYUDlYYDXHx_DgsLvHHNDXLN?XUlFC}UvYHsl+7sX+_lDvUl?vHFFxLU?xU?+v-?Fv_?lXH?XLsFDLlF?LHY+NLUXDUHv_THl__HY_FHXvLXDNXX?NX{+sL)NUUHDl7+Ul_x5lFxUUxxDHNx??Lv+?UvNF+vYH4+?F_LXFFDDYx__YsD?DN_+Hs_NX{_YX+NvX_v?XFsv%xs_ass?gH?+HFlN+HlYxLUvLDUlLFsNvx?lvs?XvHYNLLFYsUFHDLYv+CYlDYYX_xHD_F+U_HX+NL?+NUXHsOgvLshll7hXlv+Dls+??HXlULx?UUv+?0Dx?_DllLvXF_LDFFL?HLD+XLsxYU_+H(_NH_NxHF_X?LNDXHN?XXs+PLsNxU_D+}ll+_lX+FUvxxUDHUU?vD?+vD?NvU?Y_)l?L_Y5LFY_DxHVDsY?lYH+_UHNNQHYNNXvl_Y+NF/DsxC?ssxNsH++>Y+NlH+YU_xvUNxlUFX+?xvl?svF?HL+FL_NUxLYYLDvYUDlX?DX2xvYHs_XHHNDXLlLXUsvL^sL9UslY_sX+vlD+sl?xxYOxLUNxUNNv#?Lv_?lXH?XL_FDLlF?LHY+NLUXDUH+_IHN__,s_FtXLUXDNFX?sx)+U+oNUUvslC+Nl_+YlFxsUxxD_Ux??Lv+?DvN?UvYH7+?F_LXFFDDYxDlYsD?UP_+H?_NH?_YX/Nv+_D+XFs_1xsFasl_2Hl+DvlNxalYx_UvxYUlLFsNvx??vsF+vHYDLLFNFvFYDLYvDFYlDYYX_xUN_sHX_HXxNLXNNU+YDstvsU0ll/EX?++D?sXslHxDULx?UULs?)vl?NvlFgvXlxLDFlL?FXD+Yss_YUDYH}vvH__UHFNvx+NDXsN?Yls+kDsNiULX+2lN+_lU+FlXxxFDntU?vx?+vs?NDl?Y_dl?L_FYLFYvDxXfDsX?slH+_sHN_HHYNlXvN_??NFnDsxq_ss*?sHv+_F+NU1+YU_xvUUxlUFX+?xvF?svF?HL+FL_NUxLYYNDvYYDlHNDXHxULHsN+HHNNXLNHXUlYYssvuFsl+xsXv(lD+s+L+HUDxLUYxUUHv/?vXs?lL0?XLvFDLsF?_HUlDLY?DUH+_z6x__klLlHXN_XDNFX?s+2+sUx+sU++lfXLl_+UlFxVUxxlYNx?UHv+lDvN??vYFLNxF_LlFFv?YxD_YsD?U0_+Hs_NH?_YX5Nv+_D+XFsv(xsl!sUUAH?+HFlN+HlYxLUvxlUlLFYUvx?lvs?XvHFULLFN5FFYD_YvDNYlDFYXsx?Y_sX+_HXNNLX?NUXYLxKvsYClsY8Xlx+D?sXvlHxsULxHUUvs?OvvXDvlFxvXFsLDFXL?HHxlYLDYYU_vH.NsH__l_D_XX_NDXHN?XXs+=LLlVUl++JlL+_ll+F?XXUUDxFU?vx?+Dv?NDUlDLpFNL_FYLFHXDxY?lsYF_xH+_>HN_?HYN/XvNUxsNFXXsxG+ss<FsH++D_+NlH+YU+xvU_xlFFgN?xvl?svX?H_BFL_NUxLYYLDvYUDlXFDXcxl.Hs_XHHNDXLs XUNYFxsv8FsliYsX+xlDvsNv+HUNxLUYxU?+vG?vXs?lLv?XLvFDLsF?_HUlDLYHDUHL_rHH__HlU?HXNsXDNHX?sDA+ULYXsU+vlB+ll_xNlF+X+?xDUFx??Lv+?DvNYU+DFrLNF_L?FFDFYxD?+sDFHx_+HY_sH?_YX&NvXUUsXFNX;xsHelsFkH?+HFlN+HlYxxUvvvUlLFsNvx?lvs?XvHY?LLFYsUFHDLYvDXYUDYYX_xHD_F+U_HX+NLeiN?XHs!+DNUKllp/Xll+Dls+?lHD&UDx?UUxH?2vD?_DlFUvXFNLDFUL?Y?D+XL_hYU_xH6_sH_svHFNXn?NDXFN?+_s+7lsNxUsH+el_+_lF+FU^xx?N+FU?vx?+LN?NvU?Y_WUgL_FHLFY+DxXLDsH+_UH+_lHNNsHHN+XvNNXlsMxHsx7Dss+lsX+xlL+N+1+YUDxvU_xlUFxX?xv??lvX?HLvFLLYFUD+XXDvY_DlXF_ Hv_DHsxYHHNUXLNsXUNYSqUvYHsl+DsX+?lDvNl?+HH(xL?JxU?_vz?Uv_?Xvx?XL?FDDHFFLXY+DDYNDHWF_zHv__XX_YX1NxXlUNX?NHm+Uvdss?wYUx-Nl_xxlFv_UxxDUsL?s_v+?YvNFvvYYRLvFFLvFFDlYxD_YsDFYH__HL_NLl_YXkNvXHNlXFNX7xLNCss?4Hlx+LlN+UlYNXUvx_UlvvUXvx?DvsNYvHF+LLFlLUFYD2Yv?DYlDFYX_DHD_sH?_H+FNDZPNUXXs<aLs_SlF>+Mll+Dls+?lHx+UUsUU?v+?qLv?NvU?FL+FxLlXNL?FHD+HLDsY?DYHHlsHN_XHFlLXvN_XsNHXHsDvvsNbUsYvDlL+NllxQFHxxUDxsY+xX?xvL?NsL?YLLFvL_FlLFFXDxDlDsYXDHHx_LHN_UHYxHXvNUXlNHXXsxqDss+FsH++lL+slU+YUdxDU_xlUFvR?xvD?svYFsL+FLLN+LUZ+XU++U?HvXFHL_FUHsN+HHN+XLNN?FNY,rsvB_sl1FsXvxFQ+sl?+HU+xLUsxUUYXx?vvs?lvY?XLxFDLsHDLHY+DLYlDUYY_8HvlHHU_FHXNxXDNsX?NH+xsLrNsU)Hlc+vl_+llF+XUxxFUsx?UHvv?XvN?UvY%v?xvx?svHlXv??sLvFJD:_vHl_NHU_YL_YL_xHH_+sx<xsDJss?SHl+#LY_+FU+xAUvx_XYUD+XlN?Nv???vHF+lNxF?HFXDDYvD_YlUxL?FvLFY?H?_H+LNLXNNUXYLx=vs_olsFCXlx+D?sXvlHx+ULxNUUv+?WDllxvl?FvXYDLDFlL?FXD+Yss_YUDYHWN_H__UHF_X?LNDXsN?XHs+4LsNxU_D+ulv+_ll+FU+xxU?_sUFxH?+LN?Nv??YLIFvLUXsLFFXDxHsDsYFDHH+x_HN_UHYN+XvN_XllFYNsx{Dss{?sH+NlL+NDF+YU+xvUsxlUFxX?xNL?sv??HL+FLLsFU_YX?DvY_DlYFDXHN_DHsxYHHNvXLNUXUNYy3svFssl<XsX+xlD+sl?vHNlxLUUxU?{v5?Dv_?llDF}LLFDL?F?LHY+DLUFDUYY_THv__HU_FXvU+XDNsX?lY#+sDkNsUFXlS+vl_+llF+XUxLDs5x?UHv+?LvN?FvYH_N?F_LlFF_HYxD_Ys_xYH_D+v_NHU_YrXNvXNNlXFL+.xsD-ssF-Hl++L?NXxlYxqUvx_UlvxUXvxNNvs?FvHFvLLFNLUFYsXYvD_YlDFYX_vHDss+__HX+NLXNNUexs/CvLs;lsH8Xlx+Dls+??HXlULxlUUxX?OvD?_vlvDvXFxLDFUL?FXD+YL+lYUDYHI_NH__lHFsXDNNDXsN?XHs+=NsNgU+_+6lv+_lY+FlXxxUDvlU?xH?+vD?NvU?YL-FvL_FlDxFXDxYDDUH_DHH+_LxXYH_+HeL_Y?_?Xx_sHD_UsU+ssH++lLNHX?sUEDsxHYsHx9NmxDUHx_lHFRL_FLLNFU?Yvv?LLxFDYH_lHx_DHs?xDvHDLNYF_FXv_lH__?s?+ssX+xlDNXXFs?K_svHXlHx+UiXUl?xYvHFvLxFDLsvxUXvH?lYss?YY_:Hv__U?_FXxNxXDNsX?NHx+DF%NsYWYlv+vl?+lUxDXUvxsUsv?UHvx?LvN?UL+HXLvF_LlYFLXYvDDHULXYH_LHL_UHU_YX}Nv?sNlT7NXbxsDBss?xH_l+Ll?+UU+xhUsx_??xoUXvN?DvH??vHF+LLsxLUYvDPYvD_YlDFYXN?H__?H?NLX+NsXNNU?ssAfDs_-YsFZXlx+DDv+?lXx+UNxNUUxY?_xl?_vU?FLHFxL_FsLFFHDDhvDNYUDYHX_vHN_lX{lHXxNDXss?XHsxWLsNFssY+xlv+sll+FlXxx_NxsUHxH?+vL?NvUYY+YFvLlFlLXFXDLYDDHHvDHHL_LXF_UHHN}XLN_XYU?XXsx>DlY&?sX++lsL_lU+YUBL_U_xUUFL+U_vD??v?F+L+FLLNFUIXY7DNY_DlYFDXHxsDFP_?XxN+XsNNXFNY+xNN _sH1FlD+xlD+s??LlU+xlUNxXUYvL?vLssfvFF_LxF_LsF?LHY+sLYNDXYY_NHv_sHl_FUUNxX?NsX?NHc+sLwNUveHlv+vlF+lUK+XUxHSUsxYUHvD?LvN?UvYN?LvFNLlFXLXYxDDYHl?YX_xHLsUHU_HXVNvX_NYx?NX{xsDx?s?5Xl++LDD+UlXxBUDx_UlxFF+x_?Dv???L+F+LLFNDgFNDiYND_YlDFHP_xH__sH?FYX+NLXNNUXYsKnvs_uXsY+xlx+Nls+XlHx+DXxNUFxY?Lvv?_vl?FXUFxL_FsLHFHD+YLDYYiDYH+_v+x_lHY_XXvNDXFUUXHs+iL?vMUsH+&lNLDll+FlXD0UDxlU?xH_XvL?lvU?XLIFvL_FYN?FXDxYDssY?DXH+_LDX_?XwNiX_N_XlNFXXL:ZDs?V?lR++lL+NlUxHUpxvU_xUUFxX?xv_?sv??HLvFLLNFULXYNDvY_DlxLYvD_YDxXYy_xNvXsNNXUNY_NHLNvHHdFlD+xlD+sUY+xU+xLUNxFUYvh?vD_HLvF?XLxFDLsFFLHY++_YNDFYY_IHv__Hl_F5lNxXDNsXYNH5+sLpNFx9Hl6+vl_+llF+XUxv_Usx?UHvx?LvN?UvYF LvF_LYFFLXYxDNHLD?YH_+vsFXLXYUDDFxDsHv_+HxN_Xs0UlsCHl++LHUNX,lsDP_lUAHlPtvlU+UUDxkLfFNLLFNLUx+?svsFvvHFXH+_NHD_sH?YHDxYY_lHYXYlsgvs_QllHpvlx+Dls+XlHx+ULxN_FxY?+vv?_vl?FvXHx+YFsLFFHDxYLDsYUDYH__LH__lHH_XXLNDXFUUXHs+}LlF*UsH+yUD1Ullx+lXx_UDxsU?xH_FvL?YvUF+L)FvL_FlDxYuDNYDDUY?_DH+_s+__UHYN>t_N_XUNFXXLL.Dlx,?sX++lL+NlUYsUexHU_vxUFxX?xvD+Xv?FsL+F_LNFFLYYG+DY__LYFDXHx_DHss?F_N+XXNN}DNYgvsv0_L?^Fl?+xlD+sl?+HF+XFUNv_UYvF?vvs?lvFXHLxYELsY_LHYYDLYNllYY_?HvN+Hl_XHXNxNUNlELNH9?sL+xsU+vXv+Ll?+lUD+XUvxDUUx??x_6?LvN?UL_FqLLF_LXxXDoYxDDYYD?YX_+H__NHHlFXMNvX_NHXFs63xsD+ls?;Hl++DlN+UlYxIUvx_Ulv+UXvx?DvUFxvHF+LLxY?FvF?YxDlY+?DXYX_xHD_sH?_HY+?vXUNUXYsM%vs_flXULXlD+Dls+?lHx+UL_DHUxX?_vv?_vlXXUHxH?LvUNHFX_sYLDNYUDYUx_vHN_lHF_XXxNDXsv_XHsvfLsNwUsY+=lvNYll+YlXxLUDxUU?vFllvL?lvUFvL.FLL_FULFYvs+YDDsY?_LH+_DHN_H+FNRXvN_QsNFk3sx+NNFo?l3++ll+NlU+YFusYU_x?UFv+?xv_?sLYYxL+FNLNFHLYY{DvHs_3YF_vHx_lHs_?HHsv4lNNXXNYWLsvd_slBFlx+xlN+sUh+HUvxLUY_UUHvx?vLD?lvY?XLxFDLFXULHY+DLH_DUYH_OHNlDHl_FHXsNXDNlX?lEXDsL=lsU+xl*+vl_vlr_+XULxDUUx?UXv+F_LU?ULaF8L_F_LlFF_+YFDDYFD?H+_+HL_NXFN_XJNsX_NFXFNXqxsD+Hs?+8l++llN+FlYx;_+x_U?xF?+vx?Dvs??LXF+LLFNL?FYD-YvD_YlDFYXNYHD_sH?N+X+NLXNNUXY_MNxF_r?lLWXlx+DGFsUGFl_++sl1XlX?xLD?_vl?FlYHDsLX/N<L_N_LFNFDxsxDsssDHsH_Lls+_NsXsN?XHs+=LsNxxFY+xlU+_ll+FODlL+LlDXYNDXvvN?NvU?YLmFvL_?ls?Y+DNYDDsY?YxLxF_DvFXXnNyXvN_XlNFXXsULDs?6?sH++lL+NlU+YH}x_U_xlUFxX?xvDHsN?FpL_FLLNFU?yvF?LLvFlYXDXHx_DHs_?HHsDvLNlXXNYAAsvNvHUsBXxNUlN+ll?+HU+N_UUxUUYvk?vv_?lLFXXLLFsLsF?LHLLFlvlDFHv_yHv__DFHw_+Y?_vYXXYsLo+sLTNFYNFXFsxRsLFlX+XUxxDUsx?UHv+?LvlF;vYFQLvxN?FvX?LLLFlYUl_YH_+HL?=DsHvD+YXDXYY+FHxN+X+NNXYxHXNsv<lsNXHlLY+L_HHUL+XlN+sUFxhUxH+?sxsUFvl?DXvNHx?Uvx+s?wDYNDYsH_LHs_lHv_?HNxvUHD+Y+_N??LvlU+XlHx+ULl?xvlY+DvD?Nvl?FvX5LLNX_L?FHD+x_lH+FNYDLFLLsYDD+sXDXHU_?HX+HHLNvXDNHHHNlm+v_Ff_HF_LHFDLXXxDDYYDL+sUsx+_2HUssXb_FvU?NLHF?Ql_Q+U_LHN_Uv_YH_lYN_DHD_vUxLYFY_vUHNLQvsvJlsXF&sl+Dl?+llEx__vYss v_?+xlUUvH?xvLNvXYNFxH?+xlUFxUUY+Dl+_vHl+UULDxYDLYY3LHY+vlFv+UlX+HU+xL+Ls?x+ls?DvN?lvF?XslF_U?F?LHY+__+XDUYH_zXN__Hl_FS+sNXDNUX?lL7+sLRNsUxvl-+_l_+llF+XUxxDFax??Tv+?_vN?FvYH_DvF_L?FFD_YxD_Ys_xYH_D+v_NHU_YXNNvXNNlRpUHIxsDEsll2Hlx+LUltHlYxxUvvFUlxFUXvxN5vs?HvHF+LLFNLUFY?NYvDsYlDHYX_LHDsHFN_HXvNL7LNUXHs3+Ls_hY??7Xlx+DUD+?lXx+UsD_UUxY?>L+?_vU?FvXuFLDFUL?FHD+YLDNYUH+Ho_DH__UHF_XXxsNxDNFd+s++lsN(UsY+%Us+_lU+FUxxxU_xs?YLD?+vD?ND=?YL{FvL_YvLFY+DxYDDsY?DHH+N?HN_?HYNxXvNsXlUx+Usx&_ssLLsH+xlL+HlUx+FXxvU_xlHDxX?vvDFUxX?HLxFLD?FULYYeNv?vDlYHDXHx_DX__?XLNUXLNlXUlse7sLI_sU^FlvL+lD+sl?vlU+xDUNxHYFvw?vv_YlvFFtLxHDx8F?D{Y+DLYNNDYY__Yl__H?_F{HNxX_NsXFNH,D?v;NsUOYUX+vlN+lU(LHUxxDUsL?UHvx?LDNlxvYFxLvF_LlHvLXHL+FYsDHYHNlHL_NHU_Y_lNvXNNlXXNXVvsD+UNX(Hlx+LUl+UlYx>FvXHUlxYUXvv?DvY??D}?DLLFlLUHND0YvD_XlvLYX_LHD_UH?NlX+lLFXNUrasdcvs_+NsFx+Dl+DlF+??+x+ULxN?FXL?ovs?_vU?FvXFxLDXsL?YCD+YlDNYFDYXxDNH__FHFslXxNDXsl?Y_s+JNsN%YsY+?lvv_N++FUvxxUDxsF_xHFvX??NvX?YDvFvL_FlDHl_DxY?DsYFDHH+_LHNlUHYNvXvNFXlNHXXlLXlss(XsHx?lL+NlUvYNsxvUUxl?2xX?YvDYs+v?HL_FLLNFU_LY-_DlYDlHxDXXD_DHs_?dBvsXLNHXUNH:Gsvf_slLxsX+_lD+Xl?+HU+xLsFxUUHvh?vv_?lvF?XNUF_LlF?LHY+DLYNDHeF_0Hv__L?_FX%Nx}N_FX?NX +lU,NsUyYlwFHl_+?lF+XUxxDUsx?+Dv+?DvN?FvYFxLvHFs+FFDdYxlLYsDFYHNxHL_?+l_YX8NvvDNlXYNXd_?LQss?JHXv+Lls+U?YL?UvxNUlxFUXvX?DLUsxvHFLLLFULUFYDPYvs_YlDYYX_DHD_UH?s{HDNLXlNU++s{=vs_VlcY+=lD+Dll+?lHx+?_xUUUv+?/LF?_vl?FvXv?LDFUL?YxD+YDDNHFD+H-_DH__?HF_XXxlDxvN?{+s+9DsN+UsYxxDU+_lH+FUDxxUDxs?YXD?+vU?NLv?YLbFvL_XlLFYxDxY?DsYYDHXvx?HN_HHYNUXvN_XlNFxXsxnNss6XsH+vlLxlsH+YUvxvUsxlUFxXYx_3?svX?HLxFLDNFUDXlNDvYFDlHLDXHx_DXUvxHHNsXLs_XUNYTosvv_sl+1sX+llD+Ul?v,_sxLUFxU?NvQ?vv_?l_F?XLDFDLYF?DdY+__F?DUH+_SHD__Hl_F>XlYXDNYX?NX8+lL9NlFYLlr+Ul_xDlF+XUxvN_Xx??_v+?svN?UvYFbNvF_LHFFDNYxDNYs_YUD_+HU_NXL_YX9NvX_UlXFsvuxs?>ssYIHUvUHlN+XlYvxUvx_UlLFF+vx?UvsFuvHF_LLFN_DFYD_YvDsYlDFYX_xX+_sXx_HXLNLXNNUXYllkvsHrllW,Xlx+DlsvxlHx_ULxXUUxY?EvvFYvlF+vXFxLDFsL?FH_xYLDNYUDHH}_vH__lHF_XXxNYXsN?XHsvklsNtUsY_LTxDHHFNxUxxxUDxsU?xH?+vL?NvFFvLOFvL_vYFDvX?NLL?HYY_+H+_LHNYNLHHsXDNYXlNFXXHsNNXNNsY__LHU+llH+YUfxv+vsUx8lN?Lv??sv??HsLvv?vvl?XGvD_mlsFKXlx+Dls??UUX}slXLNNXUsXXLsvwsslCXsX+xlD+sD_+HULxLUNxUUYv6?vlY?lvH?XLLFDLUF?NLUYDLYlDUHv_7HL__Xb_FXvU+XDNsX?sL +sDyNsHvFl.+vl_x;lFx%UxxD__x?UHv+?_vN?UvYHB_HF_L?FFLXYxD_YsD?HL_xH__NHF_YXLNvWs_YXFsL;xsFBss?OH?+HFlN+XlYxDUvx?UlxF_Uvx??vs?YvHF+LLYlvHFYDNYvDFYlDFYXsx?Y_sXx_HXsNLX?NU<XLNfvsH>lsH8Xlx+DlH?_lHxUULvlUUxH?uvL?_vYH?vXFxLDYUL?FXD+H_+HYU__HS_?H__lHF_XDXN_6+N?1+s+cYsN!U?Y+^lU+_Ux+FU+xxUDHvU?v_?+vs?NvU?YL,YYL_FHLFYNDxYDDsY?l_Hx_lHN_UHYN)XvN_pUNFXXsx/_ssT?sH++lL+NlU+HUBxvU_x??+xX?xvDxslH+XUYvALsYPLYY:DvHsLYYF_KHx__Hs_?HHNNHHNNXFNY=nsv-NslkYsX+xXL+sl?+HU+xLUNxUUYlN?vvN?lvH?XLLFDLsslLHYxDLYlDUYY_:HvNNHl_FHXNvXDNsX?NXO+sL;NsF^Yle+vlsxxlF+XUxlF+UlLxxl_+UU=x_UxFxDxF_LlFFlHLL?HLNFlvvYLLlYlvv?++HHN_HHYXFsLuxsD=slY0xl++LlN+?lYxbUvvsN/xF?Mvx?Nvs??vHF+g_FNLFFYDgYvD_YlDFDs_xHD_sHY_HXxNLXNs?XYsi5vsNAlsFBXlx+Dls+?Usx+ULxNUYxY?zvv?_vllFUHVxLNFYL?FHD+L_F_LXF?LL_DHF_lHF_X__HH_sH3_YHNb_ssCUsY+rHD+slX+FlXxxu_l?+HlvxvUs?lv??YL FvssF?LYFXDxYDlXYY_xH+_LHNYNLHHLD?NsXXNFXXsxLsXNNNXYsvFN+l??+YU*xvHlls+slHxLsD+llHxl_+xl?XvU?xvvFNLlNlvYNXxDYLDLYU_bUL+LHYD?HlNDHsvLsUxFsX+xlDxUHv+HUxxLUFxUUYv^FDLX?lvH?XLDFDLsF?LHYNDLYUDUYY_:Hv__HlslHXNLXDNUX?s7<+UU++sU4Xl=+Ul_+UlFxsUxxlYNx?UHv+??vN??vYFLNxF_LlFFDNYxD_YsD?xs_+H__NHU_YXoNvX_XYXFs+5xs_8ss?kHUvY?lN+YlYxUUvx_UlxFxsvx?_vs?HvHFxLLFNFyFYD+YvD_YlDXYXNLYl_sHY_HXlNLXNNU+YDs>vssElsH8XlL+D?sXvlHxLULxNUUv+?)DvFxvU?XvXFDLDFlL?FH?sYLDlYUDXH}_DH_NlL_N XvNDXFN?)ds++_lLkUsX+hl?+_ll+F?XXUUDxUU?v#?+v_?NDUlDL.F_L_FlLFY_DxXD_LYF_+H+_NHN_?HYN8DUN_X?NF3+sxqNss+?Hs+xlD+NU++YUxxv?sL+UFv+?xvY?sv??H_+lFLNFFLYYxDvYsDlXFvNHx_sHs_?HHNNXLlNi_NHOvsv{lsl/YsX+xXF+slY+HUvxLUlxU?Yl+?vvN?lLx?XLLFDLsslLHYxDLYlDUYY_RHvNNHl_FHXNvXDNsX?NHe+sL;NlH=Yl6+vlsxvlF+XUxNl2YUvxxNLxvUvxlUXXvLDYLLlFFLXx_?UDhFXv_UxD}YZD+Y?DYYs_LHYXHsvTxsD4sYXNvwlssllxUlYx,UvNUfHULxvs_xNllxl?+v+UDvlUXv??vLFDlYlDFYX_xHD_s+lUHXvNFXNNUXYYL_sXHNYYXNsWFNUlU+XlHx+UL_Y+ll?xLvDFFvl?FvXELU_x??_vDFvLvFFLsF+vLYDLNYNDXYXDvHNDYHl_+XUe_sY.UsY+SYUsD(YsLrnsXUNxsU?xH?+v_?HvU?YLAxl?svs?lx+ll+NDUHvDHH+_LvlYvDOYsLNY?N+X7*xsx1Dss;?sH++sLD_lFx+U}xvU__H+UUL+Xvs?sv??HL+FLLNFULYYvDvY_DlYFDXHxYvxs_FHXNvXYNNXUNYDLHsNHXYDsX>NLXUsLlYxxU+xLUNN_+xl_xNvs?XvF?XLxPs?NvN?YLvsNYUNYYY_^Hv__U?_FXxNxXDNsX?NH+vL?rNsHfYUx+vl_+llFlDUxxUUsx?UHvl?LvYDDvYF_LvFFLlFYLXYxDDYFsUYH_+HL_YHU_HX)sD?YNl2xNX.FsDVss?+HXx+LlF+UU2x&Ulx_??xPUXvs?DLF??vHF+_Lv+LUYvD9YlD_HLDFX+NNHD_XH?NHX+NLXNsFwLs*u?s_+lsF9XlxxNlX+?UNx+?LxNUUxY?.vl?_vX?FLsFxLNFsD?xXD+YlDNY?DYH__vHFGLHFNDXxs_XsNFXHsvCLs?vlsY+KlvxNll+YlXvL_Fxs?+xHF:vL?NvUFYU+FvL?FlDgFXDsYDDHN_DHHN_LXF_UHHN.XLN_XYU?XXsx5DlYK?sX++U_YHlUxvU4xsU_xlUFvX+vvD?Yv?FLL+FULNYFL+YODlY__NYFDXHxsDFn_?XLN+XUNN!+NYxuD?0_sXgFlD+xlH+sU?NXU+xlUNv+UYv_?v__v+vFFLLxY+LsYFLH +FFYNDXYY_sHvNvHlNHHvNxX?Ns^lNH,+sLxN_xgYl_+vlF+llH+XFxXYUsv+UHvN?LLU?ULYx+LvF?LlFHLXYsDDYss?YH_LHL_FHU_XX;Nv?LNlXXNXSLsDIss?nHUx+LlN+UlHxOUvx_UlxFUXvx?_vs??vHFvLFFNLUFYlDvX??L_F+LYY_Ds_UX+_HX+NLXNvFXYsxTvs_#lsF*X?xHYls+YlHxvULxsUUvvUUvv?lvl?FvXFvLDFlL?FH?yYLDNYUDHH4_vH__lN+NiXLNDXsN?(+s+kLls;UsY+>lL+_ll+FUbxxUDxsU?xH?+vL?NvX?YLhFvL_s?LFYkDxYDDsY?DHH+x.HN_FHYNuXvN_XlNFHLsx)_ss7?sH++lL+NYx+HU+xvU_xlUFxX?xL_?sv??HLxFLLNFULYY/DvY__^YFDXHx_NHF_?HHN+DNYXD?HXExsvR_sl:Fl++slD+sl?l++Dl_+(ls+Lvx?Nv_?lvFx+??vlUYFYDvY+DLYN?FL_YL+_lsHF_FHXNxXDNsX?_HL%s_u?sU9YlmND#Hss>Hx+??xDUsx?FwXs?Lvl?UvXFgLvF_D?lvLXYDDDYHD?YH_+HLsHH?N+X4NvX_NlXFl+FlsDyYs?+Ll++LlN+H?sx+U_x_F1xF?Qvx?DXv??LDF+L_FNLUFY_xFND_H+DFHx_xHD_sn?L_X+NFXNsxXYs+5vlsXYsF+slx+Uls+?lHL+NFxN?vxY?lvv?Yvl?FNHFxLXFsL?FHDNYL_lFHDYH?_vHl_lHF_X+xLYXss_XHsF*Ls?TUsYF?lvxxll+YlXxxUDLs?UxH?HvL?YvUFvL)Fv_YFUDUFXDvYDDsY?DHLF_LXL_UXUN&9+N_+lH+XXsX^DlDf?lL++lLLYlUxsUJv0U_xlUFxX?Fv_F+v??HL+FLLNFUlHYMD?Y_DlYF_+Hx_DHl_?X(N+X?NNMxNYILYL}NsF*FlL+xl_+sl?YFU+x_UNxFUYv)?vv_FUvF?XLxF_LsF?LHY+DLYNDUHx_,Hv__H?N3HXNxXDYXDFH?__s_+DsUPYl7DlXXsN6 _D.?lN+?lXX+ll+YUv+HvXFNLvF_Ll=X?HLL?U+XY#LN_vHX_NHU_YvsHN_UHlLlHHNzHHNFXUs=lv+HlN+UlY_NJslUXFl+x+Us+Hl?xfvHFYLLFNLUYXLLYvD_YlDYYX_xHDss+__HX+NLXNNU5xsp+DLYElsH=XlD+Dls+?lHD+ULxNUUxX?!vD?_DlHNvXFxLDFsL?YoD+H_+HYUDXHi_NH__lHF_XxxNDXsN?.^s+a_sN+yFY++lv+_UL+FUQxxUDxsUXDY?+vL?NLD?YL+FvL_LYLFFXDxY_DsY?DHH+HYHN_UHYNqXvN_XlNF+ysxmDssZFsH++lL+NlU+YUexFU_xlUFv+?XvD?sv?zHUxxsU?vv??vNlDLDFYDkFHLX_NH?_?HHN+_xYFN+NXElsvo_sl_+Ys_xX_NFXXsNpXs?UUxUUYv:?vv_?lLFXXLLY>LsF?LHx+?Dv??HL_FHLU?xLHYx_vNLXXNsX?NHD+HD_?HHN_XHNUHUssgFxxUxxDUsx?UHv+?LvN?FL+F;LvF_lH+*?svXDNHLD?YH_+vLFsLHY+DlH+DYF?_DH__UXlJF?+;Hl++LlNYFlYxLUvx_UlxFUXLLNFvsF}vHFLLLFNLUFYF_YvDFYlDFYX__HDNUYX_HXsNLXXNUXYs%xvDH<llv%Xll+DlU+??iHsULxXUUvL?.vv?_vXDNvXF?LDY+L?FXD+YLDNYHsFHb_vH_NxHFNhXxsN?XN?#Ns+=ssNGUsY+JFv+_U}+FUsxxUNxs??ss?xvU?Nv??YLNFvDsH+LFY_DxYYDsY?DHy+vFHNN+HYNNXvNsXlsHF_sxBYss+xsH++lL+YvD+YUlxv?NxlUYxX?vvD?F_U?HL+FLDsFULHYg_DlYDlHDDXH__DHs_?HHU+XLNHXUs_Z.sD/_ll__lE+slD+Yl?xDU+v_U?xU?Lve??v_?lvFYX+UFDLXF?DDY+D_YN_FUL_!H?__X0_FHXNxX?+vX?sNT+lY7Ns?5Ylx+vlULslF+XUxvHUsxFUHLvN?vNFvvYFLLvF_LlFFNXYxDFYs_LYH_vHLNNLL_HX_NvXXNl)vNX+LslhslxKHll+LlN+U?YXsUvxYUlvvUXvL?DLUsxvHFlLLFHLUFYDEYlX+Yl_DYXsvHD_lH?N+X+Nsx_NUXYs^xLs_bUsFx+Dl+DU++?Uxx+ULxNUUDY?VvU?_Lx?FL+FxDDxlL?YLD+YUDNH+DYH,lvH__YHFNDXxNNXsN??Fs+}ssNSFsY+hlv+_UU+FlXxxU_xsU?xH?+vL?NvUF_L!FvL_F?DlFXDxYDU?L>FUL_FND?FXD+FLD?Y?__H+k+ss1Dssf?pxsUKLNFMlsvUxxsU_xlUFUv+vlNxLU>FbLNFLLNFUU+vs?sLv?HLX_+Hs_DHs_?DNYX_NYF_FX+4xssp_slKFXXNvXHsUBH+HULxLUNxUUYv3?vv_?lvHFvLxFDLsvXFNL+?lYllxYY_5HvNsYY_FX+NxXHNsX?NH6+vX)NsYqYl++vl_+llFs_UxxNUsxYUHvv?LDYl_vYFxLvFFLlFYLXYDDDYFsUYH_+HL_YHU_HX%NNxDNlXFNXclsDZls?wHUx+LlN+UlHx8Uvx_UlUxUXvL?Dvs??vHF+D_??LUY7D^YlD_YlDFYX+YHD_FH?_XX+NLXNNUbvs+5_s_r?sF+Llx+lFN+?lHx+YvxNU?xY?>XD?_L+?FvXFxLDFs_?U_D+YFDNHxDYHL_vH_x?HFNsXxNDXsN?XHU+YFsN+vsY+llv+Nll+FYHxxUYxs?vxH?UvL?NNl?YLsFvLHFlDxFXNs?+DsHvDHX__LHs_UXLN<XNUDXlNFXXlNdDsl4?lxL1lL+NlULFU.xLU_v?U1xX?UvD?Uv??HL+FLElFUD_YWDvY_DlYFNX?U_DX+_?XNN+XsNNXUvX-nsYm_sl=FsX+x?DXtl?xsU+xHUNx?UYvCXxv_FxvFFsLxFXLsF?sYY+DYYN_vYY__Hv__D%_FXNNxXNNsXYNH+vNs2Nlv0Ylx+vl_+llFYUUxxXUsvxUHv+?LvNx+vYFlLvFsLlFHLXYsLFYs_vYHl)HL_sHUN_XBNNxDNlXFNXv+sDgls?JHDv+LlX+UlYx9Uvx_FlMLUXvU?DL{??LxF+LLslLUY_D>YvD_YlDFXXvUHDN+H?NNX+NDXNNUvFs4^?s_++sF+slx+D+Y+FU_x+UUxN?+xYFxxN?_L+?FLxFxLDFs_?U_D+YFDNHxDYHD_vH_xLHFNsXxNNXsN?XHs+?XsN+LsY+_lv+_ll+F+sxxUYxs?DxH?xvL??_l?YLwFvNDFlLYFXD_<LDsY?DH+G_LHs_UXvYvXLNlXlssXXsv{DsUR?lxLTlL+NlUxlU xLU_xlYvvE?DvD?Uv??HL+YxxXFUDDYMssY_DUYF_xHx_l+N_?HHN+xlNNX?NYyL?xP_sl%FF_+xl_+sl?H1U+xNUNx?UYvJ?vv_SsvYFxLxF_LsFFLHY+_DYNDUYY_+Hv__Hl_FHXNxXDNYX?NH:+s_^YsUhYlJs_nUs?TDsYzlxNUFx?UHv+xs?4xUUxF^LDYsLlFFLXvG?YLXFLLxFz}lF?+DFF+DYNx+Ysx+HvxYUlhUl/ZHl++LeLN?++sv7?xN?XxFUXvx??xH??vHF+LNFNL?FYD+YvDU}sDFYX_xHs_sHF_HXDUvXNNUXYsspvsNgllHPvlx+_ls+YlHx+ULxN_DxY?xvv?_vl?FvXFxUFFsLFFHDvYLDlYUsv+s_vHN_lX__XXvNDXlN?ux?O.LsNhUlN+tlL+_llUelXxvUDxsU?xH?+vLNDvU?HL3FDL_FlLFH+L_YDDlY?DXH+_LHNsUFDN=XLN_XUNFmLsx3DVl%Fl:++lL+NlU+Y?xvsU_xFUFvv?xvD?sv?HHL+FDLNFYLYYxDvXFl+YF_eHxNNHs_FHHNLXLN?xlNY;Ksv+sslgYsX+_FL+sl?+H?LxLUsxUUYNU?vvN?lvF?XLxFDLsLXLHYxDLYsDUYY_AHvxLHl_YHXNLXDNsX?NH+xsLyNsU(Hl*+vl_+llF+XUxHNUsx?UHvLxXL?_ssLU+?YDUssFHD?YxDDYslHLYFXLUY{D+?vDXYXDUYH_Hs+pYsD7ss?LXXXNNXXslZXNV+xsX+NUM?+vY?Dvs??lxx_?Fv?lYvxFxLl?XvFF+H+_sHD_sH?FxDlYl_LYXN3sx2Fs_mlsF_+XNss#+lD^v_v+slDUYxY?ovv?_vl?FLv4xLsFsL?FHD+YLDNYUDYHxNUH__lHFH+DLHYDlHHN+H_NsX^_HFNvXFxLYFlDvY+DlYNDYYH_xHvv_F_vU?YLraL??vY??++FNLlFFLUFFxLYvDvYlDXNvXvN_XlNFXXpx_ULsyHsH++lL+NlU+Y?s_vUlxDDDxgsLsx+UY?XYLvFULNFULY+xFsLUFYL?FYHL_?Hs_?HH?LDlHD_HHxNxs_f_sliFsX+xYDsxY?x+U+xLUNxUUY_px_X_??vX?XLxFDl+xH?YYvDsYNDUYYYLLLYlDL_XHXNxXDNsX?NHv+FLOUsUMYl7+vl_+lHdDXULxFUsx?UHND+YUYxvU+xD?DFsDUFFLXYxUxLNYGD+F_x_YFDHH+DXH+xN?F_sHs_DXVS?s?(Hl++LlNNU+yH4UDvxUlxFUXN_xLUDxLUFxx?xv?s?LD?lL_DlYlDFYX_xHD_sONUHXvNsXNNUXYF_NxXLNYsH+Ulx+DlsDXMNlL+Llvd?U_XHlLxvlH?HLlFxLDFslxvYFDvF?sLNlXLXFXLU_?X+_XXxND_?H?DXXsNxsl+UsY+ilv_v-sl++xsNHHs?+UlFX_Ux+slFxlUDxNLsFHLFFXDxxUlFLLF?+v_NHN_UHYNCXvD__s?FOxsxWDss ?sH++YxDNlFxUU/xvU_N?++lY+_lUxUsHvxU_vL?NxX?+Yx_ Y_DlYF?xLNY+LYFH_xY_DsF?_xHx_YHswlsl,FsX+xlD+s??YHUvvEUNxUUYNlx+UUx?U?>L?mx_UUvN?vvDD_HxDUYY_(xFYvLUYvDL?L_UHF_XHY_Xs_++sUtYl3_NX?l++b_x++l++NlYH+vv?FvN?UvY+DsF>l?svH?YvNFNYUDXYH_+HL?QLYYFDHNDX?NlXFNXLHH__UXJNUlL+LlN+UlYxJUvLUHlxH?Lvx?DvsxXlXxv?^xFLYFYDcYvD_YlDF+sUxHs_sH?_HX+NLXN_U?FsxONs_glsFNFXvsl7a+HlHx+ULxNUUxYHsXv?lvl?FvXFxLDFsNXnHDvY_DNYUDYCYlCHsNsHF_XXx?N_NHY_xH_N_YUNvVNNDHvNX++s+!?xLU?xsU?xH+UUxxUlXxX?LFDDLFlLFFXlXLLFYLHFvxvYlD?YHDFYHxLF?_lNHd_sxaDss_+XNsLXYNl._sxUvxvU_xlUFxXvxUUXsvYFxL+FLLNOX??LDFSYlDlYFDXHx_DHslYxHNvBxNNXUNYDLHsNHXY_LY*NHXHNXfls?W_lx+?xFYpva?vv_Hl_FHHNxXDNNX?NHX+Y&XNsUAYlU+vl_xvlF+XNFx?UsL+FHDLmwvNYN_#cFL%FvY?LF_xULv_Usx?UHs+x=ls+YUxxs?xvxUYv+F++DFLLLFUDqlLHN_NHU_YX6NvX_FYvFs+8FsD&ss?DHXYND+TNXnX_H8LlvtHxH?vvx?DvsassvSXllFlLHFYDdYvULvUFlLL_LH?_sH?_HLLYlDUHl_?HLfDlTolsF&XY?svOsl4+x_v*lsHV?l??xvX?_vl?FsXxHU_L+?nL^lxLU?sLH?HDx_DX3_lHF_XL_YUN7HXD+HL_DXv_XX++vlv+_ll+FlXxxY+HsUYLD?+vL?NUF+X?sxL?lvF?+Lv??vllx7UsY+llF+UlHxLULx?UNxlUXh+ssaDssA?H+sD>_s_{DsxUxxFU_xlUFNsx.UlxUUU+xU_vF??FFDNYEDvY_U1L+YvvDFUDUH+DNYLDlNl>vNY*TsvLFX?N+XLDXALsYyHsvUvxUUNxUUYsUXFUL+YU+vNLLYvLsF?LH+N?YLD?HxvFlDDYlDYUXDNY?_+YFXHNHS+sLbNsU7YsRDxlsxxlF+XUx_H+_lXxWUEXYlUxlU?FxLUF_LlFF?DLLFLLDUYxDUvHNFYD!YvD_YlDFDXv?sx8xsD,ss?}Hl++LYN+FUvxEUvx_XYNxx+lvxxlY?HvHF+LLFNLUsY?x+vDsH}DFYX_xvDFlLXYxDUHxDHNF#xs62vs_NlHXN^XHs+lUvvlHx+UL_HgXU+57UDxDUlx+?+v_?H;??vxX?Xv??FvH?0LlFUDLFUDsN+XUNDXsN?DY?+NFYYL?YlDlYN+sUs+FlXxxXDlLQFl++_lFx_U_x+UDvDlUxHFLLvDDF+UllvNF__LXssUlHXNYXvN_Xl?X_?X+NsHYLHHXNYq(NlX?stf?xD?DxlUFxXXYlUv+sXxYlnvLUFvsULvlF+vUFsDv_+HF_DHs_?v?H9_lHUDXFx_HXN_?X?fHlL+xlD+sH+lnCxl+&FxYUYv8?vv_?lvFHlsxFsLsF?LHY+DLYNNxlY_xHU__Hl_FvvYND?YlNgHUNDs_QYsUnYlPDLXlsY.DlDiNxN?Dx?UHv+KvUlxvUFxH_v+x?xxHF+vvFND+DHYH_+HL_NHU_YvlvvXsszXFNX xY?_YHHsxdRs_Fl+YlYx9Uvx_UlHFx+Nx?NvX??vHF+U?xF?HvL?DL+FFYFDFYX_xHD_sH?_H?+N_3+NUXYs;DDHXN*XLsvHDNYm+s++xxvULxNUUxY?xvY?_vl?FspvD?DxYUHLxUDLYFNvXDXHL_vH__lvJYH__UNXUl?XHs+&LUYs+X_NLbNNHY_DCY+DxF?lt+qlN+slFx?NNX+NxXv_FxX??L+?Xv_FF+sFHLXF?HU_UHYNoXvN_NlYx?XsDhDssp?sH++lLvYYU+XU_xvU_xlXFl9xLlUx_UXF3D+FLLNFUlJvF?svNF?v/FLDUYlvNYlvLHTDNHF_YNXrFsv^_slDDXYsx^UsFYHs_KxlxZHsX++vx??v_?lvFSX?+vs?+vX?NLwFxYUDUYY_zHv__HllsxXNDXDNsX?NH=+LL_HFUOXU_+vl_+lYHsJ1Dl6CXlY+YU_xxl?ZHUXx+?+vl?lxYF+vNFvv?YLHwN+HL_NHU?dDFYF__HFLJHLNDHs_YXlNxXxsxB?sYlXx_Uvx_UlNx+HlH+llYxYL3FFLLFNLU+L?DLNUUvHYLDv?DLHHxD*N>XDNLXNNULlHlN_XUd?lNWXlx+DYXsU+xsl7DlLHFll++l_x+v?FvvXFxLD+?UFLL?_+N?YL+DXH+_vH__lLLNxsFkHl++LlN+UYYF_wFl++ilv+_HH_Z8ssXUNxFU?xH?+s++sUvx?LvFvL_FlLFFXDxTYlsYY_DH+_LHN?NLHY?DsFUDUYH(xsxtDss*?sH++kYDNlFxbUhxvU_lFx+l+?Lv??sv??Hl_vNUFvFl_vLDvYs_DYFDXHxU_LFFXv+Hc_xYY_vHLDLHL_ssFtFsX+xlD+sYvU+H+x_U?xUUYv-8_lXvvU+F+LDFDLsF??Fv_F?Yl_LYY_rHvUXD_FYD_YNL+YlDYHv_Ys_.?sU}Yl4DNrDsYFYx+?xxDUsx?X?U4xlUU+XNXvD?NvU?svUsG+_FLLXFlHC_DHL_NHU?+DXHNxlNFXFNX8xsD(ss?vHD++_lF+UlYxWHFlv>Ulv+LvLFxvs??vHUHHLsLvNs+YYXvUlvH?YD+FDLY_UXv_HX+NLL?YXNDXLD_HXsvX+++ls+Dls+?Xxl^+L_lC?lX?vvv?_vl?FvXFxlvssLYYlD+YLDN+?YkDzFsLlYYvHYo__YH_NNHXHs+WLsNdUsYxLYv+slY+FlXxxHHl_+LUx?vvU?NvU?Ysvvx?svN?+L+DDYDDsY?DHH+_L+DUUHXNDXvN_XlFH_sHl_YXFmYll++lL+NHxs_<LssX_l?++lF+?UUxDvYFFL+FLLN+H?xLsFNxXlULsFsLlYvDDY%DFHDX_UHXUNYM1H?NUXYNF)xLFFLLN+xlD+sDx+lll=XlFxxUHHNlXxHUXXL?ivdUXvDFNvXFlD+sYDNFHDHYlD+HuD_H+_NUY_UX+_sX+NxFXss*lNH,H_sz__xU?x?UHv+?LvN?U+YXXL_F_LlFFLXYxDD+++?YX_xH__XHU_YX}F_DHHsNvFs_DXLN_sY+?l++LlN_N.FlD+_s?H?l++Nlvx?U+xU?ZFLLLFNLUFYD:Yvl_+lDHHU_xHD_svXYv_lHsLHHFDHXENvH?_YsXYFDHH+_LHN_UXYHvxl?LxY?cvvXXUNxF?Lv_sUv_UXvv?DY_D?YUDYH>F?D?YyD+NxXxNDXsN?XHs+DsLNPYsY+Jlv+_ll+FHY_xUNvLU?xH?+NNx_UFx?UDvDlsxU?IvsFNLsD?Y?DHH+_LHNHUxH?fXDNHXlNFXXY__U3#NXYxNxW_sxlFxNUexvU_N?+?ULx0llXHUY+XUHxlLUFULYY2DvY_DlHFlXHv_DHUNxHHN+XL?U_lH?_HHs_lXY3XsX+xlD+sl?+HHU_LUlxYUYv.?vUv+U?LFxLxFDLsF?LHY+NL+NDFHv_*Hv__xFY?D?H+_NU?XHNHz+sLrNsUQY?sDvlsxvlF+XUxNsulU++vNLxvUDx*U_xNLDFULlFFLXvl?_LDFoH+_+HL_NHU_YXaN?v_N?=lNXixsDD?XLNxX___XFsYn_lUos_s+YlU?xvx?Dvs??vHF+DssNLFYsD-YvD_xF?XD+Y+D+YLv+H5DxH+DFNYXYs3)vs_1lsFNsYx+NUX+?lHx++_slxxsHxvU_+?UYxDUvXFNLXNsxXHssf_sH#?l_+vl_+H_FHF_XXxNDXsN?vUF+}NsNPUsY+8lv+_??DFU+x_UDxsU?sx+_UFx?vFFNL{FvL_+_??LLFDvUULLf?XDNFlHlN+HYNyXvFUDHXLNvFLNLa;>YHU+slL+NUF++UfxDU_l4UFxX?xvDxdvFFtL+FDLNFFLYX)v0Y_D?YF_+Hx?YHsN+XvN+X_NNIWNY^+svrNsl+!?H+xlD+sU++HUxxLU?DlUYvZ?vv??lvY?XLxLlLsFYLHY+DLYNDUYYHlHv_sHl_FHXNxXDNs?YNH9vsLOssUbYlhxDXs+UlX+XY?xDUsx?FHvU?LvU?ULqFiHDF__lYDLXYDDDY?D?vX_+XL_lHU_XXR+DX_NFXFNX:YsD*Us?VXl++LlNLU+DxwUDx_FsxFLXvx?D?F??LVF+LDFNLUFYD9DND_YFDFYX_xHD_sH?XxX+NsXNNUXYseavs_sYsF+Llx+Dls+?lHxNHLxsU?xYF_vv?Nvl?FvXF_NLFsL?FH_NYLDsYU_+^X_vH__lTL_XXvNDXsX+XHsN}LsNuUsY+{lvY+ll+YlXxsUDxsU?LHslvL?YvU?HL}dLL_FXLxFXDsYDNLY?DXH+_DHN_H+FN2XvN_+DNF%>sx+NLXt?lL++XN+NlU+Y?WsLU_xUUFN=?xv??sD?l_L+FULNF?LYYxDvYFllYY_DHxs_Hs_FHHN+XLN?xlNYPJsvxNsl4YsX+_FL+sl?+HFvxLUsxUFY=s?vvF?lvY?XsvFDDsxFLHYxDLYlDUHv_SuvLvHlNxHXNvXDxHX?sL!_sL1YsUvLlM+Ll_+UlFxvY+xDUsx?YDv+?DvN?UF+FKLlF_LUFFLXYx_DvlD?YX_+lU_NXe_Y+;L?X_NXXFs}0xx4Csl+LHlx+UlNL_lYx+Uvx_Ulv#YHvx?DvsHNvHFxLLF?NlFYDBYvsvYlDYYX_x_l_sX+_HX+NLXNNU5YH+SvsNZlxN(Xls+D?sXvlHxNULxsUUDv?:DlHHvlFxvXXLLDFlL?DLD+Yss_YUDYH}lDH__UHFNvx+NDXsN?v+s+:DsNvU*D+/lL+_?X+FvXxxFD(RU?vL?+vD?NsD?YL_?lL_FXLFC_DxY_DsYFDHHDlvHN_UHYUNXvNNXlNFsvsxc?ss,?sH++lLxNX?+YU+xvX+xl?xxXYx/Y?sL+?HLxFLUvFUDv+VDLYFDl+sDXHv_DHs_?XxUbXLNNXU?loGsLf_sYv?sX+xlDDDl?+XU+v__HxU?vv3+Fv_?lvFFXUvFDLlF?UUY+DUYNNU?U_#Hl__HU_FvsNxX?NlX?sLW+F_fNs?1Yl++vlULslF+XUx_NUsxFUHLvN?vNF.vYxvLvF_LlYF?BYxD_YsULYH_NHLsNFx_YX_NvXNNlDNNXosFD0ll+}HYs+Lls+UlYxpUNDDUlxFUXNl?Dvl??LxXaLLFNLU+DD*YLD_Y?_HYX_sHDNHH?_HX+sLDsNUXHsyDHs_9XsFxX_X+DlH+?lXx+LDxN?}Ll?evl?_s_?FL&FxL_FsLXXYD+YLDNxNDYH+_vH_HYHFNDXxNDXsN?XHl+_DsNS?sY?+lv+FllvFNFxxU?xsUFxHY?vL?YLv?YL_FvlsFlLYFXDvYDDFtUDHH+_Lvl_UHHN}&DvYXlsxXXFlWDss.?lHNxlL+slULNUIxlU_LlsLxX?svD?lv?3YL+FUsNF?DvYwUUY_DUYFDXHx_l+N_?HHN+L?NNX?NYuL?xr_slrFHN+xl_+sUYHDU+xUUNN+UYvG?vL_+UvFF)Lx+LLsY+LHY++_YN_4YY_xHv__HlsFFNNxXFNsXFNHPvsL+NH?AYl_+veH+lUv+XUxHNUsv+UHvv?LvN?UDYlsLvFYLlFYLXssDDHs?FYH_NHLHvHUNLXqlvFHNlkxNX&vsD1Us?eH+U+LlY+UUBx*Uvx_Fl<LUXvs?Dvl??XLF+LURNL?YvD9vYD_YUDFYX_xHllNH?_HX+YHXNN?XYlxXNs_)XsF_Dlx+Dlsx+lsx+U?xN?HxY?+vv?Nvl?FlHFxLDFsLFFHD+YLDNL+DYH__vHs_lHH_XXs_?Xss+XHH?eLss)UsH+<lNLDll+FlXsFUDxlU?LHslvL?YvU?HLEZHL_FXsFYZDsYDFsY?DXH+_LHN_H+FNcXvN__lNFWpsxnDLUI?lL++ls+NlU+YU=UNU_v;UFv&?xvD?sv?HlLxFULNFFLYY+DvY_+?YF_DHx_UHs_?HHN+HFNNm+NY4_sv)_sliFlv+xlY+sUx+HU+xLUNLNUYvl?vvH?lvF?XDLHELsYDLHYXDLYNDUYY_?Hv_XHl_HHXNLXDNs+xNHh?sLkNsU+_lGLvUs+lU_+X+sxD?:x?UHXv?LLx?UL_FMLvF_DlxYLXYFDDLsD?Hl_++LYXHUNNX{vvX_HvXFl+s s_+vs?xHl++LlNvUU+xGUHx_?LxFvlvxFNLX??LUF+lHFNLUFY_xYsD_H_DFHN_xHD_sXYNYX+sxXNYLXYs1wvls+NsF+Hlx+Yls+?lHx+?YxN?DxY?Xvv?svlFFllFvLXFsYLFHDFYL_lHNDYH?_vL?_lHF_X+xsYXss_XHsF<L++OUlX+Nlvxxll?UlXxxUDvU?HxH?HvLDDvU?YLnFv_xFlDNFXDXYDDUY?_HHv_LX+_UXzNuXHN_ ?sLXXsYmDUsp?sH++?LxslUxsUMxHU_?vUFL+NsvDFLv?DFL+FLLNYFDFY:_wY__+YFDXHxNNX__?XFN+lxNNXUNY+xsFC_ls5FlN+xlD+sl?xNU+xXUNvlUYvx?vL_YvvFFlLxvsLsY_LHf+_vYN_LYYlNHv+DHllF_NNxXXNs&DNH?SsLvNEx(YlU+vHx+lvx+XUxDDUsvvUHv??Lvl?UvYv_LvFXLlFHLXYxDDYs+YYH_?HL_XHU_YXisD?YNl^NNXlUsDAss?x2Ds+LUv+Uv?xVUvx_UlDFUXvF?DLL??L0F+LLslLUYsD=YsD_YlDFYXxLHDNLH?N_X+NLXNsFFLsT+Js_D+sF-XlxxNsF+?UFx+DsxNUUxYYtS??_LN?FLYFxlDFsDYlDD+HvDNX?DYHZ_vXsv3HFNXXxl_XsN?XHlvXXsN+?sYv+lv+_ll+FUzxx?vxs?FxH?vvLFlLN?YLXFvlsFlLFFXDxHFDsHNDHXk_LHl_UXXsDXvsvXlFLXXsxaDss{XsH+FlLxLlU+XU7xv?+xl?sxX?lvD?sv??HnvFLDLFUDDY%DvY__?UvDXX/_DNY_?HHN+XLYHXUsU0(sD7_s?pFsXsslDx_l?+HU+xNUNDUxDvgF+v_YxvFFNLxXDFCF?DFY+HlYNUsYYlyD?__XN_FDUNxLvNsX??Li+lt6NlszYlt+vl_FLlFxsUxxDUsxFUHv+HLvNF+vYFlLvFsLlYH+_YxDYYslYYH_+HL_N+U_YX_NvXHNlXHNXfxLNpslxOHlN+LlN+UlYYXUvxHUlvvUXvx?DvsFXvHFULLFXLUFYD#HD_NYl__YXF{HD_sH?_HbLNLP^NUXXscGDs_4lUL5XlF+Dls+?ULx+?LxFUUvN?gUv?_vX?FD+YvLDYvL?HHD+YLDNXU8?Hp_HH_NLHFXlXxsN/lN?;Us+UxsN{UsYxxlU+_U_+FUNxxUDxs?YvT?+Lx?N?s?YL3FvDsYlLFYHDxYYDsY?DHH+_DHNNDHYNXXvNsXlsF3?sxWXsslLsH+FlLxl+s+HU?xvF_xlUFxXYxLL?sL_?HLFFLY+FUDXYlDvHxDlNUDXHx_DXUN?HHNHXLNXXUNY^-lD+ssl+UsX?NlD+sl?v<?YxL?_xU?Dvz?vv_?lLB?XLYFDDNF?DwY+_Lv+D?HN_kD___XL_Fg+svXDsvX?HvA+sL7NUUHDly+Hl_xLlFUlUxvN_Xx??Uv+DxvN?UvYYxnUF_D_FFHYYxDDYsD?MN_+HX_NXN_YXxNv6_s+XFsl&xssWsl_0HF++UlNxLlYl_UvNLUlDF?lvx?XvsBNvHFYLLFN_LFYDsYv_}YlDHYX_xXs_sXL_HXvNLXNNUXYsX0vlzbll+!Xlx+DlsYYlHxFULxYUUxY?1vvNsvlFsvXFlLDFsL?FH+vYL_LYU_DH:_vH_N??v_XtaNDD_N?XHs+mLHHpUlU+glD+_l?+FlX?+UDv_U?xH?+vs?NLFFHLJYxL_HlLFFXDxXD__Y?_YH+NvHNXLHYsxfLN_wlNFLYsx}Dss+YlY++UD+NUx+YUPxv?sL+UFL+?xvY?sv??HDvYlLNYYLYxxDvY_DlYF_sHxNLHsNHHHNvXLsNXYNY!HsvsXsl+?sXxLU:+sUU+HF+xLUNxUFYvs?vLD?lL??XFFFDDUHELHH+DLYXDUYY_^XD_sHlNYHXNUXDNsX?lc+DsL+lsU+Dlm+vl_x?_v+X?DxD?4x?UHv+?L_:?ULFF,D_F_L?FFDXHNDDH_D?D+_+Xv_N+UNLX}s+X_UYXFsN#x?DbFs?+Fl+_elNx_lYx1?+x_?DxF?Yvx?Nvs??LYF+D+FNLUFYDRYvD_YHDFHY_xHY_sH?_H}vv?XNslXY+s=vs_ellHY_lxxDls_llHx+ULxNH2xY?HvvF_vl?FvXFxX6FsDsFHD+YLDsYUDY+h_vX+_lXl_XXLND7U+FXHsY>LLNbUsY+Elvvvllx_lXxHUDxUU?xHFLvLFxvUFxL(FvL_Fl_sFXDHYDDHY?DHH+_LXs_UXUN*XUN_XlNFXXll3Dl_k?l_++lL+NUFxFUIvxU_sNUFxX?xvDY+v?FFL+F_LNFFLYY#HxY__sYFDXHx_lHsNYX+N+oLNN+UNY-Isvx_sX2FlX+xUD+sxD+H?vx?UNv?UYNH?vv_?lLHFLLxYNLsYvLHY+DLHlDHYYNvHv_HHl_FHXsLXYNsTXNHDvsLTNsU,Yll+vU_+l?W+XULxD?svHUHLK?LFh?ULYFmDDYHLlYFLXXxDDYsD?XHN_HLNNHUNYX&XYX_s?wXNX+vsD+4s?(Hl+x_lU+UUXxrU?x_UlxFF+LH?DL???YFF+LLFNDFlLDnHND_(sDFYX_xHDl+H?NHX+ssXNNFXYlW&_s_+ssFsxlxxDlsL?U?x+?vxNYHxY?svvH_DL?FLHFxl+FsDNFHD+YNDNHNDYHX_vHs_lHFs_XxsvXsN?XHs+qLsN+YsY+Xlv+Hll+FlXvL_Fxs??xHLlvL?NvUFX8NFvDNFllUFXDxYDDs++DHX/_LXs_UHYNuXvx+XlsUXXsxGDsl4?sHL+lLxvlUx?U5xDU_v?LYxX?XvDNsv??HL+FLDLFUDsYi_GY_D?YFDXH?_DXL_?XvN+XLNNXUlDJ1lCn_sX:FsX+xlDxxl?xFU+x?UNxUUYvA??v_FsvFFNLxFDLsYY_xY+_LYN?sYY_KHv__C+_FXHNxXNNsXYNH;++v NlUfYl{+vlU+lUHxNUxv_UsL?UHv+?LDNFHvYY+LvYNLlD_LXHL_xYs_YYHUXHL_NHUNX!sNvWlNl/LNX{xsD+UU_fHUD+LlX+UlYx^?DvYUlL+UXsL?Dvs??vHFULLYsLUHxDfYDD_HlNsYXNxHDX+H?NXX+s_XHNUBHsGxvs_nlsFxXlH+DUl+?UXx+xHxN?Fv+?iLD?_L+?FvXFxDNYvL?H+D+YFDNYUDYXx_DH_NYHF?YXxNDXssYFDs++lsNNxsY+-lv+_Fx+F?&xx?UxsUYxHF+vF?NLU?Y?vFvDNFlNFYUDxHDDs^XDHHl_L+NNDHYs9XvFxXlssXXsx+Uss+lsHx+lL+llU+YUHxv?DxlUFxX?xvD?sLL?HD+FLLXFULYY4_DlYDlHYDXNU_DHs_?pmvsXLslXUF?mmsvM_slLxsXxxlDxUl?+HU+xLDxxU?Fv{?vv_?UvF?XNxFDDDF?DYY+D_YN_FUL_;X+__Ul_FHXNxXDUHX?sUp+lx/NsUfYlr?Hl_xxlF+XUxx_Usx?YHv+??vNFvvYFxLvF_m?FFDNYxDUYsD?YH_+U__NXv_YXNNvX_NlXFL+txsXOslvmHl++LUlH+lYx?UvD+UlxFUXLLNFvsFNvH)+LLFNLUYX+NYv_vYlN_YX_xHD_sxl_XX?NL8LNUXXs#mvl_CllN Xlx+DlY+?UHv+ULvxUUlY?avl?_L??HvXFHLDHsL?FHD+XLNLYU_lHi_XH_XvHFs+gsND^DN?LFs+PLsN+FsH+ U++_U++FlXxx?NXNU?vY?+vF?NvU?YDxYUL_YlLFX?DxYDDsY?_DH+NwHNNUHYNxXvs_&LNF=UsxsHss+NsHxvUU+NU_+YFCxvU_xlFFvX?xL+?sLN?HF?FLDlHyLYYYDvYHDlYFDXXLF?HlNlHHNlXLNNXUsXRXsv+DslDUsX+xlDxU?v+H?+xLXlxUUYvT?vLa?lLs?XDxFDLUF?DHYsDLHxDUDO_OHX__X?NUHXNHXD?+X?NH>+UL+XsU+llw+Xl_vLlFvXNUxD?Lx??Uv+Y+vNFUlHF-LHF__LFFD?YxsDDED?Hl_+vE_NX__YX6UvX_sxXFsU0xsNOslYYDl++HlNYUlYx>Uvx_YlxF?Nvx?Xvs?YvHF+W_FNDvFYDUYvD_YlDFlU_xHX_sX+_HX+NLXNvDXYs?4vsF lsFQXlxsHlsxLlHxFULxsUUvXxHvL?XvlYFvXFxLDHsDYFHDUYL_!YUHNH{NDHX_lX__XLFNDXsN?+klE5Llx>UlD+elv+_U?vxlXxHUDsxU?xH?+L_Y+vUFUL8F?L_FlLFFXDvYD_+Y?_?H+__HNNF_?N+XYN_+lNFXXsxxDs?!?ls++lH+NxL+Y?xvvU_vLUFvF?xvD?sLYFUL+Y9LNYxLYY{DvHs_vYF_FHxNxHs_?HHsvXHNN=sNYIssv:_slBFl:+xlX+sUl+HUvxLUNHFUYv??vL+?lvF?X_xlYLsYNLHYNDL_LDUHvDUHvNvHlsLHXNvXDN?X?NHFvsL,NsU+llM+vl_+lX?+XUxxDUHx?UHv+?Ll_?UvYFwLYF_LlFFLXL?DDHvD?H?_+HD_NHUxXX#NHX_sLXFNXixUDHts?+Ul++UlND!lYx_lYx_?_xF?Xvx?_vs?HvHF+G_FNLUFYDFYvD_YlDFvH_xHD_sX+_HX+NLXNYlXYswRvsXplsFiXlxUllsx_lHxHULxsUUxY?YvvF+vl?FvXFxLDFsDYFHDYYLDNYUDYH(_vXv_lXl_XXXNDXsN?XHsU=LlD6UsY+.lv+_ll+HlXv+UDxYU?xH?+vLFFvUFYLeFlL_FlLFFXDDYD_lY?_DH+_LHN_UX+Nh7DN_/+NFXXsx+Nls.?U+++LX+NlU+Y?x+NU_vYUFHv?xvD?sD?xsL+YsLNYHLYx0DvHs_DYFNLHxs_Hs_?HHsvmNNN+QNYx+sva_sl+HUU+xUF+s?F+HU+xLUNvnUYLL?vLY?lvH?XDLsFLsHrLHNXDLYNDUYYl1HvNsHls+HXNLXDNssUNH+LsL:NsUVXl:xDlU+l?9+XFxxDUsx?FHvF?LL??UD+FgFYF_D?HLLXHNDDx_D?YH_+X__FHUsvXKN?X_NlXFl++lsD+Xs?DFl++LlNxF?lx:??x_+NxFUXvx?DL+??DxF+DFFNLFFY_&YLD_HFDF_s_xXl_sXYN#X+ssXNlUXYs7rvU_+DsFxvlxxllsUDlHvv?FxN?XxY?svv?_vlFHLlFxD?FsDvFHD+YL_lHYDYXN_vHH_lHF_XTL_UXslvXHl_qLsNBUsYx+lvxUllvLlXxLUDvsUFxHFLvLxUvUY+LhFvDDFlDYFX_DYDDUY?DHXH_LXl_UHHNKXvN_XlsUXXlDADl<g?sH++U_xHlUv+U#lYU_xlUFxX+lvDF?v?F3L+F_LNFU.XYZ_NY__+YFDXHxNNUX_?yvN+LlNNXUNY+xLU}_lX>FLx+xlD+sUYHDU+v?UNvxUYv2?vLss.vFYNLxFYLsF?LHHv+?YNNvYY+vHv__Hl_FxDNxolNs+LNHM+sLTNvD-YUx+vl_+llY+XUxDDUsv?UHLv?Lvl?ULXsNLvYNLlHxLXYxDDYss?YHN0HLNsHU_XXMNv?sNlZFNXRXsDIss?xqDs+LUs+UDXx.Uvx_Ul??UXLL?Dvs??LlF+D_HLLUHtD*XvD_YlDFXX_HHDN?H?s+X+XHXNsFgvs2+Ns_DNsF5XlxxNUH+??vx+UFxNUUxYFxvs?_LX?FsYFxLDFsDYYUD+H?DNHxDYH7_vH_llHFsxXxsFXsNYXHl+_DsN+FsYlllvxlllLF+Nxx?Nxsx+xHXXvLFlxH?YDvFvXUFlLFFXNxUYDsHHDHXL_LvN_UXXY_XLsUXllYXXsxJDlU+?sHx_lLvslU+YUAvDUsxlFxxXYvvD?sv??HD_FLDUFU_vYuDDY__lX_DXXL_D+M_?}+N+-_sDXUlm6kvN;_sl1FUXxLlDx?l?v+U+NLUNvF?xv2FNv_FlvF?XLxYN_%F?_vY+_LYNDUYYNxXX__XX_FXXNxXDNsX?sLp+lNnNUO2Ylx+vU_xNlFv+Ux_xUsvHUH_+Y+vNFFvY+lLvDNLlYHDvYx_sYslLYH_+HLsNXD_YRvNvrlNl+NNXxxlvJslHdHUL+L?L+UUYs+UvvsUlLNUXLD?D_svvvHYvLL_?LUNFDRQvFHYl_HYXxxHDYxH?s3HDNL=UNUv_s2Wvs_xl_L XUD+DU?+?Ylx+FLXXUUL8?3L_?_Ls?FLXxvLDYUL?!lD+HNDN>UYDHKNDH_X?HFxLXxUDN7N?+os+NDsN?lsY+oFv+_Ul+F?+xxUNxsU?X(?+LD?NvX?YLuFvL_LULYH+DxHDDsY?DHXv_sHNNYHYvbXvN_XlNFxXsx+_ss+HsH+vlL+NDF+Y?xxvU?xlUFxX?xXN?sLH?HLNFLLNFULYlxDvHUDlHvDXHx_DHsxYHHs_XLNXXUNY{4lDFYslxxsX?XlD+sl?v%lDxL?HxU_+vM?vv_YlNDF!DlFDDXF?lHY+__HsDUXD_SWL__Hl_F(+NHXDl+X?lX{+sLTNlF+Vl)xYl_vUlF+XUxxD?sx?FDv+FHvN?FvYYxDxF__+FFlYYxDDYs_YXl_+XY_NX__YX-NvX_UlXFlL*xlHEssY%Hl+UvlNv6lYxwUvxlUlvHFsvxFFvsY?vHF+LLHND+FY_NYv_YYlH_YXNLX?_srv_HvXNLXNNU#Xl?=vlXal+?QXlx+DUUvvlHv?ULxXUUxY?;LDFNvlYNvXsiLDFsL?FHDUYL_HYUNsHi_DH_Nl8v_XQsNDs+N?+Ds++_sFZUUL+0?v+_ll+F?Xv+UDvXU?LD?+?H?NLFFNLqY?L__NLFFXDxHNDUY?NNH+_FHN_UHYsxXLN_+vNF%Nsx)Dss+YsH++UX+NU_+YU6xvU_v?UFL_?xDg?svY?HD+YxLNHTLYLvDvHYDlHH_UHxNFHsYSHHN+XLlNXHNY+Nsv+Ysll_sXxLUL+s?v+HvXxLUNxU?XvY?vLX?lLL?XLxFDLsX?LHHsDLX(DUYX_%XvFNHlsxHXNDXDsXX?NHv+sL+?sUxvln+Dl_+l+x+X?NxDUUx?UHv+?LXl?UDvFfLsF_LlFFLXlLDDHXD?H__+HL_NXFv?Xis?X_F+XFNXGxsD+Us?xDl++_lN+FlYvxUFx_F+xFXNvx?Dvs??LlF+DUFN_xFYDxYvD_X_DFX__xX__sH?_HX+s+XNsXXYlNEvsNmlsFvXlxxslsvulHxvULvlN+xYFLvvv_vl?FvXFxNDFsDYFH_DYLDlYU_vYU_vXl_lX__XXvNDXXN?XHH#3LsN5UlY+dlv+_llN?lXxxUDvNU?xH?+vL+_vU?YLwY+L_FlLFFX?+YDDsY?_?H+_LHN_ULFN7XvN_JDNFXXsxfDHNJ?sH++lX+NlU+YUTHDU_xlUFv??xvD?sv?sSL+YsLNYDLYY/DvX_sLYFNLHxN_HsFxHHsv??NN++NYFQsvQ_slRF?X+xUU+s?x+HUvxLUNHDUYL_?vLl?lvF?XLxvHLsYXLHHNDLYsDUYYxxHvNUHlNxHXNxXDNs?YNH+_sL0HsUqYl}+vDs+l?x+XUUxDUsx?FdXs?LLH?UL?F.LvF_LlvvLXHsDDYUD?H0_+HLX_HUsLX^NvX_NFXFl+I?sDx;s?xHl++LlNvU?9xh??x_F+xFvlvxFNLY??DNF+HxFNLUFY_xYlD_XvDFHN_xHD_sXYNvX+sXXNFsXYsn&vlsO?sFx?lx+Yls+?lHx+UYxNFxxYFFvv?svlFFLUFxDFFsYLFH_lYL_lHlDYXs_vP__lHF_X+xs+XslvXHll&L++:UlX+HlvxXll?UlXxxUDvU?YxHF?vL?XvU?YLIYD_xFl_NFXDUYDDsY?N1Us_Lav_UXDN4XvN_XlUFXXlUzDULp?l-++ULNslUvLU2l_U_L+UFDXxUvDFXv?vLL++xLNFUNYYq_sY_NQYF_+Hx_DvX_FRLN+XLNNXUNY)#lX-_UfpFlL+xlD+sl?vLU+vFUNv+UYv.?vv_Y_vFYsLxFYLsF?LHHvDFYNNLYYXfHv__HlNHXDNx+7Ns^LNH8+sLTNsYyYUl+v?++llH+XUx?LUsLDUHv+?Lvl?ULXYYLvH+LlHFLXYxDDXsN_YHNFHLsxHUXNXqsDI?Nl+sNX7UsDtss?x}lY+L?L+UDFxVUvx_??xYUXD-?DL)??vHF+D_YDLUHFD1YXD_YlDFYX_?HDsvH?sYX+N_XNsU%DsC+Ys_NFsFxUlxxN?L+??lx+FLxNUUxYYuvX?_DL?FDUFxFXFsDYHlD+XnDNHxDYH6_vXsNDHFsFXxUXXsN?XHlvn?sNxssY+slv+_llxH__xxFLxsHDxH?+vL?N_U?YD?Fv_DFlLHFX_xv_DsXDDH_U_LAx_UHYU}XvsHXll_XXsL1DlUYxsHxUlLYNlU+YUhxvYFxlFvxXF?vD?sv??HHFFLDYFULYY/DLY_DlOFDXX__DXH_?XuN+XLvlXUlx!5slh_sl:FsXYLlDxHl?xDU+xLUNxU_XvqFUv_F+vF?XLxYN-XF?__Y+_xYNDUYY_tLU__Q2_FX+NxXNNsX?-Y1+lF)NsUtYlx+vUs+YlFvsUxLDUsx?UHD+F+vNYvvYYlLvDOLlYHDsYx_XYsXlYH_+HLNlHX_Yp?NvXHNlXFNX+LUx4sUN;HYX+LlN+UUXvFUvLvUlvLUXvx?DvsH?vHYULLHLLUFXDaHv?NYlNLYXH?HDs+H?lH_lNLgXNUNvsCD+s_Wl?F4XUs+D?u+?UJx+ULNHU?LL?>vv?_vl?FvXFDLDHeL?YvD+YLDNYU_TH!NFH_NiHF_XXxND+xN?+ss+MFsN)UsYxxUv+_?L+FxXxxUDxs?YvH?+D^?NXN?YLVFvL_YHLFHlDxX+DsYYDHH+XvHNsDHYN<XvNlXlsH+lsxx+ssx?sH++lLvNUv+Y?FxvFxxlv_xXFLvs?sDs?HLlFLLNFUDXHNDvXLDll?DXHx_DXUNDHHl)XLNXXUNY1>lD#sslxFsX+HlD+sl?+HUUxLFvxUFYvI?Dv_FlDx?XDYFD??F?_UY+__XLDUXl_0Gv__Hl_FKXslXDlLX?lUM+=HyNlF+xlAv#l_x+lF+XUxvN?Ux?FFv+HHvN?UvYYxDXF__sFFDNYxDDYs_YUD_+{L_NxL_YXfNvX_UlXFl?(xUD3ssY,HU+NDlNvDlYUlUvLxUlDFxNvxYmvsXFvHYvLLFNNUFY_lYvN+YlDHYXNLUF_s#D_H?+NLXNNUXY?_&vlHZlU_*Xlx+DlsF_lHvsULxNUUxH?!vvH_vlY+vXYlLDFUL?FH+vYL_YYU_LH3_vH__lUH_X:lNDhRN?XHs++_LHrUUD+fH_+_ll+FlXslUDvXU?v1?+v_?NvULFLpY?L_FlLFY8DxHN_sY?NNH+sLHN_UHYlkXLN_+xNF+ssxsXss+YlX++UH+NHs+YU^xv?sviUFLU?xvY?sv??HDvYULNH_LYYsDvY_DlHHNLHxsxHs+FHHN+XLNNxUNY+lsvxvslwHsXxxX_+s?v+HxUxLF5xUUY_-?vLF?lDL?XLLFDLssYLHHsDLYFDUYY_gHvxsHlsLHXNsXDNsX?NHFvsLx4sU+Ll>+vl_+lDH+X?FxD?ax?UHv+F_XH?UDsFbXaF_LlFF_+F_DDXLD?lx_+HL_NpUU_X+sXX_lDXFFXkxlN++s?x?l+vDlN+UlYvx?Nx_FNxFYAvx?DvsFYLxF+_vFN_?FYDaYvD_YXDFX?_xQL_sHY_HZvNsXNlNXYss}vs_pllH++lxvvlsxXlHx+ULxNYUxYFUvvYLvl?HvXFxYLFs__FHD+YLDUYU_XXs_v/x_lqF_XXxND+slLXHlYwLUveU+N+eUDv-llvllXxUUDxsU?LP?XvLYDvU++LBFvL_Y?_xFXN+YDU_Y?DHH+N_XH_U6YNaDNN_XlNFXXs?aDUL(?UH++l_+NUUv.UTvHU_?xUFL??xLNF+v?YUL+HLLNFULYXGDsY_NDYFN?HxHXHsNYXqN+++NN6xNYA:sv+ssH8FUY+xlY+sl?+H?vvlUNLlUYvs?vv_?lLHs_LxHDLsNFLHY+DLYNsUYYNFHvs_Hl_HHXsxD_Ns+_NHNLsLxvsUvY8s+v?++l+v+XLxxDUsD?UHLU?LDx?UvXF-LvvFLlH_LXYNDDYsD?YHxvHLsxHUNxX}NvX_Nl?HNX+HsDpXs?nHl++LDl+U?UxdU?x_UlxFF+Xl?DD_??lFF+LLFNLUvLD/XVD_Y?DFH+_xHDXNH?sFX+NLXNNFXYlxBYs_xssFxXlx+Dlsv?UNx+FvxNFlxYvUvvFsD+?FDXFxlvFsL?FH_vYDDNX?DYHs_vH__lXHNHXxlNXssvXHs+8Lll+?sYvvlvLxll+FlXxxUHxsFUxHYLvL?lvUFYDYFv_LFlYDFXN+YD_UHFDH%B_LwN_UHYN +vNYXll?XXU+fD+x9?UK+xlLvNlUxDU5xvU_v??UxXYvvDF;v??HL+Y__xFU_XYuD?Y_DlYFN+Ul_Do?_?X_N+XLNNXUUYZ:UxI_UF Fl++xUDNll?vFU+lNUNLlUYvSHvv_YDvFYYLxFNLsYY+DY+N+YNlFYY_nHv__+l_F/UNx+xNsXYNHB+L_WNU_pYlD+vl_+llFH+UxLxUsvxUHv+?LvNNFvYYHLvFHLlFFLXHL+FYsNUYH?XHL_NHU_YDNNv+LNlXHNX=LsDBs+U%H?w+LlN+UlXx,?DL+UlLFUXDx?Dvs??DHY_LLHNLUHYDkDYD_H?N_YXsvHDN{H?_HX+s_XYNU+Xs%D+s_-lsFx+UN+D??+?HFx+ULxN?FLs?4DN?_L+?FvXFxLDY+L?HHD+XsDNYFDYX#_XH_ssHFXsXxlDXssY vs+xLsNxUsY+:lvv_U?+F?XxxFDxsvDxHFvvD?ND??YsHFvL_FlDHY?DxXNDsAUDHH+_LXlsLHYlvXvNHXlNFXXlLsDslxXsH+llL+NlU+Y?sxvF_xlYBxX?LvDFsLY?H_AFL?UFU_YY.DvYHDlXlDXw+_DHU_?WKNsXLlDXUFD0Csv!_slxssXxHlDv_l?x*U+xLUXxUFUvEFDv_?lvF?XDsFD__F?DLY+DLYNDUX{_gkx__X=_FHXNxXDlxX?lH<+sF NsU;YUxYUl_vUlFL_UxxDUsx?+Dv+YLvN?FvYFxLvF_YsFFNtYxDDYs_+YHNvHs_N*F_Y+<NvX_Nl+FlN xUNnsUY-H+?+LUl+HlYLvUvxHUlxFUXLLFXvsYXvHHYLLFNLUYXDUYvN?Yl_LYX_xHDNUcx_H+NNLNsNUXYs-MvsXflUHqX?s+DlU+?UHvxULLsUU?_?eDD?_L?YzvXHLLDHsL?FHD+XL_FYUNXHZsDH_XvHFs+XUND+?N?LFs+ LsN+FUD+#?N+_Dv+FlXxx?NxlU?Dv?+Yx?NvU?YDxFvL_HXLFYNDxYDDsY?_XH+s_HNlkHYNxXvs_+xNFx sxNsssxYsHxvll+N?F+YRDxvU_xlFFvN?xDN?sDY?HF?FLDlYlLYXvDvNLDlYFDXXL_YHssXHHGXXLNNXUNYvysvxsslv>sX+LlDxsXF+HFxxLUUxUFXvoHvUH?lDY?X?sFDl_F?NHLlDLXsDU+H_wlF__+ll:X#lvXDFLX?UUV+sL4XsUxFl:vLl_+?lF+X?xxDFsx??Kv+?LvN?UDDF<_LF_LHFFLXYxDDHDD?>4_+HU_NHU_YX>s_X_lFXFs_/xsD8ss?+sl+vslNxxlYxMUvvsNBxFYLvx+vvs??vHF+U?FN_HFYDxYvDsYlDF_H_xrU_sH?_HXDNL7lNXXYU_/vU_AlsF{X?x+?lsL+lHLNUL?+UUvX?+vvYYvlFLvXFxLDYULXFHNlYLVDYUDYHTNDX?_l+D_XXUNDXsN?+OsHQL?+-Uv?+{lv+_llxDlXLsUDDxU?vm?+LLFHvUHxL LFL_HXLFH+DDYDNHY?NHH+_LHNsUX+N-+lN_+XNFslsx+NsFn??D++lF+NlU+Y?xxsU_D+UFHN?xvD?sLYYxL+HYLNYxLYYzDvHsx%YFslHx?NHs_?HHN++YNNxhNYxUsvKssl+Fl++x?U+s&H+HFNxLYNxXUYDD?vUF?lsY?XNxH+LsX2LH+xDL_vDUYYN?HvslHll+HXNLXDNs+_NHxDsLINsUwYlg+vUv+lF++XUXxDUsx?F}Xs?LDY?U__F8LvF_LlLxLXXlDDYsD?YX_+X_HxH?lDXbXxX_NlXFlXuFsDv7s?v_l+lHlNxFUUxWFFx_XNxFUXvxFNLH??_sF+LFFNLUFYD{HYD_{+DFrl_xHN_sX?sSX+l?XNxLXYUs(vs_+UsFvLlxvFls+?lHx+LXxNFHxY?cvv?Nvl?F_XFx_NFs_XFHDvYL_lN?DY-v_vlx_lHF_XXxsHXslFXHULGLsl1UsYxLlvvsllx+lXxxUDxs?YxHYLvL?YvU?YLGFvLsFlNZFXDlYDDsY?DHXU_LbF_UXDNmXvN_-?sLXXUseDH_I?sH++lLxslULxUJxDU_x?UFxXL+vDYHv??HL+FsLNYFD_Y6NUY_NlYFDXHxsDXx_?+DN++?NNsLNY+xl+E_?+BFlN+xlD+sUYvxU+LYUNYsUYvw?vLsF_vFHlLxFYLsF?LHHv__YNsDYYQHHv__Hl_FXsNx+FNsx_NHOvsL+Nls,Y?_+v+X+lFv+X?LvUUsDxUHD+?LvN?UDYFLLvHYLlXvLXDFDDHUDXYHslHL_XHU_YXZsDCNNlxDNX?UsD.ss?xmlX+LF++UUDx&Uvx_??XvUXDY?D_L??vHF+LLX%LUXLDoXHD_Y?DFHXNlHDsHH?H+X+l?XNUUXXspxls_NXsF_mlxLDlF+?FLx+HDxN+_xY?;vH?_DY?F_DFxLNFsL?H:D+XlDNYUDYH0_vH_N+HFlDXxsxXsN?XHlvF?sNv+sYvllv+_ll+F+DxxFYxsU?xH?xvLFl?D?H_lFvFDFlLFFXNxHiDsaLDH2U_LN+_UXXslXvU2XlFUXXsxPDlU+?sHvFlL+XlU+YUqxv??xlYDxXYYvD?Uv?FHDFFL_XFUXNYkNFY_DlYXDX;s_D+7_?HHN+XLxxXUUxA6svg_sUqFsXLxlDv?l?LvU+x_UNvFLHvfYNv__DvF?XLxFDLlF?NIY+NsYNDFYY_hHY__%F_FXLNxXDNsX?sxn+UshNlbfYlu+vl_x:lFLLUxxFUsx?UHv+F_vNH8vYFsLvF_LlYHD_YxNFYs?lYH_+HL_NX__Y+_NvXsNlXHNXQx+Lzs?x-Hl++Ll?+UUXv_UvLHUlLFUXvx?DDsFvvHHlLLHXLUDNDoHDDYYlsDYX_UHD_sH?sgXLNLx+NUU?sa;vs_+?U_WX?Y+DU{+?lHx+?_LLUUDl?eH+?_vl?FvXF?LDXpL?XUD+Y_DNHUNvHtsUH_XxHFlNXxsN4FN?x_s+xLsNmUsYv8U++_F++FFNxxxXxs?YLv?+DY?NLx?YL0FvDsF?LFXlDxsYDsY?DHXvNXHNlDHYNsXvN_XlsHF_sxv+ssLDsH++lL+NFv+YFsxvYxxlUHxXFxLv?s_x?H?LFL_XFUNYHsDvXYDlDxDXvv_D+ssxHHlsXL?sXUw?P-sv++slv+sXvllD+Ul?+H?YxLFYxUUYv1?vv_?lvY?X_lFDDDF?LHY+__lHDUKD_SkF__Hl_FHXHsXDU+X?NHn+sDyNlFssl+vYl_lslF+XUxLD?Lx?Ysv+YHvNLLvYYxD_F_NLFFlYYxDDYs_YHH_++,_NXx_YXINvX_l_XFUl0x?+CssYOHU++HlNLvlYFUUvDVUlxFFvvxYFvsHLvHF+LLFNXDFYN_YvD_YlDYYX_x+D_s0X_H+NNLXlNUcXLN>vU?JlvswXlx+DlsD+lHLLULLFUUxY?hvv_+vlYFvXFxLDFlL?FHs+YLNDYUNYH1_DH__lUN_X++NDZNN?XHs+^LLlZUUY+Sll+_ll+FlXHLUDLlU?vD?+vL?NvUNXLmHDL_Y+LFFXDxHN+XY?s+H+?NHN_UHYN;DUN_+?NF3+sxgNssi?+Y++?N+NlU+YUvxv?svsUFDv?xDD?sv??H_+YXLNHHLYXLDv_kDlHHN?HxsUHs?lHHN+XLslklNYx_svkHsliFsXxLUL+sFx+HUlxLUNxU?XLx?vDH?lHY?XLxFDLsYLLHXDDLXXDUYX_/XvNvHlsXHXX?XDlFX?lb+FsLx?sUxYl,+vl_vllY+XF_xDFFx?vsv+F_L??U_xFOL?F_LlFF_+H+DDXHD?H__+HL_NXFNsX-lUX_FNXFNX6xlNFXs?v_l+NslN+UlYxcYvx_FYxFYNvx?NvsF?lXF+_NFN?YFYNLYvs_D+DF3x_xDF_ss?_HX+ULXNl?XYUvzvss*lsFsDlxvNls+YlHx+ULxN_FxYYvvvFvvl?FvXYL;FFs_XFHYFYLDNYUDYD__v)?_lHF_XXlNDgU_XXHUNRLHFpUsY+)?vxHllLxlXLsUD?xU?Lq?FvLYHvUD?L}FvL_Y?_,FXNUYDX_Y?DHH+_LXU_U+vNM+?N_X?NFqXlx<DUY6?l+++?U+NUFxNUaLlU_LlUFxX?xDDFUv?HLL+HULNDLLYHx+UY_s:YF_NHx_DHsNYDLNx+FNNlYNYwgsv+ssUaF?s+xlY+sl?+H?vv?UNDLUYYv?vv_?lvFFULxH?LsXDLHYvDLHNNNYYsDHvHXHllxHXsLXNNsx+NHx+sL>NsUxYls+v?F+lFx+XxFxD?UX+UHDs?LYD?UvYFMDDYlLlXLLXYUDDYsD?XyNDHLlMHUNDXdNvX_s?XXNXxFsD+Fs?kHl++LUs+UFvx#FYx_U?xF?Xv??DDY???+F+_UFNNUYYDJXsD_+UDFxv_x+DHQH?lvX+HUXNFsXY?dN?s_xHsFLvlx+YlsxY_Dx+FUxNLNxY?%vv?_X??F__FxDvFsL?FHN+UFDN5+DY>N_v_?_lXHv_XxlYXsHsXHs+:LsNo?sYv_lvvFllLLlXvx#_xsYVxHL+vLYYvU?Y?_Fv_FFlLYFXDxYDDslYDH)s_LHX_UHYN7WDvYXlULXX+U/DssT?U7YslLLmlU_?UfxvU_xlYFxXYlvDH+v?FGL+FL6lFUNDY}DsY_DlYFDXUL_D++_?X_N+XLNNhFLLKJUYC_Y+/FsX+xlDNXl?LNU+x_UNxFUYLxNUv_HvvF2NLxFDLsF?sLY+NFYNsLYY_qHv__lL_F+DNxXDNsXFNHV+?LANUYoY?_+vls+llFH+UxLlUsvQUHv+?LvNNFvYHDLvFYLlFFLXYx+NYss+YH_lHL_NHUNX?NNv+YNlxNNX2xsDSsLYBH?l+LUD+UlYxdFvxNUUDLUXDU?DDL??D(YNLLX7LUvFD{YvD_YlN(YXssHDl+H?NrX+NLZDNUxLstMvs_qXsFx+U_+DF3+??Hx+ULxNFUvY?*D??__+?FFlFxDNFUL?XND+xxDNYUDYXxFlHNlvHFlLXxNDXssY+ss+xXsN+xsY+GlvxsU_+FF?xxDUxsU?xH?+D+?N_x?Y_FFvLsFlDFY+DxXFDs_LDHzl_LXl_FHYlsXvl_XlNFXXUx+LssvvsHvllLU+lUxX_NxvFXxl?LxX?xvDFUU+?X_?FLXDFULYYG_DHsDl(NDXva_DHs_?&rs+XLUvXUFv2psv#_sl+lsXvUlDLLl?x/U+vL?+xUYLv6x_v_H+vFY+LYFDNhF?sNY+DLYNNUXD_{)?__++_FxUNx+DDJX?U_i+UFbNlldYU5NLl_L}lFDUUxLYUsD?x_v+Y?vNX?vYXXLvYsvYFFNNYxsHYsD?YHs+?F_N+x_Y+sNv++Nl+FDN5xUYws?vhHUH+LUNxXlHLNUvL+UlDLUX_xYgvsHxvHW_LL_NLUFYDLYvN?YlsvYX_LHDNUX+_H+NNL?NNUXYs=>vlHtl?6}X?s+DlU+?lHvsULLFUUvx?mvv?_vlFHvXHsLDFXL?FHD+YL+lYUsLHG_?H__lHFs+?lNDx<N?xls+nLsN+FDL+&?F+_5v+FlXxx?NHXU?Ds?+Hl?NvU?YL-XvL_X>LFXlDxYNDsY?HYH+sFHN_UHYNvXvssM_NFxssxxDss-?sHv+?++NFv+YFlxvvKxl?HLF?xDX?ssl?HL+FLDlYXLYX?Dv_UDlYFDXXLNHHslNHHNlXLNNXUsXbLsvvvslF+sX+xlD+sUL+HFUxLYLxUUXvQFvL??l_L?XF?FDN+F?_1H1DLK>DUXY_zHv__3lNsHXl?XDU+X?,sk+l_+YsUvNl(+?l_+llFv+U?xDYvx?DXv+?LvNFFD;F _XF_lNFFLXYx_NlXD?I?_+sv_NHU_YXyUvX_UxXFUFpxsNQsl?_Xl+vFlNsYlYLlUvL_s+xFYsvx?_vsD_vHF+?#FNNvFYNlYvD_Yl_FL,_xkY_sxx_H+UNLXNUUXYU_=vUHelsH1XULYFlsLxlHFYULxNUUxYH_vvY?vlHvvXFxLDFsX_FHNvYLDNYUDHHg_v+F_lEF_X+LNDXsN?XHxFzLU+QUsY+2lL+_llLFlXvUUDLxU?vT?+L_NHvUY_LnTDL_FlLFFXsxYD_XY?NNH+__HN_UUXNCu?N_pVNFXXsxMDLUk?UN++lF+NlU+Y?xHUU_LvUFsY?xvD?sv?xDL+YYLNFFLYYxDvY_HsYFNlHx_DHs_XHHsvksNN+DNYx#sv>_slxFUI+x?q+s?_+Hx?xL?lv+UYLF?vvH?lvF?XDLYLLsHsLHDLDLYNDUHXN_HvsLHlNLHXNxXDsU9YNHxKsLxlsUZYlA+vlX+l?N+XF+xDUUx??HL_?LD+?UF_F.DHF_D?Y>LXHYDDXsD?YH_+OL_sHUssX(sHX_zvXFl++xsDxLs?+_l++LlNxFUDx0F&x_YNxFUXvxFNLF??DFF+LFFNLUFY_xlUD_XsDFO?_xHD_sH?lHX+sXXNllXYsx&vl__UsFxllxsslsv_lHD++FxNFLxYx_vvyLvlHF?NFxDXFsFxFHmBYLDNIUDYXs_vrQ_lHH_XXxH?XslLXHs+fLsNOUUYHslvvIll+YlX_vUDvUNxxHFFvL?XvU?YL/YDvUFl_sFX9lYDDsY?NH^F_LMv_U}lNIvYN_;?LvXXUq0DsF2?sH++lLLNlUvlU&L+U_x?UFL+NlvDYDv?CFL+FLLNFUNLY+N+Y_NvYFDXHxNNUX_?3YN+LxNNXUNYmLlHBNU_}Fm?+_l_+s??LlU+LDUNLLUY?L?vv_NLvFHxLxHDLsF?LHY+PXYNNHYYsRHv__Hl_F+XNx+_Ns+XNH!vsLxN?D2Y?x+v?x+l+D+XUxU_UlLXUHDx?LvN?ULXYTLvH?LlXHLXYxDDHULXYHsNHLU>HU_YXMlvFHNlxxNXxssDxvs?xH_l+L?Y+UFvxI+Hx_??xmUXDl?DlY??vHF+_LlXLUXLDoXUD__vDFX+D_HDlSH?lHX+NLXNlUYDs/x?s_v+sF?_lxxNDX+?FNx+F_xNUUxY?M_l?__m?F_sFxLDFsL?+XD+X_DNYUDYHx_ve_L+HFlxXxlNXsXsXHU+_lsNxYsYvvlv_Lll+F_+xxFlxs?SxH?+vL?NXF?Y_DFvLYFlLFFXDxlNDsG+DHHl_LHN_UXXvNXvlYXlUNXXsx(DsssFsXvllLvslU+YURvDF#xlYDxXHLvD?sv??HDXFD_YFUN_YyDDY_DlHlDX3l_DHs_?XDN+0LsXXUUL=yXv0_U+!FU+x/lDL6l?vHU+xLUNLU??veY?v_H+vFLlLxYNLlF?NNY+DFYNDUYY_ HH__+v_F+xNxXDNs YLYV+UX%NYs>Yl-+vUsxDlFL?UxxYUsx?UHv+?svNHxvYHFLvFsLlYF_lYxNFYsHLYHslHLNlH?_Y+sNv+_NlXFNXxxsN=s?vRH?l+Lx++UUXv+UvLXUlvLUXvx?DvsvFvXH?LLHxLUFYDoHDD?YlsNYX_UHD_sH?su?sNLxvNU2Dsebvs_ol?FdX?U+DFL+?Uzx+?Ls+U?DL?kU_?__+?FD+FULDXGL?JND+YLDNXUFHH+s?H_l+HFsUXxlD2LN?x_s+xFsNsDsYxml_+_FC+F?UxxFYxsY?vL?+D??N?r?YsHFvDsH+LFXNDx;HDsY?DHy+vFHNlxHYlsXv?+XllFYNsxxYssvvsHxTlLxNXL+HFNxvH+xlYLxXFLD+?s_v?HNUFLLNFU_YUsDvXHDlRLDXNH_D>sLvHHllXLlXXUsF=Tlv_NslvvsXUHlDLel?+HY+xLFFxUYLv<?Dv_F?nv?X_sFDosF?LHY+DLoNDUA+_6,l__H?_FO+__XDlYX?U?d+sL)NUUHDl7vsl_vHlFDLUxxD_vx?YLv+FYvN?UvYFTXHF_NiFFNvYxDDYsD?DN_+*l_N++_YX+NvX_?YXFlU2xUA%sUHQHlD_DlsvNlYDlUNxNUlxF_UvxYxvsYvvHF+LLFNU?FH_HYvD_YlDFYXNLHs_s-U_HlUNLXNNUXYsDMvU_7ll?rXlx+D?svDlHL+ULLNUUD3?^DvFLvlYFvXHxLDNsL?YLL?YLNlYUDHHf_LH__?HF_XD+NDXsN?+Fs+)LsNMUHF+Ilv+_?s+FlXxxUDX+U?LH?+D_?Nv??YLcY+L_HlLFYLDxYDDsY?NsH+sDHNN+HYNfXvN_XHNFx+sx>YssB?sHxvlY+N?Y+YF?xvU_xl?HLL?xDl?sNN?HL+FLDlH+LYXDDv&xDlYFDXHxN?HssYHHl_XLNlXUNYsXsvxlsl3FsX+_lDxUUs+HFDxLFNxUUYv8YvvF?l_%?X__FDYxF?_qYNDLXFDUHD_ Hv__X?NvHXlsXDvLX?NH!+l_+NsUvLlp+?l_+llFv+?HxDYfx?Dlv+?LvN?UL_F4_NF_N+FFD+Yx_DX+D?y+_+_Y_NyH_YgxNYX_lYXFlX9xsD.sU?+Ll+vslNvHlYUUUvvs?lxFYLvx8vvs??vHYvDHFNNeFY_sYvD_Yl_HHs_x{F_sXv_HX+NL&lL+XYUsmvvl;lsF)XlxLDlsvXlHLlULxlUUvY4UvLYlvlxXvXH_LDYUDlFHNDYLl!YUDYHasv?H_l+I_X+_ND+vN?+HDl.LU?-U?++c?n+_UlN_U9LDUDLvU?Dx?+L_F?vUH+L0XFL_FlLFHXxUYDNFY?sxH+lXHNsUFDN#+NN_+YNFllsx+DHln??+++FX+N?H+YU%DvU_LUUFDx?xvN?sLYsDL+H_LNN_LYYtDvY_slYFNXHxsNHs_YHHsv??NN+?NYvvsv^_sl+Hsv+x?N+sUH+HU+xLFNkxUYDx?vDs?lDU?XLs?XLsHHLHYFDLYsDUYH_WHvFDHl_FHXlvXDNsX?NHxFsDxlsU%Xl%+Ll_x?lO+XFLxD??x?UHv+YLdX?UDXF3_DF__NFFDDFFDDX?D?H;_+HD_NHY_YX=YxX_NlXFlXbxsDrss?_Yl++LlNvllYx}Uvx_KsxFUXvxY_vs??vHF+_XFs_FFYDxYvDNYlDFU+_xdN_sXT_HX+NLXNvFXYUvJvsYWlsF!XlxYNlsvXlHxlULxNUUvXNNvvY?vl+UvXFxLDFs?xFHNDYLDlYUDXH:_vND_l++_XXxNDXUN?+;sXbLUYzUUY+Alv+_?lxUlXLsUDLHU??s?+L_??vUHLL4++L_FlLFH+DlYDs#Y?__H+_LHNNFXYN#+FN_<+NFXXsx+NUL<??s++Hx+NlU+YUtxFU_LXUFDl?xvN?sL?FXL+HlLNDvLYX_DvHsNfYFsDHxsDHs_?HHl+>zNNx^NYx_svlcsl+HlH+x?F+sUv+HU+xL?lL#UYDs?vvH?lvF?XDLY_LsXLLH+XDLYNDUHXxNHvlcHll?HXNxXDNsx?NHxNsLv+sU0XlMxvXN+lF++X+DxDFHx?UH_+?LDU?U_xFnLDF_D?lvLXX_DDxQD?YH_+HLlNHUsXX0lNX_N?XFNXFLsDx?s?+vl++LlN+UDXx%FNx_UXxFUXvx?DXU??_vF+L?FNLUFYDPlDD_XXDFHN_xHD_sXYvDX+l?XNxNXYs7^vlsXYsFvNlxFlls+?lHL+YYxsYxxYYsvv:_vlFHLLFx_HFs_FFHD+YL_lHFDY-U_v5N_lHF_XALl+XsU_XHUxnLsNnUsYxFlvvHllLNlXxLUDvUF!xHYUvL?XvU?YL(YDDHFlN_FX__YDDsY?DH++_LyY_U+NNhXDN_XlXxXXUl>Dss*?lL++lLYllULDUBxFU_xlUFvX*Fv_YXv?xHL+HFLNYF_CYmN?Y_NlYFDXHxsDl__?+_N++FNNsLNY+xsF9_?x&FxY+xlD+sUYxxU+LHUNv?UYvE?vLs??vFHULx_vLsF?LHHvD_YNs_YY_?Hv__Hl_FXxNx+YNsxNNHRvsL+Ns?=Y?N+v9l+lFL+X?LUvUlDvUHD+?LvN?UDYYwLvHHLlXLLXDFDDHU_vYHsUHL_XHU_YXWsDXsNlx_NXsUsD7ss?xKUU+LFx+UUDx&Uvx_??v?UXDH?DNp??vHF+LLYFLUXDDRXXD_Y?DFHXFvHDsXH?XNX+lFXNUUNDs:xUs_sCsFUXlxLD+-+?FDx++UxNU?xYHTU??__g?FU+FxHDFsL?XHD+XlDN<+DYHx_vH_YXHFlDXxNlXsN?XHs+F_sNv+sY+slv+_llxH__xxFYxsXvxH?+vL?NXF?Y_lFvLsFlLFFXNxUYDs4LDH-U_LHF_UHYvxXvUpXlNHXXsx(DUsHvsHv?lLL+lUL+U>xvHDxlYDxXY?vDHxv?YH+lFLNeFUN_YJl?Y__?UvDXTF_DHX_?HHN+XLUNXUUL5;UYP_s?gFsXYLlDL*l?xLU+xLUNxU_Xv&YFv_F1vF?XLxFD{UF?NsY+DFYNDUYYNxUU__+L_FLxNxXDNsX?HD +UH4NsFSYlx+vl_UslFLUUxxDUsxYUHLv??vNH_vYH>LvF_LlHF_vYxs+YssNYHH?HLNlX+_Y+YNvLLNlXFNX+LU=Cs?lSHll+LlN+UUXvYUvDDUlvLUXvx?DLUF+vHX+LLNsLUFYDTYvs_YlssYXlxHD_UH?NHDxNLxxNUs_s*xXs_vlCLnX?Y+DYl+?v+x+ULDNUUD_?pDH?_v??FvXvsLDXxL?Y+D+YLDNYU+sHisHH_s_HF_XXxND?vN?xUs+xLsNCUsY+5LH+_F_+FF+xxUDxsU?Xf?+_x?NvX?YLdFvL_s?LFXHDxY?DsY?DHH+x_HNlUHYNNXvN_XlNFF+sxv_ss+vsH++lLxl_++YYxxvDvxlUFxXFLxl?s_H?HXDFLLNFU_Y<lDLGlDlGXDXvx_DXUNDHHUDXLlsXUNY*:lD+NslL+sXvvlD+sl?vJ?LxLYYxUFHvh?vv_?lLU?XNDFDNHF?DuY+__HFDU++_AH?__Hl_F6+sNXDUYX?lsE+sLPNsUvYliLLl_LHlFx+UxxDvNx?H>v+?LvN?FvYYxDvF_NFFF_XYxDDYsN?Hs_++N_N+Y_YNUNvIslxXF?vExsY6ss?VHUvxLlNLXlYFlUvx_UlvHFNvxH?vsFvvHF+LLYlDvFYsNYvYNYlDFYX_xHH_s+H_HxsNLXlNU&Ysv>v?snl+D7XFD+DUUxllHDLULLNUUxY?bDvY+vlHXvXXDLDDxL?HyDsYLs?YUU?H/_vH_N?XF_XxNNDU.N?XHs++_s?uUFv+&l?+_ll+F?+HlUDDXU?sY?+vL?NvUHYLkX_L_onLFY+DxHD?lY?l#H+YNHNlYHYNtxvN_xlNFv+sx:Nss.?wL++FD+NlH+YUbxvU_H?UF_+?xvU?sv??HL+s_LNXYLYYsDvY_DlHHx_HxllHs?vHHN+XLNN_+NYvvsv1ssl1HsXxLDF+sFX+HHlxLUNxUUY_W?v_s?lNk?XLLFDLssYLHVLDLYFDUYY_rHvxsHlUKHXNlXDNsX?NHFvsLvFsU+Dl8+vl_x?_v+XYsxD,_x?UHv+?LlH?UNxFGLDF_L?FFLX_+DD%HD?YH_+H__NXFNDX>UUX_llXFNX)xUD+Fs?LDl+L?lNULlYvx?lx_H+xF?Nvx?DvsFYLXF+NYFNlsFYDqYv_sH_DF+l_xvv_sH?_H;vNNXN?DXYssgvs_mlsF+slxLFlsD_lHxvULvN?xxYH_vvvXvlXvvXYLDvFssxFHN+YLDNYUNYXU_v+Y_lxv_XNFND.UsFXH?l=LxDeUsY+zUDxvllDDlXxUUDxsU?L4F_vLX+vUFDL2FvL_Y?+vFXsYYD_fY?DHH+_L+N_UxLNPxHN_X?NF.XHvaD?HC?G+++F?+NlULYUfDNU_DXUFv+?xLNNXv?XvL+pFLNFULYY;svY_sFYFlLHx_NHs_?UlN+xsNNdHNY54svC_LLpFFL+xUU+sl?+HU+l_UsD?UY_D?vvN?lvFHXLxXLLsXFLHYvDLHlx+YYlGHvUsHl_FHXNxx?NsxlNHv+sL%NsU>Yv?+vF*+llF+XUvxDUsD?UHDl?L_+?UvXF6Lvs+LlXDLXHsDDYsD?YH+FHLl+HUsLX-NvX_Nl?HNXxYsDfHs?EHl++LDl+UFlx}UUx_UlxFUXXL?D_D??L_F+LLFNDFlLDR7+D_mKDFYX_xHDFXH?l?X+N_XNNFXYs/lxs_vNsF2Xlx+UlsxYUXx+YvxNFUxY?7vvY_L_?F_HFxNLFsYDFH_vHDDN;UDYHs_vH__lXHNUXxU_XsUNXHs+2Lll+vsYLxlv+Hll+FlXvLU?xsYHxHvxvL?NvU?YLlFvNDFlNXFXDLYD_sXNDH,X_LN _U+FN8^DNFXlU?XXUx%Dss=?UH+UlLL_lULFU>UYU_v?FIxXHxvDG_v??HL+Y_DvFUNHYhD?Y_DlYFN+X__D+U_?vFN+XLNN/FNYO!?_5_HlgFsX+xlD+Hl?LYU+DNUNxFUYL2?Fv_HNvFvxLxXLLsYY_vY+svYN?XYY_-Hvs_X__F+HNxxLNssDNH+vs_rN?U>YYH+vl_+lUHv+UxD_UsNlUHv+?LvNHvvYHXLvXNLlFHLXHx_XYsslYH_LHLl_HUlYfUNvxLNlNxNXDpsDvsUDuH?X+LYs+UUvxBUvxHUlDsUX_}?DvU??vHYLLLXLLUFXDMYvD_YlNxYXlnHD_YH?_HX+NL?lNUxFsitls_2lsFPXDL+DFs+?UDx+ULxNUUHX?i_L?_L+?FvXFxDNsXL?}zD+vxDNYUDYH3FUH_lUHFN+XxNNXsN?sYs+v_sN8UsY+Llvxs?x+FYxxxFDxsU?xHY+D+?N_Y?YNvFvYCFlDHH?DxqlDsHvDHH+_LXlN_HYUDXvxLXlNFXXlL+NssL+sH+llL+NlUxX?lxvYYxlDUxX?xvD?sLL?HNLFLNHFULXY{_vYsDl HDX_?_D+?_?6.N?XLUUXUlYKysv1_UlxDsXLDlDL?l?UsU+v_UXxUH+v!??v_?lvFY+DYFDNYF?h_Y+DLYN_FX__/+l__X+_FHXNx2NvXX??D8+Y_INsU,Yl*vFl_LFlFD_UxxNUsv??Yv+H_vNxYvYXvLvX_D_FFs+YxF?YsUFYHl+XX_N+F_Yv+NvsxNlXFsrAx?D%s?Y!Hlv+LlNx_lYD+Uvx_UlxFUXvxF_vsHYvHFHLLFNLUYX+NYvslYlsDYX_xHD_s_+_HxDNLXNNUXHsk+Do+2UF+hX+++Dls+??Hx_ULDFUU_x?P?Y?_L?FxvXXsLD+_L?FHD+H_D?YUlLHM_?H__lHF_XXYNDxYN?vDs+E_sN+Ul2+4FN+_Lv+FYLxxUDLxU?_>?+_s?NvU?YLw_HL_XULFFXDxY_DsY?sHH+lvHNl?HYNxXvsslUNFxXsx?+ssV?sH++lX+NFs+YY:xvUsxlUFv_?x_L?sLC?HL+FLLNY+LY{,DvYFDlYFDXHxNXHslFHHNsXLNNXUNYr?svvssl+LsX+xlDxUUx+HYLxL=DxUUYvb?vLv?l_H?XLLFDLUF?LH_!DL0UDUYY_CHN__X?N_HXU_XDlsX?NHq+UL+zsUL+lCLNl_UvlFv+?UxDYYx??_v+?LvNFFD_FyNlF_XNFFLXYx_NH?D?+D_+HF_NHU_Y6xNNX_?+XFxYRxsDSss?+Nl+LslNDxlYxxUvv_FxxFHxvxvHvsHXvHYvLlFNNHFYNcYvD_YlNFHv_x+l_s+X_HN?NLVll+XY?D%vsHklsFbXULxFlsD+lHYlULxNUUvX?FvvHYvlFLvXFxLDYU+xFHslYL+_YUDYHa_v#X_lx*_XxUNDXUN?BHlHIL?UuU5r+:FN+_FlxLlXDDUDlHU?NX?+_L?HvUX)L97LL_vDLFFXDsYDslY?l+H+__HN_UXxN5xDN_XlNFXXsxQDlFC?F+++U++NlU+Y?xHUU_DYUFDs?xvD?sv?vLL+XlLNFULYY+DvHsYLYYlDHxHLHs_?HHl+ YNNvCNYv_svlzsl+Hly+xFF+sHl+HU+xL?lvUUY_s?vvH?lvF?XLxH+Ls2+LHMlDLYlDUHYNlHvl?Hl+_HXUsXDNsAUNHvLsLvFsU8YlZ+vL++lFH+XUxxDUlx?UH_+?L_N?U_XFCLDF_D?_YLXfvDDsLD?YH_+HLNxHUlFXGULX_N?XFNX;NsDvss?+vl++LlN+UUUxnYLx_UXxFUXvx?DLU??NVF+L?FNLUFYDuYLD_nFDFHN_xHD_sXYNaX+UsXNYsXYsOkvs_x+sFLxlx+Nls+YlHx+vvxNYHxY? vv?UvlFHD_FxNUFs_?FHD+YLNNHFDY+D_v+?_lN__X7LsvXs?+XHslRLsNkUlX+vlvLYllFUlXxxUDvU?+xHHlvL?XvU?YLeYDLHFlsDFXA=YDDsY?DHHU_L+F_Ux_NMXDN_flsXXX?_uD++O?Fv++U_+HlUDxUqLvU_xlUFLXFvvDHYv?XvL+LHLNYF_lYAslY__+YFDXHxNN*L_?xDN+UFNNXUNY+xslS_F+%FlN+xlD+sUYHDU+DYUNvHUYvp?vv_HxvFXLLxXHLsFYLHH+N+YNsHYYYvHvl?HllFX_NxxlNsN+NHDxsLvNlLTYFL+vYN+lxU+XUxxsUsDYUH_D?Lvl?UvYFsLvXlLlFFLXYxDDYsDHYHlDHLNLHU_YXosD?YNlv+NXx?sDMss?^H&N+LFY+UlYxrULx_??UN?2_l?D?N??vHF+_LHeLUALD7/UD__vDFX+_XHDUkH??FX+NLXNsFK_s!vFs_++sF^Xlx+DUU+?YDx+YYxNUFxYFILw?__X?FHlFxNFFsL?Y?D+VsDN+#DYHq_vH_+LHFUxXxNDXsNFXHs+vLsNv?sYLvlv+sllxH__xxYNxsDNxH?+vL?NN5?YN3FvNsFlLFFXDxsbDs{sDHH+_LHs_UHYU_XvU+XlUlXXsx.Dss?_sHvNlL+NlU+HU/xvY_xlYcxXYsvD?Uv?Y7esFL_FFUFYY;DvY_Dl9FDX=D_D<Y_?X,N++LLXXUU+>7U_*_+FPFlXNvlDvDl?sHU+LsUNLUsDvyYNv_?UvF_<LxF?ssFFNxY+NsYYD?YY_WHv_U+s_FHXNx+lNHXFNH+vNs7NUHOY?I+vl_+l?FFYUxLlUsLXUH???LLlFxvYHDLvFHLlFFLXHLDHYss+YH+xHL_NHUNX3UNv+YNlbLNX/xsD+UUxIH?l+LFs+UlYx=UvvlUlDAUXDU?DvU??LHF?LLHLLULWDwXND_Yl+HYXs_HD_XH?_HX+NL?lNUxxs^J?s_tlsFx+Dl+D?H+?xHx+ULxNFUWD?}DU?_vU?F_lFxLDXsL?XvD+X?DNYFDYH-XxH_sXHF_XXxNNXssY)Xs+x?sNxUsY+ lvv_UY+FF_xxFFxsvDxHFvLs?N_x?YLsFvL_FlDHH+DxXHDs)YDHH+_LXl_HHYlUXvNHXlNFXXlL+<ssv_sHLvlL+NlU+YUlxvFYxlYNxX?LvDFsvF?H_NFLY FUNLYZ_DHUDl:vDX,x_DHs_?aHNlXLlHXUULS=AYB_l?+xsXvUlDxGl?+HU+v_?_xUY_vQH+v_?lvFY+D;FDNxF?D_Y+DLYN_FN?_B:H__sx_FHXNxXDlxX?UDR+UX{NsF-YUTxNl_vXlFlxUxLFUsx??Fv+YsvNH0vYFxLvH_LFFFNLYxNsYsHHYHN+H?_N}H_Y_kNv+?NlXFL+PxUlTslD:Hl++LlNYDlYLDUvvFUlxFUXvxN6vsH+vHHLLLFNLUFYFlYvNUYlsxYX_vHD_s_X_H+DNLXNNUXYsfxv?+%l?+nX?D+DHD+??iHsULLHUUvv?1vv?_vlHFvXHNLDHXL?Y%D+YULYYUsxHulxHF_UHFN7XxNlxNN?XHs+vvsYP?sY+LFx+_ll+F7UxsU_xsF?Dl?+DU?NDX?YsYFvDsNxLFXNDx_+DsY?DHH+NLHNl>HYlsXvNsXllF+LsxxFssvPsHDHlLxlUF+YFlxv+xxlUFxX?xL6?s_x?H_UFLLlFU_YHsDvXHDl2+DXxX_DXUsqHHl?XL!DXUNYe,sv+UslvLsXvFlD+Ul?+H?NxLY}xU?sv!?vv_YlLX?X_FFD_YF?U?Y+DUY+DU%s_>HX__HU_FXvNxXDYNX?NHu+UU;NsU;Yl YDl_+llFx?UxxDUsx?pYv+?LvNH+vYF;LvF_UsFFLXYxNYYsD?YH_+DY_N+v_Y+?NvXNNlXFL+.xUHSsl_mHl++L?NXxlYLUUvL?UlHYUXvsUXvsH_vHYLLLFsLUY+D9Yv?DYlDFYXssHD_sH?_H?vNLXNNU ls}1vs_{lH?zXlx+D?X+?lHx+ULs_UUxY?zD??_vl?FvXv?LDX+L?XlD+YDDNYUYDH+sFH_lvHF_XXxND?UN?xls+VXsN*UsYvy_?+_FD+FFLxxHsxs?+xs?+_+?NvH?YL+FvLHFlLFxHDxYDDsXXDHH+_LHNFlHYN}XvlXXlNFXXsx_Lss9?sHvLlL+NlU+YXXxvU_xlY_xX?xvD?slU?HL+FL_YFULYY*DvlsDlYFDXHH_DHs_?HHYJXLNNXUULg^svW_sl_?sX+xlDL}l?+HU+xLxqxUYsv7HSv_?UvF?XZLFDNvF?DlY+DLYNDUlX_ufX__HU_FHXNx+DDmX?UUR+?QoNXF1Yl_QYl_L_lFxYUxx_Usv+UHv++vvN?UvYHLLvF_LlFFUHYxDDYssDYH_+HL_NLl_YXiNv+XNlXFNXwxHL.ss?VH?L+LlN+UlYNXUvx_UlLvUXvx?DvsNYvHF+LLYvLUFYD&YvFXYlsNYXsXHD_lH?_H?vNLxxNUPssy1vs_plLHfX?H+Dll+?lHx+FLXXUUDl?)DX?_YX?FLD?FLDXDL?HvD+YDDNYXDYHpFxH__lHFlvXxNDXsN?DYs+0LsNvRsY+#lv+_D?+FlXxx?+xsU?xH?+lv?NvU?Y_NFvL_FlLFxHDxYDDs&vDHH+_LHNHvHYl?XvUvXlNYXXsxvlslv+sH++lL+NlU+YxLxvFFxlUFxX?xvDYs__?H_sFLDHFUlUYc_DlYDlzDDXl?_DHs_?HHU+XLlHXUU_ZisD=_sX8xsXvllDsUU++XU+xDUNxHYFv(?vv_x?LxFRLxFlNNF?LHY+-DYYD?YYsE&H__++_F+_NxLxNsIYxNJ+UHaN+_<Yl7+vl_xNlFLNUxLXUsxYUHD+F+vNHvvYHNLv+vLlYH_sYxsZYsFNYH_+HL_NXc_Y+lNvx+NlXHNXxxl?:s?DMH?s+LHL+UUXvrUvDxUl?UUXvx?DvsYevHH?LLXvLUFXD-YvNxYlsNYX_YHD_sH?sHXFNLxvNUxLs&_Ts_QXs_KX?X+D?x+?lXx+UlxNUUsF?=vv?_DX?FvXFxLDxNL?FHD+XFDNYUDYHhxDH__lHFN?XxNDXsN?DYs+fLsNvvsY+Zlv+_Xs+FlXxxFXxsU?xH?+UY?N_D?Y_YFvLNFlLFl+Dx%mDsH_DHH+_LVNLxHYlFXvlYXlvYXXssXXssvssH++lL+slUxxU7xv4DxlUFxXYsvD?sv??HUSFLLNFUNDY&DvY_DllHDXHx_DXL_?HHN+XLY_XUNYZ9UFz_slnFsXN+lD+sl?LsU+xLUNxUx_v*YHv_H_vFFpLxFDF)FFNlY+sMYNDUYY_nUD__+__FXUNxXDNs+?D_>+?xbN?+MYYv+vlF+vlFLHUxvFUsxFUHvl?LvN+lvYFALvHFLlFFLXYx?LYsD?YHsFHL_NHU_YLXNvX_Nl+vNXSxsDOsHUrHl++LFv+UlYxPUvsDUlxFUXDU?Dvs??vHsvLLFNLUYlDtYvD_Yl??YX_xHDl+H?_HX+NLD_NUXYsPxYs_#lsF%Xd?+DFD+?FYx+UDxNUUHX?O_;?_LL?FvXFxLDsUL?XFD+YDDNYUDYrRv?H_lNHFlYXxHNXss+Xss+vvsN+NsY++lv+Yll+FXHxxUDxsY+xH?+vL?Nll?YL*FvNxFlLFFXDxvLDsY?DH0L_LHN_UHYFXXvN_XlUNXXsx5Dss_UsH++lLxHlU+YU>xvoDxlUFxXFxvD?sv??HU*FLLNFUDFYEDvY_DlDDDX#X_D+N_?HXN+XLvlXUUU%=sHh_sl/FsXYLlDL_l?+XU+xLUNLUsDvfH+v_HNvF_DLxF?LxF?NYY+DYYND?YY_DHv__Ls_FHXNx+?NsX?NHO+Hv:NsU=Y?s+vl_+llFH+UxxDUsvNUHv+?LvN+lvYF2LvHXLlFFLXYx?LYsD?YHs?HL_NHU_Y_lNvxvNlx?NXVvsDcs?XGX?l+LlN+UlYxMUvHsUlDLUXvY?Dvs??DHllLLX1LUYvDrHUD_YXD_YXsFHDNUH?_XX+NUXNNUDFsi7vs_#XsFTXlx+DXN+?lHx+FNxNUUxY?^lx?_vl?FLLFxLDFsL?l0D+YLDNHUDYHk_vH_x?HF_XXxs_XsN?XHs+F_sNJUsY++lv+_ll+F+sxxFYxsYDxH?xvL?YvL?Y_sFvLFFlLYFXDDYDDslYDHH+_LHs_UHYNbXvYDXlNFXXsNyDssf?sHNnlL+NlUxvU(xvU_xl_HxXY?vDFvv??HL+HL+XFUNNYS_NY_sXYF_DYF_D+v_?X+N+XDNNTLNYAPHxt_sl%F?x+xlD+sl?NYU+xLUNxXUYv{?vv_N?vF?XLxFDLsF?LHY++_YNDUYYN!Hv__Hl_F?+NxXDNs{FNH(+sL{NLF0Yl<+vlN+llF+XUxsLUsx?UHvx?LvN?UvYsxLvF_LlY.LXYxDDYs+YYH_+HL_lHU_YXhNvDDNlXFNXxUsD{ss?KHJU+LF(+UFsx=ULx_UlHHUXD??DLv??vHF+LLslLUXND=YLD_YlDFXXvUHDlxH?lsX+?NXNs-XNs(xHs_+asF+flx+Hls+?XYx+ULxNU?xY?%vv?_ls?FvXFxLUFsL?FHD+vvDNYUDY{v_vH__lHFv+XxNDXss?XHs+mLsNFFsY+ulvxNll+FlXxx_NxsU?xH?xvL?NvU?Y>xFvL_FlDOFXDxYDDsvUDHH+_L X_UHYN8XvvsXlNFXXsxwDssr?sHsUlLLTlULsU2xLU_v?xUv-Y?vDYsv??HL+HLDXFUN_YcNFY_HvYFN+Hs_D+x_?X_N+XLNN:FlNqEUHz_++gFsX+xUNxll?LUU+xFUNxUUYLxF0v_H_vFXNLxFDLsF?_UY+NYYNsNYY_xHvs_F+_F+lNxX_NsvFNHR+U?)s?L5Y?U+vl_+l?Fx?UvLXUsDDUHUD?LLls+vYH?Lvv?LlFFLXHL+FYssNYHlXHL_NHUNX?NNvxvNl+HNX;xsD+UNX!H?X+LFN+UlYx-FvXHUlDUUX_Z?DHU??DPssLLX_LUvvDGYvD_YlU;YXlxHDlxH?llX+NLv?NUxYs(vvs_vDsF!XY_+DFs+?FHx+Y+xNUUDY?i_+?__l?FL+FxDN?FL?XYD+XLDNYUDYyWv?H_lsHFlHXxXXXssYFDs+vLsN+xsY+}lv+_+U+YYnxxYvxsU?xHFvvl?N_F?YLsFvL_FlDHl_DxEsDssFDHH+_LHNlUHYlXXvUlXlNHXXsxN?ssv?sH++lL+NlU+Y+sxLYNxlYXxX?xvD?s?X?HNDFLLsFULYY:DlYuDl++DXX+_DHl_?XxN+XLY_XUNY##?_&_sl^FsXN+lD+sl?DxU+xLUNxU)Fv-?vv_YxvF?XLxFD^UF?LHY+_rYNDUYY_-lH__+X_FxLNxXDNsX?FYVx?UfNs?mYl++vl_lYlFDDUxxDUsx?UHv+N_vNX+vYF?LvF_LlHFxNYxsYYsNWYHlNHL_YHL_YxlNvXHNlXYNX+_sDdsHU-Hl++L??+UlYx.UvsDUlxFUX_s?Dvs??vHx)LLFNLUYWDTYvD_Yl??YX_xHDNYH?_HX+NL?lNUXYs4+vs_>lsFnXDL+Dls+?lXx+ULxNUUsF?Tvv?_De?FvXFxLDxNL?FHD+X_DNYUDYHbFxH__lHFlLXxNDXsN?DYs+(LsNv+sY+/lv+_Xs+FlXxxYDxsU?xH?+lv?NvU?YN+FvL_FlLFxHDxYDDsXHDHH+_LHNFlHYNSXvUsXlNFXXsx_Lss.?sHvUlL+NlU+YXXxvU_xlFFxX?xvD?sXY?HL+FLDvFULYY6DvvDDlYFDX^F_DHs_?HHY XLNNXUUsb5sv8_sl_?sX+xlDLNl?+HU+xLxSxUHLv3HFv_?UvFFDvFFDNXF?DvY+DDYN__YY_fLx__Hl_F+xNxXDNsX?Lw#+sL6Nl+mYl^+vl_Y?lF+XUxxYUsx?UHv+N_vN?UvYFlLvF_LlFF++YxDDYs_+YH_+HL_NUF_YX.NvZvNlXFNXfxHLiss?#Hlx+LlN+UlYHxUvx_UlxHUXvx?DvsNYvHF+LLYvLUFYDzYv+sYlDFYXNxHD_sH?_H?vNLXNNUIHs4:vs_:lLH>Xlx+Dll+?lHx+FLXXUU_D?fvL?_DX?FLDQxL_aKL?XlDsYDDNYUDYHLlxH__lHFlUXlN_XsN??ls+vFsNL+sY+hlv+_Hs+YYNxxU_xsUFxH?+X_?NNx?YD1FvL_FlNFLNDx3YDs+xDHs+_L7NLxHYUsXvNNXlFNXXssLDslLvsHL+l?+slU+YUoxNYDxlUFxXHxvF?lv??H^vFLNXFULXY.DvY_NlfNDX+U_Dx2_?sDN+XLUxX??DcusDy_sU#FsXsslDDWl?+HU+xLUNvkUNvAHFv_FUvFF:LxHQLsF?+MY+DLYN_KYY_OHv__U?_FHXNxXFNsX?NH5+L_INsU{Yls+vl_+llFNHUxxDUsvUUHv+?LvNNFvYFuLvF?LlFFLXYx+NYsD?YHNvHL_NHU_YLXNvX_NlcNNX2xsD&sHU1Hl++L?U+UlYxTUvsDUlxFUXvH?Dvs??vHx%LLFNLUFXDCYvD_Yl+HYX_xHDNvH?_HX+NLD_NUXYsu+vs_WlsF1XDL+Dls+?UUx+ULxNUUsF?qvv?_L_?FvXFxLDxNL?FHD+HxDNYUDYH-xDH__lHFsxXxNDXsN?F s+eLsN+HsY+ lv+_D?+FlXxxUNxsU?xH?+X_?NvU?YDDFvL_FlLFl+DxYDDsX+DHH+_LHNxFHYN XvNNXlNFXXsxFNssh?sHxslL+NlU+Y_xxvU_xlFLxX?xvD?sXY?HL+FL_kFULYY}DvlsDlYFDXXF_DHs_?HHvvXLNNXUlsCqsvA_slFHsX+xlDxDl?+HU+vLGsxUHDvVvDv_XxvFFDvFFDs+F?_NY+DDYN_+YY_fUD__Hl_FX+NxXDNsX?YY.+sL#NFx&Yl)+vl_NslF+XUxLsUsx?UHv+N_vN?UvYFXLvF_LlFF++YxDDYsNNYH_+HL_NUF_YX2NvuxNlXFNXExLNwss?}HU_+LlN+UUYs+UvDHUl?vUX_??DvsNlvHXlLLFlLUFYD}Yv_NYlDFYX_vHD_sH?slX+NLXNs+XYsMwvsl_XXxNDXsN?XHh+YYxvUYxNUUxYTLUU+?lHxUssvCU?vNLHJ+sL NsUbYlmUvUxHs_FHF_XXxHvDYXx9(sD;LsNpUYYNFXLsXl?xxlXxxUD_?+Ylv+xUs+FvFYvL!FvL_K?UYvx?YvFFULUYvLXFsv?YFLHYH__H_DUHH_LXu_s/+V?F+++lL+NlUYXUyxvU_xlUFxX?xv?UHv??HL+X_LNF?LYY+DvYUssYFDXHxlNHs_FHHN+?_NNXUNY6+sv&_sl+xsD+xlD+sUx+HUxxLUsxU?+DX?vv_?lLv?XLvFDLFXULHY+DLHUDUYH_nHvxsHl_FHXNLXDNsX?lHvssL6NsUBYlJ+ll_+lUv+XULxDUlx?UHv+F_LF?UL}F#LDF_LlFF_XYlDDY?D?H+_+Hs_NXFN_XmNNX_NFXFNXmxsDxDs?++l++_lN+FlYx(UDx_UYxFUXvx?_vsH??_F+LsFND+FYD+YvD_VlDFYX_xHl_sHY_H++lXXNNUXYsV8vs?hlsFvUlv+Dls+YlHxxULxN_FxY?pvv?lvl?FvXFsv?FsL?FH_sYLDsYUDHH=_N+D_lHF_X lNDXlN?(x?t4LsNwU?y+qlL+_llYHlXxxUDxUU?xH?+DLHHvU?YLIFvL_FXLFFX_+YDDUY?_+H+_LHNNFPxN,X_N_X?NFXXsxxDsUG?l+++lN+NlH+Y?xvUU_xYUFvx?xvD?sv?YsL+FNLNFFLYYxDvY_NLYF_vHx_DHs_FHHU+_FNNXHNY3NsvyNsl(F?X+xlD+slX+HUvxLFNDDUYvQ?vv_?lL+?XLxX)LlF?LHYvDLYsDUYYxxHv__HlN.HXNxXDNHv?NX/+sLvlsU6Hlo+vl_+YF?+XUxxDYUx?UXv+?LXl?UvYF5LDF_LlFF_XAlDDYsD?YH_+HU_NHU_HX.NDX_NYXFNX)xlN+vs?++l++_lN+UlYLBUNx_UFxF?xvx?lvsFYLFF+LsFNLYFYDOYvD_X_DFHx_xHN_sHY_HX+sNXNNHXYs;CvsNWl?FsNlx+llsxxlHxxULxNYUxY?7vv?Uvl?HvXHxN}FsL?FHD+YLDFYUDY:?_LH__lHH_XXvNDXssFXHs+nLss%UsY+ulv+_ll+FUsxxUDxsUHxH?+vL?NvU?YL FvLsFYLFFXDxLx?lLXF_Hv_lHN_UHYHLDLYs_DH+W+sswDss<?XNs+XDsOpFlKUvxvU_xlUFxX?xxDXNvH?HL+FLLNFULY8HlvYsDXYFDXHxFHD_YHDvHv_sNlXXNYAisv_FXDN?XHsLlN+Hl?+HU+l_*FlN+FU_+svNYsvF?XLxYNvFF?LXY+DNYNDUYYst??__HU_FXZNxXFNsX?Lg}+s_^NsUfYlt+vU_NDlYxxUxxUUsx?UHv+xYvN??vYFvLvFNLlFF++YxD_YsD?YH_+HL_N++_HX+NvXNNlXFNX+1_Y%sl+aHl?+Lls+UlHx*UNDDUlxFUXvF?Dvl??LxXbLLFNLUYFDaYLD_H?DSYX_vHD_?H?_HX+lLFXNUXHsuRLs_+xsF4XDL+DlU+?lHx+ULxN?FXL?mv_?_vH?FvXFxLDL+L?FXD+YNDNY?DYXxxUH__UHFN6XxNDXssYXxs+Z_sNAHsY+Elv+_D?+FUxxxUDxsU?xH?+vU?svF?YLxFvLUFlDPXHDxYDDsXWDHHx_LHNUHHYN+XvNNXlsxXXss_sslfYsHxDlL+slU+XU/xNYDxlUFxXF_vD?lv?Y*vDFLLlFULXYODvY_Nl+YDXHL_DHU_?X_N+XLssXUs RRsvk_slOFsX+LlD+?l?x+U+xLUNxUUHv*?_v_?UvFFxLxFDL?F?DfY+D_YNDFYY_gHs__H?_FXfNxXDNsX?sNS+sLzNs?TYl%+vl_+llF+X?NxDUsx??+v+?LvN?UvYFcxv DL?Y}LXYxDDLX?FLNYDH__?HU_YXqY?_DHH_Hsx3xsD(ss?hHl+_YYN+FU?xkUvx_FHDFH+l_HXDYH?N(xDNHHFNUXX?LYDDlYlDFYXFXLHY_HYNxX+NLXNFH_xXsNNssTHsFBXlxsxONsl+xslU_xYUUxY?GllxDU?xlUyv_LNF?L?FHD+vs?sDvDXHD_vH__lDFYxDvH+_LNY!6s+}LsNNlT,+xlD+_ll+FFll_UNx?U?xH?+UN+FlY?XLLFvL_FlFDvL?vLND?Y?DHH+_LHN_UHYNEXDsLXlNFXXUNvD?U_X?Yv_FLLlXHLFFDDvYssYUHvD?xvD?ss?+X?vxl?DvHLXY_DvY_DlLXYvDLFHD_YxXCs_XLNNXUUxNvUvsxUlv+1x+F?UNFH+_HXLUiFFsHXUsvxXD?xFvHFvLxFDLsxXUXLD?lYNlHYY_{HvNsYY_FHXNxXNNsX?NH+vL?ONs?}Yl++vl_+llFs_UxxDUsxYUHvv?LvYXUvHFILvolLlFYLXYxDDYFsUYH_+HLUUHU_HX<Nv?sNlXFNXqxsDmss?+LsN+LlN+UU_x4ULx_UUxF?v_+?Dvs??LNF+LDFNLHXFDKYvD_+FDFH#_xHDxUH?_HX+NLXNNUXYUyY?s_ElsFBXlxxNlsx+YHxxULxN?sxY?+vv?_vlFh_HFxLDFsDlFHDxYLD?klDYH;_vXD_lHY_XX_ULXsN?XHFLOLssiUlXtLlv+_llxslXxxUDLssvxH?+vL?NvUYxL YD=YFlLYFXDXYDDsY?DHLs_LHN_UHXN&XDN_.?NAXXsvSDl?y?sH++?LHXlU+HUWxLU_vxUFL+NlvD?Uv?FXL+FLLNHUxDY6D_Y_DlYF_lHxsDFn_?XxN+XLNN1xNYx5D?z_sH%FsX+xUL+s??v?UxxlUNxXUYvL?vv_HlvFF LxFULsFYLHHvD?YsDFYYNvHv__HlsFGlNxXNNsXYNHrUsL+ll?oYlv+vl?+llF+XFxv?UsxXUHv+?LvU?UDYFULvF?LlFFLXYsDDXsNNYH_NHL_NHUN?X2NvzUNlXHNXAssD4Us?xSUD+LlU+UUYx:Uvx_??vFUXv_?DLv??vHF+LUF+LUYxD!YvD_YUDFH _xHDFNH?_HX+NNXNNUXYsuxHsNbYsF++lx+_lsxYlxx+UsxN?YxY?OvvY_++?FLvFxLlFsDLFH_vl?DNYXDYX+_vH__lyFLNXxN?XsN?XHs?;LUNHxsY+Nlv+_llxLlXLxNYxs?vxH?+vLF_vUYYDYFLLHFlDLFXD_YDDs,?DHHD_LHX_UHXNb=D_UXls+XXlDoDss3?UHHllL+FlUxxU(xFU_v?NvxX?svD?Yv??HL+HL+XFUDLY<DvY_DFYFNX?U_DX#_?HHN+XUNN+UDDZMsFV_sldFlY+xlDLsl?xvU+xYUNxFUYvANDv_?XvF?XLxFDLsYYLxY+D?YN_YYY_OHvs_F+_FX_NxXFNs)LNH+vL?*Nlx^YUL+vl_+llFYUUxxHUsxXUHv+?LvNNDvYFULvF?LlFFLXYx+NYs__YH_xHL_NHU_YU?NvBxNlXXNXMxsD7sLY!HlH+Lll+UlYxRUvD_UlvvUXvX?DvU??LHxxLLFYLUYLD}YUD_YllJH<_xHD_sH?_HX+Nsx_NUXYsr(vs_yUsFAXUv+Dls+?lXx+ULxNU?xY?zvvF=vl?FvXFLLHFsL?FHlDvDF?v?NYv.FFDLY{HHN_XxNDXsFl_vXDN?X_NFXs+xl?+_ll+FH_sN+lNHQFlUx_ll?lvX?YL5FvllvYUYLvFDYNDFY?DHH+F?LsYNDxNxXNN_XlNF_FHvNlXVKYlY++lL+NHYsx+xllE?l?XXUv+vUlx?sLvxU_v+LlFXLYY.DvvFFDL?FHDL_NXx_?HHN+v?YF_HY=_DXDNFXx_XXL+LUv+sl?+HHNsY+DsHXvllxDUlxYNXxNU?v+UFF?_XY+DLYN_FY+_oHv__HH_FHXNx+DUvX?NHa+sLzNlvVYUxYUl_+?lFxvUxxDUsx?YHv+?LvN?FvYFxLvFFvXFFLXYxDFYsDFYH_xHL_?+l_YX,NvXYNlXYNX!_?L ss?nH?++Lls+U?YL?UvxNUlxFUXvF?DLUsxvHFLLLFlLUFYD<Yvs_YlDYYX_DHD_UH?NLv+NDXsNU+YsqRLs_!lsF+vF++Dls+??Hx+UDxNFU-D?8vL?_vl?FL+Fx_DXvL?YoD+YDDNHLDYXxxUH__YHFN_XxNDXsN?xHs+m_sNOHsY+xlv+FsX+FU+xx?sxsUFxH?xvL??_l?YLyFvDlFlLYFXD_fLDsY?DH}+_LHs_U YLsXvNsXlNYXXslMDUsv_sH+LlL+llUxNUovD_Yxl?+xX?vvD?sv??HN+FLLUFUDxYoDDY_DX+F_#HD_D%s_?HXN+XLNNXHUFWesvW_Ul9Flp+xUNiFl?x+U+xUUNxUUYD&Y+v_?FvFFxLxFYLsH?D?Y+DsYNDFYY_+Hvs_#-_FXvNxXlNsXHNHf+lL7NsHrYlD+vl_+llFxNUxxsUsx?UHvv?LvNF_vYFvLvF_LlFFLXYx__YsD?YH_xHL_NHU_YXZNvX_s?XFNXtxsN++s?tHl+DUalNXhx_Y+xl?+Fl+?+vs?Dvs??sHvvUlvU?YHYDxHED_YlDFxFY+DUY?D{?6D_YFDsX6__HXNDss+lsF&XlxDHr_sXAvlv8UssfYlxYqN?+XlYx5ULv-LNFFL?FHD+xsFKLNFxH+_vHsNvHF_XXxF+_NYH_lFL_lXDNHXxsxl_+_ll+FlXxxUDvFH?v7?DvL?NvU8xUHvs?vF?DvFXDxYDl?LUFFDDFlDDYHHXs(XvN_XlFl_HXNNsHYDLX+sruxDF)sNH,xsX/?sYUHvF?xvD?sNHxU?{vNUFiYUHvF?Xvs?UvXFUHLNYHs_?HHl+_sH_+UHX_DXxN_HHNUUXs_XYNY??sN:Xls,FlF+vl++_l???L??XLxFDlvvpFNxDFvx_FULxFHvUFXDNY<DHHlXNNYX?NHg+Y+N_HH_HXF+DU_+llF+XHXs_+vldXFUJxsU8xCU_xvULvU?xv??YYLDlYsD?YHUXLDYLLX_XXNNvX_NlDxHsNDHH_UXNNvl+L_lN+UlYxA_Dx_UlxFUXvx?DvsH??_F+LLFNDFFYD_YvD_DYDFYX_xH__sH?_HX+XYXNNUXYs+zvs_(lsFlvlx+Dls+?lHx+ULxNvvxY?zvv?svl?FvXFx(NFsL?FHDLYLDNYUsYDs_vH__lXH_XXsNDXsvYXHs+ZLsU!UsY+ FvsHll+FlXv+UDxHU?xHNvvL?NvUF+L-FvL_XlFLFXDxYD_NY?_LH+_LUl_UHYN0XsN_XlNF++HL._sl7?lN++lL+N?UxXUBxLU_xUUFvx?xDDY3v??XL+FDLNY+LYHo_FY_DlYF_xHx__Hs_?XsN+XLNNXXNYy svv_c+mFsX+xU;+sU++HU+H_UNxUUYvx?vv_?lLxXXLvFDLsHvLHYxDLYNDUH+sXHv__HlsLHXNvXDNsNXNHc+sLbNsUIYlS+v+X+llF+XULxDUsx?UHXv?LvN?ULvFALvF__lUlLXYxDDYsD?YX_+HUNXHU_YX9lqX_NUXFsWoxslvNs?hHl+v+lN+?lYxLYxx_UlxFFXvx?_vs??&%F+LLFND+FYD1YvD_DYDFHb_xHD_sH?_HX+lXXsNUXYsxrvsNelsFY+lx+DlsxvlHx+ULLNlLxY?gvv?_vlFFvXFxDHFsLYFHD+YLDUYUsYHL_vHs_lXY_XX_ND%UlDXHsL0LslOUsY+Ilvxsllx=lXxsUDxsU?LH?XvL??vUF+L8Y+L_Y?_vFXDNYD_DY?DHH+_LXl_UX&N.X_N_XHNFqXl?oDsU#?ls++lN+NFUx1UBxDU_xHUFvN?xvDv+v??HL+F_LNF?LYYf_XY_DlYF_sHx_DHs_?:_N+XLNNX?NYq+svq_l?oFsX+xl?+sl?+HF+vFUNxUUYvt?vLx?lvFF+LxFDLsFFLHYxDLYNDYYY_}Hv_NHl_FHXNxXDNsX?sHe+sL&NsF+LlZ+vl__XR+sx+_lL+UDY?uvx?LvN?Ul_FvLvF_LlFFLXYxDDYsDYHU_+HL_Nx?FX_vHx_xHHN!HLDDHHsxXI+ilH+LlN+UXxlvrslsXxlU+XUNxlsFvLUHx_L_F?LUFYD5+sFLLHFlH+_?HD_sH?Fx_sYlDFHsL_HH_lXDo?l*6Xlx+DHssNXXlUU_xFUUxY?>sNxDUH+XUNFLLsFsL?FH?XvlFHYF_lHu_vH_?_D?HL_DYUvUXcNxXDNvXDv?l#UUxFUXvx?DvsY?HLxU?vxH?+vLmNUlvKUlvNUXvs?UY+DsYDDsY?U+DvFlLsYHDxNxklN_XlNFL+Hv_sXvNx&VsE}lsDXHN++xsL+LlF+FlixLlUx_lHvNLvFDLNFULYxsDLxQDlYFDXKx_YHs_FHHN+XLNFXUsX:Fsv)ssl+xsX+xlDvslH+HUvxLUlxU?xvGYvvN?lvH?XLLFDDvF?DLYYDLYsDUHU_}HL__H?_FXvU+XDNsX?s?q+sD NUUHDlh+Ll_+llFxLUxvNlFx??qv+?UvN?UvYH;+?F_L?FFD+YxDUYsN??__+H__NHF_YXlNvXFFXXFsd3xlxkssF6Hlv+Ll?LllYxJUvvvUlxYUXv_HLvs??vHTULLFsLUFYYLYvDNYlDYYX_xHD_s+v_HXxNLXNNUXYs%4vsX0lsY2XlL+Dls+??Hx?ULxsUUxH?.vN?_vlYsvXFvLDFlL?FHD+H_NvYUDHH(_LH__lHFsX6YNDXlN?XXs+KHsNxUUN+ilD+_ll+FUFxxFDLxU?v!?+v_?NLU?Y_BYvL_FFLFFXDxHxDsX?_XH+_NHN_YHYNxXvN_xlNF<6sxRssspYsH+++Y+Nl?+YUvxvU_xlUFX+?xv_?svX?HL+FLLYF(LYY+DvXLDlYYDXHv_DHFlUHHN+XLlDXUNHu/sNvDslqFsXvFlD+ll?+H_vxLUsxU?xvP?vv_YlNv?XLvFDLlF?DFY+DLYlDUHm_JHN__Hl_Ft+NUXDNFX?sD8+sL}NUU+Nl/+Nl_+YlFxlUxvNUFx??vv+F&vN?UvYFiDsF_LYFFD+YxDNYsD?Hv_+Hl_NHU_YX+Nvx_X+XFsL2xlL*ssHqHl+LLlN+?lYxDUvxsUlLFYUvx?_vs?FvHFlLLFNNDFHD+YvDsYlDYYX_xUN_sHF_HXNNLXNNUEvN_MvsNil?U.Xlv+Dll+?UxDbULxNUUD??}vL?_vYH?vXFxLDyxL?FXD+YL+lYUDHHI_sH__lHFsXxlNDXlN?XXs++xsN(UlU+{l_+_lX+FlXxx?NxYU?vx?+v??NvU?Y_uFDL_FYLFYvDxYXDsHYNvH+_lHNN_HYNfXvN_qUNFWvsx4NssyYsH++UF+NlX+YUZxvUNxlYFUN?xvU?sLU?HLLFLLNXULYY+DvY?DlYHDXMxlKHs_FHHNxXLNXXUNYx?sL)NslTHsX+vlD+sDY+HUxxLUHxUUYv,?lN_?UvY?Xs?FDLlF?LHY+Ds2_DUYY_4xF__HU_FHXvLXDNlX?svq+sL*NUULLl#+Ll_+UlFxYUxxD?vx??+v+??vN?UvYYxD_F_LYFFD_YxDDYsN?Hv_+Hs_NHH_YXUNvwssUXFsLwxl+2ss?-Hl+xvlN+HlYxxUvxsUlxF?Lvx?Uvs??vHFxLLXNFxFYDDYv_DYlDXYX_x+D_sHF_HX_NLXlNU+YU?IvsNblsYPXlU+DlsL_lXxxULxlUUxH?tvvFNvl?FvXFvLDFsL?FHD+YLDNxHDYHt_vHs_YHF_XXx??_NHlNxsLvN?UvYF*LvF_HlYs+HUDxxUDxsX?sXxvllxDUH?XL_FvL_FlUPvN?NLx?YLH_}Hs_LHN_Uv+YD__HU_?H?NssL<_ss1?sHv+l_+HlU+YUuNldXlF+Dl++HlU?UvX?HL+FLsFvsFxvYDDYXDlYFDXx?YvDFYYDYFDDlHX_HNXBssvt_sl_+YsDDuLsU4lsv+vxNUNxUUYvCvv?HNFNFFxNDXsN?XHs+(LvN+_DFH__OHv__vYHvDLYN_vF+_lHLN7s_+_sUPYlWDsXNsF2DsYAl_l++lY+vlLxsUIxlU?FvLvF_LlFFLXYxLD+NDYHx_+HL_N_+FHDlHNXsNYXFNXVxF?N+XNNUlv+UlN+UlYNUHFlLeYl+xNvL?Fvs??vH+NUlxU?HvFFx/DDlYlDFYX_xHD_sv?UHXvNXXNNUXYFlNPHNN;X+Dx3+s+aNsYY+xLULxNUUxY?&vvU_Xs?HLLFxLDFslLv??xv??FYYHFUxDs2HFDN?D+v+NsXsN?XHs+MLsNLsFY+xll+_ll+FHxl+++lN+Y_+?vvF?NvU?Yl.vx?lvxFGvsF+LvDUHiDHH+_LvLYlD+Y+DXNs}sNFXXsxLNXNNYXxN_a__U6vlN-DNvZXU+++l??DFXD+YLDNYUDY(oJlLXHfDvY_Dlv*FLDUYlvFYYLXYX_NHND?HX_DX+_l<x(HlU+xlD+sYFsFyLsF+_lFXYlX+FULxYvX?XLxFDLsF?LH+XlLYUDUYY_aHv__HlYDxXNLXlNsX?NHD_FsNSXN.XlD+vl_+lX+_vp?lxYUxHUHv+?LvN?UF_svsvFlNFXXsx4Dssa?+H+Y_vH?_NHU_YD_HD_DH_LHF_LLss.ss?VHl++L+XYYYYxvvY?XLxFDLsF?sHNN?HX_YXFl?xl?sDYH+xDsHlDFYX_xvxYN_IH+D_?YDUHl_?FDN+HN_?XsNLX_+NUx+?lHx+XssFxxU+XvUxxxUsxHNxFDLDFsL?FHD+YLsD+UDXHD_vH__lvsYVDLYU_LNY(ss+hLsND+XFsLX?NN,_DH:HsH{lxU?GxH?+vLXYUF+HUYxsLsYXLFFXDx+N?lvHFlLsY_D_YXD?YLLNHsDUHUNxXx__XUNZXFNLTY+lU?+YUhxvHXl_QYl_+NslxUlFxF?LvLUsvF?xvH?_LXD?HcDXHx_DvsYNLXHUX_NFXUNY.wX_N_HUsvXY+Ll?+sl?+H1Ulx+UsX+XUL?Dvl?lvF?X?DvUUUFYDxY+DLYNlFvHFvLH_sHX_FHXNxLsHF_YHY_FHl!lsH=Yli+vHlsx+_sLULxsUsx?UHsdxlU??FDsF.LvF_??xHFNvvFsL?FgDxFULsU++llFxlUvxY?xv+?+vl?FvX??LLFsLLFN+YlYxgUvx_UlxFUXNx?svs??vHF+LLUN?l}YD+YvDsYXDFYX_xLHYsLFYN_vHNXls&XYs%VvFlN?X+N&=_NUll+FU+sN&UsY+Alv+_+lXDv?F+vXFxLDvFUFvP?YvlDlHNDYHC_vvlFHDsYLDDHlDYYXDxHl_lXL_XlJ+glv+_ll+FlXLUHDx?U?xH?+vL?NvU?YLMFDLUFlLFFXF_v_F?L__kHD_LHN_UvHHDDLYUXFNFXXsxIDssM?_HD=l_xvlU+YUc__+Dl?+UlLxLsN+llXxN?_vNLUFULYY;DvY_DlXFlXHDXXs+MLsNfUsYLSvlsgFYLXYxDDYsD?HHYL+UlH+HU+xL+DsXxLvv?vv_?lvF?XLxFYssFYDxY+DLYNUsvHFYLs_sXl_FHXNxvNYlDHHl_sX_N_XXN?XLD_-DsDm?l+YDxsNDXNNUXYsm<vlHNFFvLvF_LlFFLXYxsD+sDYHl_+HL_NxXFH_vYF_LHKLXXvN?X+_Ys?YHlx+LlN+UDXxiUvx_UlxFUXvxHD?8??vHF+L?FNssFYDKlDD_YlDFH^_xHD_sH?vrX+NDXNNFXYsf<vlsYOsF++lxLDls+?lHx+r?xNU?xY?xvv?svl?F?DFxLNFsL?FHDlYLDNlFDYHv_vHl_lHF_XkxFXXlNYXHsL8LsU/UlX+Ulv+lllL#lXxxUDLsDlxH?LvL?UvU#?L%YDDYFlD)FXlsYDDsY?N=XY_LHF_UvvNGXvN_W?l!XXsseDFH8?sH++U_xslUxLUm_lU_xlUFxXFFvD??v?FDL+F_LNYUDlY:DDY_NLYF_xHxNNYF_?X+N+:NNNXUNYxAl? _sFiFlx+xHv+sUYxNU+xsUNNmUYv>?vLsYDvFFLLxu?LsF?LHY+_xYNDYYY_DHv_sHlNFhLNxXNNs+?NH>LsL+lULrYlv+v?U+llF+XFxv_UsxHUHvL?LsD?ULXsNLvFULlY?LXYxDDHUF+YX__HLUYHU_YXzsDX?NlmxNX++sD6ss?x*U8+LlH+UHvxaUvx_UlLLUXvD?DvX??LzF+DLY LUFXDRIFD_YFDFX+_FHD_?H?ssX+NLXNlUo?sr=_s_mFsFv_lxxNDX+?Uxx+Y+xNUUxYFxXU?_vH?F_FFxLDFsDYlDD+YUDN}NDYHI_vH_llHFNxXxN?XsNYXHl+_DsN1FsY_+lv+lllLF+NxxUNxsYFxHXNvLHN?x?YLxFv_vFllxFXsxLYDsYYDHXv_L-X_UHYU;XvN_XlNHXXsLrDssFYsH+xlL+?lU+YUzxv_sxlUHxX?vvD?sv??H9vFLLUFULXYVDvY__?UvDXH__DXX_?HHN+G_vHXUsx/K?Hf_slVFsXD7l_+?l?xvU+x_UNxU?xvk?Nv_?lvFF_LxYDDLF?DxY+DNYNDUYYNxXY__HH_F3xNxXDNs+?lU)+sl{NsXMYYH+vUsxRlFxDUx_HUsx?UHLvFNvNF+vYklLvF_LlFFDsYxDUYs_xYH_vHLNNM+_YXLNv+_Nl:+NX+LslEsl6fH?D+LlN+U?YvxUvx?Ulv+UXse?DLUYsvHFNLL+SLUFYD<HD_DYl_vYXUsHD_sH?sBXXNLXXNULUs&=vs_+?sFOXl?+DYH+?lHx+ULvDUUvx?zvF?_v??FLXYYLDFFL?HlD+YlDNHFNvH>_sH_sYHF_XXxlD#_N?bvs+flsNDssYxxlY+_lX+FHDxxUDxs?YL+?+v??Ns!?YL)FvDslsLFYNDx+?DsY?DHXvNsHNNvHY?_XvN_XlNFussx&Uss+LsH+vlLxNUX+YULxvYXxl?+xXFLLY?sLR?HD?FLLNFU_YH?DvY?DlH+DX4l_DXU_FHHNNXL?LXUNYP1lDFYsl+vsXLXlD+sl?v!_sxLUXxUHUv#?vv_?l_D?XLNFDDtF?DWY+_LHLDUH+_WXs__HH_F+XNNXDNFX??g8+lv.N?UKHl-+Nl_x?lFxUUxxDUHx??3v+?svN?FvYFfDYF_LFFFLXYxDDYsD?HU_+Hs_NHX_YX{Nv}sLtXFsLTxsX&ss?>Hl+sUlNx1lYx%UvxNUlvHxUvv?FvsYHvHF+LLHND?FYDNYvDYYlUUYXNLXF_sXv_HvUNLXNNU(XlvpvsXrlYxcXlx+DlsxXlHxsULvAUUxX?QLvFYvlFxvXwFLDFXL?FHDYYLD?YU_vH#_vH__llN_XXDNDXsN?XXs+iL?NOUsH+rl_+_l?+FlXH+UDxUU?xX?+vL?NvUY_L>F_L_F?LFFXDxHNNxY?_xH+lLHN_UHYN<5sN_XFNFA+sxkNssb?lU++ls+NlU+YU_xv?_xFUFvv?xvs?sv??HDvYsLNFXLYXLDvY_DlXFmYHx_UHsNyHH?XXLsln?NYM_sv+DslGFsXxLls+sUx+HHNxLUNxU?XLl?vvH?lsx?XLxFDDUFFLHYUDLX=DUYY_5HvNXHlN+HXN?XDNUX?sH*NsL4?sUL_lW+sl_x?l*+XUNxD??x?UHv+YLLX?ULxFJLsF_lNFF_+YDDDYHD?xN_+HL_NXFNvX^NUX_FxXFNX xsDJFs?+vl++?lN+FlYv2UFx_UYxFFXvx?UvsFYD+F+LlFN_HFYD=YvN_HxDFHL_xHU_svl_HyvvUXNsnXYFlMvs_)llHx?lx+Fls_+lHx+ULvl?FxY?svvFHvl?FvXYLDFFsDLFHlNYLDNYUDYXv_vH?_lXD_XXLND-sNHXHsD0LUxwUlx+yFvx_llxVlXDvUDvNU?DHxlvL??vUFXL1FHL_FlNFFXDLYDDFY?_AH+_LUl_UXqNnXlN_XlNF+XDU(Ds?u?l+++lY+NlUlvU<xNU_xlUFxX?xLNNXv?FvL+6ULNFULYHx+UY_DXYF_HHx_DHs_?+DNxX?NNXYNYgVsv+sDG3FlN+xUL+sl?+HUDvXUsvrUYFx?vvN?lDFHULxFXLsFHLHQNDLYN+DYY_FHv_XHl_FHXNx?8NsPsNHKUsL;NsUhYFk+vUI+lUl+XULxDFHONUHv??LF_?UvHFGLlF_LYX?LXYxDD_ND?YX_+X_xHHUNsX}?HX_NlXFsDXssD+vs?lHl++DlN+?lYxLYxx_UlxFvXvx?_vsFY7DF+LXFNsXFYD*YvD_+YDFHL_xHU_sX__HXDFDXssrXYG_SvsNGlsF_Flv+?lsxylHx+ULLNFDxY?_vv?FvlXsvXYLiFFsDxFH_EYLDNYUDY<N_LHH_lHX_XXxND(ULxXHsUmLl_BUsY+ZlNv+lUxvlXXvUDxlU?LHYFvLFxvUFVLSXlL_FlVNFXDXYD_xY?DHH+_LUx_UX?NZXYN_XlNFXX?xVDlv<?lF++l_+NFmDDU&xHU_FsUFv2?xv??svXHYL+FLLN_lLYY+DvYUssYFDXHx:NHs_FHHsv??NNK_NYL?svi_sl+xsD+xU++svH+HUxxLUsxU?+DX?vv_?lYX?XLvFDDUlxLHYYDL+FDUYY_oHvxsHlNlHXNvXDNsX?NHFvsL+DsU1Xl}+vl_x?_v+X?+xDY_x?UHv+?L?s??LYF<LHF_LlFF_+Y_DDHlD?v+_+HL_NHUs?X+s+X_sUXFs+qxsD+Xs?+Yl++LlNxxlYvE?Lx_?sxF?xvx?NvsFYL_F+DLFN_HFYD1YvN_XDDFHX_xXD_svl_HpvsYXNs?XYF_hvs_,lsF+FlxxNlsxNlHx+ULvlNlxYFvvvFDvl?FvXYLDxFsDXFHlNYLDNYUDYXs_vX__l2g_XXLNDEssDXHl!QLFdPUlY+oUDxXllxFlXL_UDxsU?LHF?vLFNvUFYLC++L_Y?LXFX_vYDU+Y?DHH+_L_s_?XXNBXlN_XlNF++ss}Dl?.?YL++lL+NUFHLUhvNU__XUFxX?xvDHsv?FHL+YsLNFFLYHMUYYN_sYFNUHxNDHsNYXLN+SLNN{xNY}Bsvx_XUnYlX+xUD+slF+HF+vvUNvUUYLf?v_D?lLFFHLxYLLsFFLHH+DL=N_?YY_XHvsDHlN?HXsL+xNsy?NH+?sL1NsUxYU_+LU_+lUF+XFlxD?UvvUHLx?LNL?UvYFaDDHxLlYHLXfXDDYsD?XrNsHLNUHUUUXcNvX_NlXYNX+xsD+?s?+Pl+xLlF+UUFx/FXx_?lxFYXLU?DLN??_XF+DvFNNULDDhHxD_H?DFbL_xHDlsH?N?X+svXNNFXYlxXNs_+NsFDxlx+Dlsv?N_x+?xxN?sxYHDvv?_XL?FLHFxLlFsL?FHD+sXDNHUDYHY_vH__lHFHsXxsvXss?XHsxbLsNLHsY+_lv+FllxslXx_X_xl?xxHLlvL?svU?YgxFvLYFlD^FXDxYDDslUDHHl_LHs_UHYNKXvlvXlsDXXsLdDssw?U:+LlLx+lULYUQxvU_xl?UxX??vD?Uv?F6L+FLDsFUDNYrDvY__&YF_XHl_DXx_?X+N+XLNNkFl#zgsH!_lFqFsX+x?Dvkl?xlU+xXUNNsUYLx?lv_FDvFosLxFDLsYY_vY+_+YNUvYY_SHv__XN_FXUNxfxNsXYNH++sY}NlL;Y?9+vU++lUHxFUxv=UsLXUHv+?LDNFsvYF?LvY+Ll+ULXHL+FYs_NYHUUHL_NHUNXD_NLkvNlLxNX8xsD+UlsaHlX+LHl+UlYxi?DvsUlv?UXNs?Dvs??vHYvLLYxLUYFD,YDD_HlNNYX_FHDsvH?NlX+s_0vNURssdxNs_olsFxXlX+DUv+?Ulx+XxxN?FXL?QvX?_NX?FvXFxDNxHLFY?D+X_DNYUDYXxNDH_NNHF?DXxNDXssYSUs++vsNDlsY+Klv+_U_+FUUxx?LxsUYxHF+vl?NLL?YNlFvD+FlDHH_DxH9DsXDDHH+_LoNsNHYN?Xvs+XlUvXXlLFFss+NsHvxlL+NlUxX_Nxv?vxlFYxX?xvDFU!x?HLXFL_sFULYY>DvXXDlHNDXXy_DHU_?XHNvXLs+XUFHf9sH3_?l+XsX+FlDLll?_NU+DL?XxU?Nv<FDv_FLvF?XLNFDD9F?DsY+D_YNDUYX_;HF__HU_FHXNxXDsDX?ss0+sDENsUuYliYDl_xLlFx+UxxDUsvYNDv+FRvNHUvYFBLvF_?5FFDUYxDNYsDYYH_+Nv_NX__YXONvXUNldHsxGxlx%sUX4Hl++L?Nv2lYxYUvvvUlNUUXLLFvvsFlvHJNLLFNLUYX_FYv_DYlUxYX_xHDNUXU_Hr+NL9_NUXYsr+DlHollY,XYs+Dls+?lHD+ULvLUUvH?SvD?_Ll+YvXFHLD<+L?Y?D+YL+lYU_UH!_UH__lHFsXFUNDqDN?1?s+2ssNPUUH++U++_U!+FlXxxFDv?U?vF?+Lx?NNH?YL7YHL_Y_LFYFDxHvDsX?NUH+N+HNNNHYUsXvs_I_NF-?sxD_ss+ssHL+UD+NU_+YX5xv?NxlYFL#?xL+?sLY?H__FLLNXULYYUDvHxDlYHDXHxxNHsN_HHN_XLNNXUsXFNsv+xsl+_sX+xlD+s+++HUHxLUNxUUHvwFD?+?ULU?X_DFDLsF?_HHlDLHDDUH?_9v+__X?sNHXs+XDsNX?NHa+l_x/sU+Yl!Dll_+llF+X?DxD?_x??Hv+?_vNFUDvF%D0F_lvFFDYYxDDYlD?Hl_+X+_NHU_YXV+HX_sxXFNXrxs_<ss?vHl++?lNxvlYxxUvx_oNxY?Nvx?Yvs??vHH+LlFNDxFYDsYvl_YlDFXL_xHX_sHF_HX+NL:ll_XYs?zvlvtlsFVX?xxglsx_lHxFULNDUUvX?lvvFxvl?HvXFxLDYUDYFHDHYLDXYUDYH1sv_r_lXl_XXXNDLFN?+Hs?,LlL/UlU+;FU+_U?x+lXvTUDv3U?xH?+DL??vUF?LpY+L_YNLFHX_sYD__Y?_FH+lHHN_UXlNfXHN_yNNFy+sx.DUv;?lU++lL+NlF+Y?xU+UNv_UFDv?xvD?sD?YxL+Y+LNYNLY+HDvHsDUYF_YHxU?Hs_?HHsv:1NNTlNY+LsvT_sl+HlY+xUD+sH++HU+xL?lvYUYL+?vLU?lvF?XLxYvLsYsLHHxDLYlDUHYF+HvNxHlUDHXNXXDUsNvNH}YsLvlsUDvl#+vF_+lUL+XUHxDUUx?FHDF?LvX?ULDF>N_F_LlXNDtYUDDYUD?YX_+X_D?HUNDXbsvX_NlXFl+FlsD++s?vLl++LlN+UFsx+U?x_U?xF?bvxFNxF??L_F+svFNLUFYDQsHD_HxDFHv_xHD_sH?NLXxNFXNNFXYsUovsUvssFoXlxDUll+FlHvvlsxN?NxYXNvv?_vlYF+NFxDxFsDsFHsDYLDYYLDYHH_vHN_lHY_XXDNDXsYUXHs+nLlx0UsY+QlvYsll+FlXxUUDxsU?xH+evL?NvUFlLAFvL_FlNNY-DXYDDUY?DXH+_L+?_?XsN{XvN_XlNFzDHD5_lg#?F?+xlD+NlF+YULDxU_xlUF_F?vv_?sLY?xL+FFLNYULYYhDvY_s>YY_sHx_lHs_?HHl+C5Ns5vNYmlsvvEsl+FFL+xlH+s?l+HUUxLUNDDUHvs?vvs?lvY?XLxsNLsYvLHYlDLYNDUXYs?Hv_HHlNLHX?xXDlsYvNHT?sL4HsU+HlBxDsU+lUN+XUXxDUsx?FHyl?LLx?ULsF>l+F_D?lvLXYHDDHLD?YH_+X_D?HUNUX%N?X_NlXFlXNFsD+Ds?+?l+_slNvUlXxQ?Ix_?_xFXNvxFNLF??LFF+LFFNLUFYNhYsD_HNDFHY_xXv_s/?NUX+sxXNssXY?U7vs_GUsF+Ulxxvls+YlHx+?UxN?_xY?/vv?NvlFH?YFvDxFs_XFHD+YLNNXLDYHY_vXv_lvU_XRLNlXsslXHlTMLsN5UlXxFlvxDll_xlXxxUDvUF_xHF+vLF_vU?YL3YDDsFlDYFXlsYDDsY?DHHD_LXL_UXHN=XDN_wlYYXXsHJDF+c?l?++lLLNlUxDU4xXU_x?UFLXYYvDFJv?F_L+XNLNFUNsY+D?Y_D?YF_#HxNNYF_?X_N+BLNNXUNY+xLUA_lxtFY++xlD+sl?LlUxxFUNxFUYv+?vv_H,vYFNLxFlLsF?LHHv+?YN_vYY_XHv__HlNH?_NxXXNs++NHu+sL=?UD9Hls+v;H+UlY+XUx_LUsvNUHvD?LLx?ULX?LLvYvLl+vLXYxDDXsvvYH_HHLNLHUU+X.NlX.NlrUNXKxsDtls?+xl++LX_+UlYx7UNx_UlxFUXl+?Dvs??LlF+LLFNLUsXD!YvD_H+DFYX_xHDFNH?_HX+s!XNNUXYs7xHsN+_sF++lx+_ls+?Yxxx?TxNUUxY?7vv?__Y?YLUFxLDFsL?FHDDxDDsHxDYLF_LHN_lHFv+XxNYXssvXHs+pLUNF+sY+slv+HllDFlXxx?Hxs?DxH?+vL?NvUFXLDFvD+FlDlFXDxYDNsHvDHHF_LXx_Uv?NWODNlXlssXXU?cDss(?Ur+HlLxLlUxDUJxvU_Llx_xX?XvDFDv?+xL+HLD_FUDUY2_iY_U+YFN+XL_DX__?X_N+XLNN+UsYp#l+8_lN0FlY+x?D+ll?xFU+vxUN_LUYv7FXv_FLvFFYLxFNLsF?DlY+_gYNDUYY_+Hvl__+_FX?Nxx_NstUNH8+?LuNlxKYlF+vls+l?FLUUxxYUsvvUH_L?LvNHDvHFsLvFsLlFYLXYx?vYl_vYH_lHL_NHUsYXNNvXHNl5LNXLxsD,slx:Hl?+Lls+UlYxA?DLxUlvNUXvX?Dvs??DHFDLLYxLUYsD*x+D_H?DHYX_HHDl+H?_HX+s_KFNUgUs8}?s_.lsFxX7F+DUD+?U?x+XsxNFUv??mLE?_L_?FsNFxDNYFL?YFD+YFDNYUDY#:NkH_NNHFNYXxsvXsl?++s++xsN+ssYLUlv+_Ul+FUUxx?vxsUYxH?+L??NL_?YLbFvLNFlNFLNDxH+Ds9YDHXu_LHNlUHYNsXvsxXlNHXXUxvbss+vsH+llLLUlU+YF?xLUHxlUHxX?vvD?sll?XLlFLLXFULYY&NvYlDlHLDXHU_Dxs_?HHs_XLs+XUsLZ(sv{_l?+XsX+YlDxDl?+HU+LLF+xU?svB?Hv_2NvFY+LlFDDLF?NNY+DLYN_FHD_)Xr__X+_FHXNx+DXxX?s?W+l+#NYH#Y?GxNl_x_lFxFUx_YUsvY?_v+FxvNFxvYFWLvH_DHFFDYYx_vYs_lYHs+HY_NXs_YXHNvvINlXFsYnxlqhsll-Hlv+LlNxslYxFUvx_UlxYUX_xLYvsFNvHXxLLY_LUFY_+YvDHYl_sYX_LHDssXU_HXlNLXXNUvMs-WvsN4llL^XlL+Dll+?lHvxULxXUUvD?6vv?_DlYxvXFULDYqL?*HD+XLNLYU_NHb_UH_NUHFs+XFNDuvN?3?s+)LsNxUUs+>lH+_UL+FHYxx?NvUU?vU?+DY?NvU?YDx?NL_Y_LFYNDxYDDsX?YsH+N+HNNNHYFLXvl_XHNF4Fsx+xssDvsHxvUF+NUs+YUsxvU_xlFFLN?xLv?sLl?HLXFL_NHxLYYHDvHLDl+_DXHxN_HsN_HHNXXLNlXUNY#Dsv+xsl-FsX+vlDLs+v+HUYxLYsxU?Fv=?v__?lLL?XLHFDLUF?_HXFDLYXDUHD_n+___HllNXqNUXDNUX?NX6+sLFlsU+Dl,+vl_+llFLX+UxD?=x??Dv+XDvN?UXXF&L?F_DxFFLXYxsDD8D?H__+C;_Nx?_YX2vDX_s+XFslTxsD:s??s_l++FlNv_lY_+Uvx__?xF?NvxF,vs??vHX+?FFNDxFYN?YvlNYlDFU+_xHY_sXL_HX+NLxNX+XYssQvsY)lFY XULxXlsxvlHv+ULxNUUvX?Yvv?XvlJsvXFxLDFs_mFHDlYLDlYUDHHbsvHU_lXL_XXxNDXYN?XHsY,LsXBUsX+<lL+_llxYlXxxUDxlU?xH?+v_?NvU?YDxFvL_FlLHYUDxYDDsxM?XDLFYDDY+L^HL_FHxDHNH*vsxADsssxHXNUKs+llH+YUqxvX_lDCYUs?LvU?sv??Hl_;s?=vNNXYvLYDLFvlsYvNDHYxN_YXYN+XLNNvXYHNvHFNLX!DZXssLXUN?!XsN+ lxUUDYH0_vH__lHFXXXHLLFlLsF?LH+_FxLFFNYX_vHv__HlYUDLHlXsNsX?NHy+sL#NUHFYlx+_l_+llF_H+NllUUv?UHv+?Ls?+X?DvLlNvsUUvUFxLx?_LUF{LFFLDY_lXx_YX4NvL_Hs_XHsN_HHNNXl+flD+LlN+UHHlDbLsUU?vDUXvx?DsFvxUvx_?x+%?svv?XYDDFYlDFYXUDDNFYLFHxD_NNXNNUXYs3Zvs_{lsF+xlx+Dls+?lHx+lL__UUDx?Qvv?_L??(vXFxLDFUL?FHD+YL+lYUDHHu_vH__lHF_X+lN_XlN?XXs+=LsNgULX+AlD+_lU+FlXxxUDlDUFxX?+vD?NvF?Y_WFXLNFULFY{DxYUDsY?slHx_LHN_FHYN+XvN_??NFXXsx8NssT?sHv+QN+NlU+YUaxv?_xlUFvH?xvN?svH?HL+FLDlFFLYYvDvHDDlYFDX7x_YHs_HHHNLXLsrXUsX+ssvrUsl+vsX+xlDxUlY+HU_xLUXxUUYv;YvvY?lL+?XLNFDLlF?_HxDDLYFDUHx_ X+__X?NvHXNsXDs X?NHt+UL+LsU+vl(+ll_+XlFvXU_xDUHx??Lv+?XvN?ULFFhL_F_LXFFD+YxDDHYD?Hx_+HL_NHF_YxysQX_NYXFs?)xlN&ss?xUl++llN+YlYxBUvL_F+xF?Lvx?UvsFsvHYvFxFsDPFYDLYvD_YlNFHs_xH?_sX+_HXUNLflsLXYsNGvlNolsFwXULxslsxvlHvxULxNUUvXFUvv?XvlFYvXFxLDYUDvFHD?YL_+YUDYHC_vXv_lXx_XXFNDXUN?XHFD6LsF:Ulx+wll+_UlNYlXx_UDvDU?vv?+vLHNvU?YL(FNL_F?LFHXNYYDDsY?DHH+_NHN_U+sN+XvN_X?NF>*sxZDllr?sH++lD+NlU+YUuxvU_xl?UxX?xvD?UvH?HL+FLl_vXF+Yvs_/lsFJXlx+DxsxN_YXxN+XLNNL?Xx_+HNEslsPFsX+xYUNl}HsN(Xs?H?lv+XlD+_UUxxU?xYLLYBLsF?LH+_?DLUFvL?FNv_YU_xYsDLNLXlNsX?NHD+X{_sav+nLsv++?%LHYYNv-_LUUv?UHv+?Ls?+X?DvLlNvsUUvUFxLx?_LUF*LFFLDY_lXK_YXyNvvlH?_+HgN_HUmUsX3Hl++LYFss+xsYUDxUUlxFUXUl+_U+xXL+F+LLFNLUFYDZYvD_Y?DXYX_xHDY_D4HDXvNYXNNUXYYLNUH?_HXUDs9pN?}N+??Dx+ULxN?Fx+?fvv?_LL?FvXFxLDsUL?FXD+YLDNYUDY)o_XHN_UHFNqXxNFXsN?xlsx1LsNcFsY++lv+_D?+FlXxxU_xsU?xHY+UN?NvU?YL5FvLXFlLFHLDxYNDsYYDHH+_LXls9HYNvXvsLXlNFXXUx+LssdHsH+LlLxLlUxX?FxvUUxlUHxX?xvDFUDN?HL_FLD+FULYY1NvYFDlH+DXHN_DHY_?PHYXXLNFXUsxOZs_;_l?+UsX+slDxxl?+HU+LLUsxU?vvu?lv_?YvFYXL_FDLHF?DLY+DDYNDUHU_>H___HX_FX+NxXDslX?sx>+sL{Ns?QYFus?l_+YlFxNUxv+Usx?YHv+?LvN?HvYFxLvH_NLFFLXYxDDYs_+YH_+*X_sHU_YXxNvXNNlXFln=xsDussFzHl++LlN+UlYx,Usx_UlxF?+vH?Dvs??lxvQ?lxU?x+x?HvL?sLDF+Lv_LXL_sH?_HvFYlNQYF_FH+NDHULHXUN(XLs+XYNXlXxxUDxNUFvL?0vv?_sXxD?xx?UNvL?8FH_LYLDNYUDYUx_vH__lHF_XXxND+sDsXHs+6LsNEUsH+^llxUll+FlXxNUDxlU?xX?+vsH_vU?YLqFsL_FULFYvs+YDDsY?N&H+_DHN_UUXNJXvN_XlNFXXsxxD_ZV?sH++lL+NlF+YU__vUNxlUFvl?xv_?sv??HLDXvLNFULYYUDvYNDlHWsHHx_DHsNYHHNxXLNN?FNYppsvcNsl=FsX+sYD+ll?+H?+xLUsxUUYvp?N_D?lvF?XDxFDLlF?LHlvDLYNDUYX_1Hv__+lHLHXNxXDNYX?s+J+ssv_sUdYlrxDl_+UlF+X_LxDUsx??qv+?LvNHU?DF^LvF_LHFFDvYxDDHlD?YH_+HD_NHU_YXrNvX_NlVlNX2xsD0Ulx<Hl++LHxNX+__v+xsU;HxYUXvL?Xvs??vH2Y?vxU?D+&?DL+FUvHFHH+_?HD_sH??L_vYlDFFN_FXDN_H?4?ll,Xlx+DY?sNSYlLdl_Ud?ll+FlD+NlFxNL#FvLNYNL?FHD++X?FDv?+LX?xD_FHDUF_D?HvDFHUNDsvQ?sN3UsYDLXsNFXUl+>?l_UNvsU?xH?+s+x_UXv-UDEFUlvs?U+LFhv_?ULNFvLD__HH_UHYNoLlYX_FHD_+HH_UsU+ssH++lL_Ltllx+vssHssH+Ll xslHxNUYF,L_FLLNFUlUvX?NvNFDYH_vHx_DHs?KDFH__+NlL_NY10sv:FNXaFla+xls+slF+HUxxLU?DlUYv7?vvl?lvY?XL_XLLsF?LHYDDLYsDUYYN+Hv__Hl_YHXNxXDlsYvNHovsLZNsUoHl.xDsU+llX+XUXxDUsx?FHnl?LvU?ULQF^LLF_LlsHLXY_DDYsD?YH_+yLvXHUN+X/NNX_sPXFNXL+sD#?s?++l++slNxGlLxIUDx_XLxF?Vvx?svs?X_YF+LLFNlDFYD+YvD_l?DFH+_xH__sH?_HXN?LXsNFXYU?<vsN2lsF<Xl_LLls+?lHLFULxsUUxYNxvv?svl?HvXFxLDXslLFHDvYL_+YU_vH=_vXD_lHH_XXxNDXsN?XHlF:LslVUsH+Tlv+_ll+HlXxLUDx?U?xH?+_LYLvU?XLMFYL_FXLFFXDHYDDUY?_+H+_LHNlUXxN-XDN_WDNF DsxBDll6?ln++ls+NlU+YY#vlU_x?UFv??xv??sv?FHL+F_LNFXLYY:DvHs??YY_xHxNxHs_?HHl+4XNNXYNYzvsv++slxFlv+xls+slH+HUlxL?NvsUYvx?vL+?lvX?XLxY+LsFYLHY_DLYNDUMYYsHv_sHlNDHXNsXDNs?YNH-vsLdNsU!Yl6vvNv+llH+XULxDUFx??LLN?Lvl?U_xF:LLF_LUFFDv2+DDYsD?Gv_+HD_NHHlFXwNvX_U+XFsG!xsDFUs?+&l++UlN+UlYxzxNx_UFxF?Gvx?Dvs??_lFxL_FNLFFYD+YvD_l?DFH+_xHF_sH?_HX+FvXsNFXYs+WvsNollCvHlx+Dls__lHxxULxN_FxY?xvv?svl?FvXXx?YFsLYFHD?YLDlYUDY_L_vHs_lHY_XXxNDXs LXHsv6Lss9UsY+clvlUll+HlXxxUDxsU?xHvUvL?lvUFDLBFvL_FlJHFXDLYDD?Y?DHH+lLDX_UHXNPXYN_X?NFXXLL)DsU(?l+++lL+NFUlDU.xDU_vDUFv+?xvDNUv?F%L+FsLNFULYakF?Y_D?YF_?Hx_NHs_??gN+X_NNXXNY)Esv+sH?RYlx+xUx+sl?+HF+x_UNxYUYvv?vL+?lDFYDLxFsLsFHLHYLDLHN_vYY_xHvN+Hl_XHXNx#XNsXYNHB_sLgNsUvYts+vls+lUD+XULxDUsHYUHvv?LvN?UvYF,_vUvLlFHLXYLDDYFD?HLNUHL_lHU?,X/NLX_NUXFsvv+sDass?D+l++DlN+HFFxRUvx_HXxF?<vx?DXU??L F+LUFNLUFYD5DND_YFDFYX_xHD_sH?llXxN_XNNFXYs+6vs_F?sF++lx+Fls+?lHx+XvxsUFxY?+vv?Nvl?Fz+FxLNFsL?FHD+YLNN?xDYHx_vHs_lX+_XXxFLXlNYXHsxyLss=UsYx+lv+_ll+YlXxxUDxsU?xH?+_F?NvU?YLxFNL_FlLF+X?Hv_Y+YY_vH+_LHN??_xYl_+HUXFNFXXsx/Dss>?NHD{l_x.lU+YU _U+?lxX?l++FlU+?UXF1LsFLLNFUluvXF+LL?HvXYvHL_?Hs_?HH?L__YFD?X+_DsD(Usl>FsX_vhUNlXXx1?sxLUNxU+Xlxx?lNxFUXxL?_xHUFkDNYu}s?oNl+>XlN+Dl_x+Uv+XNLX_NsX?NHDls_pHsU{Yl!DNX?NXXYlL/HllUUvLUHv+?LNUxlUUv,UXx??Yv+?vYLDlYsD?YHU_DxYFDN_XXYNvX_NlLlHHNNXs_YFYNvXlNDmYsv2FlxUDx?UlxFUXlX+_UF+HU_FvLlFNLUFYUxvF?YL+Y9HxXFNHd+sL2NsUxYv_NFexsVPvs_DxXlN^XlNUlUx_lHx+UL_HBXU+Xvl?+XUDxP?+xN?vF?L?FHD+YLDNYUDYHT_DHY_lHF_XLsYH_?HL_OHY_lsl+IsY+nlvsl.YsHOslT}FxUUXxH?+vLx?l?vQU?F_L_FlLFFXDxYDs_+?_IHF_LHN_UvxY+__YX_NHvDxX_NHXLNklZ+UlL+NlUN++Nss.?lNXDlY+sUL?ULU?HL+FLUD+vF+vDFE+lFsLUYvLvFHD_Y9_AYZXNNNXUNY6)svy_DlL?lx+xlD+sl?+HU+_YHNxF?Cvm?vv_}s?+vvLDFDLsF?LHY+DLg?lUYX_DHv__HlYFD}Y?_NH?XHNH%+sLKNsU:YFHDvls+HlF+XUxNUHFlL+?_v?_v??UvYF*l+xN?_v+D+YsDDYsD?xHFxD_FFDsH+XxN_X_NlXFHY_NXFPUlUuHl++LYFN?+esl++sYHYlDx+lN+sUFxLUYxXLNxY?Svv?_vl?FUXl?H+_UHD_sH??H_WHN_/HH__HXN+slBlsFfXlx+Dls_LDHxv?LxNUUxYXYUxx?UFx+ssxD?Lv_l*vF?xv_FvvXF+Hx_NH__lHFFxD?HXDYNY;Fs+^LsNDHXxssaN_HYUss*ssl+vlD+hlFxDv_FvvU?YLb9LUsvF??v?FNLl?YxHFND?FlHlNUHYNcXv?l_DHD_XXDLlHYNHX+N_txN?X?s?+Ll_UsxFUFxX?xNHx?NFF{L_FLLNFU?+vD?XvNYxYHN_Hx_DHsYYD#HlDDHU_YHxNLHF_UFvv??HLlFDLXFYDDYxDYYUDYHDvx?sv_?lvFOF?+xlUlvND+Y+DLYNDUYYs2DDx_H?NUHXNxXD?X_WXxLDHlNUHYNxXHNNXNsN+<lxULxlUsx?UHNY+llYxHvXFvLvF_Ll+D?xL+DNHxD?YH_+xNYvDlYWD??XDNY?_+H?#DsD5ss?BHl+YLXHDUlHx+UvvHUUxFUXvxNNvs??vHF+LLFNLUYvlrYLD_Yl_PYX_vHD_sH?NxxrNLXNNU;+sP1Ls_#Y??kXlx+DU7+?lXx+ULHlUUxY?1vL?_vl?FLD?sLDFsL?Y_D+YDDNY?DYHLlxH__lHFNNXxN_XsNXxYs+QLsN+vsY++lv+_UU+FlXxxU_xsU?xH?+?s?NvU?YL+FvL_FlLFDsDxYDDsYFDHH+_LHNxFHYNMXvNsXlNFXXssLDslm?sH?FlL+slU+YUkxNYDxlUFxXDYvD?lv??HFDFLLNFULYY)DvY_Dl_DDXHx_DHU_?HHN+XLvlXUNY84s_}_sl=FUXHUlD+sl?+HU+DlUNDUxDv9?vv_FUvFHXLxFDmUF?LHY+DsYNDUYYleD?__Hl_FQvNxxYNsX?LIM+sL4NsHkYlI+vF_l+lF+XUxD_Us_vUHv+N_vN?UvYFDLvF_LlYH?+YvD_Ys_NYH_+HLsNX&_YX+NvXNNlilNXxxsFqssFJHlx+LU++UUYx_Uvx_UlvlUXvv?DvsFXvHF+LLFFLUFYDM0vFHYlDFYXs?HDU9H?_H?vNLXNNUpvs(&vs_vl=L-Xlx+DUF+?Y_x+ULHlUUxY?bvU?_vl?F_XvULDFsL?HxD+8FDNYU+XH2_vH_N+HF_XXxN?HHN?XHs+xUsNz?sY++lv+UFs+FlXxxF?xsUFxH?D_v?NvU?Y_sFvLNFlLFl+DxYDDsHvDHH+_L+NHxHYN%XvsUXl?LXXsxFNsse?sH+UlL+NlUxvHQxLU_xlYlxX?vvD?sv?FxNiFLLNFUNUYyDLY_DllHDXHx_DX+_?HHN+xLHXXUNYd}lNS_F+5FU+._lD+sl?DLU+xLUNvuUvv0?vv_HUvFF7LxF_LsFXNYY+DLYNs?YY_+Hv_U+s_FHXNxxsNsXFNH+vNsCNsUpYF_+vl_+lFFlNUxxDUsvXUH_l?LLlUHvYFELvHDLlFFLXYx+NYsDFYH_?HL_NHU_YX_NLX_NlXHNX^LsDaF?UOHl++LYD+UlHx*Ul__UUxXUXN}?Dvl??vHF+LsX_LUFYD{++D_YUDFXXvUHD_YH?N+X+lNXNs Xvsmqss_L_sF+Ilx+_ls+XFYx+ULxNHNxY?+vv?U_s?FvXFxsvFsLFFH_+vDDNYYDYXL_vHU_lXxYxXvNDXs?xXHsxfLslhUl+vXlv+_llDvlXxvUDxs_YxH?+vLFxvU?YL2Fls_FULFFX?HYDDlY?DHH+_s+__UHYN DXN_XUNFXXLL!Dssg?lL++lL+NUFNlUqxLU_LUUFxX?xDD??v??XL+FDLNHHLYHxDFY_D?YFNxHx_DHs_?X5N+XNNN/DNYTGsv+sUx3Flv+xls+sl?+H?vvUUNxXUYDs?vv_?lvFFNLxF_LsYkLHYvDLHN?LYH_bHvlcHl_YHXsLXUNsX?NHxOsLTNsU/YYD+LlN+lUs+XUxxDFsLvUHvx?Lvs?ULXF/LvFNLlFYLXYLDDYsD?YHNsHL_NHU_YX9NDX_NY+sNXwxsDNxs?8Xl+x_s?+UUxxE?sx_UlxFFXgU?DvY??LvF+DxFN_UUDD7YlD_YYDF3+_xXNxXH?NDX+sHXNNUXYsJvvs_eHsF+_lx+Nlsx+YHxxUlxN+LxY?+vv?_vlFT_HFxLDFs?DFHDxYL_lFHDYHD_v{N_lHF_X+xLYXsseXHs_1LU?6UlXYNlv+Fll+XlXxxUDxs_YxH?svLFxvU?YLMFvUvFUDvFXDlYDDsY?N1?O_LHX_UXKN5XvN_y?s<XXs?*D?2{?sH++lLx_lUxxU&xFU_x?UFvXFxvD?Fv?HsL+FlLNYFDXY#DsY_NUYFDXHxsDXl_?XvN+XlNN+HNY+xlHV_sX4FUx+xlD+sl?NLUxx?UNvDUYv8?vLsYxvFFNLxYsLsF?LHHvDYYN_vYYNFHv__Hl_FXLNxXUNsQLNHgvsL+NlUaYlL+v?Y+lU++XUsssUlx?UHsv?Lvs?UvXFyLNXDLlFFLXxLDDYlD?YHxvHL_NHUNUXCNvX_NXXxNX1xsDNss?dXl++DlN+HFFxtUvx_+lxF?-vx?l_N??vHF+?_FNL?FYD!lDD_YlDFHF_xHD_sH?XNX+NLXNssXYs{Cvs_F?sF^XlxxLls+?lHxNlUxNUUxYx_vv?Nvl?YvXF_NLFsL?FHFNYLDsYU_+;X_vH__lNl_XXvNDXsvYXHs+PLl_>UsY+gUDNslU+YlXxHUDxsU?LH?LvL?svU?HLJHHL_HlDDFXDvYDDlY?_YH+NLH?_UHYN,+HN_XUNFXXsUGDssz?lY++lL+NUFl?U+xLU_LUUFxX?xDDFYv??XL+FDLNHHLYHx_?Y_D?YF_xHx_DHsNY}vN+XNNNxFNY:nsv+ssXOFlv+xUs+sl?+H?vvlUNxXUYLN?vv_?lvFFFLxF_LsY}LHYvDLHN??YY_pHvsYHl_YHXNx?NNsX?NH+9sLiNsU+X!H+LlN+l?Y+XUxxDFsvYUHvx?Lvs?U_+FmDDFXLlFHLXHDDDYsD?Xn_xHL_UHUULX NvX_s?Q+NX^_sD+?s?eHl+x_?v+UUxxRFvx_UlxFUXLL?Dvl??LvF+L_FNDUxHD:YvD_dvDFH5_xHDxUH?_HX+sdXNNUXY?)N?s_MlsFvFlxLYls+?_*x+ULxN?UxY?tvvY_UF?FvXFxLDFsD+FHD+HDDNYFDYHF_vH__lXHsPXxNsXslLXHs+eLUN{HsY+vlv+lllLWlXvLU_xsUXxHYNvL?NvUFXLNFvL?FlDsFXDxYDNsHFDHH__LHF_U:DNn+vxUXls+XXsNkDsU!?UQxllL+YlUxlU^xvU_LlUYxX?svD?Hv?HvL+HLLUFUDvYJDlY_N_YFDXHH_DH?_?XLN+X_NNXUsDd,sNV_sl)Fl%+xlDxHl?xvU+vxUNxUUYLtxYvN?YvFHlLxFULsF?_?Y+DLYNDHYY_xHvs_HX_FX:NxXDNsXFNH8+sYpNs?QYlx+vlN+l?FxXUxx_Usx?UHvF?LDNYCvYF+LvFNLlY+LXYsLXYsDHYH_+HL_sHU_XXpNv?sNlXFNXiHsDass?bHDv+LlN+UlHxaUvx_UlUDUXvv?Dv???vXF+LLvYLUFHDyYvD_YlDFYXH?HD_lH?NsX+NLXNNHxFs{ivs_xJsY+qlx+D+F+?lHx+UDxNUUxY?8Hs?_vl?FL+FxLDFsL?YUD+YLDNYYDYHy_v _NNHF_XXxNDXs?VXH?+b?sNVUsYx+lv+Hll+FUXxxUDxs?+xH?+vLYNLL?YLpFvL_FlNsFXNxYlDsY?DHH+_LXp_UHYN?XvN_XlsNXXsx9DssxxsH++lLxvlU+YU!LvUYxlUFxX?xvDHxv??HFUFLLNFUDUYIDvY__?Y!DXHx_D9N_?HHN+XL?FX?NH-Pslp_slOFUX+llD+ll?+XU+DNUNxU?Uvg?Lv_??vF?XLxFD_DF?LHY+DLYNDFYY_L9*__Hl_F?DNxX_Ns+?UlJ+slPNsH%Y?H+vUsH#lFx_UxxlUsx?UHv+HLvN?XvYFNLvFsLlYxLDYxDUYs+HYH_xHL_sHUN++XNvX_Nl?XNX#vsDSF?U6Hl++LDY+UlHxPUvHsUlv+UXvF?Dvs??DHllLLFYLUY+D4HND_YlH+H4_NHD_FH?NLX+NUDUN?XYs-Fts_qUsF++lx+lFN+?lHx+_+xNU?xY?nXD?_vl?FLHFxLDFsD+FLD+YLDNU_DYH+_vHN_lXulHXxNDXsLNXHsx^Ls?vlsY+Blv8Ull+YlXxx_NxsU?xHFxvL?NvUYYUDFvL_FlLFFXNfYDDslYDHHx_LX__UHYNIBDYsXUNHXXsH-Dssq?UHx+lL+llU+XU%LHU_LlFxxX?LvD?Uv?XxL+YLLlFULHY9NHY_D?YFDXH?_DHl_?XHN+XLNN+UXP7OsL*_sU5FlD+xlDxHl?x+U+vvUNxUUYLxFLv_?YvFYsLxFDLsH?D+Y+DsYNDHYYsLHvNsHH_FXLNx+BNsX?NH+vlNPNl7%YlF+vl_+l?FxxUxx?Usv+UHLl?LDNxsvYF_LvFFLlYvLXHL_HYs_xYH_YHL_NHUsYXUNvXYNlKvNXxNsDxsU+PHls+LlH+U?UxWUvxXUlv6UXvl?DvU??vHFHLLFFLUFYD(YDD_H?D(YX_sHDslH?_HX+lLFvNUKvs!yls_xYsFx+U++DlX+??+x+ULxNUULD?4v??_vl?FvXFxDNFHL?YND+HNDNYUDYXx_YH_NvHFs_XxNDXsN?++s+{UsN+LsY+xlvx_UH+FULxxFFxs?+xHFvlg?NLP?Y_+FvL_Fl_FH!DxY?DsH+DHJD_LXlNXHYNNXvslXlNFXXsx=lss+vsHxvlL+NlUxX??xvUXxl?XxX?xvDFUL??HL?FL_NFULYYGDvHXDlHxDXHF_DHU_?XHYxXLNFXUUNb slG_slvFsX+vlD+Yl?xqU+LLYxxUUHv&?Lv_?UvF?X_YF_LlF?DbY+DDYNDUlX_0Hv__XD_FHXNxxDX&X?NHf+?+RNFxOYlMYDl_+llFxXUxxDUsL?x+v+?LvN?UvYF_LvF__LFFD+Yx_+YsD?YHNvX;_NHY_YzlNvX_Nl+Fl+pxss7ssHbH?D+LUlxLlYxLUvLFUlxFUXLL?XvsF}vHFYLLFNLUHY__YvD?Yl_+YXNUHDsslX_HX_NLXFNUXXsV+DlHollxGXlH+Dls+??HvLULxYUUvv?fDs?_DlYvvXFsLDFHL?H?D+YL_LYU_OH:_lH__?HF_X:NNDXFN?XHs+GDsN5UlF+}ls+_UF+FlXxx?DslU?vx?+DH?NvX?YL)XvL_FlLFYvDxYNDsX?slH+_DHN_UHYN+XvN_xLNY csx:Nss2FsHxvss+Nl?+Y?_xvU_xlFFEN?xv_?svF?HNoFLDll+LYYxDvH_DlYFDXHsDXHs_HHHNxXLNsXUs+PRsvFsslJFsX+slD+sl?+H_vxLUNxU?Lv=?vv_?lXH?XLxFDD9F?LHY+DLllDUYY_QHF__Hl_FHXH?XDNlX?s+g+sDQNUUHDlp+Ll_+llFxUUxLDYvx?UXv+?DvN?XvYF_vYF_LFFFD+YxD_YsDFYH_+U__NHU_YX+NvX_NlXFXs1xs_1ssHuHlx+LlNx?lYxVUvxNUlxFUXvD?Dvs??LGF+LLFNLFYYDtYvD_+FFsLsYxDsUFDqH+DLYl_DYHDHHHNNXl}UsF<XlN+Dls+?lHH_ULxNUUxY?Pvv?__lY+vXFxLDFlL?Y0D+YLNxYUDYH4_vH__lHF_XmXNDXsN?XXs+ZLsNrUlN+qlv+_lU+FlXxxUDxsU?xH?LvL?NvU?XLUFvL_FlsXv?F+vsFvxN?XLvFlDv_FXLNfXvN_LXHDNxH?_NXLN9sX++lLxFlU+YU,xv_sxlUFxX?xvD?sv?HH?lFLLNFULXYfD_Y_DllHDXHx_DHl_?HHN+xLHXXUNY7JsDV_sFRFsXYLlD+sl?x8U+xLUNv!UvvS?vv_F+vFF-LxF_LsFXNYY+DLYN_xYY_+Hv_U+s_FHXNxXXNsXFNH2+L_INsU)Ylx+vl_+lFFlNUxxDUsxYUHvL?LvNNFvYFoLvFlLlFFLXYslDYlD?YHN#HL_sHU_YXoNNxDNlXFNX++sD.ls?,HDv+LlN+UUdxcUvx_YlULUXvx?DvU??L+F+D_??LUFYDoYLD_YlDFHDUxH__sH?sxX+NDXNNUXYsLvxs_GlsFxvlx+_lsxYlxx+ULxNU?xY?*vvH_?+?FvXFxLNFsLHFHD+HDDNYUDYH+_vH__lHF_XXxNDXsN?XHs+OLsU3UsY+WlvlUll+FlXxxUDxsU?xHvUvL?NvU?YLWFvL_FlDYFXDxYDDlY?DHH+_LHN_UHYN?XvN_XlNHr?sx7DssDsXYs_*NNFYFlx+LlN+DlNYYv+?DvD?sv?xFU_v?LlYNLYYcDvx?FFL+Y+x?YvDsHC_xFD_YHNDXNX)Dsvh_sl_zXHsNXss7lYxxU+xLUN_X+?UDxevs?XvF?XLxms?UvfUXLD?lYUF^LvF_LlFFLXDxxHNLXHNsX?NHDDX?_FHXN?Yls+XFsslX?lv??HL+FLLNXUXvvlYPvYF{LvGsUUxX?UvlFNLNYgLFFDvsYlL?Y?_vHvDNH?_+HY_DXH=UsXzHl++LHNs_XHllUL_sUlxFUXDx?Yvs?FvHF+LLFULUYXDYYvDsYl_+YX_xHDss&v_HXvNLXlNU^wsexvlN!lsHuXlL+Dll+?ULvlULxsUUvU?)vL?_v??FLvX+LDFsL?Y?D+YDDNXUvDH._LH__lHFNxXxsNHFN?{ds+ElsNPUsYvO_?+_l?+FU+xxUsxsF?r_?+v_?NvF?YLLFvLF+XLFY2DxHxDsYFDHHv_LH?llHYN<XvsvXlNYXXs_vLssS?sHDxlL+slU+Y_xxvUNxlUFxX?xvD?Hv+?HLxFLDsFULHY&DLY_DYn?DXHx_DXl_?HXN+XsU_XUNYz^FLE_sU#FsXl_lD+ll?+HU+xLUNxUv_v(?Lv_?lvF?XLxFD5UF?LXY+DDYNDUYY__Yl__HU_FR_NxX_NsXFNHGD?vANsU*YUN+vlN+lUcLHUxxDUsLHUHvx?LvNNFvYF+LvFsLlFFLXXxsFYsDFYH_xHL_YHU_Y _NvXlNlXYNXTxsD+UsH^HlD+LlX+UlYxCFvL!Ulv^UXv_?DvU??D1FsLLFFLUY_D<YvD_Yl_UYX__HD_UH?N8X+NLX?NUqxs}{vs_mUsFvX1U+DlY+?Usx+U?xNUUDY?SvL?_vH?FL+Fx_DXvL?FXD+YDDNHDDYHSsHHN_UHFN+XxN_XsN?F#s+qDsNMYsY+Alv+FYl+YUixxYNxsUFxH?+vL??_l?YL-FvNsFlLYFXDxlNDsYFDHHv_LHN_U#YUNXvNNXlNYXXssnDss+lsH+LlL+UlU+YUZvDUHxl?oxX?UvD?sv?YHDHFLL?FUD+Y*DDY__?HYDXHN_DX+_?HHN+XLlLXUs+z6sDy_s?ZFsXxDlD+Yl?+HU+xDUNDUxDve?sv_FvvFF_LxFDNsF?LXY+DlYNDFYYs5EH__HU_FXdNx;-NsX?Ul{xsDENsFkYl++vl_Y?lFx>UxxlUsx?UHvNXLvs??vYB+LvFNLlFFLXY_sLYsD?YHUxHL_sHU_Y?xNvXNNlXHNXAxsDxsFxpHlx+Lls+UUvxIUvvFUlxXUXv_?Dvs??D}YxLLF?LUYDD3YvD_Xl_NYX__HD_FH?N}X+s_wNNUWxsGQFs_<lsFyXlL+DlF+?U9x+U_xNUUv??qvs?_vl?FLAFxNDLkL?YvD+YHDNH+DYH1lvH__UHFNLXxNNXsl?xls+QDsN{?sY+?lv+_FL+YUAxxUNxsUFxH?+LD?NvU?YL+FvL_FlLFFXDxYDNlY?DHH+__HH_UHYN-LlY?DFX>_HXLvNslRFl+++lL+NlU+YUB+vHDxUUFv+FxvD?sv?+xU_vF??+H?Xv+F+LlFlvYY+LNYvL?HLX(N+XLNNXUNX,HsvC_slDvXHs_XYNlZsN+(_l++0sF+FlF+NvsFUvF?XLxCH?DxF?Dv_UsLl??L?YvDvFND?Y+DYYD_HNUb^NHK+sLLYXF_HXYNsls+HlF+XUxl++NUx+vUv?_v??UvYFrlNx?F+LSD+YlDDYsD?vLFUDNY>LFYlDDNDXUNlXFNXN_H_N?X_+(lL+LlN+U+tlD Dxs?vxFUXvxyllYvv?xAv?lv??HvF?HYDD?YlDFYX?_LHYFDNYvXvNXXNNUXYFN_sXULFXLNsXHNlSUsriFxvUXxNUUxYXNUxxUU++YUF}L?+xlUHvlDvYsDNYUDYx_YxDLYYHHNvXxNDXsFd_FX_N+sl++sY+rlv_UXUNHHYsv+xsYUYvL?+vL?NUYv+?xxF?LvfLHYLDxYDDsvXFvLNFlDl_FXIN}XvN__NH+N_sL+vss1?sHDLXDsD+bNH+vNv+DlF+DUv+?ULx_vYFLL+FLLN+UUHLx?sLLFYYXDXHx_DHs_?HHN+XLNlXYNYo}svLXXFLYl++_lD+sl?_F^xl+/FxF?_v-?vv_4xUX+xUNxs?FvL?YvXD_YFDUYY_6DvFNDxYH_xNLXsNsX?NHLUHNN_sYUNxlUFxX?xvDXsH+xDD+xFUHv+F_x??UvYFrDlF_LlFF_XUUDDYsD?YH_+HH_NHUxXXTNLX_NlXFNXVxUDHJs?(Xl++DlNxDlYxTEUx_UlxF?+vx?NvsFYvxF+LDFN_lFYDPYvD_+HDYH+_xH__sH?_H++s+XNNFXYsx:vlN1lsFxDlx+Nls+HlHx+ULxN?YxY?+vv?_vl?XvXF_DsFsL?FHNxYLDsYUNYc?_vHF_lX+_XyHNDuULxXHsl#Ll_bUsY+rlvL_llxxlXxUUDxUU?vLUNvL?YvUFHLpFLL_FULFYvs+YDDsY?_XH+_DHN_H+FNhXvN_+UNFn.sxxD_GW?lL++ll+NUU+YU__vUNxXUFDh?xv_?sv??HLDXvLNFULYX+DvYNDlXFvNHx_?HsNiHHl+XLNYXqNYZ_sv+Hsl YsX+vlD+FFU+HU+xL?XxUUHvW?N_D?lvF?X_vFDLlF?_HUlDLYYDUHx_!Xv__X?_WHXNlXDsFX?NH-+ULYXsU+Ll4+Ul_xFlFvXNUxDUXx??Dv+??vNFUlHF!LlF_DFFFD_YxND?7D?HL_+Hl_N)U_YxMH?X_NXXFsN,xU_1sU?H_l++UlN+XlYvbUvD_x+xF?Dvx?UvsYFvHFNUNFsL?FYD?YvDNYlDHYX__+L_sH?_HXFNLXsNUxv?s%vs_al?x(Xlv+DlH+?UxDuULxNUUDv?gvL?_vYH?vXFxLDDXL?FXD+H_L?YUDHH9sxH__lHF_XvNN_XUN?XXs+ALsNxUl++(lD+_l?+F?IxxUDxFU?v*?+vN?NvU?YLCYLL_FULFFXDxYsDsYX_LH+_LHNlYHYN+Xvl_xLNFmDsxWUssxNsHxvD?+NUx+YUXxvU_xlUFDX?xv??sLv?HLvFLLYFbLYY_Dv9sDlYYDXHv_DHFlUHHN+XLUlXUNHR^sNvDsltFsXLDlD+ll?LH+lxLUFxU?lvn?Dv_?XlXFmLvFDNLF?LXY+D_YNDHqF_THv__+D_FX1Nx*N_FX?NXE+UveNsUgYlTYDl_+?lFx+UxxDUsx??Lvx?DvN?FvYFvLvFUNsFFLXYxlvYsDFYHs+?F_NX9_YXDNvXXNl5x?XMvs?isFliHlx+LlN+UU+LXUvx_Ul_UUXvv?DDslvvHFNLLFFLUY_D>BvFHYl_xYX_HHD_UH?NLDLNDXsNUv_sP=Ls_y?sF+vF++Dls+?YNx+UDxNUUHX?;vL?_vF?FvXFxL??HL?FXD++sDNY?DYH+_vHUlsHF_XXx?lXsNFXHsDvvsN8UsY?slL+NllxHlvxxU_xsFUxH?+vL?NXF?YLxFvLUFlLFFXDxY?DlYFDHHv_LHU_UX+lXXvN_XlF?XXsvTDssFYsH+NlL+UlU+YU*xllYxl?+xXXHvD?lv?FLL+FsN_FULYYWlXY_DUYF_v++_DHs_?v?N+XDNNXUFNS4sl1_sldFsX+xlDlFl?xLU+xDUNxUUYLC+Lv_?HvFF?LxF?LsY+?+YxDDYNUxYY_+Hv_sHlNK+HNxXDNsLvNHSxsL5NRxIHl++vlN+llF+X?L+lUsxYUHDJ?LvN?UvYsxLvFlLlYiLXYxDDYs_+YX_vHL_lHUN+XuNNxDNlXFNXDHsDdls?.HDv+LlH+UU&x9Uvx_UXsxUXvs?Dlx??vXF+L?FNLHXFD=YvD_vvDFH8_xHllNH?_HX+YCXNN?XYsm?Hs_9UsF+Llx+Dls+XFYx+ULxNcsxY?+vv?FlF?YL+Fxl?FsLFFHDvYLD?rlDYHK_vvF_lHY_XXslFXsNYXHHv^LssJUsH+VlNLDll+FlXsLUDxlU?xHNvvL?lvUFxLTFvL_Fls?FXDLYDDUY?DXH+N_Y?_UXyNk+xN_XlNFXXFN._sFk?sX++lL+N?UxLU2xNU_xYUFLb?xvDFvv?FxL+FlLNFULYY(_XY_DFYFDXHx_UHs_XXYN+XLNNsDNYW+svx_?L-FlN+xlF+s?N+H?vH?UNvLUYvX?vv_?lvFHXLxFYLsYDLHYvDLYYDCYY_sHvYLHl_YHXNvXDNFxUNH.+sLNDsUTHl0+NFD+llF+XxYxDUlx?FHtl?LvX?ULLF^DvF_LXFxLXYUDDLUD?YX_+HD_NHHlFXVNvX_H?XFsZmxslvNs?tHl+lXlN+?lYL{N?x_?+xF?_vxYDvsF+NHFxLFFNYDFYD+YvD_Yl_Q-H_xHD_sN__HXxNLXYYhXYsNcvXHrlsY1XlL+DlFLUlHx+ULlXUUxH?WvNHDvl?FvXLLLDFlL?HHxlYLDXYU_LHCNvH_N?H-_XX?ND(FN?XHs+xLDX.Ul_+ lF+_UF+F?XXUUDv+U?vN?+L_?NLU+HL,F?L_YFLFYsDxXDvKY?__H+_?HNsUHYUo_?N_y+NFZNsxx:ssx?__++lF+NU++Y?rxvY_U+UFvN?xvU?sD_?HLDXvLNFULYD?DvYNDlXFvNHx_YHsNxHHs+XLslHHNY.lsv+UslqFsXvx_Y+sUL+HUUxL?UxUFYks?vvX?lLD?XLlFDDsxFLHYlDLHUDUH__hqvvHHlNLHXNlXDlsX?UHNlsLeXsU+Dl9vLl_vlNL+XUUxDUXx??Hv+HLUX?ULDFmLsF__UFFDDvDD_Y?D?L__+HD_NHF_YXLUxX_NlXFHN.xs_Vss?YTl++NlN+YlYx<Uvvs+HxF?vvx?_vs??vHH+_+FNLHFYDLYv_HYl_HH+_xHU_sp__HX+NLzlsUXYs_(vU+3lsFzXlx+Yls+XlHxNULxlUUvYFDvv?lvlYDvXF_LDFs__FHDLYLDUYUDYH _vXx_lHX_XXDNDXsN?IxlL6LsN0UvD++lL+_llYHlXxvUDx?U?xH?+vUXNv??HL.DHL_FULFFXDxYlsNY?DHH+XXHN_?HYNLxxN_XlNFU_sx8_ss+Ysx++lD+N?l+YUAxvU_H?UFv+?xvl?sv??HL+FULsF?LYYxDvYlDlH2sHHx_DHs+^HHNxXLlNYxNY._svK?sl+ssX+ss?+sU++HLLxLUsxUUHvm?N_D?lvF?XHDFDLlF?Dx.RDLYNDUsx_1HL__HlXDHXNNXDN?X?NHV+ssv_sUiYlo?Ul_+UlFxD^Dx_Ulx?LYv+?DvN?FvYFLNxF_LlFFHHYxD_YsD?DL_+HD_NHU_YXwNvX_X+XYs+Ixsswss?tHUv3slN+HlYvXUvx_UlxFN+vx?Uvs?YvHF+LLFNDJFHDLYvDsYl_xYX__+L_sH?_H?INLXsNU;XNLhvsX}lUxCXlx+D?sXvlHxUULvSUUvN?qDvlvvlF_vXFULDHDL?YL_sYL_+YU+TH{_LH__UHFNvx+NDXsN??+s+uDsN+FDL+7lY+_lX+FlXxxUDsXU?vN?+v_?NvF?YDx?NL_YvLFHDDxYDDsX?v_H+_HHNNLHYNHXvN_NUNY}UsxeHss0?sHxvU1+NU_+YUvxvU_xlUFD_?vLx?sv??HL+FLLNXULYYUDvHvDlYHDXHs??HsNDHHxHXLNsXUNYCosNvDslbFsXFXlD+ll?xxYuxLUNxU_FvK?Lv_Yl+L?XLFFDD F?_vY+NL_LDUYH_0HY__H?_FXDYDX_NFX?x?e+sDENsFiYlLLxl_+llFFFUxx_UsvYUxv+?svNYlvYF2LvF_7?FFDLYxDUYsD?YH_+HU_sHH_YXxNvXFNl4{UH}xsD-s_vgHlx+L?NLDlYxlUvxHUlLsUXLLNFvsF_vHY2LLFNLUFYsbYvDXYl_NYX_LHD_HH+_HXUNLFxNUXHsc9Ls_gY??eXlx+D_v+?lXx+UsD_UUxY?5g??_vU?FD+?_LDY+L?HLD+YLDNXUvDHb_FH_NxHFNlXxND?vN?<ss+3?sNoUsY+>XU+_Ux+FU+xxUNxs?Yxx?+vH?ND)?YL4Fv__U+LFYlDxYXDsHlDHH+HDHsNDHYNlXvN_XlsH+?sx++ssiHsH++lL+NF++HUYxvU_xlUFxX?x_D?sLD?HLHFLLlFUDvFNDvHMDl?LDXHv_DHs_?XxUTXLNNXUDDi%sL:_UlllsX+vlD+Xl?xEU+xUGUx??+vINsv_?UvFF+LxFlNNF?LHY++lYND?YY_)D?_NHY_FXLNxXDNs=YNxS+sUANUlRYl6+vl_Y?lFx_UxxUUsx?UHv+?UvsFAvYFxLvFHLlY1NHYxDDYsLlYH_xHLsN+D_YX?Nvb(Nl+sNX+LLF-sls&HUS+LlN+UlYD{Uvv+UlvlUXvL?DvHX?vXFFLL?DLUFHDgYvD_YYs?YX_xHDD_H?_XX+NLv_NU6ssf<Ls_+xsF+Dss+DUv+?s_x+UDxNU?xY?L_x?_vl?FxNFxL_FsLXXYD+YLDNFsDYH+_vHFDXHFNvXx_vXsNFXHsxwLs?vlsY+4lv,Lll+YlXxx_>xsUXxH??vL?NvU?YKxFvD+FlDmFXDxYDDs+UDHH__LXx_UX_N:XNUDXlNFXXNx*Dsla?lLNLlD+YlUXFUaxLU_x?UFvvH+vD?sv?lYL+FDLNYFL+YGDlY_NsYFDXHx_DxY_FXDN+XDNNXUNYx5sYd_lP=Fl_+xU_+sl?xXU+x?UNvxUYv}?vv_?UvFFDLxFDLsYvLHYD_FYNDUYY_xHL_NHlsF+UNxgRNsPDNH+YsL+lD+mYlY+vUD+llF+XUxDDUsv_UHvH?Lvl?ULv?_LvY+LlFsLXYvDDYlD?Hxl=HL_NHU_lXgNLX_NYx?NXpxsD1UsF}Xl++UHY+UUNx8Uxx_UUxF?vvx?l_N??vHF+LvFNL?FYDL;xD_YlDFHk_vH__s+?H_X+NHXNs_XYsxZvsUvssF=Xlx+Nll+FlHD++FxN?LxY?Fvv?UvlFxUxFvL?FsL+FHDxYLDlYU_+eX_vH__lHx_XXvNDXsv_XHsvqLsFcUsY+3llD_lU+HlXxUU_xlU?xH?+vsH_vU?YLgF?LNFULFYvs+YDDsY?NDHx_DHNNFH+NIXlN_+sNFXXsxKDFY>FlD++lD+NlU+YFix?U_vwUFv_?xL_?sv?FYL+F?LNYxLYYCDvY__ZYF_DHx_DHsNvHHNDX?NNXUNY+DsL!NslxF?U+xUo+sUD+H?YxL?lX+UYvY?vLD?lvF?XLxXDLsY_LHYHDLYlDUHvD_HvN+HlsnXgNvXDNlX?sxvmsLoNsUx+l++Ll_+YF?+XUxxD?YxFUXv+HLUX?ULNF,LXF_LYFFDDvDD_YHD?HF_xHD_NHF_YXLUxX_NlXFsY%vs_PslY-xl++UlNvllYxOUvx__?xF?_vx?lvs??vHF+LUFsD#FYDxYvDHYl_6-H_xHD_s/N_XXxNLxNXxXYsU.vlx3llQQXlsNsllx+lHvFUDxsUUxX?VvNHDvl?FvXYYL_FlL?YLl+YDDlYUNHH+_LH__lHFNvx+NDXsN?+XsxtDsNvUOD+elD+_UD+FU+xx?N+FU?vL?+Dv?NvU?YLmVsLNYkLFYuDxYDDsX?_HH+_?HNN+HYs+XvN_kFNFk_sxnYssi?sH++U_+NUz+YU(xvUHxl?evx?xvD?ssv?XLxFL_NXDLYY?DvHGDlXsDXXLxFHsNsHHs1XLNNXUNYvGsv++sl+lsX+LlD+HY?+XUFxLHXx?UHvI?vv_?Y_??XLxFDlVFFLXY+NLUXDUHs_MHY__Xl_FXD?xX_svX?F_fxsD>NsUoYlLLxl_+llF_NUvx_UsL?s_v+?XvNFLvYHdLvFFvXFFDUYxssYlDFYH_xHL_?+l_YXSNvxlNUXYNXR_?L:ss?EHYl+Dls+UUv+NUvv%Ul_??Zvv?DvF??LxX*LLFNLU(FD+YLD_XlvLYX_YHDNxH?NHX+s_H?NU!ls;+Ns_mlsFxX_U+DUL+?UUx+?NxNFUeD?5vX?_LD?FD+FxDDxlL?YlD+HNDNH_DY;Zv?H_NLHFNlXxlDXsU?N_s+qXsN+xsYx?lvv_N++FUUxxUXxs??xHH+UF?NLD?YLDFv_+FlD2XHDxYDDsxvDXHx_LCNLxHYN?XvsmXlsFXXlLXlss+NsHxDlL+NlUvYNsxv?xxl?sxXFDvDYs+v?HLYFLDvFUDLY8_vvNDlHNDXXD_DXL_?KHLlXLsxXUsNq7Uv<_?lsLsX+YlDxul?vXU+LLNXxU?sv&?Yv_FlvFHX?UFDDvF?DvY+NDYN_gLI_+Hl__+(_YX%NxXNNsXXUYg+sLhN?+pHl++vl_sXlFxDUxxDUsx?UHLvUsvNF+vYYXLvF_LlFF++YxDYYsDYYH_+HL_NX-_HXNNvXsNl-DNXe_?Lfss?&H+N+Dls+U?YXsUvvxUlvNUXv??DvH?+vHFYLL+UL?FHDOYLD_YYs?YX_xHD??HF_XX+Nsx_NUXYsZslsNJUsFxX_U+DUL+?Ulx+FxxN?W_Y?+vX?_lx?YLVFxLDFsLXXYD+YLDNvvDHH+_v)_L+HFN?Xxs^XssLXHU+l+sN+nsY+Flv+Ullx.FHxxUDxsv+xX?xvLFlxH?YLFFvDFFlLFFXNxUYDsHNDHHY_LX+_UAYLYXvsvXlsNXXlX#DsH+lsH+HlLN_l?+HUIxLU_xYY?xX?xvD+NvF?XL+Y_VHFUDUYBDlY_DlYFDXLl_DXL_?XQN+X_NNqFN+/Wlc3_lXiFsX+x?DX;l?x?U+v+UNvsUYvhvLvNFNvFF?LxFDLsYYLXY+_vYNDYYY_gHv__+0_YXXNxXDNsX?NH:+?LCNlN9YU#+vls+lUx+_UxvxUslLUXvx?LvN?UL+HXLvF_LlvDDuYvDDYFsUYH_+HLY+H?_HXqNvLWNl)lNXpxsD7ss?(H+D+LUL+UlHxIUvx_UX_F?7vX?D?F?FvXF+LLFNLHXFDWYvD_DYDYHh_xeDL=H?NFX+NXXNsvXY?=N?s_+NsF+?lx+Nlsx+lLx+UNxN+FxH?+vv?NvlFB_HFxLDFs?YFXDxYLNN?xDYHv_vX+_lXD_X+xLYXsslXHsFALli5UUYHslvxLllxUlXvFUDxHH?xX?XvLvYv??HLAFvL_FYN?FXDxYDYHYFDXH+sL?X_UXFN*9+N_+vNF4DFxd_lN/?+L+xlD+NlU+YULDxU_xlUF?D?vv_?sD?l_L+YvLNYsLYHUDvYFLXYF_HHxHxHl_FHHNxXLN?xlNYkTsvsvsUPYsX+_FL+sl?+HxNxDUsxUFYD??vL_?lL??XDHFDDUlxLHHvDLHgDUYY_iHvl_HlNFHXsLXDNUX?sLL+sD+NsUlvl++Ll_+llFxvY+xDUsx?vLvx?DvNYUFUFWLlF_DsFFD+YxDl!ND?YH_+_U_sH?_Y+qL?X_sNXFsUGxsHIs??s_l+xxlNx_lYxLUvxFBFxY?_vxELvl?FvHFvLLF?NlFYDbYvUDYUDYYXNLYl_sXx_H+!NLXNNUXYLxcvsHJlsHCXlx+Dlsx+lXxsULxlUUv_?SvNHDvl?FvXD?L_FlL?HHxlYL_vYU_sHCs+H__XxFN XHNDl+NFXXs+6LsN}H?F+nlv+_vx+YUwxxFDABU?vU?+vX?NLv?YL_%vLNYDLF_sDvY_DsY?DHHDlvHN_UHY{lXLNNXllFYNsx++ss+_sH+UlLvNNx+YUYxv?+xl?DxX?xNL?sLs?HLNFLDLFUDvF_DvHvDlNL_1Hv_DHl_?XxUpXLNNXU+D&+sLe_sll(sX+XlD+sl?+HU+vLBsxU?lvT?Xv_F_vFFDUDF_LXF?YUYxDDYNDFYY_L+x__Hl_FN?NvX_Ns/+?HOxsNQNv+oHl++vl_+lUZLHUxxDUsYxUXvx?LvY?&vYFxLv__LUFYLXYvDDYFsUYH_+HLqNH?_HXJNNxDNlXFNXUls_pls?x9sD+LlH+UUUxtUvx_FltLUXvl?DvX??DDF+LUF+LUYDDOYvD_YUDFHx_xHDFNH?_HX+NNXNNUXYsV_xs_3lsF++lx+Dls+?_rx+ULxN?TxY?cvv?__L?YL_FxLNFsLFFHD+dsDsY?DYHB_vH__lHFsnXxNDXsNFXHs+5LsscUsY+MUl+_ll+FUxDDYsD?YH_+HLKNX_vFF+L!FvL_L-UYvsF_YN_sY?DHH+UDLlYYDFYF_sHUDHFF_HXD_HXFNLXYNXl_+UlU+YU8Nx+?lYUXxX?xvD?sv??HL+FLLUFULYYgDvY_Dl&TlXHL_lHs_?HHF+_BYsNvNX^vsvr_slNUXLsllN+Fl?+HU+lsAslY+svx?Nv_?lvF+3?Nx_UFFHHs_UHYNrXvN_+lxx_sHY_FHXNx_xYl_XH_fvsU1NsUuYYvsDX?NU+.sLULxlUsx?UHN_xxUFxNvXFNLvF_Llxx?LvDFlLNFY+p_vXx_NHU_YvvYL_LHXDYXxDxXLN?XLsxXUsvqD+FUFx1Uvx_HHsYxxl?xvlXXXUNvvUlxU?Hv_?XL+DsYXDFYX_xvDFlDYYvDXHsXlNYXYsbWvXv_UrL++lv+Dls+?XNxvUYxNUUxYtLUU+?lHxUssv;U?vNLYYlD+YLDN+X?HDvFFDLY5vXHv_?H+DYN?x?s+uLsN+Fs++(lv+_Ux+FlXxxFDn U?xH?+vL?NvF?YDxsUL_FULFYUDxYDDsY?slHx_LHN_FHYN+XvN_??NFXXsx5DssM?sHv+N++NlU+YU9xv?sxl?xvD?xvD?sLL?HLxFLLsFUD+XXDvY_DlHDDXHv_DHFlUHHN+XLUvXUNH%MsvFssl<FsX+xlD+sl?vHX?xLUNxUUYv<?_v_YlL_?XLxFDLsF?_xY+DLHYDUYH_2HL__Hl_FiXsFXDNlX?NXI+sNANUU+LlI+Ll_+UlFvvUxxD?_x??Ev+?LvN??vYHfDXF_L?FFD+YxD?YsD?H3_+HN_NHF_YX0Nv+_HFXFsx0xsseslsaHl++slN+XlYx+Uvx_UlvH??vx??vsY8vHF+LLHNDlFYD_YvDFYl_LYXNLH?_sXx_HXxNLXNNU&XllqvsH<llUaXlx+D?sxLlHxlULxXUULv?kDvxLvlFLvXFULDYxL?H7_lYL_TYU_?HA_vH_sl9s_XX?NDu+N?TXs+xLUv!Ul_+ilF+_lY+FlXvxUDxHU?vN?+v_?NvUFxL^FUL_FlLFY7DxHNLFY?__H+NvHN_UHYl.F?N_>+NFmNsxAYss+YDD++lY+NlX+YU6xv?s+YUFvl?xL+?sv??H_+lFLNYLLYYUDvHlDlHHx_HxNhHsN>HHN+XLNN?DNY1FsvSsslcFsX+xF?+sUD+HUYxLUNxUUYs+?vvH?lvF?XLLFDDsxFLHYsDLHNDUHD_{Hvl_Hl_XHXNlXDNUX?lHxFsL UsU+}lq+Ul_+lFNx;UDxDUUx?UXv+?LLs?UvYF5LLF_LlFFLXYxDDYsNsYH_+HL_lH?_YX4Nv_?N?XXNXbxsDHU+vUhlv+NlN+UlYHxDv_FU?xHUXvx?DsYuHL.FFLLFNLUL+?DL/F_vHFHL&Y_DUYUDQNGX_NLXNNU_vHFNxXDN?sH+vlx+Dlssx++l_c_xlUFxY?kvv#vs_?HLvFxLDFsUHvNFDLYDlHLDYH1_vLFFUDLH+DNHv_0H>_NXDo_lx%UsY+yX_sD8HsU+vlL+H_?+Ulx+_v_F_vU?YL6x_??v??HvLFPLl?NDxFvLxYsLXFXDXNxX_N_XlNF_?X+NvsU+xsH++lLNUXXsl+vsF+?lFUHvO?xvD?sLDFpLxFLLNFU?UYxD_Y_DlYFx+lxUsHUYvHHN+XLYX_HX+N)X_L*?sv?X9sxXHL_kUsH;_lxYLlN+xUL+sUDHNlXxHUXXL?HXFNYvNFvLl?XLbF+D_YUxsYsD7H_DHHFNCHx__F+xFXYvvXFsxELswqDlv+NslQY_sYvULYUlUxXUXvxUsvL?Yx?F_vN?_LFFvLvYvx+Y?DFHxDDll_UYH_lHX_NXN_lXXsvhvNlX_sX,?sl+N_vFHlX?+vx?Dvs??LEFLLLFNLUvl?+LNDsYUDFYX_x+e_UXw_HX+NL_NYYDHHF_Xss9UsF XlxLxlU+XlHx+ULlL2?U++svD?Fvl?FvXvD?lvU?LvF?sY_DlYUDYHMUXvs_?HY_XXxND+sNYXXs+1LsNDDsX+_lv+_llsx0HlL+xsl+XxHLNvL?NvUFXvLFvLUFl_xFXDxYDDUHYDHH__LH?_UHYN XvNFXUsSXXsLRDsYS?lLuNlL+?lUxvUAxLU_xUUFvvH+vD?sv?FLL+FDLNFHNFY1DvY__lYF_{HxNNYF_?XLN+IUNNXUNYT_NY9_lRzFlx+xl_+slF+HU+svUNxUUYvD?vv_?lvFFDLvF?LsFYLHYsDLYYlUYH__HvN_Hl_YHXNxXDNFxUNH)+sL+NsUWHl(vv_H+llF+XUlxD?+x?FH2l?Lvs?ULLFELHF__lULLXYLDDYXD?Xx_+%LvXHUN=X!NUX_s_XFsDLxs_}ss?x+l++DlN+UlYxLYxx_UlxFFxvx?_vs?X_YF+LLFN_YFYD+Yv_sFYDFHD_xX?_sH?_HXvs_XNs+XYsOJvs_glsF+Dlv+?ls+YlHxsULxYUixY?_vvFXvl?YvXFvLDFFNUFHD+YLN3YUDHH:_N+D_lHF_X+DNDXlN?:LNNKLsHTUUl+JlL+_lU+FUvD+UDxsU?LU?+vD?NvHHFL(FvL_HFLFY*DxX?l9Y?_DH+sNHN_?HYsvXvNUxsNFXXsxxsssBFsHv+?X+NUx+YUNxvUYxl?HX_?xvX?sLU?HL+FLDll+LYY?DvHlDlYFDXHxlDHsNvHHNFXLNlXUNY??svW_sl+LsX+xlDvHNN+HUxxLFYxUUHv)?Nv_?Y_??XLxFD_HF?LXY+Ds{_DUYY_1QH__HU_F+DUUXDNlX?Ulp+sDANUL,YlLLxl_+llFLUUxx_UsD+H_v+?DvNHDvYF+LvFHLlYeNHYxDDYss_YH_xHL_NvL_YX_NvX_NlXFNXmx6lasl+BHlx+LlN+UlYULUvxYUlxFUXvx?DvHX?vXFsLLXULUFHDfYvD_YYs?YX_xHDl?H?_XX+s_?HNU,DsO+Xs_,lsF+DYx+_Ut+?Y+x+UDxNUUxY?L_x?_vl?FNxFxL_FsLXXYD+YLDN+DDYH+_vHFDXHFNDXxU?XsNFXHsxpLs?vlsY+9lvLFll+YlXx_YLxsU?xHH?vL?svUFX4NFvLHFlLXFXDxYDDH+?DXHl_Lx+_UHHN>XvN_XYU?XXsxkDFx;?sX++lsL_lU+YUJDHU_xUUFL+NlvDF4v?FXL+FLLNY<LvY,DlY_lNYF_ Hx__Hs_X+YN+XLNNvsNYP+sv!U?sOFsX+xY_+slF+H?vH?UNvvUYv+?vv_?lLx?DLxFHLsVYLHYxDLYsDUH+sXHv__HlUHHXNvXDsUFxNH/UsL+NsUgYlu+lsF+llF+XHNxDUlx?UXv+?s__?UvYFGssF_LUFFDv!+DDYsD?Nv_+HD_N+aUDXmNvX_uHXFsGbxls{ssXvYl++LlNUXlYx+UvvslYxF?lvxF?vs??vHFNvHFNDDFYD+YvDNYlDHYX_xLL_sH?_HX+NLXNNUXYYXwvs_VllDoXlx+Dlsx+lXx?ULxlUUvs?SvlUFvlF_vX++LDFlL?FXD+Yss_YUDYHA?xH__UHFNvx+NDXsN?_Ls+:DsN+Asv+KlH+_H?+FUPxxU_xsUXDY?+vL?NsF?YL+FvLUXsLFFXDxv?DsYFDH0NlFHNNDHYY_XvNNXlsXXXs_vLssS?sHNNlL+slUvYF?xv?xxl?NxX?lvDFUPx?HLXFLDFFULYYT_DlYDlH?DXXD_DHs_?HHU+XLsvXUsF>msDz_UlvNsX+HlDxLl?xDU+v__HxU??va?Dv_?lvFY+VlFDDNF?_DY+DLYNDU:Y_SHX__Xs_FX+Nx+DUvX?sU!+lPMNl+<YUxYUl_xNlFxHUxxDUsvYNDv+FvvNFYvYF1LvF_NlFFD?Yx_LYsDYYHs+!X_NX__YXFNvXYNl,HL_uxlv*sU_*Hl++LUlH+lYxXUvvlUlxFUXvxHDvsFNvHY#LLFlLUFYYlYv_xYlDFYX_xHD_F+U_HX+NLsFNUXHsWElF_bUsH=XxN+Dll+?lHx+UsD_UUxY?>Fs?_vU?FLD?sLDF?L?vlD+YDDNY?DYHLlxH__lHFYUXxN_XsNXxYs+(LsNlXsY++lvxssY+FU?xx?HxsU?xHY+kF?NL_?YLFFv_vFlDHl_DxHxDsHYDHH+_LHNxDHYNHXvNsXlNFXXsxFgss+UsH+LlL+NlUxvH2xLUFxlxxxX?vvD?sv?FxN.FLLNFUFvYqDLY__?UvDXXx_DXx_?HHN+XU?NX?sY VXlw_sU&FsX+xllLNl?+HU+lUUNx?UYvLHxv_?lvFv_LxF_LsYY+DY+_LYN_sYY_^Hv__+l_FX?NxMDNsXYNH+vNsoNlN;YU_+vl_+lUx+lUxvvUsxYUHvx?Lvs?UvY+XLvF_LlYsLXYxDDYs_+YX_HHL_lHUN?X4Nlv_NUPlNXl_sDAls?(Hl++sF_+UlYxqvNx_UUxFF+x_?DLN??DLF+LLFNDGFND:HvD_YHDFHd_xH__sH?FYX+NLXNssXYsG>vs_1XsY+Hlx+Nlsx?lHxNlUxN?lxYvDvv?Nvl?YvXF_NLFsL?FHY_YLDsYU_+zX_vH__ls^_XXvND+sDvXHlxMLlN7Ull+9llD_lUxYlX?_UDxlU?xH?+vsH_vU?YL5DNL_FULFHXxUYD_lY?_HH+N6HNsUFDN6ILN_JUNF4Lsxd?Fs.FlX++xs+Nl?+YUBxvUUDsUFxX?xFl?svF?HDv?sLNY?LYHsDvY_DlXFvNHxN_HsNFHHNNXLlNYxNY+xsv+_sl+ssXvx_Y+sUY+H?vxLUFxUUYlN?vLN?lvH?XLLFDLss_LHHvDLYXDUYY_KHv_NHlNYHXsvXDsUX?NHsUsL+ssUPYl2+vl_+lY&xiUHxDUsx?UHv+?LLs?UvYF;LLF_LlFFDDYxDDYsDHYH_+HL_lHH_YXuNvDYYU_lHL:Ll?{ss?/HXlssf?sU+-DUYxDD+xlF+BUx+H__+HUYXiUNvt?HL_NXYDDYYlDFYXUUDlYFD??DD_HsXNs,XYsmBvlsLssYbXlx+_ls+?lHL+UsxNUUxY?0vv?lvlFHLDFxLNFsLYFHD+YLDNX_DYHO_vHs_lHF_XXxNNXsN?XHs+bLsNkUsY+Flv+_ll+YlXxxUDxsU?xH?+vs?NvU?YLxFHL_FlLFPH?sLLFULs?XDDU+1FYH+vNxXUN_XlNFLNX_NlXsDxXvsDl_+?lU+YUBsUANl_++v+F+vD?sv?x_?Dvs?NSLNFXXFULUFYLHsYL?Yv+N_?XsN+XLNN%FUHz svt_sFMFsX+x?D+Ul?+HU+xLUNxFUYLxFHv_??vFFvLxFDLsF?_?Y+DNYNDUYY_6HvNsHU_FXvNxX_NsX?NHJ+sU3NsX.Yl++vl_+llFxDUxxNUsxYUHv_?LvNFUvYFGLvFsLlFFLXYxDYYsD?YH_+HL_NHU_YXHNvX_NlXYNXfxsD.ss?/Hl++_lN+UlYxxUNx_UlxF+_lvxxlY?YLDF+LLFNlxL+FLLvlYvHYnYX_sHD_sH?s}HDNLXNNUXHs</vs_xl?NhXlx+Dls+?Uzx+ULHlUUxX?*vv?_vl?FvXYFLDFsL?Y{D+YLDNYUlDH+_vH__lHF_XXxNDJlN?XHs+qDsNaUsY+.lv+_llx<lXxxUDxU?DxH?+vLXHlXv+lvxs?svX?Dvx?NYNDFY?DHH+F?LsYNDxNxXYN_XlNFLlYDDLY_LXXvNLqvN?XX+XU?xvU_xlXLUvx_UDw?UovW?NxYUUxXLYYlDvY_DlHHDvHx_DHs_YHHN+XLlNxDNY%Ksvd_slAYsXxLDF+slY+HUDxLUNxUUY_y?vv_?lvH?XLLFD_sX_LHY+DLYNDUHE_(HvxsHl_HHXNxXDNsX?NH+?sL8NsU8XlG+vl_+lYLxVUxxDUsx?UHv+?LLs?UvYFqLLF_LlFFLXYxDDYsDHYH_+HL_l0+_YX*NvDHHYNdHXvF?LvNXLNH?HNDENsvF?sv+xlvYsl_xxU+xv_N?YLxF+LLFN?+xH?YvsDsHuDFYX_xxYYFDXYHvsYl_?NU8vsPavs_+?F?+(lx+DlU+?lHx+FLxUUUxY?Mvv?_vF?FD+FFLDFUL?FXD+YLDNYUDXHh_vH__?HF_XXxND+vN?XHs+/LsN^UsY+wlN+_ll+FUuxxUDxsU?xH?+vL??vU?YLSFDDoFlLFFXllvUFFxHFvDvYUD(FYDxNxXYN_XlNFLlYDDLY_LXXvNL,vN?XX+XULxvU_xl+vlb+XlU?UL_?HL+FLsXvHF+L(U_v?F?DxFsLDFUHsNLHHN+XLslHHNYW}sv/lslKFsXvxFq+sl?+HU+xLUsxU?XXN?vvs?lLr?XLxFDLsX?LHY+DLYlDUYX_a9vl+Hl_FHXNxXDNUX?NHFvsLZlsUeYl(+vl_+l?_+XUxxDUUx?UHv+?L_X??vYFeLvF_LlFFLXHvDDYsD?YX_+HL_NHU_YX!NvXFNlXFNXKLs?kss?1HYLs_XFN?++sDUDxlUlxFUXUQ+UUX?YDLF+LLFNsFxH?vvH?YL?F?DLYBLl?FDYFXDXHN_NY?_XHDN+HlsxsH+vlx+Dls_?2Usx+Yxl?vxY?Gvv#U?Vx+ULv2sHv_?+vYDL_HXoNvX_NlXFUXUsHFlHXxNDXsN?FKs+#LsN4UsY+ilv+FsX+FlXxxUlxsUFxH?xvL??_l?YLwFvLUFlLYFXD_}LDsY?DHX+_LHs_UHYvxXvN_XlNYXXsxfDUsLxsH++lL+NlU+HUZxvUYxlUHxX?xvD?sv?YiD+FLLUFUDxYaDvY_NlHNDXHD_DH?_?XON+ _sLXUs+K>sl5_sl<FsXxNlD+?l?xeU+x_UNxU?Xvu?Nv_?lvFFqLxXDFIF?DxY+DNYN_TYY_G+v__Hl_FXvNxXNNs+?Ul0+sLJNsU.YlL+vl_LLlY+XUxxNUsxFUHv+N_vN?UvYFxLvF_LlYxsXYvDDYsNUYH_xHL_NHUN++XNvX_Nl+?NXGvsD=sLY6Hl++Lls+UlYx<FvDYUlxFUXvx?Dvl??vHFYLLFlLUFXD=YvD_H?_>YX_DHD_YH?_HX+lLXUNU(-sT _s_i?sFx+UU+DlF+?ULx+ULxNUULs?9v_?_v??FL+FxLDHvL?YxD+YLDNY?DY+8Y?H__YHFNxXxN?XsN?xHs+;LsN(HsY+xlvv_FL+FlXxxUDxsUXxH?+DX?svU?YLxFvLNFlLFl+DxYDDsYHDHH+_LHYUUHHN-XvULXlNYXXsx9DsFvUsH++lLLDlU+HU<xv_sxlUFxX?vvD?sv?YHNsFLLNFULYYdDLY_DlXDDXHL_DH?_?HHN+2_sUXUshQOssG_sl7FUXxHlD+?l?x+U+x_UNvF?xvn?Nv_?XvF?XLxFDD_F?D+Y+D_YNDFYY_ZHs__HY_FHXNxX_Nsx?X_I+ssRNsY%Yl_+vl_LllF+XUxxlUsxYUHD+YXvN?UvYF:LvFULlFFNUYvDDYsDYYH_xHL_NX?_YX#NvXNNlXFNXWxsDhss?vll++LlN+FU+xKUvx_+_sYxvlU?svs??vHF+LLFNvU2FDxYYD_YlDFxXFHL_H+DuH^vXYD_LYXmWs%qvs_4lsFsXHvDDlUxNlHx+ULNN+_sHxllsxsNUvxU>v_U_vULYYvD+YLDNLN?HDLF_LH_UHFN+X_NDXsN?DxH_NFX?-Flv+/lv+_3Flo++s?+vsXUHxH?+vL?NvU?YsLdvLlFlLFFXDxYDDs??lYHvNMHN_UHY?+DDHl_sHsNLX__UY?NLzsN_l_+slU+YUBN?UsxFUFxX?xNHx?NFFCLHFLLNFUvUNP+SFvqY_lNXvDFULlYYD+YlXNNNXUNYpRsv)_YxFFl++NlD+sl?Nx+zlliUlx?ivg?vv_?lvF?Xl_&DLUFXLHY+DLxUFvDNFDHDNDHl_FHXY2vHHF_aH?LLXvNDXH_HXls+X?s?X?x+UDxDUsx?+?lUxxvlFlvYFVLv+_?DxY?xvN?YLNFNLxF_D_??LXHD_LND)cNlXFNXD_HUs&XXDJc_ssE?sl#?xxUHx_UlxFX_lNxlN?xvUNxYUsvlUXv?D+YLDsYYDFYX_xxUY__pY?XvNUXNNUXY_YUvLvX_LwlFlL+Uls+?lHN_Hslz+NDX?xvs?_vl?FUXxvUHvU?HYADLYLDNYUF?LDYUHsNNHF_XXx??_+Hl_xFN_YXlNY&+DvX?NXfDsaU+xXUDxsU?N?xzUlxUlXeUUXvlU?v_?+vYF_YsDsY?DHH+_LHN_UHYNxX_N_XlNF_FHvNYsU+xsH++lL_Y)vldplsD+xsHUHvN?xvD?ss?xY?LxY??vv?FvHDDYYDlYFDXvsFUL?YXDYHvx_NUXUNYy<svM_slDDFX+LlD+sl?+HULxLUNxUUYvn?vsLXlvHFLLxFDLs+X?NLDF&vFDFH+_%Hv__vNFYDFYNXNsDX?NH.+YlNUHXNXYls+3_sH+tNv+?lDRYxFDlv+?LvN?UXXF-LLF_LlFFLXYxD?FHD?YX_+Hs_NH?_YX+NvXUUsXFNXhxsl{ssFWHlDLvlN+UlYFUUvxNUlLFsNvx?_vs??vHHFLLYlvHFYDxYvN6YlDFYXsx?Y_sHY_HXvNLxxNU+YDsuvss}lsHGX?x+DlHN+lHxxULvNUUxH?7vD?_vYH?vXFxLDYsL?FXD+XLxXYUDHH;_vH_lLHFs+H_NDXUN?+ss+rLsNxU_D+&lD+_l?+FFUxxFDssU?vp?+v_?NL??YL_YQL_FULFNlDxY_DsYYDHHDlvHN_UHY+UXvNNXlsHXvsx&_ssvCsH++lLvNFs+YU+xvUNxlFUxXYxLX?svY?HL+FL_?FU_YYXDvYsDlYHDXHX_DHsNsHHNLXLNsXUNY^QUv+Lsl0XsX+DlDxDl?+HUFxLUlxUUXv{?_v_F?LY?XLDFD_lF?LHY+DLHxDUYH_5H___H?_FHXsLXDNUX?sIc+sL%NUUxxl9+Dl_+?lFx?UxLDs&x??7v+?_vNFNvYH;LXFNL?FFD+Yx_0Ys_YYx_+HN_NH?_YX*Nv+_D+XFsxWxssnsUYVHUvY?lN+HlYxUUvx_UlvHUvvx?Uvs?FvHF+LLHNxxFYDDYvD?YlN+YX_xU(_sX+_HXvNLXNNUXYLxgvsY5lsX%Xlx+D?sXvlHxsULxHUUvU?kDvsHvlFLvXFvLDYDL?FHlDYLDHYU_LHu_?H__lxx_XXNNDXXN?XHs+9LYsTUlK+Blv+_l?+FlXHLUDxFU?vx?+vL?NLF?+LzFsL_HDLFFXDxXDxLY?_vH+_lHNssHYsxXDN_XXNFx5sxQDssZ?UU++l?+NlY+YUuxv?sLxUFvN?xvN?sv??HDvYHLNYvLYHCDvY_DlYF_DHx_UHsNLHHNvXLsN6sNY0Lsv+lsl++sXxLsl+slX+H?HxLUNxUUYND?Lv??lvH?XLxFD_sHLLHY_DLYFDUXD_EHvs3HlN+HXNsXDNsX?NHfvsLb?sUkYl>+ll_+YlY+XUxxDXsx?UXv+F_x??UL_F8LFF_LlFF_XUUDDH+D?HN_+HU_NgULDXfNYX_s+XFUl9xlNFXs?+ll+xslN+UlYx{Yvx_?xxF?Uvx?NvsF+vLF+LYFNsUFYD+YvDNYl_GiH_xHD_sx?_HXxNLX?UlXYsT/vY_6lsYEXUL8llsxLlHvYULxNUULYssvv?XvlFDvXHBLDYU+xFHD?YLDlYUDYH>_vLv_UXN_XXDNDXsN?+mDt{LlvdUsX+Rlv+_U?v_lXxXUDvsU?xH?+vLF_vUF_L-Y1L_F?LFYXDsYD_VY?N+H+_YHNNFVDN7XFN_+DNFXXsxxDs?}?lN++lY+N?s+Y?xxYU_vvUFDg?xvD?sv?vXLxFXLNFYLYY>DvHs_xYF_?Hxs_Hs_?HHsv??NN*NNYx_sv _slaF?X+xlH+sUs+HUvxL?Ns?UYvs?vDU?lLD?XLsxsLlFXLHglDLYsDUYX_aHNlDHl_FHXUUXDNlX?NHFvsL2?sU++lw+vl_vlFN+XU_xDUFx?FYv+F_XH?ULvFSLsF_LlFFLXD_DDYXD?YX_+HL_NHUlYX:NNX_s>XFs+0xsDFUs?+vl++slN+UlYLAFHx_UHxF?LvxYLvsFY;DF+L?FNLYFYDmYvD_DYDFHN_xH__sH?_HX+ULXNNXXYss{vsshlsFY+lx+?lsxalHx+ULxYHUxH?_vvxlvl?YvXFxLDFFNUFHD+YLFUYUDHHqslFl_lHX_XDLNDXlN?+8s+:s?_rUsY+KXD+_lU+FUvD+UDxsU?lX?+vD?NvUNXLoFlL_FHLFFXDxeDY Y?_LH+NUHNsDHYN>?DN_XXNFQLsx{DssQ?DC++l?+NlX+YUyxvF_o+UFv_?xvF?sLv?H_NXFLNY+LYvUDvYNDlPvDXH_lLHs_?HHY?XLNsXUs+xXsvB_slNlsX+vlDxU_x+HUsxLFHxUUYvc?lxF?lLv?X?+FDLlF?LXY+DsT_DUYY_cDx__HU_FHXvLXDNXX?sv&+sL7NUUHDl5+Ul_xTlFxNUxvDklx??Lv+?FvNF+vYFLNxF_LlFFFxYxD_YsD?UW_+HU_NHX_YXhNvx_X+XFsD}xl?!slUIHUvcslNxqlYvYUvx_UlxFXLvv?FvsF+vHF+LLHN__FYDNYvDYYlNLYX_xXD_sXx_HXlNLXNNUXYsHdvsFhlsF:XlU+DlFxslHx+UL?xUUxH?%DvH+vlFNvXFFLDY_L?Hd+sYL_LYUNLH!_vH__l+F_XXYNDpDN?!rs+fUNYWUls+J+x+_lU+FUkxxUlDNU?xH?+?v?Nv??YLLXxL_FlLFDUDxY_DsX?slH+_XHNNLHYsXXvssFqNFhFsxxHssV?sH++FL+NUD+YUYxvUsxl?xxD?xL^?sF5?HLxFLLsFUD+XXDvY_Dl_+DXHv_DHFlUHHN+XLpxXUNH2dUlHlsl>XsXlUlD+ll?L_U+xsY_xUUYvGv?v_?UvFFvN+FDLsF?YsY+DDYNsUDD_2HH__2F_FX_NxXlUNX?NHQ+>X6Ns?:YFhs?l_xLlFLxUxvHUsv+++vx?UvNvvvYF+LvFsLlYoNHYxDDYsYLYH_xHLsYFY_YXvNvs_NlXYNXzFsD3F?U!Hl++LxN+UlHx6UNDDUlxFUXF??Dvl??LL?NLLF?LU_fDoYLD_YUDFHvl+HD_sH?I+X+NDXNNHxFst;vs_lYsF+8lxLD+)+?Uxx+FNxN?+xY?_xl?_vH?FY_FxL_FsLFFHDDrvDNYUDYNN_vHN_lXblHXxNDXsxDXHsxZL?NsxsY+DlvvlllxvlXx_YLxsU?xHD?vL?svUHvxvFvLlFlHsFXDvYDDFY?_x+R_LHN_UslNyXLN_XYU?XXsx9DxFq?sX++lUZYlUx+U9FxU_xUUFvZ?xvlHNv??HL+_vLNF?LYYLsxY_DlYFXXHx__Hsl?__N+XsNN+YNY+lsvuFFldYlL+xvX+slF+HU+xLU?DlUYv)?vHQ?lvY?XNxvYLsYMLHXLDLYHDUH+sXHv__Hl+_HXNvXDNHv?NX<DsLUHsUMHl>+vl_+YF?+XUxxDLXx?UXv+HLUX?UL+F)__F__xFFDD+xD_YYD?ss_+HD_NHU_YXLUxX_NlXFxlexs_&s??s_l++llNvYlYvlUvx_?UxFUXvx?_vs??vHF+LLFNLUXND{YvD_Y?DYYX_xHDF+HYNNX+NLXNFHNLHD_sXLDxXUND5++NUN+?lHx+5xNI+Hlx+YN_xDUNvKU3x??vxY?YxYDvYNDNYUDYLHFsDY_FHF_XXxNDXsN?HHF:cNsNtUsY+}lvY_x?DFUxxxUDxsU?xH?+lYXNvFFFLhFvL_<HUYLx??Lv?X+XFNDvFlLUYHD_YX_+NsPDNFXXsxDLXUNLXDNUMxNse_NzOllYy?xFNlX?NH&+sL.NlUshF_L?FULYYeU+vNF_L+_x+Dls+?lHx+ULFN?_XFsSqMsv<_X_NDXY+DlD+sl?+HU+ULZY_UUXvD?vv_?lsYvLU?vv?FFYD?Y+DLYNUNLFYDD_F?v_Y?_DYN_xYY_lXxZvssfNsU-YHkNXXNlxlHxLUxxDUsl?wXlUx_UU?FLvF.LvF_?FL2F+v?FvvXDHYH_+HL_NHU_YXgNvXsNUXFNXfxYYPUl_:Hl++LYHNX++_vZ?sX+Dl5x+lNxvv???vHF+LLFNlUD+lrYDD?YlDFYXFXL_YFLHY_XvNsXNNUXYFDN+X?N_sH+Llx+DlsNuHxsU++DlUFvU?<vv?_sHxXULvLsHv_??LvFDxsY/LUFxHx_sH__lHFFv_+HUD?Hv.msDiLsN%UHTNlOYN?l?xslXxxUD_lqYU+xVU2xFUHxxlvxFFuxHLHYNDxYDDsx?FYDLFYD?YvDFYHXDs+XlNFXXFN__X?NLXFNsHNs?+vslmDx_U_xlUFxX?xvDM+X?FQLLFLLNFUlFLDFNYsDYYFDXHxYxLlYXD_NvXNNNXUNY_YHLNHs?+vsX+xlD_H.-s++Dlv+lDF?Cvb?vv_?lvFXXF+gDL?F?LHY+DLYNDU__U4H___Hl_FHXNx?DHUv?s+z+sLKNsU9Yl;DFY_+?Ux+XUxxDH?lY+vlxxslF??YlFTLvF_LlsHLXYvDDYsD?YH_+HUDYHU_HXzNNX_NUXFs*=xslvNs?KHl++slN+?lYxLYxx_UlxFLUvx?_vsY?+_F+LDFNLUFY_?Yv_sFYDFH+_xXH_sH?_H++LFXNNFXYsxJvU+BlUF_Xlx+Nls+YlHv+ULxY?XxY?+vvF+vl?YvXFLLDFFNUFHD+YL_xYUDHH%_N+D_lHF_X5vNDXlN?+HDliLss*UsY+yUH+_U?+olXxLUDL+U?xH?+DLsXvU?XLCFDL_HLLFHX?xYDDUY?_>H+s9HNN)VUNAXLN_lLNF9BsxJNssSX?Y++lL+NvD+YU+xv?s+YUFv#?xDU?sv??H_+lFLNF?LYY+DvYUDlXFvNHx_NHs_?HHlAXLlNYxNY9xsv sslx+sX+xDN+slH+HUxxLUNxUFYCs?vvl?lvX?XDNFDLsvsLXYvDLYlDUH}_wOvvHHl_XHXNxXDlNX?lHYlsLtUsU+)lQ+Ll_+lDH+XU_xDUlx?UHv+YL^X?UL+FdLNF_LUFFLXvXD_Y?D?H+_+Hs_NHU+XXVNLX_NFXFs+!xlN+vs?+Jl+vNlN+UlYL6?Lx_U?xF?+vxYlvsFYLdF+LNFNNRFYDaYv_sX+DFHv_xms_sH?_H++sXXNNHXYsLGvlv!llHx+lx+Ulsx+lHx+ULxNU?xY?_vv?svl?FvXHxDLFsD+FHDNYL_FYUNYXU_vHY_lHY_XPNNDXs?XXHsN LsYTUlL+elvLFllxolXxsUDxsU?xHMxvL?lvU?YL.FDL_Y?L0FXDDYDN?Y?DHH+sL?X_UXkN.X_N_+YNF++Ll&DsF,??_++lL+NUF++UrxsU_LFUFxX?xDDlnv?FvL+FlLNYNLYHx+UY_DXYFs_Hx_DHs_??JN+X?NNXFNY1{svx__+>Fl_+xlF+slF+HF+XFUNvxUYv+?vvN?lvF!vLxFFLsYxLHYlDLYNlAYY_DHv_YHl_FHXNxL_NsXHNHn+sL=lsU<YDx+vlU+llX+XUxxD?U+XUHv_?LD+?UvYFO_vlHLlY+LXYNDDYFD?XQxsHL_YHUs+X5NvX_NlNYs6IlsD/Us?rHl+x_ll+UUDxt?Nx_UlxFUXHY?DL+??L+F+LLFNLUXYDeYsD_HxDFH+_xXDFlH?NxX+l+XNNXXYspFDs_<YsF+xlx+Dlsv?N_x+UsxNUHxYFYvvFslY?FLvFxLHFsL?FHD+l_DNYHDYHL_vH__lKFLNXxNlXsNXXHlX0LUNHxsY+Llv+Ullv+lXLx?+xl?qxH?vvLF+vUHvsLFLLsFlHNFXDvYD_XY?_x+B_LHN_UssN>XLN_XXXHXXsN*Dxvo?sX++ls+NlHLFU(xvU_FLUFvq?xLvU)v?FDL+++LNF?LYYLDvYUssYFDXHx?xHs_FHHNDxvNNXUNYl?svJNsl+Hsv+xl?+s?H+HU+xLFN!xUYv_?vvF?l_I?XDLsFLsYxLHYXDLYNDUYY+?Hv_HHlN+HXNxXDNsx?NHqNsLRXsUgXlS+vDs+lUv+XUNxDUsx?FHUL?LvH?ULLFQ_YF_LlY?LXY?DDYFD?YH_+X_NLHUNNX^NDX_NlXFlX+UsD+xs?+sl++slNxF?Dx;UHx_?DxFUXvxFNvH??LUF+DYFNLUFYNpHsD_HDDFH?_x%D_s4?YFX+s:XNs_XYsX^vls+NsF+FlxxHls+?lHL+UUxN?NxY?Yvv?HvlYFD_FxDxFsDsFHNvYLDNYFDYHU_vXv_lHH_XXxsxXss_XHs+eLssGUlXcLlvxxllv_lXxxUDLsNNxH?YvLFvvUF+LyYDLsFlDlFX__YDDsY?DHX6_LXD_UXvN!XvN_J?lsXXl+CDsYo?sH++U_+YlUxYU}LLU_xlUFxXF_vDFLv?FHL+F_LNYUDHYJDHY_N_YF_?Hx_D?U_?XDN+XXNNXFNYx}lr _l{dFl_+xU_+sl?xYU+x?UNxFUYv+?vLsYDvFF_LxYNLsF?LHY+DUYN_xYY_vHv__HlsFXHNxXYNsAvNH+NsLCNlY8Yls+vlX+llF+XUxv_UsvxUHv+?LL,?UL+F_LvF_Ll_DLXYvDDHULXYH_YHLNUHU_YX^lvFHNlPsNX,HsDx1s?xH_l+LUL+UUsxQUHx_??XvUXLJ?Dv???vHF+LLXNLUYlD%H+D_Y?DFHDUxH_NLH?QNX+NDXNNUXYsLvxs_hlsFUslx+_ls+?_Ax+?=xNUXxY?.vvY_Xr?FL?FxD+FsNDFHD+HYDNHsDYH?_vH__lXHs+XxsLXsNYXHs+,LUN+LsY+XlvxDllx^lXvL?Dxs??xH?YvL?NvUFXLUFvDNFl_DFXDxYDNsDDDHXx_LXs_UuYN}+vs+XlsYXXlvKDlN4?U5+slLxllUv_U0xvU_Ll??xXFLvDFUv?F_L+HLD_FUDXY4_DY_N?YFDXHU_DXN_?ipN+X_NNXUsx<Qlvb_slWFl++xUN}Fl?xXU+vHUNxUUYDSs?v_FUvFYCLxFlLsYY+DY+__YNDXYY_6Hv__L__Y,xNxX?NsX?NH+vDv1NlH YlD+vl_+lUHvFUxvUUsLFUHv+?LvNFDvYY+LvY?LlFHLXHxN+Ys_?YHNHHLNsHUNXXxNvSNNl+_NXCxsDxsllzHUx+LUs+UU+x&?DLxUlvHUXL_?Dvs??vHLxLDYULUYvDTYvD_H?_?YXN_HDNFH?_HX+s_LDN?+xs:xFs_9lsFfXlL+DUl+??vx+U_xN?Uvx?ZLv?_Ds?FD2FxLDFXL?YUD+HLDNYFDYZVNLH_NDHFN?Xxs_XsN?u+s++osNAFsY++lv+FXF+YU_xx+_xsUFxH?vvL??_l?YLRFv?NFlLYFXDxH_DsY?DHHx_LHN_UHYN3XvN_X?NFXXsxGNsF2?sH++,sNsVYssUxxsU_xlUFUxxxl_xXUl?HLXFLLNFULYlxDvY_DlYFDXHx_DHHU?HXN+XLN?XUNHhCsv7_sYv?sX+xlD+Fl?+XU+xL?sxUUYv0?Lv_?lvFY+v_FDLsF?LXY+DLYNNU?D_wHv__Hl_FX+NxX?NxX?NXp+sLGNs?MYlL+vl_Y?lF+XUxx_Usx?UHv+N_vN?UvYFxLvF_LlFF++YxDDYsDHYH_+HL_NUF_YX:NvX_NlXFNX^xHF ss?wHlv+Lll+UlYUlUvx_UlxFUXvx?DvsFFvHF+LLFsLUFYD:YLD_YlDFXv_xHD_sHYNYX+NLXN?XDHXv_FXLN7YKNsELNUX?sX=NlO+xxlUHxY?8vvxYlUxD?vFLLUFsL?FHlULxU_LXY+HvYHXU+NvvD}_FxlvNNY!xs+GLsNDYX_NHXs+slY+FlXxxHUl_xil??LvL?NvU?YLoFvL_FlLXFXDxYDDsY?DHH+ULHU_UHYN/XvN_XllwvXsDvs??vHF+LLFNXUYl+X?rxvU_xly8lLxUUlSFUY+XUXvN?Nx??XvDF+vlYxYXDXHx_DHs_?HH_+vvNUXUNYR>sv5_slXFLH+LUh+sl?+HH_sD+Ulv+?lNh_UUvxUsxLLLF?LsF?LH+LF_vF??D+FDHD_lHl_FHXH0DUHXXH+slU+YUoxvU__lDxls+YlF+XUxll&llH+lvv?svN?UvY+fUXxNFxFHDsYxDDYsUXDDF_LlYDvvY?D_HxX_Y+XFNXBxlNXFs?OHl+x_lN+UlYLAN?x_UlxFUXvx?NvsFYVDF+LDFNDxFYDkYvD_CLDYYX_xHN_sHF_HX+v_XNNUXYsTovs_wllxLXlv+DlsN4lHxxULxNUUv+YXvv?_vl++vXFvLDFs0YFHD+YLDsYUDYHu_v3Y_UHF_XXxNDXsN?+<Ls5Lss,Ull+!lv+_U?HvlXxLUDvDU?xH?+vsYxv??YLcHFL_FULFFX+LYDDFY?DHH+_LHNN-HvNyXNN_0lNF6asxJ_ssdX?Y++lL+NUU+YU+xvUUDsUFxX?xDH?svF?HL+s_LNFHLYY+DvY_DlYFU?Hx_lHs_XHHNLXLNNuHNY5Dsv6sslCFsXvxUH+sU)+HU_xL?_xUUYLY?vvY?lLK?XLxFDDUYvLHYlDLH?DUYY_y3vsxHlNLHXNUXDssX?lt+vsL+msU+Hlg+vl_x?Uv+XUFxDUHx?UHv+YL?+?ULNF6LYF_DNFF_XH_DDHxD?Hs_+Hl_NXFsvX<NHX_NXXFNX:xUD+xs?+ll++XlN+?lYLSU?x_?LxF?Uvx?svs??L?F+LFFNDDFYDxYvD_H+DFHs_xHD_sHF_Hx+?_XssvXYs?ovlx#lsFxUlx+UlsxLlHxvULLN?+xY?Dvv??vlFXvXFxLHFsD2FHDvYLDsYU_XHF_vH?_lXH_XXxND+ssNXHs_qLsF7UsX+aUDxxllxxlXx_UDxsU?xH?LvL?FvU?XLmFLL_FYlYY DxYD_LY?DXH+N_Y?_UHYN0dDN_XlNF+XDUJDssG?sH++l_+NUFHLUmxLU_vvUFxX?xvDHvvF?HL+F_LNF?LYHx+UY_DlYF_?Hx_DHs_??IN+XDNNX?NYfJsvw_?3gYl4+xl_+sl?+H?vH?UNxFUYvF?vv_?lLJYULvFDLs+?LHYxDLYN+FYY_LHv__Hl_FHXNsvDNlXXNHvNsLnssUSYld+NFD+llF+XYsxDUlx??x_E?LvN?UNLF(LLF_LYX?LXYxDDxsD?YX_+HLxlHUN+XeNLX_NlXFNXLHsD*Fs?+xl++NlN+U?LxWUsx_U?xFUXvxYDLx??LvF+LlFNDlFYD%YYD_H}DFHv_xHD_sXYsxX+NFXNsHXYs(mvU_+lsF+Nlx+Ylsx?lHvvUsxN?vxYF+vv?_vlFHLxFxLXFsD+FHD+YLNNDLDYHU_vXy_lXU_X+xNFXssDXHs?:LsF7UlX+vlvx+llxxlXxxUDLsF3xH?FvLFxvU?HLyHvD?FlDNFXDYYDD?Y?DHX+_LHX_UXsNWXDN_Xll;XXs?(Dss5?sX++FLDll?x_U5xHU_vkUFxXFFvD?Yv?FNL+F_LNHUDFYtDsY_DHYFNxHx_DXL_?XvN+X_NNX?NY+xls;_sH/FU++xlD+s??vLU+xlUNxXUYvx?vLsYTvFFDLxFlLsF?LHY+_HYNDXYY_xHv_NHlN}L*NvXDNsxYNHqxsL+lNH3YlJ+vUs+llF+XFx+LUsx?UHv+?Lvl?ULXFlLvFNLlYDLXYxDDYs_UYH_+HL_lHU_HX#NN2+NlXFNX-_sDols?VHCl+DlN+UlYxgUvx_Ul?DUXvx?Dv???vHF+LLYsLUFYDeYLD_YlDFYX_xHD_sXL_HX+NLXU+Ll_+llF+XUxLDLHlL+lls+?lHN++GssxvxX?vvv?_vlxUULvlLNFFL?FHD+xNFTDLFxHx_NH__lHFFi_NY_DFNYRLs+)LsNLYXXNDXLsUXH+HUvxxUDxsXqlFx_U+?lLD?YLtFvs?xU?XvsFKvFU?LXYNLYFlHlNvHYNyXvFUNOH+_LX,LHX_N+XY++UD+NlU+YUKHDU_xlUFxX?xvD?sD?v+L+FLLNFULYY_DvY__UYF_+Hx__Hs_?HHsvfNNNXYNYolsvR_slxFlH+xls+slH+HULxL?lxXUYvL?vvN?lvF?XDLYULsYfLHYsDLYNDUXY_?Hv_?HlN+HXNUXDlsLHNXg_sLqFsU+xlT+vls+llX+XUNxDUUx?UHv??Lv??UvYF0LLF_LlHVLXYNDDYUD?YH_+XLsxHUN+X;NNX_NHXFNX+LsDAss?+xl++_lNvU?xxGUvx_UlxF?+vx?DLs??vHF+L_FNL?FYD=YFD_YlDFHr_xHD_sH?_HX+NLLNNUXYsPrDl_8lsF-XH_NU+asXXxlvPDlD+YlY++UD+?UN+X?sFDLDFsL?FHD+?LF_+U_qH(_vH__lHF_XvDvDXUs+XHs+rLFlNXK+sL-xsLl?xvlXxxUDsH+YlY+Hs_XHNF?XLFFvL_FlU++slHvHF?LXUULxYYD_YX_+Nx)+N_XlNFLsX__UXDLHXYNXbsNs=vs?KDlD,DxFUFxX?xvD?sv?+Us+F_L?FULYYZUNv?Y+Dk_+H__DHs_?L+YU_HYFXFsLtWsvi_YXNDAxN?XNsLIRx+U+xLUNxUUYv,IsN_??LN?XLxFDl?xHFqLgFTLvUSLXF+D#F?HF_FHXNxXDNsX?U_L+sNZNsUVYlG+vl_DFYFxxUxxDUsx?UH?+XDNN?YvYFGLvF_LlFFsY+xDsYsD?YH_+HL_NvvxYXxNYX_NlXFF1__HlD?XmN+zDNYw_sslXxLUvx_UlN++YUNxxvUF_vHF+LLcH?lL+?svLFv+?FsLbFDDO_?H?_HX+NLXNNUXYs4<DsFRlsFIXHxN_%UsBmFlDUNxNUUxY?^vv?_D+XFL+YvLDFsL?+N?HvD?HvX?+DxFLDLYFDFYg_LYU__YHNNsv+xsNgUsYDNcxsUf+NY,FND<UlD+LlCxAU{+?vFFsL*FvL_+l?HvL?XvHFYLsUYLXYb_-_YHYNpXvN_XlNFKXFxVNsXe?sH++HUNFXYl+8XlDYsxFUFxX?xvD?sv?HUs+FNLNFULYY)DvY_vl+?_+Xl_DHs_?_yYv_FYs_YXP_DXN_XHYL_?HL+FlLFYvD+YLDsYF_xHL_D?_v_?lvF?XLxLDsls?D+Y+DLYNDUYY_RxXU_H?NxHXNxXD??_UHUNiX_vUsF+Ll9+vl_DY)DlD4?slMYlY?PLs?LvN?UUXxx??xN?FvX?LL_?HvFlDGYl +NlY+?lYxxU_xX?xvxUXnxsN(?s?QHl+_sXsNFU#x(Uvx_UlxF_XlLNDvUFlvHF+LLkY?vv??L+l?XL?FXDvUDLYY+DNYxXvNLXNNUXYsvPvs_ilsFfXlxLNYs+FlXxvUXxNUUxYCLlsxHUY+v?+xv?Dvs?VvxDvYsDNYUDYx_YxDLYYHX_XXxNDXsN?XHFULLsl+?sY+dlv_v=sl++xsNHNlY+XUxxRUxHsNYxlUlx_?+F?DvFXDxYDUsvFFxLDFYDDY+HXNUXvN_XlFDNvHNNxYs_Fg N_Jxs?lFx_UoxvU_NHXDNX+vll+FULxFUsF_L?FULYYRlFvlFsLU_uHx_NX?_?HHN+LlHDD?XxNLH?NDX?NDgxNNXlvsYFs+bLsl+UlYUXvs?vv_?lsFxH?DxH?FvL?YvXD_YFDUYY_.vsUUDxYlx+NDXDNsX?NHW+LL_lFU{XUy+vl_+lHFl+5Nlx++Ur+?D+XUlF+??+vD?Dx??FFXHl_?HHN+XLNNvUxv_UHU_YXJNvX_?lDY?XpLsUiss?dHYYNDXlNX3lxxUUx_UlxFXvlNxsUFxYUYvUL_FULUFYDAL+??DQDXYX_xHD_sH?_HDUvLXUNUXYs3,vs_,l?ULXlL+sls+?lH_URNl_UFvv?pvv?_sY8x?+xv?xxYLYYYD+YLDN+FFFDxFNL?Y?vXYs_FYULsHLN_H_N<sU/UsY+qlv+_+lNNYXxLUXxsU?xHXsUvx?Ux+HUYOD?DvD?rY+D_YDDsY?UULUYND?_YHYNBXvN_XlNFHXF+%NsF=?sH++=xNF+xl+UxxNU_xlUFNY+vUx+YvYFvL+FLLN+v?Uv+?Uv?D?HNDXHx_DxlYlD+Yl_vHlLUHF_lX+NUs?+FsX+xlDD?WNsN++lNH?sXxmlv+sUL+YlYxY?_vsL?F?LHY+DLYNDU4+UdHDY?Hl_FHXF_DYH+_HlHN+HDNlXHxYXXNl?_sYVLsLFxls1?lY+NU+xsDNxv?}H;UXvDUFvN?Lv_NDLFFUXH?LLYYlDvHx_vlvL_H?_+HF_?XUNDU?sv0LNlKlsYF?LtXvl?+?sX+NlvxslYY?sHvvUlvL?vLx?YXv?XLNNFDvFULUssxXYN_LYN__HF_+UaN_H?N?VxNL4LvDFcNXgNlLhNl_+Fl+YHlU+Y_sxXUsvLUHvY?HXNDvYlDNYUDYvLFFDUYDD+N+UsN_XsN?eLF+3DssoUl2+ZlL+_ll+FUvD+UDxsU?v+?+vD?NvHHFL/FvL_FHLFYtDxYDFHY?_8H+_LHN_UHYNcUHN_XUNFA+sx/Dssx?__++l_+Nl?+YHUxvUF_lUYv+?xvH?svF?HL+FLL?XlLYY<DvYXDlYYDXH_lLHs_?HHN?XLNsXUsXFNsvBsslvvsX+xlDxsXF+HUxxLX+xUUXvIYv+v?lvH?XLvFDNFF?DLHvDLYlDUHF_gHL__HU_FXvU+XDNsX?sYa+sD&NlFYLl)+Dl_LvlF+XUxvD)lx?UXv+HsvN?FvYHkxBF_L?FFD,YxNmYs_+XL_+H__NXH_YX+NvXNNlr:UH,xsD.slX4Hlx+LlNlHlYxxUvx_UlxFUXLx+_vs?FvHYFLLFlLUFY+xYvDsYlDFYX_xHD_sUY_HXLNLXsNUXYs%ivLs!ll%yXlL+Dls+??#HsULxFUUv+?Tvv?_vlxvvXF_LDFUL?YMD+YLH_YU_xHP_vH__?HFs+XUNDXHN?v_s+(LsNxUlD+-ll+_lX+FYHxx?NxHU?vD?+NF?NvU?YDxFLL_Y+LFHDDxYDDsHY_xH+_YHNsVHYN}XvssupNFzlsx+_ss5?sH++FL+NU4+YUUxvUsxl?Flh?xvU?sLD?HLNFLLNsFLYY_DvYlDlYFDXXxF_HsN2HHssXLNYXUNYv{sv lsl++sX+LlD+s+++HUDxLUsxUUYv>?vXs?lL+?XL_FDLsF?LHlvDLYYDUYH_iHv__HlxHHXNlXDNUX?NHG+l_FHsU+Dl2DHl_+llFvXNUxD?+x?UXv+HsvN?U_YFSLUF_DxFFD+YxDDLHD?H__+HL_NHX_Yyx_NX_sxXFlFSxsD4sU?x_l++YlNxvlYDXUvvsUHxF?lvxF?vs??vHYvLYFNDDFY_XYvD_YlDFXF_xHH_sX__HXvNL4NslXYssMvYx*llD9XUL+?lsxLlHDlULxNUULY?Uvv?XvlFDvXa+LDYU+xFHD?YL_YYUDYH9NDLF_UXN_X+YNDXsN?+<sU2LlvMUUv+(lv+_U?vllXxXUDDvU?xH?+vLF?vUF_L1YAL_F?LFYX_sYD_=Y?_sH+_YHNNFXHN;XFN_v+NFXXsxxDUD:?lN++lY+NYl+Y?xHlU_vvUFLD?xvD?sLYYUL+FXLN+sLYY9DvHs_lYF_?HxsLHs_?HHsvn_NNQNNY+_svV_sl3Flv+xlH+sUs+HUvxL?NxYUYvs?v_Y?lLD?XNxFYLsYvLHHUDL+XDU8YYsHv_HHl?_HX?LXDNsx?NH>NsLAXsU#XlexDDY+lUv+XU?xDUsx?UH_+?LvF?ULLF&LDF_Ll?ULXYsDDYFD?YH_+HL_FHUNLXfNLX_NlXFNX+QsD+qs?+rl++LlNxFUoxpUFx_H_xFUXvxYDDv??LsF+LDFNlLFY_xHUD_HLDFXY_xHD_sH?sDX+NFXNsDXYsx5vs_lssF+slx+DlsxElHvv?XxN?LxYHsvv?_vlYFDlFxLXFsDDFHl!YL_lHsDYH?_vxH_lHF_X9Ll+XssNXHUx-LsN!UlX+xlvxvll_LlXxxUDvUFNxH?XvLFYvU?YL}FvLXFlD_FX_9YDDUY?_HXY_LXW_UXNN3XYN_d?lNXXsFTDF1i?sH++?LxHlUxNUexYU__sUFL+?_vDFvv?YLL+FLLNYFD_Y.DXY__lYFDXHxNNXL_?X?N+kUNNXUNY+xLUQ_lNGFUD+xlD+sl?LHU+xHUNvsUYvx?vL_+vvYFsLxXFLsYDLHHv_+YN_LYYNLHv__HlsFFNNxXXNswDNHxXsLxN_xPYlU+vUP+l?_+X?xs_UsvLUHDX?LL+?U_YvsLvFXLlFYLX+UDD.sYvYH_UHL?+HU?YXqNvx_Nl4vNX,?sD,Us?xSDs+LlX+UU_x)Uvx_Ul_xUXvs?DLW??vHF+LLNxLUY+D{YvD_YUDFYXlxHD_UH?NxX+N_XNNU?XsRI_s_^HsFOXlxvDNg+?Uxx+UDxNYHxY?ilU?_vF?FL+FxLNFsN+=_D+YNDNDhDYH+_vMF_lXJlHXxNDXsX+XHsxILUNHxsY+vlv+sllDHlXxx_NxsUXxH?_vL?NvUYY+sFvL?FlLYFXs_YDDsLxDHHD_LHl_UHXNJ5vYNXlNXXXFYPDsF7?sHYvlL+UlUxvU}xvU_LlsLxX?_vD?lv?.sL+FLFFF?DKYbDNY_D?YFNX?U_DH?_?XqN+v_NNxUXDBGs_7_Ux^FFU+x?DXIl?x+U+x_UNNUUY_Ox?v_?FvFFKLx4{LsF?+/Y+DNYNDHYY_iHv__U?_FXvNxXDNsX?NHf+L_ NsXwYl++vl_+llFH+Uxx?UsxYUHv+?LLls+vYFNLvYvLlFFLXHLLlYs_vYHsLHL_NHUsYDUNvXHNl*LNX NsD+UULpHlU+Lll+UlYxM?DvlUlv_UXvL?Dvs??D*F?LLYxLUFXDVYvD_Yl_UYX_UHDNvH?NWX+s_?HNU9_s#+Xs_JlsF1XFx+DlH+?UNx+U_xNUU?F?;vU?_vl?FL_FxDNFUL?Y_D+}FDNYUDYG:s5H_N+HFNNXx?LXssY+Ls+1YsNDxsY+2lvxslU+FUlxxFYxsU?xHFvLY?NLD?YssFvL_FlDHHlDxH+DsHYDHH+_LHNNvHYNsXvsxXlNHXXlx+xss+xsH+?lL+XlUxX?+xvUHxlHLxX?xvDYsDv?HLlFLLXFUsFYz_DH+DlHDDXXs_DHs_?heNDXLs+XU?_>bsv0_l?+xsX+YlDxHl?+HU+v__HxU?lv1Hxv_?lvF?XNxFDD/F?DUY+D_YN_UvH_BHU__x&_FXNNxXDvUX?s_m+s?.NsUgYUrNLl_xJlFv_UxxYUsD?x_v+??vNFDvYXDLvYs+>FFDNYxDFYsD?YHs+?F_NXv_YX+NvLMNlXFs7KxsYyslv!HlU+LUNL^lYxNUvNBUlvLUX_xFLvsFxvHPHLLXvLUXYDxYvDYYlUMYXNsHD_sXY_HX_NLXHNUXXsTMvUvPllxBXlv+Dls+?lHvvULxHUUxX?;vv?_L?YLvXFULD7XL?FHD+H_+HYU__H(NlH__lHFs+?lND&xN?+_s+tLsN,U?Y+BlU+_Uv+FU+xxUDHUU?v_?+v_?NvU?YDxsUL_YxLF;,DxYDDsHYxDH+_HHNU?HYNKXvssFpNFBUsxDvss5?sHxvD?+NU_+YHHxvU_xl?HX_?xLx?sNF?HL+FLLN !LYYsDvHvDlYFDXHx+MHsN+HHN+XLNsXUNYv,sviUsl+xsX+LlDxUs++HU_xLF?xUUYv-?vvl?lvX?XLNFDLUF?LHY_DLY?DUHD_zHv__,l_HHXNNXDNlX?Fs>+sL+vsU++l*+sl_+FlF+XU?xDUFx??Nv+?LvNFRLsF(LNF_h_FFDCYxD_YsDXSY_+HL_NUN_YX+NvXUUsXFNXAxLHrssF>Hl+lslN+HlYxkUvx_UlxFvsvx?lvsFLvHF+LLHNxxFYDLYvDsYllHYXlxDY_sHX_HWUNL6YNU+YDsMvsUZlsHZXHx+DFslvlHxDULxsUULv?eDvsHvlF7vXFLLD+sL?HuLDYLDFYUN+H>_vH_slFL_XXNNDXYN?xFs+xLDX.Ulx+&ls+_UH+FUXsvUDxFU?DF?+vl?N_UvDLIF_L_YLLFX?DxYD+UY?_xH+_HHN_UHYlkF?N_XHNFO+sxvDss++ss++lU+NlU+YU+xvUHxlUFX+?xvD?sL_?HL+FLLNsFLYYZDvYlDlYFDXHxxNHs_?HHNYXLNNXUNYFxsv^_sl+LsX+xlD+sDY+HU+xLUHxUUYv;?vlD?lvF?XLLFDLsF?LHv*DLYNDUH&_oHv__HlxHHXNxXDsDX?NH{+sLswsU++l^+ll_+UlF+X+sxDUFx?UHv+?LvNF5vNFiLsF_LUFFDpYx_lYsD?U:_+HL_NHH_YX#NvX_v?XFNXkxs_4ss?dHl+Y_lN+UlYxxUvx_UlxFN+vx?Dvs??vHF+LLFN%FFYDVYv_LYlDFYX_xLL_sH?_HXxNLXNNUXYLx;vs_yll?;Xlx+DlsYYlHx+ULv+UUxY?pvvNsvl?FvXFHLDFsL?FH+vYLDNYU_YH4_vH__lUH_XXxND4lN?XHs+/LLl9UsY+JUD+_ll+FlXHLUDxsU?L+?+vL?NvUNXLEFvL_YYLFFXDxYD+UY?DHH+NlHN_UHYN1?DN_XlNF+Dsx9Dssg?Dt++lL+N?++YUixvU_H?UFxX?xLY?sv??HL+s_LNFULYHlDvY_DlYFx+Hx_DHssDHHN+XLNYXLNYC_sv<lslZYsX+?lD+sDY+HU+xLUNxUUYv(?vXs?lvF?XLvFDLsF?LHlvDLYNDUYX_mHv__HlF?HXNxXDN?X?NHZ+sLFlsUnYlk+Nl_+llF+X_LxDUsx??sv+?LvN?UXXFdLvF_DNFFLXYxDDvND?YH_+HD_NHU_YXAYxX_NlXFsLcxsDasl?_slx+slNxYlYx_UvvsFtxF?DvxXHvs??vHF+XXFND+FYDDYvD_YlDFlU_xHY_sHH_HX+NLXNstXHsN,vss-llLJXl_LLls+?lH+YULxsUUxYvDvL?UvlFDvXFFLDFHUHFXDNYLDxYUDHH1_DH__Y+?_XXxNDXvN?XXs+xLDX}Ulv+hlL+_?L+FUD_xU_xHU?Hx?xvD?NvU?YLLXxL_FlLFsvDvY_DsHYDxH+_UHN?vHYNhXvN_?LNFV_sxmlss>?sH++(F+sUx+YUsxvU_xl? DH?xvD?sLx?XLxFLLlYFLYY?DvYsDlYFDXHxHUHl_XHHNUXLsxXUsv_vsL8Fsl++lp+vlD+Ul?xxYBxLUNxU?xv+?Lv_Yl_N?XLsFDL?F?NNY+__HHD?HD_!Hl__Hl_FHXsNXDNHX?s_.+s_.NUU+Nl5+ll_+XlFDYUxxD?_x??Lv+?_vN??vYH!LsF_LXFFDxYxNHYs_YHs_+HF_N+Y_YXuNvX_sFXFsDaxsYnssYPH?++slNxklYx_Uv_LUlxFFxvx??vs?YvHFxLLFNL?FYD_YvD_YlDFYX_xUN_sXx_HXxNLXNNUXYLx2vsHPlsH<Xlx+DUUHxlHxUUL_UUUxY?Avv+YvlFLvXFLLDFUL?FHHCYL_VYUDYHB_DH_N?XP_XXFNDv<N?XHs+xLlFZUlN+ZlY+_Ys+F?+vLUDvvU?N_?+vL?NLFFDLmFXL_YXLFFXDxHN_UY?_?H+UFHN_UHYsxXLN_8NNF+DsxQDss#??H++lH+NUs+YUxxv?_svUYvs?xvX?sLD?HDvY.LNYLLY xDvY_DlHFFWHx_HHssxHHN?XLNNxUNY^Nsv0XslQHsX+xHF+lUv+HUDxLUNxUUYvs?vvX?lLI?XLxFDLsYFLHY?DLYsDUYY_9HvsGHlNNHXNLXDNsX?lAMLsL+vsUDslW+vl_x?Ux+XUXxDFYx?UHv+?LD+?ULsFkDRF_L?FFLX_+DDHLD?YH_+HN_NXF_XX;sKX_?+XFNXcxUD1Hs?+?l+x+lNDllYvx?sx_?NxFFDvx?DvsFYDvF+DvFNNDFYD!Yv_sHUDFHX_xX?_sH?_H=vsNXNs?XYU?&vs_clsF+slxxxlsxFlHxvULvN?YxY?FvvF3vlFlvXYLL_FsDsFHslYLDNYUNYXN_vXv_lXl_Xv+ND(UluXHsX6LlYnUsY+rUD+lllx?lX_vUDxsU?LA??vLFNvUYvL3FvL_Y?x_FX_vYDllY?DHH+_LXX_UXUNp)LN_X?NFWXlYeDlL/?FD++U++NFUxDUuxXU_LxUF_U?xvD?Fv?FsL+Y#LNFFLYHx__Y__LYF_sHx_DHs_?XsN+XYNNMDNYPxsv-_YTbYll+xll+sl?+HU+vvUNvDUYv+?vv_?lvFFXLxY+LsFYLHY+DLHl_+YY_YHvUvHl_FHXsLhxNs lNHvNsL,NsU+XlH+vUD+l?U+XUxxDUsxHUHvY?LL_?UvXFtLvDDLlYlLXYxDDY?D?XcNLHLNDHUUDX3NvX_ll+lNX+,sD+_s?LYl+x_Uv+UUFx4H?x_UlxFF+L+?DLs??L+F+LLFNDFYlDuHLD_HXDFYX_xXN_HH?sbX+lxXNNUXYsbZFs_+NsFx+lx+Nlsx??+x+?+xN?LxY?HvvFsDD?FLYFxNYFsL?FHN+H+DNHsDYHH_vxD_lXHssXxsLXsl+XHs+9LllxOsYx,lvxDll+FlXvL?Xxs?FxHFNvL?NvUFX+UFvDsFlNNFXDxYDDsHYDHHX_LXl_UHXNBEvNXXlslXX?l>Dl_1??H+vlLxLlU+HUgDHU_xl?DxX?YvDFDv?FRL+Y_D_FUDlYPDFY_DlYFDXHH_DXx_?XUN+X_NNXUFvd+sH>_sY FsX+xlDxNl?xUU+xDUNxUUYv7?sv_F_vFF+LxFDLsYYDXY+_xYNUDYY_^HvNsHX_FXHNx+DNsX?NH%+sUVNlNMYlX+vls+llFUHUxvvUsx?UHvv?LLlF+vYFXLvXHLlFFLXXx_YYs_UYHNWHLU_HUNXXUNv{_Nl+xNXhxsD+UUsfHUx+L?l+UlYx5?DxlUlvHUXLs?Dvs??D3FvLLYULUHXD*YvD_Yl_DYXN+HDN?H?N2X+sLBUNUz?siKYs_+ssFx+UL+DUN+?Y_x+ULxNFULl?)Lx?_Ls?FNHFxDNYlL?YHD+HUDNYUDYXxNLH_NUHFN?XxNDXssY+ls++_sNx}sY+zlvxs_-+F?xxxHUxsU?xH?+_L?NLl?YDvFvLsFlDFv2DxHvDs+xDHXy_LHNlUHYNFXvsLXlNHXXlLFFss+ssH+UlL+NlU+YYpxv?+xl?lxX?LvD?ssx?XLYFLL?FULYYtDvHtDlHlDXHv_DHs_?HHsHXLsDXUNXZ=sve_l?+lsXx+lDDDl?+HU+v_?NxU?Yv>HYv_?lvFY+DlFDDlF?_FY+DLYNDUHN_%X+__XU_FX+NxXDANX?sY2+sLtNsYpYUx+ll_xllFDNUxxDUsL??Nv+FLvNFUvYXXLvYsDgFF_rYxlYYsD?YHNvHl_NXF_Y+sNvX_NlcHsFIxls,sU+IHl++LUlxslYvLUvLLUlxFUXvx?HvsF?vHYDLLFlLUYYDvYv_DYl__YXNxHDNUXD_Hg+NLxXNUXYs(xvlXWllF#XUx+DYN+??-xFULvsUULv?Qvv?_L?FlvXYLLDt+L?FHD+H__sYUNZH5NlH__lHFs+?lND.FN?&_s+ELsNTU?Y+wUv+_UY+FU+xx?DsxUFvY?+_??NLU?YDxY_L_YlLFHvDxYDDsX?v_H+NLHNNUHYlHXvl_Y+NF5Xsx+DssD+sHx+XD+NUl+YFHxv?_xlUFDX?xLx?sLU?HLvFLDll+LYYHDvYXDlYFDXHxlDHsNNHHNXXLNlXUNYLNsL+vsl+RsX+xlD+s?++HUXxLUsxUUYvQ?vvU?lL??XLLFDLsF?_WYsDLHNDU+U_RHv__X?N_HXsvXDFNX?NH=+l_+_sU+Xl4x+l_+llF+XUDxD?Nx?F8v+?_vN?UFFFnDvF_LlFFDvYx_NXgD?HX_++F_NHU_Y+nNNX_sUXFl)-xFLbslYxll+x_lN_xlYx4Uvvs?+xFFxvxXDvs??vHYvD+FNDHFY__YvD_Yl_HHD_xXU_s3l_HX+NLXNsvXYl+wvl?olsH<XUxxLlsx?lHx?ULvsUUvX?UvvFNvlXLvXFxLDHsD}FH_xYL_sYUlFHRNDXx_lXH_XusNDXsN?+&lHzLlUzUF_+&lv+_U?x_lXv_UDvHU?xH?+L_NHvUYxLmXXL_FlLFFXsxYD_lY?NvH+__HNNULHNe7vN_v:NF+ sxvDqI2?lH++F++NF_+YYtl?U_vlUFv=?xN^?sv?HHL+YxLNYULYYxDvHsx<YF_HHx_HHs_?HHN+xUNN2NNY9XsvQ_slrFvU+xlY+sl?+HUxxLUNUvUYv_?vvH?lvY?XLxsvLsFXLHYvDLYNDUYYN+Hv__Hl_YHXNxXDNFX?NHa+UD9NsUWYlv+vl_+llF+XUxxDUsxY?Lv+?LvNXYUXxDULvUUHFHDLYxDDYsF?vXFUD_YUHFNNX1NvX_FY_+XNN_FNNYXXsxS)sxll+UlYxKUvxsUHxFUXvx1lU+xXUUx_L_FULUFYD&L+??DEDHHv_xHD_svlFXDHYlXlNHXYsKCvY_NDHYsslLxVls+?lH__-DlU+vl?+Ns_xU?xxsULFLLlFsL?FHl_LxFFLNDXX+_vH__lvDYFDvYFDYFXN^HxNxXUNUHHsxXssLXFlDU+v+UDxsU?Nv+xUNx5UsxLsLxF?sxHUXLv??LLF_YY_LH+_LHNYY_+HxDFHL_5NH%xsxzDssDU#vsDl_+FlU+YU1lQgNlYoXlN?Lvl?sv??HUXxl?XvHLXY?DvY_DlxvFLD_UsDpYLDUYD__YF_sNX(Hsvt_slDvXHs_XYNlusN+g_l++usF+FlF+Nvs?YvF?XLx+lUYLvFxYxDDYl_vYY_uHv?U_(Y+DLHcvHH__+HYhxsL{lsXAYl>+vHNsHdDsY+_xN?sx?UHv+9slFvx?++L?DxN?NvX?XvvFNvYFlL+YUH__?HU_YXA?l_DHNNGs+5DsDtss?DNRLDDllxllYxJUvsLXxU}+LlXXsUNxl?xxxUYvDUXvXUXYD_+YlDFYXUlDLYFDvFXDH?__vY?_aH?z_x6UxxDUsx?UHN+DUU+x+ULxNUUxY?C*vXDv??XvXFxLD++UHvYDvY?DNYUDYv_FFDlYxLHY?DNNDNYN?XHs+kLLl%UsY+Klv+_ll+F?XXUUDxsU?xH?+Ls?N_wllL>FvL_FHLFY)DxYUDsYXsYH+_LHN_XHYN+XvNUxsNFXXsxtFss^FsH++D_+NlU+YU=xvU_xlYFUN?xvD?sLX?HL_FLDl?HLYYGDvHNDlYFDXHxxNHs_FHHNxXLNNXUlYx?svgNslMYsXxLlD+sU++XUxxLUlxUUXvT?N_D?lvF?XNYFDLlF?_HXFDLYFDUH+_iXH__X?vvHXNlXDNFX?NH/+sLvNsU+xli+Ul_+?lFxDlsxDUYx?Fav+?DvN??vYFLNxF_LlFF_+YxD_YsDX,Y_+HL_NxD_YX+Nv+_D+XFsL7xslwsl+^HUvN_lsxGlYx?Uvx_UlLF?lvx??vsF+vHY?LLHNDDFYD_YvDFYl_XYXNxXF_sX%_Hp?NLXYNUXYll,vs?ilsH=Xlx+D?sL_lHx_ULxFUUxX?BDvsHvlFvvXF_LDHsL?HnLDYLDXYUNvHn_vH_slFL_XXUND=qN?CDs++_LHcUl_+.?x+_ll+F?++_UDvxU?vl?+vL?NDUvNL2FYL_YvLFYlDxXD_+Y?_sH+_HHNsxHYsxXsN_-LNF9Usx;Dssx?U?++lX+NUD+YUYxvF_xHUFvU?xL=?sLU?HL+Y+LNYxLYY?DvYsDlYFNFHx_HHs_?HHNxXLUNlxNYMlsv+xslxUsX+xUS+sUh+HUUxLUlxUFYvs?vv??lL+?XL?FDLsY2LHY_DLYlDUYH_oHvNYHlN+HXNLXDNsX?lHalsLBFsU+xli+Dl_vlUX+XUlxDUFx??Lv+F_LU?ULDF)DlF_LlFF_XYDDDHSD?H__+H?_NXFN_X0NFX_lsXFNXnxlNXFs?+sl++XlN+UlYL +Yx_?vxF?lvx?XvsY?D+F+LHFNDLFY_sYv_sHNDFHU_xXE_sH?_H++NYXNsDXYs?7vlvBlUF+0lxxplsx_lHvtULxN?NxY?svvF+vl?HvXFxLlFsDLFHD+YLDsYUsYDs_vHX_lZD_X+;NDXsU?XHs_TLlhcUsX+/?vL+llx+lXxNUDv+U?xHYFvD?FvU?XLeFLL_FXUXY2DxYD_LY?DXH+__HN_H+FN8XvN_hDNF%nsx+NNFy?sH++lN+NlU+YU:HDU_xUUFvx?xvD?sv?FLLxFLLNFFLYYxDvYUssYFDXHxUNHs_FHHU+_FNNXHNYx+sv+Ysl+xXx+vlD+sYF+HUxxLUlxU?+DX?vv_?lNY?XLvFDDU?XLHY+DLHsDUYY_pHvxsHl_YHXN_XDNsX?lHxFsLQssU7HlpxDl_+lUxx!UvxDUUx??0v+?s__?UvYFJlDF_LUFF_+F_DDYYD?HF_+HL_NKULDXKNsX_NHXFsX#xUDH)s?+Ll++slNxxlYvx_Ux_?bxFF?vx?Dvs??_HF+LlFND+FYDxYvDFFXDFHL_xv__sHF_HXxNLX?UlXYszwvYNwlsYpXl_LLls+?lHNvULxsUUDYxsvv?UvlYYvXYlLDFHUHFXD+YLUiYUDHH1_DH__Y+?_XXxNDL+N?XXs+OLLl<UsY+glD+_ll+F?XLYUDxsU?xH?+v_?NvUNXL*FDL_FHLFFXDxXDveY?_hH+__HNsUHYsxHNN_XFNF+Dsx<Dssx?__++lN+NlY+YUNxv?sXiUFvv?xDL?sv??HDv?sLNFXLYY?DvY_DlXFYlHx_UHsN6HHN?XLlNgYNYKDsv,?slxLsXxLUs+sU++HUFxLUNxUFYLY?vvF?lLx?XLXFD_sFFLHYNDLYYDUHF_3Hv_FHl_XHXNsXDNUX?NH+NsLe?sU/YlQ+Ll_Ll+L+XU_xD?Lx?UXv+?L_N?UvYFMLNF_L?FF_XXYDDYsD?YH_+HY_NHUlsX+NvX_N?XFs20xsDFUs?bHl++_lN+UlYLkFHx_UlxFUXvx?Nvs??oAF+L_FNLXFYD4YvN_?+DFH+_xHN_sX+_Hbv_sXNNYXYl_Avs_RlUFHNlx+sls+HlHxsULvlN+xY?LvvYDvl?FvXYLvlFsD;FHDFYLDNYUNYDU_vH?_lX+_XXFND+ssvXHs_zLsF0UUD+{UD+sllxxlXxYUDxsU?LH?vvL?YvUFvL-Y4L_Hl_vFXDsYDDHY?_YH+_L!#_UXhNAXlN_X?NFXXlvmDsFo?sH++lD+NFUlDU)xNU_LxUFvd?xvDHsv??HL+FsLNFFLYXQNHY_DlYFDXHx_HHs_?+lNxXLNNXFNY<+svo_L?0FsX+xlU+sl?+HF+XFUNxUUYvA?vvF?lLHx+LvF_LsY_LHY+DLXNDXYY_+Hv_NHls_HXlx-FNsXFNHAxsLxLsU+YUF+vl_+l?_+XUvxDUsv?UHv+?LvY?UvYFZNvvHLlFFLXXvDDHYD?YHxvHL_NHUNvX<NvX_NlsDNXQxsD9Xs?pHl++LUs+UlYx-ULx_UlxFUXvx?DvsFsvHF+LLFlDFFYD^YvlNvYFoxXFHL_H+DpHoL+YD_lY?_LXx_LX_N+sH+slx+DlsDFnxsDH_lF+HU++XU+?sLv?FvXFxs_xFUXxx?_LFF?vFFFDs_DHY_lHF_XvvYlDF?Y_NHX_ssl+vsY+PlvDNXYs)Xvl+,FsX+Nlv?vvF?NvU?Ys+xNUU+DUYv+?NL+DUHFDHH+_LxsFHD+F{DXYNNxH+N+F_NNXNN?Xxs6Q?sDlFv^U{xvU__U+glvXXUUxLUXxN?+vkUFWH?XvXFvvUFsDvFYHLNNHs_?HH?xDsY?LUHl_+XF_?X?NXYvsL-LssXXsY+slxUlv_UYvo?vNN+YU&tXUvvNUlvxF3vxFLvXDFH__*Hv__xUYdDvFD_+H+DXHvNvs_+xsUaYl4DLXUNYH/l+++lD(FlUxDlX?_LD?UvYF{sLxUUYfX?HvHFLLUF?LNFLLXFFDF_HlsNvX_NlXFXDQxs_Oss?^Hl++LlY+LlYxxUvxHUlxYUXvl?DvsNYvHF+LLFNLUFYDPYv+sYlDFYX_vHD_sH?_H?vNLXNNUXXsy vs_SlLH1Xlx+Dl?+?lHx+ULs_UUxY?avv?_vl?FvXsLLDFsL?YxD+YLDNYU+XH0_vH__HHF_XXxsDDlN?XXs+!UsN FsY+_sY+_l?+FUsxxU_xs?vxH?+X_?NvU?YL_FvL_FlLFl+DxYDDsY?DHH+_LHNxFHYNbXvNlXlNFXXsxFNssK?sH+xlL+NlU+Y_xxvU_xlUHxX?xvD?slU?HL+FLLNFULYY=DvlsDlYFDXH__DHs_?HHvvXLNNXUsx)osv%_ll_YsX+vlD+ll?xRU+xUU+xUUXvg?Yv_?UvFFNLxFDwUF?LHY+DLYNDUYY_6UD__Hl_FXxNxXDNsX?Lrz+sL4Ns?(Yl{+vl_Y?lF+XUxxNUsx?UHv++vvN?UvYF>LvF_LlFF++YxDDYs_xYH_+HL_NUF_YX<NvXUNlXFNXrxLNZss?&Hl_+LlN+UUYs+UvxNUlv_UXvL?DvH?DvHFvLLFsLUFHD<YHD_Yl+HYX_xHD_lH?_HX+NL?lNUXYsSbDs_OlsF^XDL+Dls+?lHx+ULxNUUHX?evv?_vF?FvXFxLDxNL?FHD+YLDNYUDYHCxDH__lHFNvXxNDXsN?Fgs+BLsNmXsY+Qlv+_D?+FlXxxUFxsU?xH?+X_?NvU?YLsFvL_FlLFl+DxYDDsHLDHH+_LHNxFHYNoXvs2XlNFXXlx__sstFsH+vlL+llUxvlUxvUsxl?xxX?vvDFvv??HZvFLLNFUDNYoDvY_DllHDXHx_DHl_?HHN+XLvlXUNYIPsD(_sl2FsXYLlD+sl?x+U+xLUNxU_Xvp?vv_?lvF?XLxFDUNF?LHY+DLYNDUYY_PUD__Hl_FXvNxXDNsX?Lwd+sLdNsXfYlE+vl_Y?lF+XUxxYUsx?UHv+N_vN?UvYFNLvF_LlFF++YxDDYs__YH_+HLNNL?_YX+NvX?NlXHNXmsNX7ssYMHlF+Lls+UU?x7UvHsUlxFUXvF?Dvs??vHsvLLFNLUFYDeYvD_Yl+HYX_xHD_?H?_HX+NL?lNUXYsd,Ls_5lsF(XDL+Dls+?Uwx+ULxNUUsF?pvv?_vl?FvXFxLDsUL?FHD+YsDNYUDYH5xDH__lHFNLXxNDXsN?F6s+6LsN++sY+elv+_D?+FlXxx?+xsU?xH?+X_?NvU?YLYFvL_FlLFl+DxYDDsH_DHH+_LHNxFHYNZXvsLXlNFXXsxFNss!?sH+llL+NlUxYZ+xvUNxl?NxX?LvD?HvD?HLvFLL?FULHY.DFY_DllHDXHx_DHU_?HHN+XLvlXUNYf}svq_slSFsXYLlD+sl?+XU+xLUNxU_Xvz?vv_?FvF?XLxFDUNF?LHY+DLYNDUYY_dUD__Hl_FX_NxXDNsX?LcS+sLWNlDdYlQ+vl_Y?lF+XUxxYUsx?UHv+N_vN?UvYFULvF_LlYF?3YxD_Ys_vYH_vHL_YHL_YXxNvX?NlXYNXrFsDzsLYMHl++Lll+UlYxyUvHsUlxFUXvx?Dvs??vHsvLLFNLUFHDtYvD_Yl+HYX_xHD_?H?_HX+NLD_NUXYs;fvs_olsF>XDL+Dls+?UDx+ULxNUUHX?6vv?_L+?FvXFxLDsUL?FHD+YXDNYUDYH8xDH__lHFNlXxNDXsN?F*s+7LsN+lsY+ilvx_XU+FUWxxUHxsUYxH?NxH?NvF?YLFFvLNFlDNFXDxlNDsY?DHHv_LHN_UHYvxXvN_XlNFXXsxMDssFYsH++lL+slU+YU.xv_sxlUFxX?DvD?sv??HU7FLLNFULYY<DvY_DllHDXHx_DHF_?HHN+XLvlXUNYm!ssb_sl FsXYLlD+sl?xDU+xLUNxU_XvA?vv_FLvF?XLxFDpUF?LHY+DFYNDUYY_RUD__Hl_FXlNxXDNsg?YX%+sD/Nl_^Ylx+vlF+vlFx+UxxsUsxFUHv??LvNNFvYFELvFsLlFFLXYx+NYsD?YH_+HL_NHU_Y?xNvX_NlXYNX!xsDfsLY7Hl++LlU+UlYx6UvsDUlxFUXvx?Dvs??vHsvLLFNLUYLDMYvD_Yl+HYX_xHDNzH?_HX+NL?lNUXYs{:Hs_ClsFaXDL+Dls+?UYx+ULxNUUHX?avv?_Lv?FvXFxDDxlL?FXD+Y?DNYFDYH_DYH__?HF_XXxN_XssUXHs+F_sN1UsY++lv+_ll+F_+xxUDxsUYxH?+vL?NXF?YLiFvL_FlLFFXDxlNDsY?DHHL_LHN_UHYFXXvN_XlNFXXsx^DssFYsH++lL+HlU+YUkxv_sxlUFxX?UvD?sv??HRvFLLNFUDUY8DvY_DllHDXHx_DXs_?HHN+XLvlXUNY#MlLV_sldFsXYLlD+sl?vmU+xLUNxU_Xv0?vv_FLvF?XLxFDfUF?LHY+DHYNDUYY_/UD__Hl_FXvNxXDNsX?Lz5+sL.NsX!YlC+vU_NUlFxGUxxlUsxYUHvNUHvN?FvYFxLvFNLlYNLXYx+NYsD?YH_xHL_NHU_Y?xNvX_NlXHNXRxsDwsLYSHl++LlN+UlYxcUvHsUlxFUXLD?Dvs??vHsvLLFNLUYRD0YvD_Yl??YX_xHD_sH?_HX+NL?lNUXYsq/Us_hlsF4XDL+Dls+?U_x+ULxNUUHX?qvv?_Lv?FvXFxLDsUL?FHD+YsDNYUDYHoxDH__lHFNLXxNDXss?DXs+4DsNfYsY+xlv+Flv+FU+xxUFxsUFxH?XvL?NXF?YLcFvDlFlLFFXDxlNDsY?DHHx_LHN_UHYvxXvN_XlNHXXsx%DssFYsH++lL+NlU+YU#xv_sxlUFxX?DvD?sv??HU FLLNFULYY0DvY_DllHDXHx_DHX_?HHN+XLvlXUNYr}s?5_sl3FsXYLlD+sl?xlU+xLUNxU_Xv8?vv_FDvF?XLxFDpUF?LHY+_+YNDUYY_fUD__Hl_FXlNxXDNsX?L&g+sLhNsHhYl.+vl_Y?lF+XUxxUUsx?UHL++DvN??vYFYLvFsLlFFiYYxD_YsDYYH_+HL_NX?_YX NvXNNlXFNX/XsD{ss?LUl++LlN+FULx}Uvx_XXl++xU_xLUUHYLZF_LLFNLU+vFxvLFvvHDHHv_xHD_svsFXDUHxXUNUXYsg(vs_RllFLXlL+Xls+?lHNv+vlF+sl+X_UD+NU_x+L+FlLDFsL?+x?_vU?sLXFlDL_DHY_lHF_XDsHN_NHsD;FsL_sl+LsY+7lv_vzsl++xsNHUl_+Xlvxvv_F+vU?YLStF?LvlF+LvlLvU?XvFFFHv_UHN_UHYFv_NHs_sHN_LsLwUss.?sHDN0aNsA+leUxx?U_xlUFNx+vU+xLlY+XULxXLlFHLYY.DvxlFxD_FLHL_lHs_?HHFD_YHNDXsMW%svn_sl7FsXXxYL+UU_+HU+xLHsls+ElsxxUs8lU?xs?wvlLUFXLHY+DL+FFsDxFYHD_FHl_FHXFDDUY?_UHF_Ds_u?sU-YlQDl0xNU8vx+UlxDUsx?Xll_xYNUxlU+xDLDFFLlFFLXxx?_LUF>LFYDH__HHU_YXo?__DHNNkHLNQXlIUlD7Hl++LHKssrYlD+N_?+NlT+Ll_?svs??vHF+LLUN?ltYDxYlD_YlDFxxFNDvYFD%HBXLNLXNNUXYsm<vlULlsX7Xlx+Dls+?lH++Hvxl?xxY?cvv&_UsxXUsv_UHvN?lY,DXYLDNYUUULXYsDlFHxHHL__Hl_NHlxXY_NLsl++sY+BlvDs9xsU0vs?+vsXUHxH?+vL?NvU?YNsOvLsFXLFFXDxvHF_LHFvDvYsHl_HHYNIXv?s_xHU_vsL1lssQ?sH_LXDsYXX+X?%xvU_xlXllHxNUs+YNYvv?Dvs?_vsNH+LFxLYFNYH__Hx_DHsFqDFYF_xH_N+H?txslA_sliFY+sNqlsFCUsFUvxlUNxUUYs_+LUxxHU+F+L_FDLsF?lLLzFxL?DFXD_EHv__vkY+_vFx_NHN_?HvNvXss>FYNDX+s+XYNHZONx*?sF+_sF+Uvv?NvN?UvYxHUsvYLFFFLXYxDDYsD?IUU+HN_NHU_YXGNvX_U+?Fs+%NsDrss?DUXxN_XFs_lXxDUvx_UlUi+0lLx+lY?YLxF+LLFNlsxH?YvsDlYlDFYX_xHD_s+lUHXvN?XNNUXYYL_LHsDNHYNFXN+_ls+HlHx+ULxNUUxYYsNv?sLv?FvXFxsFvN?Xv_?xL+llLlFlLL_DHU_lHF_XvUHL_LYX^Cs_KLsN0UHxDLXFsvF?+HUlxxUDxsXslYx_UN+Fs_xxU+vlU?F?DxFXDxYDl?LUFUD/Y_+U_FXEN{XvN_LFH+NvsL+vss/?sH_DXlsX}HNDH+sX8Xla+UlF+NUvxFvH?HL+FLLNFULY+vlvYlDlYFDXHx_DHs_?HHNvXsNNXUNYDLHsNHXY^H?_+vlD+s??X?U+x_UNx?UYDH?vvFFxvFF+LxFlLsFFLHYxDLY?slYY_pHv_UHl_YHXsL?FNsXYNHxxsL0NsU+YX++vlN+lFU+XULxDFs/sUHvv?Lvs?ULvF,LlFFLlFHLXYYDDYlD?YX_+Hsl_HU_YXaNHX_NUXFl+X_sDKUs?+Xl++LlNvUNDxiUDx_U?xFFvvxYD+4??L6F+L_FN_HFY_hvLD_YUDFHD_xHN_s,?L?X+N_XNN?XY?LSvsF+ssF++lxxDls+FlHxxULx?YlxY?tvvF_vl?YvXFxFlFsLYFHD+YLDNYU_YL+_vHN_lx&_XXLND+sDsXHsvtLss7Ull+qllxUll+HlXvNUDxlU?xX?+vsH_vU?YLIYsL_FULFY+_LYDDUY?__H+_LHNNULHNiXLN_dDNFp+sxxD_0!?l5++lD+NUY+YU__vUNx?UFLl?xv_?sv??HLDXvLNFULYHUDvYNDlHJsHHx_DHss_HHNxXLNNNxNHrxsv*ssl&FsXxxX_+slF+H?LxLUlxUFYoY?vvs?lvY?X_LFDLHYlLHYvDLXNDUYH_{HL__HYl?HXNxXDlsX?NXT+sLs?sUaXl.+vl_+llFxXwvxDUlx?Ydv+?_vN?U?vFOLDF_LUFFDxYx_NFFD?H+_+4U_NHU_YxJH?X_N?XFlYux?_ws??s_l++_lNxslYL+UvL_s+xF?vvx?_vsYYvHY+UDFNLFFYNxYvDUYlDFD+_vHN_sHH_HXxNLXNXHXYsv.vs_elsF<XlxYNls+XlHx+ULxNUUxYNxvv??vl?YvXFxLDYU+xFHDNYLNFYUDYHb_vLY_lX+_XXLNDXUN?XH+!:LsY(UsY+1lL+_U?vplXxlUDDYU?xH?+DLFLvUFLL/FUL_XxLFH+_HYD_AY?NlH+_LHNNFXFNgXFN_vLNFXXsx+NlX}?ls++UX+NlU+Y?xvxU_vLUF_U?xvD?sv?HHL+F?LNYDLYYxDvH_?UYF_DHxNxHsNxHHN+xLNNXHNY1_svQssloFD++xlU+slY+HU+xLUNHFUYv_?vvl?lvF?XLxsNLsYxLHY+DLYNDUYYxxHv_HHl_YHXNxXDsUFxNHpUsLMFsUaYlwxDsU+lU_+XYlxDUsx?FH_U?DL+?ULNF!LUF_D?HsLXYYDDXRD?YH_+X__FHUNlX(s?X_NlXFl++FsD+Ds?x_l++LlN+U?_xtUYx_?_xF?+vxFNLY??LlF+NXFNLUFY_xYlD_HDDFHv_xHD_sH?lHX+NFXNs_XYsx(vs_lssF+slx+Dls+HlHvv?vxN?LxYHDvv?_vlYFDFFxLXFsDDFHNUYL_lHFDYH?_vx+_lHF_XJLsNXssNXHUB3LsNcUlXxClvxvllDNlXxxUDvU?LxH?XvLY_vU?YL2FvLXFlD_FX_PYDDUY?_HHL_LXk_UXUN5XYN_b?sXXXsF7D?Y6?sH++?LvLlUxNUkxYU_DxUFL+FDvDFvv?YlL+FLLNYF_vYaDXY_sLYFDXHxNNXH_?X?N+AvNNXUNY+xsvb_lN-FFU+xlD+sl?x?U+xHUNvsUYvx?vL_FEvFFsLxH+LsYDLHHvNRYN_LYY_+Hv__HlsFX_NxXXNsiDNHxUsL+ll+rYl?+v?++llF+X?LxsUsvNUHLR?LvN?UvYX<LvY!LlYsLXYLDDHs?FYH_UHLNNHUNNX6Nvx_NlivNXa?sDyUs?4HmN+LlX+UlHxmUvx_UlHHUXv??DvU??vHF+LLslLUYNDzYLD_YlDFX+xlHDNvH?NsX+NLXNNU_LsMAYs_8?sF++lxxNDX+?Ulx+UHxNUUxY?o_v?_Lx?FLUFxLNFsL??FD+YHDNYFDYH%_vH__UHFNUXxNDXsN?XHs++UsN+_sY++lv+_llxHU?xx?xxsYNxH?+vLYNDN?YLHFvLNFlNUFX_LHFDsHUDHA?_LHN_UHYs+XvsxXls?XXsLSDsslUsH+HlL+NlUx+U^vDUNxl?UxXHNvD?sv?YHDxFLDDFUD?Y4NFY__?HLDXX+_D2v_?HHN+(_ssXUsYGd?Hw_sl;FU+xvlDxll?vlU+xLUNvF?_vgFDv_XLvF?XLxFDNsF?DFY+__YNDFYYN%vY_NX__FXFNx&vNs#YsY0+lxkNl?,YlG+v?_X+lFxYUxvvUsDxUHD+sFvNFsvYFHLvXlLlYFUlYv_xYssxYH_XHLNlHY_YXHNv6NNlXFNXxxDY/sllgHlX+LYh+U?YXsUvvLUlvUUXL??DLs+FvHFHLLcVLUY?DfyvFHYl_lYXlAHDsHH?_Hx+NL;xNU!UscVDs_+?DviXlH+DYL+?lHx+ULDYUUvN?dvX?_vl?FvX_YLDYCL?FHD+YDDNYUsYHr_lH_N+HFN+XxsN?XN?{Ds+/NsNeUsY+wFv+_lH+FU_xxUNxsU?X!?+vU?NvF?YLhFvL_s?LFY_DxYsDsY?DHH+x_HNNxHYNaXvN_XlNFF+sx<HsspFsH++lLxl_++YUUxvU?xlUFxXFLxl?sL_?HNsFLLNFU_Y2lDLH+DlHNDXHl_DXUNEHHNYXLsXXUNYhPlD+xsl+lsXxUlD+sl?vn?vxL?DxUFDv6?vv_?lDv?XLYFDD_F?D%Y+__XvDUHl_2+H__Hl_F2+s?XDsDX?lsR+sLnNsUvYlh+Fl_x_lFx+UxxDvNx??sv+?LvN?FvYYxDUF_DLFFsLYxDDYsN?X+_+HX_NXD_Y+lNvtsssXFs?3xU^)ss?qHUvxXlNxNlYD?Uvx_UlvHFUvxFvvsX_vHF+LLYlDFFYDXYvlSYlDFYX_x+D_sX__HA/NLXlNUkYH+5vlz7lllBXlY+DlsYYlHxFULx?UUxY?9Lv+NvlF_vXYNLDYvL?FHs+YLDXYU_NHT_DH__l_x_XX?NDXFN?XHs+&LNDnUlN+alD+_ll+FlXx_UDvvU?xH?+vL?NvUFxLQFXL_FULFFXDxHN__Y?_?H+l:HN_UHYlzX?N_8NNFZ}sxvvss+YlD++Uv+NFl+YU>xvU_v?UFv??xLL?svY?HL+DvLNYNLYY5DvYUDlHHNDHxNvHsUPHHN+XLlNS_NYZHsv+LslvDsXxLlN+sUU+H?FxLUNxU?Xvx?vL_?l_N?XLxFDDUH+LHHxDLXxDUYY_ZXD_lHlNHHXUYXDNsX?NHtUsL+DsU+Xl*+Dl_xlUU+XUXxD?Dx??Fv+F_vF?UL?FuNsF_LlFF_XHHDDH_D?HF_+#Y_NXFN+XCsxX_?LXFNX!xlNx+s?+Hl+L_lN+UlYvxU_x_?UxFHUvx?DvsFYQDF+D_FNsDFYDdYvD_PlDFHY_xXN_sHY_HB+FHXssNXYlF^vlLqllHxLlxxvlsxFlHx+ULLNsxxY?HvvFLvlHvvXHx+YFsDlFHDXYLsUYU_YXD_LXv_l+v_X;:NDxssvXHsH6L?DtUUv+}lvxYllxNlXxXUDxUU?LpF+vLFvvUXlLKFvL_Fl_lFXDFYD_LY?_;H+_LGL_UXsNCXDN_XlNFXXlH3DlLQ?sX++lL+NUFHLU.v5U_vvUFxX?xvDXLvFFUL+F_LNFFLYHxD_Y___YF_lHx_DHs_?b+N+XXNN{NNY#xsv4_lF4Fl?+xlU+sl?+HU+x_UNvNUYvL?vv_?lvFFYLxFHLsYsLHYxDLYNsUYY_NHv_XHl_HHXsL?FNs1vNH+vsL8NsUCYF}+vlF+lUL+XULxDUsHYUHvs?LvF?UvYFO_vlHLlYLLXYNDDXHD?XHsFHL_XHUNDX{l?X_s?FvNX)FsDLLs?EHl++LFN+UUDx)UYx_U?xF?DxF?DL+??LvF+LDFNLFFYDhlDD_YlDFHD_xHD_sH?FYX+NLXNNXXYs5)vs_sxsF+_lx+Hls+FlHx+__xN?+xY?Dvv?_vlYF+NFxLYFsLXFH_sYLDYYLDYHl_vH__lHY_XXLNDXsYUXHs+&LsluUsY+ulvNDll+FlXxNUDxsU?xHxUvL?HvUF_LqFLL_FlBHFXDlYDDYY?DHH+_LUl_UXDN/XUN_XlNF+XDUMDlyo?l_++lY+NU2+NUVxFU_xUUFv3?xvY?sv?sOL+FLLNY+LYY(DvY_?sYFDXHx_NHs_?HHN+DvNNXUNY/+sv,_slKFHH+xlD+slH+HU+xLUNHFUYvh?vvH?lvF?XLxsNLsF?LHYUDLYNDUYYxxHv__HlN_HXNxXDNs?YNHJ+sL+xsUWYlR+vAX+lUv+XU?xDUlx?UHXv?LvH?ULxFMLvF_LlsHLXYUDDYXD?YH_+1LvXHUNDXhN?X_l6XFsDXFsD++s?++l++DlN+YlYxOfxx_UlxF?+vx?Dvs??lYF+LLFNL?FYD3YvD_vsDFYX_xHs_sH?_HX+HYXNs+XYsl)vsN/lsFY+lx+FlsxVlHx+ULLNsxxY?svv?UvlFLvXFsvXFsDLFHDDYLDsYU_IH*_vUs_lHF_XXsNDXsN?XHHkyLsNBUlv+.lv+_llYHlXxxUDvLU?xH?+vLv^vUFLL6FFL_FULFFX+LYDDXY?_vH+_LHNsUFDNeX?N_XYNFvDsx*?sx)?lN++l_+Nl?+YUvxvU_H?UFxX?xv??sv??HL+xvLNFULYY_DvY_DlYFx+Hx_DHsNNHHN+XLNNNvNY;NsvQXslSYsX+xDN+sUx+HU_xLUNxUFYgs?vvH?lL%?XDXFDLHFDLHYUDLH6DUYH_*H___HlxHHXNxXDNHX?NH>+sL__sUEYl!+ll_+llF+X_LxDUsx??Uv+?LvN?U?_FGLUF_DxFFDhYxDDlUD?HD_+Hl_NHU_Y+8L?X_s+XFsvIxUsysl+-sl++YlNxJlYx+UvxlUlxFN+vx?DvsF+vHF+LLFNUlFYDyYvDFYlDFYX_xUN_sH?_HXYNLXNNUXYXlavsYellDWXlv+DlH+DlHxsULxHUUxH?ovD?_vl+?vXFxLDFUL?FHD+YL?_YUDYH _sH__lHFNXl+NDXUN?v_s+I?sNxUlN+BlU+_l?+FYNxxFDxYU?vN?+vD?NLR?YLPFHL_YoLFYsDxY_DsX?N?H+_?HN_?HYsvXvNFXXNFA_sx+HslJFsH++lL+?Fl+YUExv?XxUUYxX?xXN?sLx?HLYFLLNFU_YUsDvYYDlHvDXHY_DpsLvHHNlXLNsXUlC-^svs?sU+vsX+UlD+Ul?vPlDxLUHxUYUvM?vv_Yl+L?XLlFDLXF?_HY+DLllDUHD_/X(__Hl_FHXHsXDs+X?NHu+ssrNUUHDl>+Yl_+UlFLYUxvDklx??Nv+HxvNFLvYF,<DF_DvFFDYYxDDYsN??__+HH_NXL_Y+HNvO_YUXFsswx?DMslDWHF+sFlNxvlYxHUvLNUlvF+7vx?Hvs?YvHFNLLFNFvFYDNYvDXYlDYYX_xUv_sHY_HXvNLXNNUXYl+9vs_{lsY=Xlx+DUx+?lHx+UFxNUUxY?xvs?_vl?FlDxv?+vY?CYfDHYLDNYU?xDvFsDs?xDUYX_NHlLFXL_HH_!_sNQUsY+6lL+Nl?xAlXxxUDNF+iU_xDv_FvvU?YLO+J?DvH?XvLlLLUFFLXFYLXlDHlN+HYNoXv?s_xHU_vH?NvHX>Ylx++lL+NYXs?+DlyUNv?UFxX?xDDlgv??XL+FLLNFFLYHxLNY_D?YF_NHx_DHss?F_N+X_NNXFNYZxsvx_HlkFl++xlN+sU++HUNvvUNx?UYL+?vvN?lvH?XL_XLLsF?LHHxDLYsDUYYxxHv_NHl_FHXNxXDlsYsNH(xsLCssU+Ll8+lUl+llY+XUYxDUlx?UXv+?s__?UvYF=LHF_LUFFDvn+DDYsD?HU_+HD_NHUNHX8NvX_NUXFNX;xsDFUs?PXl++LlN+UlYD;+?x_UUxF?_vx?lvs??2GF+LDFNL?FYDqYvN_?+DFHf_xH__sHF_Hx+HFXNN?XYsD}vsl(lsFxIlx+Dls+FlHx+ULxNUUxY?QvY?_vl?FL+FlLDFsL?+l?_LYlULlF+LD_DHU_lHF_XvUHL_LYXSQss LsNRUFXNl1+NU6xsUS_xL?xxsU?xH9_UN+FUFO_UHvv??vYUMLsFxvUDUHvDHH+_LxUF?DlYFDDYNDFHNG+lvADssz?YDN_!sDYJls#+Dl_}?sY>=lLxUUlXUUUv_LvFNLNFULYxv?sLUD?H+DXHx_DDsFHLXYY_;NlXHNYhQsvDLHUNlXL+LlU+sl?+HXNsD+vlX+xv+XYv_?lvF?XBLFDLlF?LHY+DLYNNUBs_/HL__HU_FXDNxXDYXX?NX%+s_nNsFEYl_Wll_+UlFxDUxx_UsxFUHvDHvvN?UvYF_LvFNLlY<NHYxDDYs_xYH_xHL_NX?_YXBNvXNNlXFNXxxDY(ssF%Hl++Lls+U?YXsUvxNUlxYUXv??DvsNYvHFvLLFsLUFYDQXvxHYlDHYX_LHDNxH?NLLNNLXsNU+Ss}CLs_)?sF+vF++Dls+??+x+UDxNFU/D?PvL?_vl?FLvFx_DUTL?FXD+YDDNHvDYHVxDH__?HFN{XxNDXsl?DHs+n_sNaFsY+Ulv+F?<+FUJxxFYxsUFxH?vvL??_l?YLhFv_HFlLYFXDxlNDsYFDHHx_LHN_U1YLsXvNNXlNYXXsDiDsHL?sX+xlLxXlU+HUWxvU_xYY?xX?xvDY,v??XL+FsN_FULYY;N?Y_DUYFDXUL_DHl_?XON+XLNN+UDU9wsL/_sUhFl++xl?vDl?+XU+L+UNx?UYv+?vvUHsvF?XLxHxLsFFLHYDsvYNDUYYsLHv_NHl_FNvNxX_NsXFNH^+sLpN+vVYl++vll+llF+XUxHNUsxFUHvv?LvN?UDYlsLvFNLlFYLXYNDDYs+YYH_vHL_UHU_YX8Nvx+NUXYNXCLsDAls?+xF0+LlN+UH_x)ULx_UlHHUXvv?DvU??vHF+_LlXLUFHD#YLD_YHDFYX?+H__lH?_XX+NDXNNHxFs.7vs_DxsF+^lx+DDU+?lXx+UDxNUUxYYu4??_vU?FL8FxLsFsD+iHDxYDDNxvDYH+_vH__lXWlHXxNDXsFLXHsxALsNsxsH++lv+Nll+FlXvLllxsUYxH?lvL?NvUFvvUFvLlFlLFFXDvYDDFY?DHUv_LHN_UX+NKXvN_XlvHXXsxoDsYh?sH++lLN_lU+YU*xvU_xlUFxX++vD?sv??XL+FLLNFUNsY+DDY_D?YF_qHxNNYF_?X7N+XFNNXUNYW_NYy_sFmFl++xl_+slX+HU+H_UNxUUYvL?vv_?lvFs+LxFDLsY+LHY+DLYN?lYY_^Hv__Hl_FHXNxDLNsX?NH=xsLrNsUhY??+Lls+llH+XUvxDUH_?UXvx?LND?UvHFQLvF_LYX?LXYxDD+_D?YX_+Hsl_HU_YX6?vX_NUXFNXFLsDfUs?5Xl++LlNvUNDxRULx_U?xF?lvx?DXU??L{F+LDFNLUFYNzXHD_Y?DFH+_xHF_sH?xlX+NsXNN?XYs1uvs_sxsF++lx+lls+FlHvvlsxNUFxY?svv?_vlFxvlFxLsFsLFFHDxYLDsYUDYUx_vH__lXv_XXxNDXsU_XXsvbLslKUsH+2lvLUlU+YlXxxUDxsU?xHFxvL?NvU?HLZFvL_FFLFFXDxY_DsY?DHHv_?HN_UHY??DsHXvFH?_vHNtDlLk?sH++lLYllU+YU1xvU_xlUFxXNLvD?lv??XL+FLLNFUbXY=DDY_D?YFDXHxsDF^_?X5N+X_NNX?NYRJ?vT_sl0Fl++xlN+sU+DHUxxLUNvxUYv+?vv_?lL{HHLxFDLsYvLHYxDLY?slYY_8HvN+Hl_YHXNx?NNsX?NHKvsLCNsUxY_s+vl_+llF+XUvxDUs?LUHv+?LvU?UvYFmLvYNLlFFLXYvDDYsD?YH_+HL_NHF_YXrNvXsNYXFNXpxHF_lXsNvlv+UlN+UlY_N LlvBHND+vvx?Uvs??vHF+YNFNLUFYDAYvD_Yl_HH+_xH__sHF_HX+NL+Ns_XYs+ZvsNAlsH#XlxxNls+?lHxvULxsUUxYF+vv?_vl?YvXFxLDFsL?FHD+YDDNYUDYHxN;H__lHFFL_DYU_UFL_FX+NlX?DHA_saXs+_Ul+FlXxxUDHUU?xH?+vL?NvU?YL5sDL_FULFYSDxYDDsY?xgH+__HN_FHYN*Xvl_Y+NF^+sx)NssTFsH++FL+NlU+YUxxvUsxl?xxD?xvD?sLv?HLxFLLsFUD+XXDvY_DlHLDXHv_DHFlUHHN+XLs_XUNH#wsvFsslrFsX+DlD+sl?xLH+xDUNxU?lv2?Lv_?lvFFvN+FDLsF?DUY+DDYNDH>F_5Hv__Xs_FX8NxXDvUX?NH)+s_{NsUJY?fH?l_+llF+XUxx_Usx?vNv+?LvN?YvYFrLvF_DUFFLXYxD_YsD?YH_+HL_NHUN?XaNvX_N?hxNX!xsDDFXvNvXHNlKU+FUUx3Uvx_XFl++?lN+sUFx9Ux+DUFxF?NvxDxYHD_YlDFxLFvDsY+DlYDLLHsNKH__xsvfvs_1lsFPXlxHDYN+YUYx+ULxNHXsHxvlFxLUC9nUsvLUUx??XvNFrLxDlHdDYH _vxlY?D+Y#__YUXUNHXHs+iLY_NXC++xll+_ll+FXxsNoslN+llx?vvY?NvU?YlLvUU?xH?U+sF4v?FNYY_vH+_LHN??_xYl_+HUX?sGXXsxBDYsNNHXsUl_xNlU+YUE_DuNsF+Nl_xLULxYUlxxsLvv?vvl?XqvDDYlDlYFDXDaFUDX_YXxN+XLNNvXH?NDX<P_Ux=FsX+xlDYUl?+HU+xLUNxUUYD/x_v_?lvF?XLxF?LsF?_sY+D_YND?YY_3HvNsX?_FXxNxXHNsX?NHx+llONsY(Ylv+vUv+lUHvsUxxlUsxXUHv+?LLlYvvYFDLvYLLlFFLXXx_?Ys_iYH__HL_UHUsYULNvX?Nl4+NXdFsD+UU3pHlN+LUD+UlYxMFvLxUlvxUXvs?DvY??DHYFLLFYLUYvDwYUD_Yl_?YX_DHD_HH?NWX+NLXUNUR+sgTvs_4UsFGXlF+DlY+?U!x+ULxNFU!D?8vs?_vH?FL<FxLDsUL?YLD+Y_DNYUDYS<v?H__XHFNDXxNNXsN?vYs+4lsN9XsY+_lvv_x/+YULxxUUxs?vxHF+L_?NvH?YLFFvL?FlLFYvDxYDDsYXDHHv_LSN_FHYNuXvN_XlsNXXsxgNss#?sH+vlL+slU+Y?_xvU_xlUYxX?xvD?sv??HL+FULNFULYYxDUY_DlYFUULNYHx?YUDxY_X_sLXUNY/ZYsNlHHNHYss/rDsY(XNx+UlLGFxF?xvJ?vv_ZXlYx??NxULUFXLHY+DL+XFlLlFLHD_HHl_FHX?DD_HL_NH._xHNNxsF++lk+vl__NXYsFZNx_Fvx?UHv+YLDN?UvHF*LvF_LUFF_XYYDDYlD?YX_+HU_NHUNXX;NDX_NlXFNX:xUDxLs?+6l++_lN+YlYx_FGx_UUxF??vx?_vs?YvHFDNvFNLUFYDFYvDNYlNF?N_xH__sH?_HXvNL+NDxXYs+7vsNdllx;XlxYNls+YlHx+ULxNUULY+evv?svl?HvXFDLDFHLHFHDxYLN+YUDHHO_DH__Y+?_XXxND+xN?XXs+ZLLlrUsH+mlL+_ll+F?XXXUDxlU?xX?+vs?NL>YxLwFLL_YULFY9DxY_DsYXsYH+_LHNN?HYN+XvNUxsNFXXsx+XssWFsH++D_+Nl?+YUxxvU_xl?x_X?vv_?sDD?HLxFLLNFUD+XXDvY_DlX_DXHv_DHsHXHHNxXLNNXUNYCEsvsXslmYsX+LlD+sl?+H_vxLUsxUUHv8?vv_Yl+L?XLvFDLlF?DvY+DLllDUYX_!HD__Hl_FHXlYX_NlX?sz<+sDTNsU+HlB+vl_+UlF+XUxxDUsx?UHL_?LvN?UvXFLLvF_Ll+F??vvFHYU_xYH_+HLFYDFYFDYFDvY??XHsDkxsDOsYXN_X_s+XFsYlXxXUvx_UlN++<UD+HU_xxsxxU?_xFUYL+?lLxFLYFDFYX_xHD_sF?YYv+N_XYNUXYsED_H?_FX?NYX_+sls+?lHx+ULxN?x_Y?xvl?_vl?FsxvLUUxl?XvvDvYDDNYUDYvx_DX+_lHF_XvNY__?HL_FHsDNX?svXlNDlDx_ll+FlX_L:_s?+_lDxvUvxFUsx+svvx?xvs?H(xDLY?DsY?DHxLYvDvYlDXUvXDNNXlNFXXFLnNslE?sH++Y?+llY+YU5xv+LsHxvv+?_vD?sv?AvUXvl?LFFDxY:DvY_UUD+FsD;YlH?_?HHN+XLNNXULYvXsDIXslCFsX__iFNYoqsFHUlxfYllUXvY?vv_?lsXxLUHxUU?vX?vvDUsvX?XLUFDHD_lHl_FHXF+_UHFX?UX9+sLQNsUFXlf+vl_+llF+XUxLD+?x?UHv+?LvNFxvYFkL_F_L?FFDSYxDDYs_YXx_+HN_NXY_YXWNv+_s7XFsx xssmslU}HUv+XlN+HlYvxUvx_UlvHFvvx?UvsF?vHF+LLHNDFFYDDYvD?Yl__YXsxDv_sXI_HX_NL8sNUJXsD2vsFKllF>Xlx+D?sxxlHxNULxYUUv+?)DvYxvlFxvXFsLDYYL?FH_DYLDUYU_vH=_DH__l3N_XX_NDXsN?XXs++_?lM?lx+JlX+_ll+F?XvDUDxYU?vv?+v_?NvUFFL}FlL_F?LFFXDxXD_sY?_LH+_UHN_YHYN/,UN_-INFe+sxRDssx?lx++l?+NU++Y?LxvU_vYUFvD?xv??sLx?H_+lFLNY8LYY_DvYFDlXFvNHx_?HsN+HHNUXLlN=_NHe_sv}Fsl++sXvx_D+sU++HUNxLUHxUUYvx?vvY?lvH?XLxFD_sYLLHYsDLYHDUHK_3HvNNHlNLHXNLXDNsX?lH(DsL4XsU+DldxNl_+lUH+XUlxDUXx??_v+YLvl?ULLF0LUF_LXFF_XUUDDYXD?HD_+Xx_N<UNlX+NUX_sQXFsLaxUDYss?+Dl++?lNx+lYx;?Yx_?+xF?+vx?DvsY?DLF+LFFNDxFYDvYvD_HfDFHs_xHN_sH?_H++sHXNsvXYslPvlU:lsFx+lx+YlsxvlHxUULLN?YxY?svv?HvlFxvXHxF_FsDvFHDlYL_LYUNYX+_vHH_lXL_XXNND+ssDXHsl,LsX2UlL+<lv+Ullx+lXxUUDxUU?vHFNvL??vUFsLcFsL_FlD+FXDxYDDFY?_AH+sL}v_UHYNmXvN_XUNFXXUYt_ssQ?l&++lD+NlUxHUpxvU_xUUFxX?xvD?sv??HDvFLLNFUDVYzDvY_DlYFDX+UUDHUNLHHN+XLF?N+Hx_DX+LXXNNxXH+DlD+sl?+HU+xLUNxUUXv_?vv_?lNXv+UNx_?FvWD6YDDLYNDUvkFlDYF?H?N_HXNxXDFF_GX_NDF_N_XXN?XLs_ls+HlF+XUxN_+YlL+FUD?_vU?UvYF}?+x?FAFHDVYxDDYs?vHV_LHL_NHU?F_DHNXsNHXFNXPxY?_lXNsvX_+NlN+UlYxOUvx_Nl_??+vY?Dvs??svxx?Nvu?svLUvLNFXLDF+Hx_xHD_sH?_HX+ULvNNFRxsP)vs_DHY>NsXXLNlU+XlHx+UL_F+sUx+YvDFDvl?FvXGNU_v??LvF?s+sFgLFFxLvYNLXYsDUN+X_NDXsN?LHHY_DGTtUU?+ lv+_llYHlXxxUDxsU?xH?+DLxUvU?YL{FvL_FYLFFX_sYDDUY?DXH+_LHNNFXLNRX_N_X?NFXXsxxDlXi?l+++lN+NUx+Y?xvFU_xYUFv??xvD?sLYFNL+FlLNYULYY7DvX__NYF_LHx_UHsNsHHl+_xNNXXNYRDsv:Ysl+HU%+xl?+sU?+HU+xLFNxFUYv_?vvF?lLY?X_xYsLsY+LHYNDLH+DUYYN?Hv_lHlNxHXNLXDNsZNNH7DsLpNsUTHlcxDsU+lU++X?+xDUsx?FH:l?LvF?ULxFOL?F_D?lvLXYsDDY?D?YH_+HLxlHUNLX-NLX_NlXFlXYUsDqXs?+Dl++XlNvUNDx/UUx_?7xF?DvxYD+M??LDF+L?FNDvFYN#vsD_HkDFH__xXv_sXYUsX+NFXNNYXYszEvlsx+sF+slx+_ls+?lHx+U_xNUXxY?lvv?svlFFLXFxLlFsDBFHD_YLDNHsDYH#_vHU_lHH_X+xsxXsN?XHs+4Lll3UsY++lv+_ll+HlXxvUDxs?FxH?+vL?svU?YLIFvL_FlLFHLDxYDDsYY_LH+_LHN?YDxYv_xHLDYNHSvsx8DssD?XUNxqY+lU&+YUQxvHll?++lcx_lU??v??HL+FLLNFU_D+JDDYNDlYFDXxL_NX+_?HHN+LsHHDXHx_HFFNLHXN?lx+xlD+sl?+Hs+lvHNxYUYvJ?vv_?lvFsXs+FNL?F?LHY+UvLFFHYX__Hv__HlUXDHYH_LHUxHs3RDsLaNsUDxXHssCv+?lY+XUxxDXUxY?lv+?LvNXXlHvvUFvL?.+XFvL?F+vYDYHD_+HL_ND1YXDXHmLsFovHs+!DsD7ss?NFX_s?llxllYxGUv_?oUlX+sU5+FNFxL?mx_UNv??vvF?HYDDNYlDFYXUlHN_HH?_HX+FsDXYX_UHDN_ss+lsFPXlxDNXlNHElss+_l_+Xl?+LN_xDUDx??+XDLNFYL?FHD+xDFFLvF?DL_DXv_lHF_XLDYU_LH)_+XD_lH?DHXDNDgBN?llLYlXxxUDxs_YxH?+vL?NvU?YLEHv?lFlLFFXDxYDD?Y?DHX0_LHl_UHHNPXvN_t?s+XXsDnDsH>?sH++?LxylUx2U x_U_vsUFL+F+vD?Fv?F_L+FLLNYF_xY9DsY__LYFDXHxsDHH_?XvN+XlNN&NNYx.X+P_sH,FlL+xUl+sUYxuU+xUUNvDUYv7?vD_YovFFDLxF?LsY?LHX+_?YN_%YY__Hv_XHl_FX_NxXsNs2+NH:vsLoNlF,YlL+vl_+llY+X?LDNUlvyUHv??LvN?UDYY+LvF?LlY+LXH:DDYs_xYH_NHL_lHU_YX(lvQYNl(xNXmssD+Us?wHU?+LlH+UlXxKUvx_Flv_UXvl?DvX??DvF+LLY+LUYvDVYlD_H,DFXXvUHD_HH?NLX+NDXNlUYDs9Mls_7XsF+?lxvDUL+FULx+UUxN?+xYYJEv?_vX?FLDFxLlFsL?YHD+Y?DNYFDYHk_v._svHFN_XxNFXssYXHs++LsN+xsY+xlv+_llvFUUxxUYxs?vxHF_vL?NLv?YLNFvLYFlDLFXNxHLDsHxDHHs_LHs_U&YLsXvNYXlsvXXlv!DUs+NsX+slL+HlUxLU;LvN_xl?vxX?lvD?Fv??HDYFLLXFULXYQDvY_NlX+DXHU_DX9_?:wN+XLs?XUs_3hsD*_slgFUX+FlDx+l?xNU+vlUNxU?Yvp??v_F+vFFsLxHDLUF?D_Y+DFYND?YYs%_L__X+_FXNNxXUNs+?lv&+sFaNlxnYlN+v?_+YlFxNUxxYUsxXUHv+FLvN?XvYFsLvFsLlYF_xYxDlYs_HYH__HL_NOv_YX/NvXUNlXHNXxxs?Gss?nHl++Lll+UlYL?ULx_UlxHUXvv?DvsFFvHF+LLFsLUFYD;YvD_YlDFHL_xHD_sHYNxX+NLXNFsDHHY_ssN7lsH+vlx+Dls_X/vll+sxlUXxY?}vvbFlUxs?LxNLNFXL?FHD++_FQLsF+LlY+LY_?)L_XXxNDXsvYXHsv)LsN*UsY+*FvsHll+HlXxNUDxUU?xHNvvL?lvU?YLZFvL_FXHNFXDDYDDXY?DXH+_DHN_H+FNAXvN_;=NFpusxkDLUE?l+++lL+NlU+YF6X?U_xFUFvx?xvl?sL?+XL+F_LNFHLYYvDvY__lYF_+Hx_DHs_?HHN+XYNNXYNY0Ssvb_slxFUF+xls+slH+HUDxLFNvWUYvv?vvl?lvY?XLsYGLsFHLHH*DLYsDUYY_pHNlDHl_FHXs+XDNlX?sxv<sLeNsU+Hl&+Ll_+lDH+XUDxDUsx?UHv+YLpX?ULPF=L_F_LYFFDXvvDDYUD?Hx_+HN_NHUxXX#NDX_NUXFNX}xUDH:s?+Zl++_lN+HlYx,_Dx_UFxFUXvx?DvsY?+_F+LNFNLYFYDLYv__vUDFH+_xHs_sHH_HX+sDXNNUXYs+8vs_2lsFVXlx+Dls+?lHx+ULxsUUxY?qvvFNvl?FvXFvLDFsL?FHD+YLDNHXDYHa_vHsNxHF_XXxFl_XHr_vHXLYXDNWXF+xUx+_ll+FHLsv+sl++llDXDlYxllXxr?LxF?DvNLHYvDxYDDsx?FULxYYHl_YHYNBXvFD_HXh.+svEDss8?YD+vlU+NlU+YXvss9lls+Ulv?LvU?sv??Hlxvl?3vsF+YxDLY_DlYFU+HL_FHs_?HHYN__H__NFXLNFDVssFJFsX+x=vNY+xxPUFxLUNxUXxl+x_lXxNUv+x?_vH?LvADwH+DLYNDU+XF+L_Y+D1YHDHHN_vYFvHHY_YXvNl?Y8Xl++vl_+lHHxxUxxDUsx?UHv+?FNN?YvYFOLvF_LlFF+X++DNYHD?YH_+xNYlLXFH_LYsXss_XFNXAxYs_YXNNvXLssXFNHX+ss2slvPHxH?Dvx?DvspXU_x_?+xF?YFXDLYvD_YlU+LYYNDx_UX+_HX+NLvUHl_lHXND?l-FsF%Xlx+DlsX?7Y_+ULDsUUxY?*vvNsvl?FvXFxLDFsL?HHFLYLDNYUDYHANvH__lkw_XXLNDXlN?XHs++_UmnUl*+ulL+_ll+F?XvXUDx?U?v+?+vH?NLFFULyFNL_YsLFFXDxHN_?Y?_vH+NNHN_UHYl X?N_XHNFcLsx+qssx?XF++ll+NlX+YUNxv?sv_UFvD?xLs?sv??H_+YNLNY;LYY_DvYsDlXF_?Hx_?HsN+HHNDXLNN YNYMvsvZFslqHsX+xUL+slX+HU+xLUsxU?X_x?Lv??lDT?XLxFD_sH_LHY_DLYFDUH__9Hv_NHlNxHXNLXDNsX?lH+ksL3YsU+vlbxDl_+llH+XUlxDUUx?UHv+YLDL?ULLF1LUF_DUFFLXYHDDYHD?HL_+H?_N/ULDX6NlX_NXXFsD<xUDH9s?+Ll++UlNxNlYLIUXxNUXxF?DvxFUvsY?gHF+LUFNDAFYDHYvD_YXDFH__xHN_sH?_H++s+XNs+XYsNrvlsalsF++lx+Yls+YlHx+ULLNFNxY?svv?HvlFYvXFxD?FsDxFHDsYLDXYUNYHx_vHY_lXv_XXsND+sDvXHss,LsHrUlx+5?vxxlUxvlXxlUDvYU?LHs+vL?HvUFLL*Y+L_Fl_+FXDUYDDUY?DHH+sL=+_UXDN:X?N_G?NFXXs?uDl+%?lK++lL+N?UvLUgxFU_vxUFLA?xvDF+v?F_L+FFLNYvLYX&_sY__+YF_NHx_?Hss?_XN+XFNN{xNYqssvx_U+OFlN+xlY+s?.+HF+xYUNvxUYvs?vLL?lvFFULxFULsYvLHYvDLHN_UYY_LHvNxHlN+HXNxXXNsX?NHcDsLblsUxYU++vl_+llF+XUDxDUsD_UXv+?Lvl?UvHF&LvYNLlFFLXYvDDYsD?YH_+HL_N+N_YXBNvXsNlXFNXQxsN4Hs?mHl+_NS?sFIFs?5sxs?vxFUXvxXFUNxXU_xx?+Il?lvl?LY_D_YlDFYX_xHDlkx?NgXlNLXNNUL<H+_XXx_?HYNxXY+NlX+?lHx+XsssGFN?++U)+?v?F+vXFxLD+YsXvN?H2_DUYUDYHr_vH__l/sUXXLNUXsN?XHFY_DHl_XXl+vlv+_ll+FlXxxYv_sUYLD?+vL?NUF+X?sxL?lvF?+Lv??vllx<UsY+LlY+?lHxLU*x_U?v+?v=+ssrDss<?YHNx>_NFPsl+UxxlU_xlUFlsxEUs+YUYvxLvF?LNFULY+vFxLLFYL+FYD__NX5_?HHN+LsYFNxX+LLHLNsXLzHlL+xlD+sHLs?0xs?yFxF?+v&?vv_JNlYxFUNFNDxF?LHY+U+L_FXDGFDxXF?LUHxDLNDXDNsX?NH<+_LN_FUyXlv+vl_+lHXsL+_xN?sx?UHv+m+U_xX?VxDsDv??YLR?HL9s_+FFUDDFXH__UHU_YXAH+D?XuXHsvkxsD{sYXsN4+Nlll+HlYx.Uv_?+NU++FvL?lvs??vHbN?vvD?HYCD^YvD_YlDFDXUxxD_UX-_HX+NL_?Y?DXHF_sss^YsFVXlx_sa+lDSvxvUHxNUUxY5xUxx?UNxJsDvLU_vD?tY+D+YLDNYUDYH*_vH__FHF_XXxNDXsN?vFL+(NsN>UsY+Jlv+_FYDFU+x_UDxsU?sx+_UFx?vFFNLdFvL_+_??LLFDvUlYLlYxL_Y_HU_UHYNuXvN_XllTvXsD}Dss&?sH++lLMNYl+XU_xvU_xlHHULx_UlxNUlF^LNFLLNFUU vD?_LDFNLa_+HU_DHs_?vHHd_NHd_HH__XX+MssHZFsX+xY?sUXFs?p_x_?DxUUYvSTgUDxHUXxLsLvU?FvX?YvXsDxFFUYX_LHv__Hl?DDxH+_vNU*+NH:+sLLUXlNlXXsDFl+FlF+XUxxDUsx?Y_X+?_vH?UvYFqUlvs?svlU++llNYU+vYH_+HL_YxU_HX+NvXlNlXYNX-xsDdF?UOHl++LlU+UlHxpUNDDUlxFUXvN?Dvl??vHvNLLFlLUFYDOYvD_Yl+NYX_vHD_UH?_HX+lLFXNUXXsc;Ls_+UsF+Dss+DlU+?UNx+UDxNU?xY?L_x?_vl?FLsFxL_FsDYlDD+Y_DNXXDYHT_vX_FUHFNfXxs_XsNYXHU+H+sN0FsY++lv+?llxxUFxxUNxs?lxH?xvL?svUF+_XFvL_FlDUFXDvYDDUHYDHHv_LH?_UHYNG#vYNXlNYXXsNJDsUP?UHHHlL+llU+HUoLYU_xX?vxX?LvDF?v??XL+FDLNFHNFY DvY__FYF_(HxNNUX_?X0N+XXNNXUNY+kHLy_sUVF?l+xlN+sl?lLU+x_UNxUUYvC?vv_N?vFFxLxFDLsF?LHY++_YNDHYY_+Hv__HlNH?_NxXUNsxdNHE+sLaNX+:YlL+vls+llH+XUx?LUsv!UHv+?Lvs?ULXF+LvFFLlYvLXYxDDXs_UYH_NHL_YHUsvXgsDXYNlWvNXx_sD4ss?x#lY+LlX+U??x Uvx_??L-UXv??DDF??vHF+D_YsLUYND&X+D_YlDFYXlxHD_HH?NsX+N_XNsUDHs&0ss_xDsF+Dlx+DFs+?U+x+UlxNUFxY?MNU?NvY?FL+FxLDFsL?HLD+YlDNYUDYHy_vH__?HFNDXxN_XsN?XHlv+YsN++sY+llv+_llxH?vxxUYxsUFxH?+vLFlLh?YLlFvDaFlLFFXDxYFDsH+DHHU_LHl_UHYXXXvNYXlNFXXs_^DlU+YsH+llL+HlU+YUyLv?Hxl?LxX?UvDFHv?YCDHFLDaFUN+Y&DvY__?HUDXHF_D+L_?HHN+W_s?XUss76UN0_slSFU++?lDxLl?vFU+xLUNxU?_v^??v_FDvFF+LxYD_DF?DDY+NhYN_xYYNxHY__X+_FX_NxXDNs+?sHO+sF^NlxWYU_+vUs+?lFxsUxLvUsx?UHLv?FvNFLvYFLLvF_LlYH_LYx_wYsNlYH_+HLNl?+_YXFNv+LNlXFNX x?D3slv<HlY+Lll+UUYNUULxYUlDvUXvU?DLUFYvHFlLLYXLUFYDJXvxHYl_LYX_UHDs+H?sHFlNLXXNUVDsZ3_s_+lU++oll+D?++?U_x+YLxsUUvL?8LL?_LN?FvXFLLDFYL?YDD+Y_DNHFNGH4_lH_sUHF_XXxND-DN?(xs+oUsNkFsY+PU?+_lH+FU+xxUDxsU?vF?+vU?NvY?YLBFvL_s?LFY_DxYDDsY?DHH+x_HNNxHYN+XvN_XlsHF_sx.HssxssH++lLxlsH+YUUxvY+xlUFxXYx_H?lLD?HL?FLNLFUDXY_DvH+DlHXDXHx_DXUNLHHNYXLsUXUNYRmlDx+sl+lsXxDlD+sl?+HUFxL?+xU?Uv0?Dv_F?D+?XLYFD__F?LHY+__X+DUHl_ !___Hl_FHXUxXDs#X?sU*+s_ANsUlFlg+Fl_+llFx+UxvNUFx??sv+??vN?UvYH*LUF_DvFFDlYx_?Ys_YHD_+HX_NfH_YXKNvmss6XFs?pxUvJss?1HUv+FlNxNlYvHUvx_UlvHFDvxFvvsYDvHF+LLFNNUFYDUYv_LYlDHYXNxL__sXL_HZYNLh+NUXYLx^vlB6llezXlx+DUsNFlHxUULvvUUvN?uvvH_vlFvvXF?LDFUL?FHFNYLDXYU_+Hq_vH__lUN_XX?NDXFN?XHs+bLLlpUlN+klD+_ll+FlXHLUDvvU?xH?+vL?NvUNXL%FXL_FULFFXDxHN+XY?_?H+NLHN_UHYlgF?N_eNNFSSsxxXssu??H++U1+NUs+YUxxvU_?sUFvF?xvD?svY?HDvFDLNYsLYYNDvY_DlXFNwHxNvHsNlHHsNXLsl+DNY0XsvxLslfFsXxLlN+sU?+HF+xLUNxU?XLx?vLN?lDU?XLxFDDUFHLHHvDLXNDUYY_1Hv_XHlNUHXsLXDNUX?sH^FsL+LsUxll2x+l_x?UF+X?hxDUXx?UHv+YLL_?UL?FrD+F_DXFF_+Y?DDHND?.x_+HL_NXFNUXOsvX_lsXFNXwxlNxLs?+Xl+vxlN+UlYvx_Ux_??xF?Nvx?Dvs??_HF+DxFNDFFYDxYv__vUDFHF_x:F_sXl_HX+ULXNsDXYsYPvsstllHY_lxx+lsxUlHx+ULxNYUxY?UvvFxvl?HvXFxiNFsD_FHDvYLDNYUDYUx_vXx_lHY_XXxNDZULlXHsHuLsl:UsY+ulvx+llxslXxLUDxUU?Lc?vvLFLvU?XLoFvL_FlD+FXDYYD_DY?_SH+_L%x_UXlNPX_N_XlNFXXs_EDlKg?lU++lD+NlULYUKxlU_v+UFv+?xLNNXv?FDL+HULNFULYYIsvY_DHYF__Hx_NHss?F_N+XUNNX?NY++sv+_HvqYlv+x?_+sU++H?vv?UNv:UYL??vv_?lDFlNLxF?LsY+LHYHDLYN+FYY_NHv_?Hl_FHXNx_?Ns=vNH}+sLi?sUxY_s+vlX+llY+X?vxD?ssFUHvl?LLs?UL_FnLvssLlYDLXYsDDYsD?XHvlHLN0HUN_XhsLX_slDYNXkUsD0Hs?+Nl+LLCX+UUDx/?Ux_FHxF?Xlv?DL;??__F+LlFNLUL_DQYlD_H+DFHM_xHDxUH?NLX+N?XNNUXYU Y?s_+msF+xlxvNlsx+lsx+UFxNUUxY?+vv?Uvl?F!+FxLDFsDvFHD+YLDNvlDYH6_vH?_lHF_XXxvNXsN?XHsURLsNVUsYYxlv+_llx_lXxxUDxsxLxH?NvL?XvU?HL.FvCsFlDxFXDlYDDsY?NH?l_LHH_UXzN-&DN_XXN_XXsUODsUi?sX++ls+NlUYXU/xvU_v+UFxX?xvD+Nv??HL+FlLNFULYYI+DY_DlYF_sHx_DHs_??wN+XLNNMLNY%Vsv/_JxfFlD+xlY+slF+HU+H_UNv6UYvN?vv_?lDFlNLxFFLsFHLHXUDLYYDLYY_sHv_lHl_YHXNNXDNs?YNHh+sL/XsUuYlg+vXD+llF+XUNxDUsx?UHXv?LvN?UL_F,LvF_LlsHLXYxDDHxD?YH_+HLF_HU_YX:NLX_NlXFNXN?sDJHs?+_l++DlN+UDXxSUlx_?kxFUXvxYD+q??LDF+LNFNDXFYD_FYD_H+DFHL_xH__sHX_HX+v_XNNUXYss3vs_PlsF_Hlx+Dlsx2lHx+ULxN_FxY?}vv?Xvl?FvXFxuNFsL?FHD?YLDNYUDYDl_vHF_lXL_XXvNDXHNDXHsN5Lss*UsH+ylL+_llN?lXxxUDxYU?xH?+LL+svU?XLkYNL_FXLFFX+mYDDUY?_1H+_LHN_UXHNRXvN_XUNFXXsx{?ss%?sH+XlL+NlU+X?OxvU_xlHHl&+DU-+XUYxY?_vxU?,Y?FvFFxLssFYH_2Hx_DHs?xXhNNXLNNXUY+_sHsNvHHNXlx+xlD+sl?+Hs+lvHNxFUHvB?vv_7?vHFDLxFDLs+H?vvLFvLD?HYX_NHv__HlYx_+H+_xFULxFCdvssbNsUhYHiNXXNlxlHxDUxxDUs_Hxdl_+DU?+XvXF+LvF_Ll;HD+YlDDYsD?xMY_DsY?LXYX_lN_X_NlXFNX)xsDxsF?+ylN+LlN+UHWsXcXlD+?DX?+vX?Dvs??l+x_?txFUYL+?DvNUUL+F+LFFNHDl+H?_HX+NLxUN?XYstRvs_hlsFxXUF+Dls+?lHx+UYxNUUvx?WvD?_vU?FvXFxLDYCL?Y+D+Y_DNYUDY-ONNH__FHFNxXxspXsN?+Ns+#ssN5UsY++lvxsF?+YULxx?xxsU?xHY+L??NvX?YLDFvLYFlLFHUDxY?DsYHDHH+_L=NNFHYN_XvNFXlNXXXsx>lss+xsH+LlL+NlUvY?xxvUYxl?vxXFEvD?sLN?HLNFLLYFUDLY(NvUHDlHxDXHs_DHH_?rHLlXLNYXUsv8ZssJ_Ul+sl +slD+Hl?xxU+LLNNxU?vvW?lv_FDvF?XLvFDLXF?D+Y+DLYNNUHF_.HU__X>_FXxNxXDsDX?s_B+sNmNsU.Y?-xFl_x+lFxNUxvvUsx??Dv+??vNF+vYFsLvH_LUFFD_YxDFYs_+YHs+?F_NX+_YXNNvXsNl+Fs?RvsFuslxGHlD+L?NHUlYxNUvxYUlvsUXvxFUvsFvvHFLLLFNLUHYD?YvDHYl_LYX_DHD_sXx_HXUNLXUNUXYsZxvlx)llD2Xl?+DU_+?lHxXULxXUUvD?EvF?_DlYLvXFULDYOL?YLD+XLYsYU_DHf_?H_NvHFsXXHNDiIN?W_s+assNxUsX+El?+_U++FU?xxUDv+U?vv?+vF?NvF?YD9YXL_FYLFY=DxYUDsY?_HH+_LHN_HHYNxXvl_+/NFXXsxpDss+vsH++?X+slU+YUxxvUNxlUFLJ?xvD?svF?HL+FLLNFULYYbDDY_DlYF_+Hl_DHs_?v+H&_xH?DXH?NLsDPUsl(FsX__XUlKwXxAUDxLUNxUUYXx?vvs?lvF?XLxFD_sUvLHYvDLYlDUYH_EXvFNHl_HHXNLXDNlX?NH+xsL<NsUpHlh+vl_+llF+XUxxFUsx?UHvv?UvN?UvY+LU?x??_v+FxYLD?YsD?YH?LLlFUDlY?DLND)_NlXFNXLLH__?X_ND}vsvOFss-+_v+xlx+slHHxvL?Fvs??vHgv?lv??HvxFxLFDsYXDFYX_xxsYUDhFX_DYlXlsNXYsBivYl_HXsNLXDslXYNXXxslollL(XxX?Lvv?_vlbFU?xv?HFsDFFHD+YLDN,YDHHQ_vH__lHF_X+xsxXsN?XHs+.LsFJUsY+Flv+sll+YlXxxUDxsFsxH?LvL?lvU?YLwHvD?FlLXFXDDYDDFY?DHXt_LH?_UHYNRXLN_XlvHXXsNgDs?7?sH++?LHXlUxxU9xsU_xUUFxXNLvD?Hv?F+L+FLLNHUxDYbDlY_DXYF_DHx_DxN_?XvN+XlNN*TNYx4.UQNsH1FlL+xlN+sU?xFU+xsUNxYUYvD?vv_FFvF?XLxFlLsFYLHX+_vYNDUYY_EHv_YHl_FwsNxXDNsXYNHPxsLPNlviYl1+vlN+llF+XUxxDUsx??Hv+?LvN?FLvFmLvF_lYvL?LvX?UL?DYHx_+HL_NDHFH_vYHXsNYXFNXVxYDNLHFsNlL+LlN+UlYx.UvL_HlxH?Dvx?DvsXHUYxY?vvlNYFXDDYvD_YlFXLXFvDFY_HYNDX+NLXN?FNxXLNNH?N?OD++lv+Dls+?Hqxv?LxNUUxYXxlL+lULxv?+v+?Uv_UX++F-L9F_LFlTHx_lH__lHFFxDNYs_NHl_xsL0LsN)UsY+0NvsDYl+HU_xxUDxs++U)x7U+*ls+XXLxFLL_FlLFx+DLY_DsY?DHxs__XL_UHYN L_Y?_DH+_xX__UHFDXX_N_ +NFlFxvUnxvU__F+HlL+vUl+Yv?HFL+FLLNFUs;Y+DvY_DlYFDXHxsDXX_?HHN+XLNNGUNYwel+c_s?0Fl1+xlD+sl?xlU+xNUNxFUYv/?vD_FXvFFxLxFsLsYxLHY+DFYNDHYY_cHv_NHlNHx+NvXUNs}CNH&+sLxNlN6YlD+vl?+lUs+XUxvvUsv+UHvL?LvN?UDYFHLvFFLlYxLXYvDDYsNsYH_sHL_UHU_YXylv*_NlMvNXnlsD+Ns?EHU++LlY+UUvx<UUx_FlyLUXvs?DvH??LsF+_LlXLUYvDVYlD_H_DFXX_HH__HH?NLX+NXXNlUFYsdEls_:XsF+vlx+D?x+?UDx+UNxNUUxYYSLD?_Lc?FL_FxL_FsL?HvD+YFDNYYDYH3_vT__XHFNNXxNYXssUXHs++HsN++sY+Nlv+HllvFUlxxUFxs?xxH??vLYN+x?YLNFvLYFlDUFXNxH+DlHxDHHs_LXx_UiYL-XvNYXlsvXXs_GDssx2sH+llL+UlU+YUELv?Fxl?LxX?UvD?lv??HLHFLD%FUDKY:DvY_NlXsDXH?_DX+_?XYN+XLsvXUsD6*s?3_lxCFUX+HlDx>l?x_U+xHUNLUxHv/??v_F+vFFNLxHDDxF?D_Y+DFYN_DYYs%Hl__X+_FXNNxXlNsX?s+;+slWNlx&Ylx+vU_xFlFxvUxxHUsv<UHv+FNvN?UvYFLLvFsLlHF_UYxDDYsD?YH_LHL_N+D_HXKNvXsNlXYNX+LNlqss?7Hlv+LlN+U?YXsUvx_UlxFUXvs?DvH?DvHFxLLFNLUFHDVYLD_Yl+HYX_xHD_FH?_HX+NLxxN?XYsd4Ds_/UsF&XUv+Dls+?lXx+ULxNU?xY?Svv?Nvl?FvXFLLYFsL?FHlLvDFvL_?XL+F_D+_lX7_XXxNDXsvYXHs+rLsNKUsY+0?vHHll+FlXxxUDxlU?xH:TvD?NvU?HLTFLL_FlDYFXDxYDDlY?DHH+_LHN_UHYNKXvN_XlNFiAsxpDssf?lX++lL+Nl?+YUCxvU_xlUFxXF#vD?sv?FSD+FLLNFUsXv+?_L+FJLHFHDNYvLFUHDYYY_vHlxYNXmlsvi_sl_+X?s_hNNlH+NX+LlsUlx?UYv#?vNY??Ll?XLxFDl?vS?Uv_?NL??XL+?LL?F?D_Y+X+NsXDNsX?Y+__HNN_XsN+lx+ll_+llF_x+LsUTllX+vvv?svN?UvY+EUXxNFxFHD}YxDDYsUYH+_+HL_NHU_YXWl?v_N?WxNXdxsDL?XUNU9qs_FU+YlYxiUvx_Ul:F+HNx?NvX??vHF+UUvl?lvUUx+UlsY?DYYX_xHDUUHYNLX+NLXNFH_DHDN!H?NFsFvslx+Dls+?Y+xxULxNUUxY? vvY_Dv?FvXFxLDFsD+FHD+HUDNYFDYH+_vH__lHFs_XxNsXsNYXHs+:LUN}FsY+vlv+lll+HlXxx?XxsUXxH?+vL?svUFXNxFLL?FlD_FXDxYDNsHLDHH__LHF_UXlN#XvNNXlsxXXsDpDss2?UHx_lL+YlUxvUMv+U_xl?+xX?lvD??v??HL+HLDFFUDLYcDUY_DYYFDXXs_DHH_?XLN+X?NN+UDDiesl^_sX*FlL+x?DXWl?xLU+xUUNvxUYDK?XvN?XvFFDLxY<LsH?+HY+DUYN_oYY_lHv__XX_FX_NxXsNsX?NHx+lXRNl+6YlN+vUL+llFxHUxxYUsxHUHv+?LDNFvvYFsLvFHLlY>LXYxDFYs_xYH_sHL_XHUsYXFNvXYNl=vNXQNsDxs_v}Hls+LlH+UU0xJFvvxUUvvUXvl?DLv??DHl+LLFHLUYLDMYFD_YlN+YX_UHD_?H?_HX+lLXXNU!DsIE?s_+NsFqXlF+DU++?U+x+ULxNFULs?zvF?_Lx?FLvFxLDHxL?Y_D+YFDNHvDYn0_YH_N+HFNNXxNUXsl?NXs+VFsN+xsY+Ylvv_UD+FUNxxUYxs?_xHY+vX?NLx?YLsFvLXFlLFHPDxYUDsHvDHHv_LXNNsHYNLXvNNXls+XXsx++ssd?sH+DlL+llUvYULxvU_xlUFxX?lvD?s__?XL+FLLlFULHYBDvHNDlYFDXHv_DHs_?HHN+XLNNvsNY2!svkssHbFsX+xPlNlXYsU<_x_UYxUUYvZn_UUx?U?xUUNFNLFF?LHY+U+vsFvL?_xHY__Hl_FvFH+_UH?_(FU__HDNYHXZXlN+vl_+lzxl+++lxXUNxX>vv?lvN?UvY+DsNxX?_XHD+Y_DDYsD?vxF_DFY?HFNNXONvX_F6_?Xv_UH_NDFYNYXYNsll+XlYxAUv_X+NlFxLU_?NLx??vHF+l+v_?XL3?D+sFLLYF+D+_DHD_sH?_HX+NLXNNUfqsi9vs_:lsFoXFUDDlUxLlHx+UL_Y+llexDU_KxUsxX?vFLLFFsL?FHlDvl?Yv?YxLFYNHN_lHX_XXxNDXsN?XHUYLLsl+LsY+Tlv_stsl+uYs_H?lU{Fl?+_v_?YvU?YL&+vUNv??+vYF_YsDsY?DHH+_LFNYlxYNxX_N_XlNF_YHNNFsU+xsH++lLDU!ls?+Lss+LlYUHv_?xvD?ssXxv?lvsUlvlFDYxDlY_DlYFFsDeYsLYYY_xNvXUNNXUNYLvHsNLXYN+>++LU?+sl?+HHvsDyUlD+LUxxxU?xNUu+v?Lx_?_vH?HvxF_vFFsLuYlHD_UHl_FHXF/D_HD_)sRiXsLONsU_+XDs?yUN+YYs?K?sF+_ls+vlXxsvlFsvYF)Lv4Y?sLg?NvvFxx?FAL?FUL_Y_D_Y+XxNYX_NlXFYv_NXYNFFHNYXYsv,lLYU4x%Uvx_UlxFUXxxXLvU?XvHF+LL+?FvvY?DY_D_YlDFYX_xHDlaU?NCXsNLXNNUD+HDN?XUL?X?sNlLxDls+?lH_H+vlF+YlxXxUsxUUYx?UYXvslvNFxvFDvHvDNYUDYvTFXLNFFD+YN_+H+DFHhNyYD_lXXNHsX+slv+_ll_F^HlD&HlF+LlY+Xv_?XvU?YLO^_UNvD?sv+?vvsFvYHDHH+_LHN_UHY?vvvNsXHNFXXsxD+Hl_YXvNYl_+?lU+YU>N_fXUv++v+?lvD?sv?+xUxx_lDx??UvDD_Y_DlYFDXHx_DXsU?XVN+XLNNXUNX&LsvV_slD+XYsN4x+UU_+HU+xLHsls+WlsxxUsWlU?xs?VvlL?F?LHY+DLYNDUk?U*HD_FHl_FHX?D_LHL_UX*vLsNiNsU*Yl#+vl_L+YFxxUxxDUsx?UHN++HNN?FLYFMLvF_sFvs?LvvFNxFF<D_YDvvYDvzYFDvHs_lN?QvNX7xsDDHXuN+{DsvolLFlXvsUvx_UlNv+LU_eDUUxUUHx_?_v?Fv+9?svLFLLzF+Lv?DLHFXDlFXDYN_4sNUXYsCDvXx_UHXNLXUsLGLNX0vlvHNl_+_lFxx__?lvl?FvXFxLDFsx?TYDvYlDNYUDYx_YDLNY_D+N+XsNDXsN?D+H__NX_NsX++xUW+_ll+FXvsN+YlFHXlNxLlDxNUUxxU+vDLsFXLFFXDx+NFYLXYxDuYxHl_HHYN5Xv?F_sHUNvsL+vssG?sHDH<vsF}YsxHxls+UlY+?lYHvsUxsvYF_L+FLLN+H?xLsFNxlFxD_FLHD_DHs_?HHN+XLs?vUNXQLsL#_sl+xsD+xl_+slX+HUxxLUsxU?+DX?vv_?lL^?XLvFDLsL+LHYvDLYNDUYY_JHvx+Hl_YHXNLXDNsX?lHYlsL}lsU,HlZxYl_+Xlx+XULxD?tx?UXv+?DvN?H_FF#LvF_D+FFD8Yx_NlXD?H=_+XU_NHU_YAGYLX_NUXFllhxsNfsU?H?l++_lN+?lYxHUvxF?+xF?+vxFxvs?FvHFxLLF?NlFYDkYv_vYlDYYXNLUF_sHY_H+FNLXNNUnYH+EvsN1llU5XlL+D?sXvlHxvULxsUU__?RvlX_vU?HvXYLLDFlL?FHD+Yss_YUDYHANDH__UHFNvx+NDXsN?++s+kDsN U+++=lD+_ll+FlXxx?DslU?xX?+_Y?NvF?Y_}UVL_F?LFY(DxXUDsH+_FH+__HNsxHYN+XvNNXlszxHsxSDssxvsH+xlL+lUF+YUxxvUlxlUFxXFxl_?svF?H__FLLlFULYlxDvYsDlYFDXHx_DHsxYHHNLXLNsXUNYeilDFYsl+;sXLFlD+sl?+H*sxLUUxUUXvQ?Dv_?lF??XL_FDLsF?LXY+__XEDUHx_^Hl__Hl_FIXNlXDNYX?sva+ls<NlF++lS+ll_vNlF+XUxvN?Fx??Dv+?XvN?UvYYxDxF_D+FF_YYxDDYs_YXs_+HY_NXD_YX:NvX_UlXFsLixsHossYiHU+NDlN+HlYLsUvx?UlxFYXvx?Nvs?XvHFvLLFN2FFYDvYvDsYlDFYX_xUN_sHX_HXLNLXNNU XLNMvs?elUYwXlx+DlsUUlHxNULxNUUv_?)LDFxvlFvvXFsLDFsL?HH_DYLDHYU_LHJNNH_N?XD_XXUND+_N?XHs++_lLKUl_+*lH+_ll+F?+v?UDvxU?LF?+vL?NLFFvLaFHL_YLLFFXDxYDssY?_DH+_XHN_FHYs=DLN_XXNFxNsxGFssv?^_++lU+N?v+Y?Hxv?s+YUFv_?x_L?sv??H_+lFLNY+LYYNDvY?DlHHFDHv_YHsNHHHN+XLslXYNY/lsv+lsl0FsXxLUX+sUD+H?LxLUNxUUYLp?vvY?lL_?XLLFDDsYlLHYNDLXLDUHL_*XDNlHlNvHXU+XDNsX?lH-_sLoHsU+Ll.+sl_x?U++XUUxDYlx?UHv+F_L??UL_FKNLF_LlFF_+H+DDHxD?CX_+HL_NHUNvX&NUX_svXFs+*xlD+ss?+Ll+LllNx+lYD*FKx_UXxFYxvx?HvsFYvXF+L?FNN_FYD>YvN_YYDFH__xHF_sx__H++N_XNs+XYsN7vUx6llF_llv+?lsD_lHxsULvlUXxY?NvvHxvl?FvXHx+YFsDxFHDsYLNxYUNY?s_vHY_lXv_XQUNDOsYFXHsNzLUx1UlL+%FvsHllxxlXDXUDvsU?DHxlvL?YvUHXL/YxL_FlNFFXD_YDDHY?_}H+N_UH_UXxN;XUN_XlNFXX?xSDs?t?lv++l_+NlUYXU=xNU_x?UFxX?xvDNUv?FvL+FsLNFULYYJ+DY_DXYFDXHx_DHs_??VN+X?NNX?NY8Wsv+sDZ#FlN+xU_+sl?+H?v+sUNvvUYDX?vv_?lDFXsLvFHLsYLLHY_DLHlDHYY_UHvNlHl_FHXsLXsNs _NH+LsL%NsU+Xl?+vUx+lUX+XUxxDUsvsUHvU?LLv?UvXFaDDFXLlY_LXYYDDYsD?XZN?HLNxHUlNX&NvX_NlxFNX8lsD+vs?+;l++Lx_+UUDxgUvx_UFxFF+vs?DL+??LLF+LLFN_UHLDBYFD_HxDFXv_xXNNvH?NsX+NXXNNUXYlxzss_+LsF+?lx+DlsxYUUx+?uxN?DxY?}vvFsDx?FLFFxD+FsL?FHD+YYDNHvDYHY_vHs_lXFNsXxNYXsUvXHsUgLll+DsY+llv+Fll+FlXLx?sxs?LxH?UvLF?vUFXD_FvDJFl_UFXDxYD_UHLDHHF_L>N_UHYNWWDNFXlssXX?szDss-?Um++lLxLlUxsUJxvU_xlUXxX??vDFDv?F L+YLD FUDDY9NNY__xYFN+X?_DX+_?x+N+XLNN+UlxhusFS_lxQFUv+xUNxLl?xsU+LxUNxUUYLx?Uv_FLvFXDLxFDLsF?NHY+DYYN_DYY_xHvN_LU_FXNNxxxNsdLNH#+?LINlprYls+vls+llFlDUxxFUsxYUHv+?LvNNFvYFsLvFsLlFFLXYx+NYs_LYH_xHL_NHUNX?HNv:JNlXHNXqxsD%slxQHlU+Lll+UlXxM?DvUUlv_UXvL?Dvs??vHFXLLFXLUYNDbYDD_Yl_LYX_?HD_?H?_HX+NL+bNUMLs4cFs_AUsF7XFx+DlY+?UDx+U_xN?FXL?pvl?_vF?FvXFxLDXsL?YxD+YUDNYFDYHSxDH__HHFN+XxNDXsN?F>s+8UsNrHsY+%lv+_D?+FU_xxUDxsU?xH?+X_?NLx?YL+FvL_FlDHl_DxYHDsHFDHH+_LXlDHHYNUXvUDXlNFXXUxvHsl+DsH+?lL+FlUxXUlxv?+xl?XxX?xvDFUD+?HLYFLDUFULYYZ_DHXDlHlDXXD_DHs_?HHsxXLs+XUsUtksD0_l?xLsX+YlDxvl?+HU+v_UsxU?lv&X+v_?lvF?XNxFDDuF?DUY+D_YNDU_F_gHF__Hl_FX+NxINsRX?ssI+sU;NsU(Y?}xYl_xvlFxlUxvlUsvYFDv+?XvNYsvYF,LvYsLUFFD?Yx_CYsD?YHNvX?_NXN_YX?NvX_NlaHs0%xlv^s?+1Hl++LlNLUlYxUUvvLUlxHUXLx+_vsFLvHHlLLY+LUFY+xYv_BYl_+YX_xHDNsLF_HXUNLblNU2Ns{.v?_JllvTXl?+DlU+?lHlNULxXUUv+?rvv?_vlUUvXF?LDFUL?FHD+YL_HYU_NH,_vH__lHF_X0YNDOvN?XXs+yLsN+FlX+MlX+_F/+FlXxxFDvHU?v??+vD?NDL?YDxY?L_YNLFXYDxYDDsY?NZH+_XHNNsHYNxXvN_ssNF ?sxCDssKXsHxvlD+NUN+YU_xvU_xlFFL_?xLx?sLs?HDDFLDlYlLYYHDvXLDlYFDXXLN?HsNUHHl+XLNNXUsX+?sv+_slxUsX+xlDxUUH+H?xxL?xxUUYvz?vvX?lLl?XDvFDLUF?DHHHDLHvDUTD_9Xw__X?N>HXNXXDNHX?NH#+ULxxsU+Ul!xol_xYlFv+?YxD?_x??lv+?LvNFFLYFODxF_NlFFLXYx_NXVD?HH_+HX_NHU_YQxvUX_sUXFsU<xsDSss?vHl+x+lNx?lYxxUvv_wvxY??vxYlvsFsvHYvDDFNDNFYNFYvD_YlNF?N_xXx_sXs_HxFNL+NDxXYsYzvlvellL4XUxxUllxNlHDFULvLUUDY?xvvFxvlY_vXYNLDFs_NFHD?YL_vYUDXHuNDHH_lXN_XXlNDXsN?XHlHeLln5Uls+wlD+_llxFlXxFUDxUU?xH?+vL?HvUFsL!FLL_FlLFH++lYD_LY?_9H+_LHN_UxlN+XHN_X?NFK+sx+NU+R?lU++l_+NlU+YU;vHU_vvUFv??xvN?sv?FUL+FXLNFHLYY%DvY__FYF_?Hx_NHs_?HHN+6?NN5xNYhFsvCNslMF?X+xl?+sUv+HUvxL?lY_UYvN?v_H?lvF?XLxYsLsYnLHYsDLYlDUYYNvHv_FHlNxHXNxXDlsasNHyssL{UsUL+lTxDU_+lUD+XUlxDUsx?UHLU?LvH?UL_FRLDF_LXF_LXYUDDYFD?YX_+HN_NHUxXX9NvX_swXFNXCxsD_Ns?3Hl++slN+UlYx*^xx_UlxF?xvx?Dvs???NF+LUFNDxFYD+YvD_l?DFHD_xH?_sH?_H++LFXNs+XYsv1vlvzllxzllx+Ylsx+lHxxULxlUUxY*Xvv?_vl?YvXFxLDFsUUFHD+YLDUYUDYHT_vHx_lXx_XXUNDXlN?+HsLMLsYcUsH+=U++_UlvxlXxDUDxXU?vL?+vLFLvUFvLuFlL_FlLFHXDlYDDXY?_RH+_HHNNyHNN(X?N_XHNF0Gsxbsss>?D;++lL+NU++YUexvU_ssUFxX?xvU?sv??HL+s_LNFULYYsDvY_DlYFYsHx_?HsNvHHNxXLNN?FNYQ_svdFsl)FsXvx_Y+sUx+HUvxLU?xU?vxU?vvH?lvF?XLvFDL?F?LHlvDLYNDUHL_tHv__HlF?HXNxXDNYX?NHe+sLFlsU)Ylw+?l_+llF+X+?xDUHx??_v+?DvN?UXXFkLlF_LXFFLXYxND?PD?HD_+H__Nx__YX__YX_s+XFs+^xs_2ssXiHl+Y_lN+UlYxNUvx_UlxFbHvx?DvsF8vHF+LLFN{FFYDcYvDHYlDFYX_xLL_sH?_HXLNLXNNUXYXlOvsF7llLGXlv+DlsYYlHxNULxYUUxY?>DvsHvlFvvXFLLDHUL?YLL?YLDXYUDHHK_LH__FHF_X?LNDXsN?zDs+<LsN*UHF+Wlv+_lH+FlXxxUDHUU?xH?+vF?NvU?YL<vFL_FXLFYNDxY_DsHYDxH+_UHN_?HYN9Xvl_Y+NFnDsx{?ssxxsH++D_+NU++YUlxvU_xlUFUD?xvY?sv??HLDFL_NUxLYYlDvYNDlX_DXXxF_HsNvHHs?XLs>XUNYFxsv6Xsl+_sX+xlDvsNv+HUUxL?uxUFNveFvlN?lLL?X_?FDD+F?NHLlDLYXDUXF_EXl__XlFYHXNUXDUXX?svJ+sLsRsU+vl.+?l_+UlF+X?vxDUsx?UXv+?LvNF+vYF=LvYLLlFFLXYLD?YsD?YH?LLlFUDlY?DLNDXUNlXFNXDxX+_lrL+JUV+LlN+UHxs++_sX+NlvXvl?xNlY+H?xxU?vvDLFYUDyYvD_xFF+L?FNLsYFDqYxLDYFDFHN_xsxVHs_(lsFDLXvss;+sl6DNL+sU6+_lx?xLv?_vl?Fs+xvUsvv?xL<FGLlFDvHU3LXFXDDY?+XN+X?NDXsN?DxXs_lHFNsY_NHXlsDl?+XlXxxUDl_+kUD?vvs?NvU?YsDv+??v_LXFXDxYDDsY?DH?+UvHlNhHYN4Xv?l_?H+_GX__UsU++sH++lL_?5xsxmYss+lx?UXxX?xvD:N?%vxLvFlLNFULYx+FsvXFNDoDXX?_DHs_?HHvvXLNNXUNYC%svb_UlNXsX+xlD+sl?xlU+xLFvxUUXvZ?Lv_?lvFY+DFFDL?F?DDY+DLYNNUHX_ZH___HF_FXNNx(NsYX?sx4+sH.NsUIYUxx+l_+HlFxsUxxDUsL?Fxv+?lvN?XvYFDLvH_XYFFDLYxDUYs_lYHNvHD_NXa_YXlNvX_Nl+Fs?Qxs?^sl+>HlL+L?Nx_lYx_UvxFUlvlUXvxFDvs?HvHFNLLFlLUFY_vYvDUYlDFYX_vHD_s1y_HX_NLXlNUXYsdxvDHyll+uXlN+DUL+?lHHvULxYUUxX?3vv?_DllLvXFsLDFHL?YxD+YLl_YU_xHE_sH__XHFsXNlN_XYN?-vs+2DsN+UUR+plN+_lX+FULxxUDvsU?xH?+vs?NvF?Y_}FXL_FlLFFXDxYNDsY?NlH+_LHN_FHYN+XvN_(XNFXXsx._ss8?sH++lL+NlUvxU{xvU_x??FxX?xvDXUlFx+UFx??lvlFxvH?N+lFsLsFHDLlsH?_?HHN+XLNNYUHFLTs_4_sl;FsX+xlDHsYUx4U_xLUNxUXHUD+FULxYvHFxLxFDLsvl?vLsD_H.DUYY_.vNYYLHY+DY??_vYH_Us.)NsLTNsU_+XsNs1vNH Xx+UsxDUsx?X+Uv+llsxHUxFxLNF_LlFFlXvH?_D+DYHl_+HL_NxXFH_vYF_LH>LXXvN?X+_YsY+?l++LlN_YqxsFKssl+Yl++vs_+YlYxsUvFvLDFNLUFYlNYDDYYlDFYXFsDNYNDsFOvs?_XlN?XYsqhvYscFsFkXlx+Dls+??__+U_x?UUxY?-NsxLUHxlL+FDLDFsL?+YF_LsDlY?DYHi_vxs_?Xx_XXxNDv?HU_UX}N_?UrFlv+>lv+_HFs+ixl++vsFUYvY?+vL?NNX+H?vxF?LvnlSvsFLvU??LXFNDuYxHNl?HYN9XvN_??NFXXsx/Dss}?sHv+}N+NlU+YU,xvUHxlUFLL?xvN?svF?HL+FLDlY3LYYvDvYFDlYFDX0x_NHs_HHHNLXLNFXUsX+?svhUslEXsX+xlDxU?++HU_xL?NxUUYvVYvvF?lL+?XLNFDDxF?_HvXDLYFDUHx_:HN__X?NXHXNsXDssX?NH5+ULkXsU+vlO+ll_xHlFvX?vxDUHx??Lv+FDvN?UDUF!L_F_LXFFD+YxDDHsD?Hx_+HL_NH?_YyxUDXNNHXFlx4xsDJsU?+Dl++llN+XlYxYUvx_?_xF?Dvx?Nvs??vHH+L_FNDVFYD_YvDYYlDFHL_xHF_sHY_HX+NL+NlNXYsNWvsY:llN9Xlxx?lsx+lHxNULxHUULYssvv?FvlFxvXY_LDHsxvFHDNYLDYYU_?HOsvXx_UXx_XXsNDXUN?+HD+cLsYZUlv+pUx+_ll+HlXxlUDxUU?xH?+DLFvvUFLLAFUL_YCLFFXDNYD_}Y?_5H+_LHNsU)lNTX?N_h+NFBUsxCDsX^?lD++l?+NUx+YFwv+U_v9UFv_?xLl?sD?l_L+F?LNY+LYYFDvX__DYY__Hx_FHs_YHHl+FLNN,+NY7Nsv+DslPFlN+xlY+slY+HU+xLFNvsUYvs?vvH?lLv?XLxY?LsYLLHYvDLYNDUXYNDHv_XHlNDHXNYXDNsyXNHClsLZXsU+_lnvvlU+lUL+XUUxD?Fx?FH?x?LvX?ULDFtDDF__lYxLXYUDDHOD?HM_+qL_HHUNDX;N?X_ssXFNX*LsDVYs?+_l++_lNxUUHx%UNx_UUxF?Lvx?DLX??vHF+LsFNLFFYNqHUD_YlDFYX_xHH_sH?llXxNLXNNFXYs+pvs_+UsF0Xlx+_ls+?lHx+ULxNUULv?uvv?_v?FFvXFxLDQUUFv+?Fv?FlLlYxLHFNxlYsDsYH_LUsXUs+XHs+yLYU_XXVNXb+NUl?+YlXxxUDNUUYv??+vL?NsYxxUFxsUlvY?+vvU_vY?YLsFvHvNvHN_UHY?DDLHl_xHU__F__HXUNdX+sDXYs_Qs+XUDxvU_xlXYUL+?UvxFvH?HL+FLLNFUxYvXlvYsDUYFDXHxUFHUNxHHN+XLYY_FHF_YYDLYF?bHlv+xlD+sH}sF+_l+UlvQUYv/?vNlx?U+xG?_xULUY+LHY+DLx?FxLxFYLsYlH?NNHXNxXD?YDFX+_UXx_HYYs+#lNXX?+FlF+XUxxDUsx?NHN;?_vY?UvYF3s_vD?Dv?F+<DDsYsD?YH_+HL_NXxUYXxNNX_NlXFFX_HH_s+sYAXl++LlNDFlXxvUvx_UllU+LUl?Nv???vHF+lvvF?HFXDFYvD_YllXLKYxDlYYDYYvvNHvDUHXN>sx^Fs_WlsF_v#lNUXYslHNsX;Ul_UU_+?mvv?_vlNHvXFxLDFsL?FHD+XLFUYUDYH%_vH_NLHF_X.DNDXUN?XXs+TLsN+FUl+#l_+_UX+FlXxxFDLDU?v+?+vN?NLY?YDxYXL_FYLFYYDxYDDsHYN+H+_lHNNLHYNyXvl_XXNF8Lsx/Uss+ssHv+wx+NlX+YUDxvUFxl?HLl?xv??sLD?HL+FL_NYDLYY_DvYFDlH+DXbxNDHsN+HHNNXLs?XUNY++svZlsl+xsX+LlD+sUx+HUDxLUNxUUHvEFD_s?UL+?XD+FDLsF?_HH_DLYFDUHx_MHF__Hls<HXNsXDNUX?NHp+ULBYsU+vlt+ll_xDlF+X?DxDUXx??/v+?LvNYULNFiLUF_D/FFDvYxDDHFD?HL_+HU_NX+_Y+;L?X_NXXFsDnxsN.sU?H_l++UlNx)lYxvUvL_?DxY?Dvx??vsFxvHH++LFNDwFYD_Yv__YlDFHL_xHF_sHY_HX+NL+NsLXYsN<vsY<lls3Xlx+_lsxvlHxvULxNUULY?Fvv?HvlFLvXF_LDFs_wFHDsYLDHYU_DHusvXD_lXv_XXlNDXUN?+HDlOLsHOUlL+fl?+_?lxsUExlUDxXU?vD?+DLsNvUFLL(FUL_YlLFFX_LYD_.Y?_WH+_LHNsU*xNPX?N_e+NF%?sxVDlsG?lN++l_+NlU+YFrxUU_vxUFvs?xvl?sv?YUL+FFLNYxLYYlDvX__lYF_NHx_YHs_YHHl+NDNNuxNYEssv+sslxFUv+xlY+sUv+HUsxLFNvlUYvs?vvH?lLF?XLxH+LsYfLHYlDLYlDUHYNxHv_UHl_YHXNNXDNs+xNH0+sLd?sU{XlMvv?++llF+XUxxD?lx?UHDF?DvN?UvXF:LLF_LlsHLXYxDDY?D?YH_+tLlxHU_YX8NvX_sHXFNXxYs_ ss?+0l++DlN+UUHx)Uvx_UUxFUXvx?Dvs??vHF+LLFNLUFYD+YvD_YlDFX8_xHD_sHF_HX+NLXNNUXYsf+Ls_:lsF++l_+Dls+?HHsYhDU5UYxY?Gvv?_vl?FNN.xLNFFL?FHD+xNF{DLFxHx_sH__lHFFLv_YH_DUY7qsLtLsN9UX?NDfU+l__Hs_?HHN+XLsN_Y?vvN?NvU?YsXvs?UF?D+FXDxYDUlDyFNLXYsHlNDHYNdXv??DUHX_sXt_FY?NX5NNYXl+ll?+YU2xvXHx??_xX?xvDkFU-v_?D%_?_vX??vLF_Ys_xYFDXHx?lDXYKDvYXvYHD_VHFJxlx<_slMFYLNvkss+OlsDHDsY+lsX+JUL+FUDxNvHFvLxFDLs+g?FL_F+Yl_yYY_EHvUlD?Y+D(H_DUN?X?NH8+sLdNsURYlG+_l_+llF+XUxxDYs_?UHLH?LvN?UvYsxLvF_LlFFLXYxDDXsFHYH_+HL_NHUNFX}NvXHNlXHNXVvsD5ss?xVUY+LlU+UUlxhUvx_Flv_UXvD?Dv???LvF+D_H9LUY+DfYlD_YlDFX+NFHD_YH?NFX+NLXNlU8ls}0ss_CHsF+slxvDf_+?Uvx+UlxN?xxYFxLv?_vX?FLYFxLDFs_?YND+YUDNH%DYHY_v9_sDHFNDXxN?XssxXHs+x5sNMYsY+_lv+sll+FUDxxUlxsU?xH?xvLFlxH?YLDFvLUFlLFFXNxUYDsHwDHH__LHF_UXXvNXvNFXlsFXXsx4DssFYsH+slL+llU+YUPLvNHxl?vxX?lvDFvv?YH+lFLLHFUDLYVDYY_NlL+DXHl_DHX_?XXN+z_?+XUsDcalvh_slzFU++?lDx+l?xkU+xLUNxUFvv/?sv_FxvFF+LxYD_xF?DxY+DNYNDXYY_<H___Hl_FXvNxXNNs+?s_!+sLdNsUyYl++vl_+XlF+XUxxNUsxFUHv+FDvN?UvYF+LvF_LlFFLXYxDDHYD?YH_+H__UHU_YX{H+D?X}XHsUSxsDtsYa_XtLNYqDs+XnlL+FlxnHxH?vvx?DvsgQUFv_?+FULUFYD3YvD_?lF?+X_LH?_sH?_HLDYFDFHN_xXvMDslAlsFrXH+sU-F+YUxx+ULxNXUll++UF?sLl?FvXFxsNxlUHvl?sL_F_LXF?LLU_DDYDD?H+xDNsXsN?XHs+eLsN+xFY+xll+_ll+FHxl+++lN+Y_+?vvU?NvU?YsvvDU?xUF9vLDLYHDsY?DHvDY?LFFXD??l_+YF_sNH(_sxSDssN+4(s-t+_lH+DXUxxLU_xlUFN_?LLL?sv??Hs_xD?Uvv??vNlNvXF?L+FxD_FHDNYlXWNNXLNNXUYk_DH_NDXNN/lx+xlD+sl?+HU+XLH_xF?xvp?vv_1U?+xs?dvlLUFFLHY+DL+lDFHU_bHv__vFY+D?YNDsHF_bHxDDHF_FXNNxlx+Ll_+llFN+UxD_Usx?UHv+N_vN?UvYFTLvF_LlHFFxYxDDYsD?YH_FHL_NXU_YXxNvXNNlXFNX+LlF(ssH(HlY+LlN+U?YvEUvxlUlxXUXvv?DLUFHvHFDLLYsLUFYD9HDN+Yl_+YX_DHD_sH?sH.lNLXFNUMxsE0Ds_xlXUZXlN+DlY+??8x+?_LfUUvv?.v_?_vl?FDXFXLDFHL?YLD+HvDNXUNNHf_lH__XHFNDXxNDXHN?V+s+VUsNeFsY+QUv+_lY+FlXxxU_xs?Y_J?xvl?NLL?YL(Fv__YYLFYLDxYUDsHsDHH+NYHNN.HYNxXvN_XllF^Hsxw?ss++sH+_lL+Nl?+YUNxvUsxlUFxXYxD+?sLx?HLsFLD?FULYHvDvYFDlHxDXHl_D5sLvHHNNXLNYXUsY2cUvYHsl+xsX+slDxYl?vHUYxDUYxU?vv^?Nv_Yl5F?XLsFDLHF?DNY+DLYYDUHL_mHD__Hl_F{XscXDNXX?sD5+sl<NsU+_l3+?l_+?lF+XUxLDUXx??_v+?FvNFHvYFIDsF_D<FFD_YxDYYsN?X*_+H?_NX+_Y!MNv+_D+XFs_ixsFmsllkH?+xGlsx+lYxNUvxUUlLFNXvx?FvsFxvHFULLFND+FYDsYvDsYlDFYXsxHN_sXv_HXlNLXFNUXYlUbvsXClsHEXlx+D?sxllHxUULvpUUL+?9vv?HvlFLvXFULDY+L?HHDXYLDXYU_DHANvH_sl_Y_XXUND67N?++s+xLlYKUlD+&l?+_lY+F?Xv_UDvAU?v_?+vY?NvUFvLWFsL_Y+LFY+DxHDNDY?_xH+_FHN_XHYN/AvN_XlNFMvsxQNssx?UU++lL+NlU+YUNxvU_DLUYxX?xvN?svF?HL+YDLNFULYY+DvY_DlYFDXHx_DHF_?HHN+X_NNXUNY^tsDAHsl3FsXDDX_sL9Nsu3xsN+xxF?+vn?vv_#YU+vN?_FNDDF?LHY+UsvFYxD+ULLFYlLUYFDXYND_HUX?s?=+sL&NsUFXl-+vl_+llF+XUxLDsWx?UHv+?LvN?FvYF%fDF_LUFFDfYxDDYsN??__+HD_NH?_YXvNvX_ULXYNXZxsN9ssF%Hl+Y_lN+UlYxnUvx_UlLFsFvx?Dvs??vHFDLLFYD+FYDOYv_8YlDYYX_vHD_F+U_HX+NLG+NUXHsmfN?D&lsF-XlH+Dll+?lHHvULxNUUxH?hvv?__lvLvXFxLDF?L?FXD+YL_sYUDYHk_LH__lHF_XXxNDXsY+XHs+KLsl++sY+%lv_sXHsx++sN+slpUYvl?+vL?NN?x?Uvx??Dv?lFvH??LvFFYHDHH+_LHN_UHYlsvvNlXlNFXXsx9Dsso?sH+vUN+NlU+YH+sD+lls+sULx_lUX?UUxF?Dxl?DvHU;vlFYv?D?HvDXHx_DxUH3_xHD_vHD_YNX)ssvu_sl_WXLsUwlDFXFlS4FxNUNxUUYvc?vv_XFNFF+LlFDLsF?UxLh??vHF_LxFLHDNLHl_FHXF_DUX}_XY_LxXoNAX+N?XYNs=LsYlHxYUxxDUsN?+UlxxYlFxFs+vx?xv_UYv?F_LnDNYHD?YH_+vNY?DFYFD?YsXssxXFNXpxYs_YXNNvXLNY-_ssZxxvUvx_UlxFUXXx{FNs?HvHF+LLFNLULYl++vDsYYDFYX_xvsY+_DYvXvNsXNNUXYYLNFX__HsXpXlx+Dls+?lH_DHLxl?DxY?>vvS_UD+Y?sxN?NGlUXvx?_vsDlYXDYHe_vvFFUDsHLDNNNXFN?XHs+DMXaNsXx+xlU+_ll+FHxl++vlF+blFxDv_?UvU?YL^v+U?L9LXFXDxYDDsY?YHxFULHl_HHYNhXv??_NX+_FsL+4ssW?sHDUB+Nsr+sxHvlx+xls+H_x?LvF?sv??HUNv_?_vNlX+NlDYlDlYFDXHx_DHsUlUHNvXFNNXUNYD/XxNlXxskXss+Ov+UUc+HU+xLXvs?CXlD+XvsFNvF?XLx+D?LxFFNv_F_xl?XLUFXDlFXDNYvX+svXDNsX?F?NKXlNUHXLX)DsNEUss!UDpHDl+++sH+lvv??vN?UvY+_Usxl?Yv?F+KLDsYsD?YH_+HL_N+HUYXxNlX_NlXFFxN+X+NNXYL+lv+llN+UlYNx5FsY++U9?+Ll?Dvs???0xv?Fxs?YL#?DLN?XvYl_0Hl++FlsxxU%xsULxY?+v_?_6DsYblsF*XYDsLd_sldvsL+sxUUUxY?mvv?_+lx?NXFLL?FsL?FHU+vDFlvXF?DL_DH?_lHF_XLN?l_+HsvAsv+FsNIUsYDNXssUHlsH6Hlx&UlU+XUNXLlF+sUsxLUDxNllvx?vvY?vL+DUYFDHH+_LxY_?HYNx{lN_XlNFL+Hv_sXvNx.5siclsDXHN++xsL+LlF+FlKxLlUx_lHvNLvYLLNFULY+v?XvXFlLXUvLNYsL?YnDFYDDDHD_HX29xsl%_slnFHxNNXssN;lsxUvvvUNxUUYsv+sUx+HlXvvUNxllsvNUXLU?lLlFYYX_NHv__HlFxDsHDDHYU_NHvhLsLENsUnYl#+vYlYllHxNUxxDUsNH+vlY+llUxHUxxLLDF?LlFFLX+?FxvlFxLv_vHX_NHU_YLvY__sHs_sH?LsXN_lXsNvlv+slN+UlYNLgslH+YxH?_vx?DvsXXUvxNUDvF?_L+DxYlD_YlDFx+YNDlYFDUYFXvNsXNNUXYFH_LXv_HsH+Hlx+DlsDF+vlD+v_l+XU+xLUxxLNFx?U?v+?NFUD+FHD+YLU?xGFXL+YAL?_?HX_XXxNDL?HuNxsLbLsN*UsY+8lvX_Ys+XlXxxUDxsU?xHXXNL?UvU?YLKFvL_Fl?U:XDLYXDsY?DHvvYvDFYsD+?__DYN__H+4xsx*Dss-?sH++FxDNlY+YUnxvU_xlUFDlXxvNFxv??HL+*??_vH?Dv+F<+sFsLsFvHD_DHs_?HHN+XLsNvUs}K)sv<_slOFsXvUDD+UUZ+HU+xLHYlF2HlY+svs?XvF?XLxeF?NvX?_vxF+YlDHYY_RHvUFDsYU_vNvX_NUM+NH:+sLLUXlNXXHNs%s+?Ui+XUxxDXLlLx+UD?_v??UvYFgslvxUUvvD+YDDDYsD?xNFLDv_UHU_YX8NvX_NlHF?H6LsFass?.HYDNYWYsv7+sD+Dxs?+xFUXvxXsllxNUUxvUDxU?DFXDLYvD_YlUXL1YsLU_UX__HX+NLvUH___Hv_HYs_HXvNs#+svl?+?lHx+ULxNUUL+X*v_?_vl?FvXFxLD?sdUY+D+YLDNYUDYH2UNU__?X+_XXxNDvHHNDXHsNNslN_sH+)lv+FsX+FUTxxUlxsUFxH?xvL??_l?YLpFvLUFlLYFXDxL?DsYYDHH+_LHN_UHYx?XvNNXlNHXXsxfDUsHvsH+vlL+slUD_U^xlH_xUUHxX?UvD?lv??HL+FsN_FULYYJD?Y_DUYF_v++_DHs_?XNN+XDNNSFLLp-sDP_lLbFsX+xUDNll?+XU+DYUNxFUYDRlPv_??vFF{LxXFLsY+DUY+D_YN_sYY_+Hv_NHlNi+HNxXDNsklNHnxsL9NIxmHlx+vls+llF+X?xs_UsxFUH_s?Lvl?UDYlYLvFsLlFYLXxxDDYHN+YH_vHLNUHU_HX6NLX_NYx?NX}xsD+?s?iXl++_Ul+UlXx*Usx_UlxF?Xlv?Dvl??sHF+L_FN_UUUD:YDD_YUDFx?_xH?NDH?NWX+sFXNN?XYs+>vsUvssF,XlxxYls+FlHx++FxsUFxY?xvv?_vlFFU^FxL_FslNFHDvYLNN?xDYHx_vHN_lvY_XXs?DXlNYXHlH#Lss;UsY+!lNLDll+FlXvXUDxlU?vxHQvL?NvUY?L{FLL_FlY^FXDLYDDsY?DHH+NLLs_UHHN8LLN_X?NFXXXs%DsU*?sH++lU+N?UXDU&x_U_xUUF__?xLD+lv?F7L+YsLNFYLYYfFlY_DFYFDXHx_DHsN?LXN+X_NNWnNY&vsvM_XXJFlx+xlD+sl?+H?+sDUNxFUY_)?vvl?l_FvNLxFNLsYLLHXYDL4NYxYY_xHvNNHlNNHXlxFYNsXHNHyxsLDssU+YX++vls+lHY+XUDxD?UXxUHvL?LsU?UvYF=DD?ULlYGLXXDDDYsD?XHF?HL_?HUN+X&sHX_s?hFNX>NsD+Ns?,Hl+x_UU+UUvx,UNx_UlxFF+L+?DvX??NFF+LLFNLUHDDoYND_HmDFH+_xXNDFH?NvX+lNXNNUXYUa_Ys_iHsF+LlxvBlsxYUNx+UUxNFxxY?CvvFsLx?FL_FxLlFsL?FH_vHXDNHxDYHH_vH__lHFNXXxNUXssvXHsvOLsNFFsY+_lv+_ll+FlXvL_Fxs?xxHXFvL?NvU?YUNFvLFFlLHFXDLYDDslYDHHs_LHs_UHYN.XvvsXlsLXXsLJDssB?sHYvlLx2lUxVU9xvU_xl_HxX?FvD?sv??HL+Y_8HFUDsYOssY_DlYFN+Y__DXL_?++N+XLNN+UHNJasXn_lD6FUU+xUNxLl?x?U+v_UNxUUYLxFXv_FNvFY+LxFDLsYYDxY+_vYN_FYY_SHv__Xs_FX?NxnLNsXYNH+vL?ENlN9YYL+vl_+llFLXUxxXUsvsUHvv?LvNvzvYF?LvFNLlFFLXYx+CYs_NYH_NHL_NHU_Y_xNL-+Nl^sNX>vsDks??tHlU+LUx+UlXxcUvlFUlv_UXvx?DvF??vHsvLLYxLUY+DPYvD_Hl?_H._FHDl(H?NlX+s_+vNU}sshxFs_WlsFxXLT+DUv+?Ulx+??xN?Fv+?nvX?_vY?FvXFxDNYsL?Y?D+YsDNYUDYXxNNH_NNHFNvXxNDXssYXXs++vsN+xsY+Vlv+_lX+FUUxx?LxsUYxHF+v_?NLL?YDYFvD+FlDHLYDvH<DsRLDHH+_LeNNvHYN?Xvs+XllvXXlL1Uss+NsHDXlL+NlUxX?+xv?vxl?PxX?xvDFUDN?HLXFLlDFULYY9_DYUDlH?DX+L_DHs_?HHs_XLsxXUsF.6sDp_llx+l1+FlDxsl?xlU+DL?zxU?Nv#H+v_)xvF?XD+FDDgF?DsY+D_YN_FHx_THF__vs_FHXNxXDNlX?sD/+sYkNsF YlJxYl_x+lFx+UxxDUsx?Fvv+?YvN?UvYF*LvYs+.FFDlYxsYYsD?YH_+L?_NXv_YXxNvXsNlXFAHZxsXass?pHlD+LUlx+lYx?UvLXUlxFUXDxFxvsF_vHFFLLYHLUYX_?Yv_xYlUUYX_xHDNUEx_HXHNLX?NUXYs%+DsYfllUiXHu+Dls+??7xHULv_UUv+?}vv?_vlHFvXFYLDYNL?Y0D+HL?sYU_NHnNvH_NLHFlX_UNDMxN?x?s+DxsNvU.D+hlY+_Yv+FF?xxYDU8U?vs?+_Y?NsF?YL=XvL_Y+LFYlDxYNDsY?xIH+_YHN_?HYN>XvN_??NFAlsxAsssp?sH++D_+NUD+YUxxvU_xlUFX+?xL+?sv??HL+FLDll+LYYYDv+_DlYFDXXLDlHsNlHHlLXLNNXUlYvlsL+Lsl+UsXxYlDxUUH+H?-xLFHxUUYvTFDL+?lLF?X_lFDLsF?_%Y?DLHsDUGL_pHv__Hl_HHXs5XDslX?s0E+l_<?sU+FlK+Nl_+llFv+UXxD?sx?%+v+?LvN?U_YFpLXF_DlFFD+YxDD_ND?H?_+HL_NHY_Y*xNNX_sNXFUs)xsD^sU?xsl+xxlNxslYvNUvvs?XxF?Hvx4vvs??vHYvDLFNDUFYDLYvD_Yl_HXs_xX__sHX_HX+NLzllxXYlxJvsH*lsF3Xlx?DlsxllHvvULxlUUvY?svvFvvlFFvXY>LDFsLYFHDXYLD?YUDYHTNvXv_lXl_X+UND#_N?xHlxzLlLSU??+KYF+_llvWlXxYUDvDU?ve?+vL?HvUFlLwF_L_FlLFFX_UYD_DY?_DH+_LHN_UX_N4,+N_X?NFXXsxkDll0?lY++lN+NlU+YUdHDU_vlUFxX?xvD?sLYsDL+YDLNODLYY/DvY_F^YF_XHx_NHs_YHHN+_UNN9?NY3Dsvw_slyFNY+xUN+slF+HU+xLUNvDUYLv?vvs?lvF?XLxY+LsYXLHY+DLYNDUHX_xHvN?HlsUHXNxXDlsAvNH+NsL,ssUL_lnxDUl+l?v+XHvxDUsx?UHLF?LL??UDLFVLDF_LlD?LXHNDDYsD?Hx_+X_NYHUsvXnlFX_NlXFlX5lsD+Hs?xLl+x?lNxF?UxR?Ux_XNxFUXvxFNL???D_F+slFNLUFY_xHND_XxDFxY_xHD_sXYsxX+sHXNNHXYsz&vs_+xsFxDlxxXls+YlHv+UFxN?XxYF9vvFFvlFHDlFxD?FsNLFHD+YLNNXNDYX__vXF_lgv_X(LNHXslxXHsDJLsNaUlXxLlvxHll+XlXxxUDvU?+xHFUvL??vU?YLhYDSYFl__FXD_YDDsY?DH++_LXY_UaNN;XDN_!lY_S-lNhDUD}?UL++U_xvlUvvUAvFU_xlUFLXsUvDFHv?YLL+QFLNHUxDYp_lY__XYFUxHxNDXY_FRvN+vFNN+oNYv,sDg_lHiFFs+xU?+sl?vsU+vNUNvXUYvx?vLsYLvFYvLxX?LsF?LHY+_LYN_FYYNLHv_sHl_FIvNxVsNsXFNH=+sLpNULKYUL+vls+llF+XUxHNUsLQUHv+?LvN?ULXsNLvYFLlMrLXYxDDHUxxYHNsHLsFHU_YXENvx_Nl++NX+lsD:Us?(Hxb+LUY+UlYx<Usx_??xYUXLl?D_+??vHF+_LYULUHLDSHUD_XRDFX+_DHDsbH?NxX+NLXNsF lsy+Fs_x?sFwXlxxNll+??sx+UsxNUUxYFxLH?_DL?F_+FxLDFsL?XHD+H?DNXDDYHx_vX_FvHYsDXxsDXslxXHlv+HsNx+sYv+lv+_llvF?Nxx?FxsFxxHFsvLFlv??YDsFvLUFlLFFX_LXxDsXLDH+H_LHN_UHYNDXvsYXllDXXsLaDls+UsHxNlL+llUvLUqvD?NxlFvxXY?vD?sv?YHLNFLDHFU_LYf_UY__?UvDXXU_Dv__?HHN+O_YYX?l_zhlX6_sl)FU+x_lDvxl?D?U+xLUNvFFNvyFHv_?YvF?XLxFDDNF?_DY+_XYNDFYYN9Hs__XX_FJFNxuFNsmYs_n+l?#NUY(Yl7+v?_vDlFv_UxvFUsL_UHLvN?vNYxvYXXLvF_LlYH+_Yx_HYslUYH_+HLNlFL_Y&UNvvDNlXFNX6xl%wsUxCHU?+Lll+UUYvvUvvFUlL_UXLl?D_sYNvHYNLL/yLU+UDCYvN+YlN2YXNsHD_UH?s>XxNL.FNU0Ls,}vs_TllN3XUD+DUY+?U(x+UL_HU?L+?:vL?_vl?FvXFvLDYYL?Y7D+YLDNYU_YHeNlH__lHF_XXxsNXHN?+Ds+xxsN8UsYxxlF+_?++FUFxxUDxs?Yvv?+LY?NNF?YLnFvL_YDLFHDDxHHDsYYDHH+XvHNs+HYN:XvNUXlsHEUsx+YssvLsH++lLvNUN+Y?sxv?HxlFvxXFLLH?sDL?HsXFLLNFUDXH_DvXZDlv+DXHx_DXUsNHHsFXLFDXUNYE4lD#NslxssX+_lD+sl?+HY+xL?XxUFlv^?Dv_Fll_FdDlFDDsF?__Y+__YXDUXD_;XF__Hl_F2XHvX_l=X?l_z+FFZNUU++l#x?l_v+lF__UxvDUUx?FDv+XFvNYxvYXWLFF__0FFssYxssYs_YHX_+XF_N!v_YXaNv+_D+XFlN7xlY#slDdH?+HFlNvxlYvsUvLUUlvF+bvxFFvsFDvHYlLLFNNUFY_DYv_YYlDHYXNLUF_sq+_HXsNLXNNUXY?)pvlUplUx5XlL+DlsYYlHv_ULxlUUxY?evvNsvlYxvXFxLDFsL?HZ+sYL_HYUUvHW_vH__lDv_X(sNDXUN?S s+gL+_8UUL+olv+_lY+F?+xFUDLTU?DN?+vL?NDUYNLwY?L_H+LFH_DxHNDFY?NNH+?xHN_UHYsx!xN_+vNFfvsx<Dss+YU+++UX+NlH+YUBxv?sxXUFL??xsv?sv??HL+FYLNHxLYHFDvYsDlHFNlHxNFHsN?HHslXLsl+_NY+ssvxXsl<FsXvxUH+s?v+H?lxL?HxU?XL_?vLX?lL>?XLxFDDUYvLHH?DLY?DUYY_eXDNUHlsNHXFPXDNsX?ltFssLxvsU_+lS+vl_+lFF+X?UxDFLx??Kv+FLls?UDLF(_uF__+FFNXLUDDHXD?+N_+Xl_N+UHDX^sUX_UUXFU?4xsDvss?xvl+x?lN+FlYxyDHx_?XxF?Nvx?Dvs???5FxDDFN_PFYD+YvD_glDFHH_xX__sHY_HX+*vXNsUXYst/vsl)llHxDlxx_lsLLlHx+ULLN?+xYF+vvFNvlYvvXYLLNFsDYFHlXYLDNYU_XHX_vXl_lXO_XXxND!UlTXHlDiLs?tUsY+cUDxFllv+lXxUUDxsU?xHH+vLFsvUYxLgFDL_YlUYFX_xYD_sY?_XH+lLDX_UXYN/x+N_LxNFxXXUtDlsE?FN++?X+NlULYUOv+U_vlUFv+?xvDNUv?FYL+FDLNFULYYZ+DY__lYFDXHx_DHsNY?DN+/DNN;_NYCEsvu_XA!FlX+xlN+slY+H?vH?UNv?UYvF?vv_?lvFHXLxYLLsYFLHYvDLYN+FYYN4Hv__Hl_FHXsL?FNsWFNHL?sLSNsU*YHl+LU_+lUY+XUxxDUsY_UHvY?LvN?UvHFyLvX_LlY_LXYHDDYUD?X3OYHLNxHUlFX&NvX_Nl+xNXi?sD+vs?+Pl++LU.+UUNxCUsx_UlxFFXvs?DLv??LLF+_HFNDFH+D:H.D_YHDFYX_xHD_lH?NlX+s+XNNFXYs_XYs_+DsF+Dlx+_ls+YlHx+IvxNUUxY?Nvv?_vl?FlHFxLDFsD+FHD+YLDNDvDYHU_vXx_lHY_XXxvNXssDXHs_aLsN:UUYHslvx+llxLlXLxUDxHUDxH?YvL?svU?HLcFsL_FlU?FXDxYDDUY?DHH+_LL__UHYNCXFN_XlNFXXLL:Dssq?lL++lL+NlUNFU#xvU_xXUFxX?xvD+Nv??HL+FNLNFULYY-FFY__vYF_?Hx__HsN+HsN+XHNNXFNYd+svkXslBFD++xlD+slY+HU+xLUNHFUYv5?vv_?lvF?XLxxLLsF?LHYsDLYNDUYY?XHv__HlNkHXNxXDNs?YNHi+sLbssU5Yl6+vDs+llF+XUNxDUsx?UHly?LvN?UvXFELvF_Llx?LXYxDDYlD?YH_+HLxlHU_YX!NUX_NlXFsDXFsD+vs?++l++DlN+?lYxf.xx_UlxF?lvx?DvsF?lXF+L_FNL?FYD?YvDFYvDFHU_xHD_sHF_HX_NLXNvFXYs}kvsHrlsFVXlxNLls+?lHxUULxNUUxYZXvv?_vlF+vXFxLDFsUUFHD+YLD?YUDYH4_vLD_lHF_XXvNDXsN?tHHxpLsl-UFl+JlH+_lX+_lXxYUDxFU?xX?+v_?NvUNXLMFvL_Y+LFFXDxYD?NY?DHH+__HN_UHYNi?DN_SDNFBNsx5Dssx?__++UK+NU_+Y?vxvF_DLUFv??xL+?s_+?HL+NXLNYsLYY?DvY_DlYFYsHxN+HsNlHHNxXLNN?FNYCFsvKHsleFsXvx_Y+sUN+HUYxLF_xUFYD??vLx?lLs?X_sFDLss_LHYXDLHxDUYY_AHvYXHlNsHXsiXDNlX?NH?FsL+vsU+slO+vl_+lH?xIUHxDUlx?UXv+YL+L?ULlF:LLF_lDFFDDHXDDHLD?LL_xHD_NH?_YXLUxX_NlXFHDuvs_TssXvYl++LlNsLlHx+Uvx__?xF??vx?Hvs??vHH++FFND_FYDFYvUFYlNF?N_xXx_sHF_HvYNLXNXXXHsF-vlvElsH-XlxYvls+YlHxvULxNUUxYF+vv?_vl?YvXFxLDFXL?FHD+HDDNYUDYHxNvH__lHF?+DvYs_vHxNmXWNlXD_HYyNXXXsDr?LXU+x_UDxsU?sx+_UFx?vFFDLnFvL_7FUYv??HvN?lvHFlHv__HN_UHYlF+vNsXHNFXXsxNDHlNL7WsLl_+slU+YUk_lUlxlUFxX?xvD?sv??HLvFFLNFULYxv?sLx?HvXYvLNFlHUNxHHN+XL?l_XX+NLXxNLXFRHlv+xlD+sHlNX=HslUlvsUYvS?vNFxxUUxvssxH?UvHFx+L?FL5F_L+_xHF__Hl_FLxYN_+YYDHHNNWXx_FsF+vl7+vl_NFz?sY3Ds_+FxY?vv+?LvNxHlHxxUXx?L?Y?LXYxDDx?FZLUF_LNY?LXY+L!YXDNXx_+X+NDsN Hs?IHl+NYKDsY<xlx+Nx_UU_lUXvx?DvsvUvHFxLLFNLUFYDOHD_UYlDHYX_NHD_sH?sHM?NLXUNUXYsB+xs_glUv&XlL+DlU+?Uxx+UsvuUUxY?nL_?_vU?FvXsLLDFHL?FHD+YLDNXUssH9_lH__XHFNUXxlDYuN?^_s+mlsN+LsY+zFv+_lX+FUNxxUNxs?+_H?xvU?NL??YL+FvL_FlD8XHDxYDDsHFDHHx_LXlDHHYN_XvsLXlNFXXUxYYss++sH+NlLxNlU+YD?xvUYxlUYxX?xvDYs+v?HLlFLLFFUDNYWDvLXDlHxDXHU_DHl_?XxU3XLNNXUleJ;sL7_UlHLsX+slD+sl?xYU+LLvLxU?vva?sv_FUvFFDUDF_LUF?DvY+DDYND?YY_L+x__Hl_FXLNxX_NsX?UD4xs_dNs?0Ylw+vUL4+lFx_UxvHUsxFUHvv?Lv?HlvYFnLvYXLlFYLXY_sLYsD?YHsLHL_sHU_Y?xNvXsNlXYNXJxsDxs_vrHlv+Lll+UUvx}FvXHUlxHUXvL?DL7??DE?DLLFULUY?DhYvD_XlvLYX_DHD_?H?N?X+NLNsN?{+sOBLs_ElsFx+lL+DlY+?Uxx+ULxNUUDY?%v_?_vH?FL+FxDDxlL?Y/D+Y_DNYYDYHLlxH__lHFl_XxN_XsN?Fds+u_sN}?sY+alvv_N++FU+xxUNxs?+xHY+JF?NvF?YLxFvLHFlNFLNDxYNDsYYDHHY_LXlDHHYNxXvN?XlNFXXUxYYss#HsH++lLxAlU+YU_xLUsxlUHxX?_vD?F_U?HL+FLNFFULHY6NvUHDlHvDXHx_DXN_?HH?;XLNHXUsL> ssQ_sX9xsX+llDLsl?+XU+xDUNxHYFv1?vv_HlvFFbLxFlNNF?LHY+sNYND?YY_tUD__X}_FX+NxXDNsr+NLM+s?TN?HiYl++vlN+lUgLHUxxDUsDXUHvx?LvNNFvYFNLvFlLlFFLXHx?_Ys_+YH_xHL_HHUNvDvNLXsNlxNNXZvsDuUs?+xFo+LlN+UFsx8ULx_UlHHUXvL?DvF??vHF+_LlXLUFXDiYDD_YFDFYX+YHD_?H?_XX+NLXNNU+Ns9TDs_JFsF(Xlx+DYK+FUmx+ULxNUUxY?)LL?_vl?FLAFxLDFsL?FHD+YLNxYUDYH{__H__lHF_XXxNDv???RBsL&LsN8UX?NDOU+slY+FlXxxX_lY;Flx?vv??NvU?Yl_xF?lvxUHv??NYNDlY?DHH+?YHU_UHYNmXvN_NlHxvXsLVsssr?sHNHXYsDlFx+UbxvU_l_;YUv+UvsH?_HX+NLXNNUsYsFYxDNY_DlYF?xL?YXLY_YX+N+XLNNLlXxNLsDQHsl#FsX_LVLsFXFlxVUlv+DxF?svR?vv_XHlYvxU?vvUX+HFxLUF(vFDYYY_yHv__Hl_FYX?+XsNsX?NHI+sL1NFHLYlx+Nl_+llF_L+JlU+DxY?vv+?LvNAXs+xl?6XsL?YxLXYxDD+?FYLvFxDsFFHFN+XQNvX_FD_DHY_NsNA?s?RHl+DYXUsllXxlUvx_UlsKx_lN+UU_cLUFxN?vFULUFYD7YvD_YlDFYX_LHl_sH?_HL+HbDsXvXXlv1vs_glFYN+cDsLOLlM+xs_HNl_+sU++DU+xUsFxD?lxNLNYNL?FHD++l?sLYF_LHFUxUYxDHYLDDHl_+HU_Fsvw?sNnUsY_LKxNY;pss#Ls_UNxlU?xH?+NU?Nsl?YL;FvL_NFLFFXDxYDDsY?DHH+_UHN_?HYN2XvN_XllF+}sxq_ss(FsHx?lL+NU_+YU+xvUNxlUFxXFxvl?sv??HD?FLLsFULYYDDvY_DlYYDXHx_DusNLHHN+XLNNXUls*>UvYHslkFsX+xlDx?l?+Hv_xLUsxUUYv(?vv_YlLl?XLvFDLlF?_sY+_LH_DUYY_tHN__HU_FHXNsXDNsX?spS+sLkNUU+vl{+vl_+llFv+UxxDUUx??Gv+?DvN?UvYHkDXF_L?FFD+YxNRYsN??__+H__NHF_Y2LNvcs_YXFsx3xlUPss?/H?+HFlN+YlYxvUvxsUlvHN_vx?lvsFLvHF+LLYlvHFYDDYv__YlDFYXsxDX_sXc_HX_NLCLNU+Ylv4vs?dll+:XlD+DUUxllHxNULvNUUxY?RDvFUvlFxvXFsLDH+L?HHDsYLDYYU_vH4_HH__lXt_XXDNDXHN?iis+9LlNGUl++Jlv+_lU+FlXHLUDxYU?xH?+vL?NDUlDLuFsL_FHLFHlDxY?lsYF_vH+s_HN_?HYNhXvNUxsNFXXsxxNss-FsHxvD?+NlX+YU_xvU_xl?xxD?xvU?sDH?HLxFLLsFUD+XXDvY_DlXXDXHv_DXUvxHHN_XLsYXUNYo^lv_Nsl+EsX+HlD+Yl?+HY+xLUNxU?+v=?Dv_Yl_N?XLxFDLsF?_DY+DLAxD?YY_)HD__HU_F2+vlXDNsX?NX(+sLiNsUFXl-+Ll_+llF+XUxLDsKx?UXv+?DvNYLvYF_svFNLUFFsLYxD_YsD?YH_D+v_NHU_YxDNvXNNl8HNv5xs_,slv{Hl++L?Nv-lYx+UvxNUlvvUXvxFUvs?YvHFLLLFNLUHY_bYvDsYlDHYXNUHDssiL_HXvNLXlNUQxsE!vsl{lsX{Xl_+Dls+??HxDULxUUUvb?yLx?_vlYNvXFvLDF?L?YKD+HLDXYUDYH:_LH__UHF_X?LNDXlN?2Ws+BLsNxUpd+;lL+_lU+F?+xxUDvNU?v+?+vD?NvU?YDxYYL_FYLFHLDxYDDsX?_YH+_sHN_HHYNxXvssCHNF&LsxCHssP?sHxvlH+NU%+Y?qxvU_xlFFLl?xv??sL+?HLHFL_NvsLYY_DvYFDlYXDXXLNYHsNxHHs+XLNNXUlY+_svGYsl+vsXx?lDvsUH+HUsxLUHxU?svA?vL??lLp?XLlFDLUF?LHH_DLYFDUYY_7HL__X?_9HXNsXDslX?NH<+ULYXsU+vl.+ll_+?lFv+_lxDUXx??Fv+?LvNFF9LFkL?F_DXFFLXYx_NlXD?HN_+XU_NHU_YXaskX_svXFNXrxsDgss?x_l++UlNxLlYxxUvv_?_xF?Lvx?XvsF+vHF+LsFNL?FYDDYvDsYlNFXF_xH__sHF_H/sNLXNsXXYs+-vss7lsYcXlx+Xls+?lHxxULxNUUxY?}vv?_NL?FvXFxLNFYL?FHD+xll?LvFU+x_DXD_lHF_XvvHD_sHNNNYLNsXlNlXsNDH5sDXYs+UxxxUDxsU?xH?+_UXNvFFYLGFvL_4?UYvx?YvFFULUYvLXFsxUYlDlYX_DUlXF+_ls+?lHx+ULDND-l_xDlU+YU0NNh?U+xKsNXvU+x+UxxFUHxl?DvHLXYDDvY_DlvOFNDNYxLU_HHHN+XLNNXUNY+LFvtsllqFsX+xYssLnLsH+L_seFlY+tlDx+lU+UUUvv?DFNLHF?LHY+l?L_FHLDF+Dp_sHY_FHXNxLvYl_sHvVvs?7NsU}YYxss}UsYm?sY+DxNUHx?UHv+xNU?xFU_xHUUFsD+FFLXYxUDLNFHLNYDLYY_Ds_XX_NvX_Nl_DHX_vHHNUXH++FLLNFULYY/Dvs__DU?v%UXvx?DsLxEULvDL_FYLUFYDp+_FDL?FULLYLHN_FH?_HX+FN_nXL_xsxVls_ClsFD+eNslEFsU,Fxv?JxNUUxYqLUD+NUNxXUXxv?NxY?lv+FUYNDNYUDYHO_vH_UYxFNaXvNNXHN?XHs+L_X_NFX+ND)D+lll+FlXxxUDxsHl_H?xvL?UvU?YLWFvL_Fls95XDDYDDsY?DHH+_L/?xUXSN;XvN_XlNFXXUULDs?I?sH++lL+NlUvDHJxDUHxlUFxX!NUs+YUY(FUxv+UFFYLYY!DvY_DlYFULxx_NX8_?HHN+LlFqLYX+NxXxN+HH1HlN+xlD+sHXsv+llsH?s?+Xl??DvH?lvF?Xs?vv??vXUXvX?NvFDFHN_IHv__vyY?_vYUD_HDvYHY_YHs>lsH:YlV+vHUNH+LlvULxHUsx?UHsD+FUS+YUsxHUsvl?FFXLXYxDDYsD?YHD+xv_lHY_YX7Nv_LYHNvs+GNsDhss?DUXxN_XFs_lXxNUvx_UlNA+sUs+HlFxq?fFvLUFNLUFYlvLxFxLsFH+x_LvH_sH?_HDlHs_?HUN8?Uvx?Ds5Jvs_FAsN0NNY{Ul=+FDDcYlF+Y_x+HlH+YUvvDUYvN?XX?FDvFFFLN?XLHFLLXYD+?YsDXY_DXH)vYX_NNHFNFY_NLYIv?XYLx+_s?2llF+v_?HD__HN_6xDUDxFUYv+FuWFs_uNssq+FLD&Y_DLF?_+UY_vHL_RNH+MsxODssDsXYs_RNNFYFlx+LlN+DlNYYNx+HlH+?U_FwDNFLLNFUsXv+?_L+F:LHFHDNYvLF?X_^Yx_xHU_UYHNxHsNLHFsDl++slD+sl?sL+Vl_+Ls?x+vx?lv_?lvFeXUvvNUYvlFxYvDXYNDUYYULLFYlDlYsD{H?LvYl_sHv%LsLBNsU{Yl-+vFsDllX+XUxxDUsx?UHv+?LvlF+vYFmLvxF??v??FxLlF+UDHYH_+HL_NHU_Y+F?vXsNXXFNXSxYUN?Xps*YUNsll+HlYxmUv_F+slUxvvL?Uvs??vH0L?vvv?lvXDxHxD_YlDFx5YNDlYNxYHv_DHs__HsL(HX_XXDN?sH+Llx+Dls_L*?sxk?sFUFv+?&vv?_NHxU?LxXL_NNL?FHD+H_L?YUDHHtNxH__lHF_XUYNDXUN?XHs+ LsNrUlv++lL+_l?+FUxxxUlDNU?xH?+H=?Nv??YL^sDL_FXLFFXDxYDDsY?xrH+_?HN_?HYNzXvssF:NF-Nsx+lss=?sH++X?+NU++YUxxvUsxlUFUD?xvY?sv??HLNFLLNsFLYYlDvYsDlYFDXXx?XHlNvHHU+XLs.XUsXSYsv-Xsl,YsX+xlDvsLl+HUUxL?8xUYDv}FDLl?lL_?X_lFDLsF?_,Y_DLHxDU+=_0Hv__X?N4HXNHXDU?X?NHM+l_+xsU+Ul.xll_+llF+X?_xD?+x???v+?_vNFULvFML?F_DFFFDsYxDDlUD?HN_+HN_NHU_YJEYLX_s+XFsv,xsHSs??s_l++FlNLslYDvUvD_x+xF?NvxHHvsYDvHX+?FFNDxFYDlYv_YYlDF(X_xH?_sXv_HXvNLXNvFXYsN9vsUVlsFMXlxYNlsxvlHx+ULxNUUvXULvv?XvlYXvXFxLDHsxvFHDUYL_}YUsDHuNDUY_lX__X+vNDXsN?XHHs%Ll::UsX+OlD+_lllxlXxFUDxsU?vv?+LL++v?FNL}XvL_FXLFH+_XYD_vY?llH+_LHNsUFDNmXHN_VLNFa+sxxDFx^Fll++lX+N?x+Y?2v?U_vvUFv+?xL0?sLYYsL+FXLNXDLYYTDvX__?YF_UHxN0HslXHHsvXDNNQ_NY+?sv#_sl+Hll+xUx+s?_+HU+xL?lvgUYvH?vD+?lvF?XLxXDLsY_LHYXDLYlDUHYF+HvNqHlULHXNYXDUsNvNH9?sLxYsUvLl:Lv-H+lU_+X?NxDUYx?UH_+?LvX?ULNFuLDF_D?lvLXY?DD3xD?YH_+HLHpHUNLXkNFX_NUXFNXFLsDGXs?fXl++LlNxF/vx+U?x_??xFUXvxFNLF??LNF+NNFNLUFY_xHND_HvDFXY_xHD_sH?sxX+N?XNsLXYsxKvl_xLsF+_lxLDlsx+lHvv?JxN?+xY?Yvv?_vlYFDNFxLFFsDxFHs-YL_lvDDYHs_v+x_lHF_X+xsFXssLXHs_qL?Y7UsYx?lv+YllxDlXxLUDxsF+xH?lvL?NvU?YL4FvLsFlDDFXDvYDDsY?NaHL_LX+_UxNN5XvN_Xls+XXsY DsXq?sH++lLDDl?x_UhxHU_x?UFxXFxvDFxv??HL+FlLNYULHY6DYY_slYF_DHxNNXs_?XlN+XDNNXUNYxalLf_lLMFlU+x?Y+sUYx;U+v>UNDYUYvB?vLsYDvFFFLxYHLsF?LHHvxvYN_sYYlvHv__HlNHXHNx5LNs+LNHE+sLRNlN^Yl?+vUD+llH+X?xvsUsvDUHLL?LLx?ULXFLLvY+LlFYLXYxDDXs_+YH_FHLNxHUlDXWsD UNlOsNXvDsD%ss?x2Ds+LUL+UUDx0Uvx_??XvUXLM?D_???vHF+D_sHLUYFDVY?D_YlDFYXlxHDNvH?NYX+N_XNsUDHsV,Ys_+NsF+UlxLD+T+?Usx+YxxNY+xYHVU??_Lv?FLUFxLFFsL?LND+YFDNHLDYH+_vH_DNHFNNXxNlXsN?XHs+6YsN+vsY+/lv+_ll+FUHxxUXxsUFxH?+vLFlLD?YL?Fv_XFlLFFXNxX+DsHNDHH__L+s_UXXsDXvsvXl?+XXsx>Dss+DsH+?lLxLlU+XU{xv+Fxl?NxX?xvD?Hv?FHl?FDDxFUNYY>DlY__?XxDXHH_DHl_?HHN++LxDXUslQAsXa_?+#FU+xHlDxDl?D+U+xLUNvF?_vwF+v_YlvF?XLxYN_LF?DYY+sNYNDUYYNxXY__Xl_FXNNxXDNsX?lx-+l3JNlURYlx+vU_v_lFxUUxvvUsvNUHLvvxvsF_vYF+LvF_LlHF_?Yx_+Ys_NYHslHLNlHX_YXYNvI_NlXFNX+LsF4sllaHUY+LlN+UUXx+UvvDUlDXUXvx?DLUF?vHY+LLXlLUFYDGYv_sYl_sYXNxHD_UH?NHL?NDTxNU+}so*Xs_+?Us8XlH+DYv+?lHx+FLXXUUvl?-vX?_NS?FDXlULDYLL?YUD+XsDNHU?NH+_HH_UaHFN?XxsNXUN?1Us+vXsNdUsYvz_?+_UD+FU?xxU?xsF?g_?+LE?NL_?YD+FvD_xULFYUDxY?DsHNDH++YFHNNDHYN?XvUNXlNFxXsxaHss+_sH+vlLxl_++YUUxvF?xlUFxX?xUH?sLv?HL?FLLsFULY?HDvYHDlHKDXHx_DHsNLHHNUXLNNXUNYMisv+vsl+_sX+vlD+sl?v.?HxL?xxUY_v5?vv_YlD_?XLHFDLYF?DlY+__Y?DUHU_1(A__Hl_FHXs+XDsxX?s?*+s_9NsUsvl-+Hl_+llFxDUxvDkxxF?lv+HLvNFqvYYxLXF_DDFFDRYxDDYsN?sF_+Xq_NX__Y+sNvOssvXFsFEx?sZss?hHUvv4lNxslYLnUvx_UlvHFvvxFLvsHHvHF+LLYlDlFY_CYvDlYlDFYX_xXc_sXN_Hu+NLXlNUZYls4vl+ollUIXlH+DUUlllXxYULxsUUxY?nDvFNvlFsvXFHLDXpL?H;DlYL_LYU_YHK_vH_N?HX_XBWND+LN?XHs++_sUWUlF+#F_+_ll+F?+vYUDvsU?_i?+vL?NvUFYLJFXL_YlLFY+DxHD?xYF_lH+NNHNN_HYsx;NN_fDNFvUsx=Dssx?__++U#+NU_+YYNxvF_0+UFv??xL+?sLD?HD++HLsYDLY9NDvHxDlHHNFHxN+HsU_HHN+XLlNYxNY1Fsv+xsl+xsXvx_Y+sUN+HUYxL?sxU?Yl+?vL+?lLx?XLHFDNsLvLHYFDLHxDUXF_-Hvl_HlNDHXNYXDNUX?lBFssL++sUxXl7+vl_+l+D+XUUxD?xx?UXv+?LXl?ULDFyLsF_LlFF_XUUDDH+D?HL_+++_NXE_NX{NYX_NlXFs%1xslbss?Y.l++LlNx>lYxkUvx_0sxFUXvx?Uvs??vHF+p_FNLUFYDNYvD_YlDFU+_xHD_sXv_HX+NLXNHUXHss1vl&ilsYrXlxv+lsxvlHxNULxNUULYFLvv?HvlFLvXFHLDFs_sFHDlYLDFYU_vHK_vXv_lXq_XXxNDXsN?oLHLGDssVUl++1lL+_l?+FUvD+UDxsU?vx?+vD?NvUFHLiFvL_FULFFXDxY_DsY?DHHs_LHN_UHXNLXvN_XlHv_kHX_UsU#HsH++lL_UXXl+UxvxU_xlUFsx+NU++YlHvxU_xslNv_UHLl?sLsFFYY_CHx_NHH_?HHN+v?Ys_NHxLlHN:ssYiFsX+xHsNl++svU+LIUNxUUYvCNDv_?lvF?XLxFDLsH?x_Y+DLYNDUYY_vHv__U?_FXoNxX_NsX?NHy+Fv=NsUzYlq+vlN+lUx+DUxxDUsvxUHvx?Lvs?UL+HXLvF_LlYvLXYvDDYFsUYH_+HLNvHU_HXhNv?sNlXFNX,xsDcss?xH_l+LlN+UlYxuU_x_UlHHUXvv?Dvl??vHF+_LDLLUFYDPYLD_YHDFHvl+HD_sH?NHX+NDXNNU?XspIvs_KlsFJXlxvDNu+?lHx+ULxNUYxY?hXD?_vU?FL:FxLDFs_?D?D+YLDNY?DYHL_vH_x?HF_XXxNDXsN?XHU+xXsNJUsY+Plv+sll+FFUxvUDxsUYxH?xvL?NXF?YLMFvLsFlLFFXNxUYDsY?DHH+_LHH_UXv?mXLN_XllNXXsv;Dss&?lxLylL+NlUvsU0xLU_xl_HxX?xvD??v??HL+Y_v?FULHY6DLY_DlYFNX?U_DHl_?HXN+XUNNXUUs:+sve_s?;Fl5+xlDxll?+HU+xDUNxUUYv3?vv_?lL+?XLxFDLUYqLHY+DLL???vXFFLs_sHH_FHXNxDsHL_bYXNvs_iFsU2Yl(svXNsxQHlxULxFUsx?UHND+lUUxHUXxX?FFsDZFFLXYxlNLYFXDxYSDxYUHYs,XuNvX_NXXxNXwLsD>?s?MXl++DlN+HFFxgUvx_UFxF?9vx?l_N??vHF+DvFNL?FY_xFND_YFDFHx_xHD_sQ?L_X+NsXNNUXYsDCvs_3XsY+xlx+NlsxKlHxDYvxNUUxY?lvv?NvlYF_UFxLYFsDxFHDDYLDNMDDHHs_vHs_lHY_XXsYsXlNHXHsszLssMUsX+-lNLDll+FlXxlUDxlU?LtUDvL?UvU?HLpFvL_HlxLFXDDYDD?Y?_WH+sL?X_UX+NJXvN_XHNFXXUYz_s?4?ld++lD+NlUYXU&x_U_xlUFxX?xvDNvv?FxL+FDLNFULYYnNHYNDFYF_+Hx__Hs_?XXN+XLNNX?NYwRsv8_sl8FsX+llD+sl?xhU?xLUNxUXLlDxNs_xDlYvsUNvN??FYDLY+DLYNFvL?YvLsYsDY_HX_NxXDNsLYHv_NX__FXYNDlx+sl_+llFlvPvsN+LlQ?*vN?LvN?UU_vgULxX??vXD+YDDDYsD?v+F_Ds_lXD_YX:NvLxHsDXHG_HYDNLHFsNX_s_lNvNlYxWUvx__?xFUXvx?Dvs??vHH+_XFNLUFYDpYvDNYlDFL__xHD_sHY_HXvNLXNX4XYs+3vs_>lsF}XULAlls+YlHx_ULxNUUxY_?vv?lvl?FvXFxLDFsD+FXDvYLDlYU_+Hk_N+D_lHF_X9LNDXlN?XHLvcLsHaUsY+Vlv+_?lNFlXxlUDxXU?vD?+vUFDvUFvLmYJL_FULFY_DxYlsNY?DHH+N+HN_?HYNLxxN_XlNF++sx2_ss+Ysx++l?+NlH+YU%xvF_h+UFv_?xvF?svY?HL+NXLNYxLYY+DvY_DlYF+UHx_HHsN+HHN+XLNNNvNY{NsviXslPYsX+sXs+llY+HUlxLUsxUUXvJ?N_D?lvF?XLUFDLlF?LHlvDLYlDUYH_WHv__%llNHXNLXDNUX?s+%+sLFxsU++lr+Ll_+llF+Xx_xDUYx?UXv+?LvN?U?_FrLDF_LHFFD1YxDDlUD?H9_+HD_NHU_Y+7lHX_N?XFs+Gxs?^ss?vllx+_lN+FlYx+Uvx_?UxFUXvx?_vs??vHF+LLFNLUFYDzYvD_YlDYYX_xHD_sXF_HX+NLXsNUXYsb6vs_dlsF+Dlx+Dls+YUvx+ULxNXXN++lU.Hsv?F_vXFxLDy?UFvFFNvDFUxYF_DUFsHsNFHF_XXx?_DUHH_YHYNlX?_XYbNXB+sUXHsU+vNDTHUx+nv3?xvL?NvU+_LvFvL_FlLFFXDxYDDsYY_+H+_LHNYsDxHNXvsxXlNFXXsxFXssA?sH++lL+NlUxXUXxvUNxlUYxX?xvDYsvY?HLxFLLsFUDvY1_DHUDlYHDXHN_DHs_?(=sxXLNUXUsxBOsvo_l?+DsX+_lD+Yl?+HU+xL?HxU?xv=?Lv_?lvFYX+UFDLYF?DvY+DNYNNU?D_9Hs__HH_FXvNxXDUsX?NX;+sl4NsFcYU1NLl_+llFx+Uxx_Usx??Xv+?LvN??vYF LvF_LlFFLXx+DDYsD?HI_sHL_NHU?+DlHlDXYY_+X+hLsX*ss?MHYssv*?sxXHsYHDlD+DlE?xvx?Dvs??vHF+ssrNLFYLDIYvD_xXF+LxY_DLYU+Y_XX+N_XHNUXYsVL_XDNN oNLdysllU+XlHx+UL_Y+_sH+NvD?Uvl?FvX7HUHv_?TY#DlYLDNYUU+DxYxD_FYD?H__eN_XlNY%Ds+9LsNDHXFNNXUsxXHsIU+xsUDxsU?N+x*U_xDlXxXLxFHL_FlLF+!F:vsFzLUYTv+YvDWYs_+NxXsN_XlNFDLF__HXDvYl}+llL+NlUN+pDl?+U_YQYU++YvN?Xv??HL+&_?FvHF+vXF+LlD?HUDXHx_DvFYg__HDLF?s__H__NX+NvHHNU1v+Ll?+sl?+HXLsl5Ull+?lL?Dv??lvF?Xlsx_?LLa?vYLDLYNDUYY_cFvYDxl_HXDNxXDNsL?YXNvHlNDXH>Xlv+vl_+lHDsx++xNUYx?UHv+XUUl+?UUxDLDFHLlFFLXxxFLL?FLDxFUDvYDHFsKX;NvX_?UDHXxN+X+NYXXNvYLsvVDsH.xsH+NNl+xU_+LvD?Dvs??vHF+LLUNslY}D6YvD_YlDFYXYdxD_UX+_HX+NLLUHH_XHX_HH?(FsFPXlx+Dls+?H+H+U_x?UUxY?fNX+XUFvgL+FvLDFsL?+LDvYsDNYUDYvvFF_wFHHHNvXxNDXsFlDXHH_lslkYsY+ulv_lXHl(U+x_UDxsU?Nv+XUlxLvY?YLhFvL_FlLFXN+xYNDYY?DHH+UUDvF?DLHvXDN?XlNFXXF?NxHlNxXv+LlL+NlU+YUoxvYE_lUHvD?xvD?sNYvv?Dvs?_vsLXY_DvY_Dl+XFHLHYLDUlHXqNsXLNNXUYv_lX__XH?NsXL+LlF+sl?+HX=lL+?lv+FlHx_vs?YvF?XLxx??+vl?xYLDLYNDUYY_dHvUUUl_HXNNxXDNsLHHv_YHl_UXHNxXL+_l_+llF+XUxxDH_H??WvD?LvN?Ul+xD??vULFFFLXYxDDYsD?HHU+H_NHHU_YXrHDDsX+DYXxNDHUNFXLNxF?LvF_D+FYDNYDDYYl_xH__?H?vUF_vHF+LL+z?NxH?NvsllLsFsLHYL+s_?H?_HX+NLXNNU++FS>DlN5lsF<XYXsLCYsHiv_v+ll?+HlF+H_LXlUDxDUxxYLNFYL?FHD+x_FoL+FDDL_DHY_lHF_Xv_YUDHYFNvHYNssl*UsY+Mlv+slX+FlXxxHFlN+Xl_+xU+?lvH?YLSFvllxUFxvLDDYDDsY?DHH+_LYNxlHXNUXvN_XlFH_HXNNvHFD+gtNx4+NFlFxYUrxvU__F+slsxxUsXFUVv+ULxl?DxHUHvHFNLlDFYFDXHx_DHs_?HHN+X_NYXUNY%aYNLFX?_YXFNNlN+?l?+HU+DxYDDsUXv??vv_?lsXxx?LvL?LvNlLLv?DLL?XHe_=Hv__Hl_FHXUevDNU+vNH9+sLLHHXs+HMsD;Dslt+l++_lHH?lv:XlX+?lF+Hl0xlUUvLUUvsDxYxDDYsD?YH_++sUNHY_YX%NvX_NlXFUNLxssGss?yHl++LlNDYYYxxUNx_UlxFXDU+xvUF?YLDF+LLFNlFvx?_LD??LFFLH+_lHD_sH?YL_vHv_LFFLLFxJDs?PlsF6X/_N_XUsNkvxvUNxNUUxY+HlsxYv?FLvXFxLDg?UFvU?Yv_?svYFsHv_vH__lHF_XXx_DvNNY,vs+1LsND_HHNxXssxl?xmlXxxUDNFxLlH+_v_+Yv??YL8FlvFFlLYFXD_YDDlY?DXH+_s+__UHYNhXNN_XUNFXXXs4DsUE?sH++lL+NlUYsUWxLU_x?UFxX?xDDlBv?F<L+FDLNH?LYY_lvYND?YF_NHx__Hs_?HHNDxvNNXUNYKssviNsl+5?H+xlD+sUL+HUxxL?lX+UYvx?vvX?lvF?XDxx_LsFFLHXxDLYlDUXYvYHv_sHl_YHXlYXDNH)xNHcvsL+DsUmHle+Ll_+YF?+XUxxD?_x?UXv+?LUY?UvXFCLvF_LlFFDXvvDDYlD?1l_+H__NuULDX<NDX_NUXF?_.xs?LssF+}l+xNlN+?lYx,UvxUYsxFUXvxFsvs?FvHFDNvFNLUFY_LYvDNYl_HU__xHN_sxv_HX+NLCNY?XYs+Rv?YVlsHAX?xXxls+YlHxxULNvUUvv?Xvv?svlYDvXFvLDFlL?Yxs8YLDNYUN_H4_LH__?XH_XXLNDXFN?XHs++LHsyUsH+nYX+_l?+F?XXXUDxUU?xX?+v??NL/YLL{FDL_HNLFY!DxY_DsYXsYH+_LHNssHYN+XvN_N+NY!+sx.Nss3?sHx+XD+Nl?+YUNxvUsxlFFRF?xvN?svF?HN?FLLYF?LYYxDvXlDlYYDXHv_DHFlUHHN+XLlUXUNH7CsvsUsluHsX+xlD+sl?xHkxxLUsxUHNvk?Dv_?lxs?XLLFDLsF?DLY+NLYsDUHz_&HL__xC_FXXs+XDNUX?l+(+sN=NUU+?l9+_l_+UlFLUUxvDFzx??mv+YXvN?YvYF&L_F_LFFFLXYxDDYs_?XU_+H__NXU_YXvNvx_s3XFs+cxl1wslEWHF+xxlN+FlY_XUvxXUlLF?_vx?svs?FvHX?LLYNU?FYDxYvl)YlDXYXNLUF_sHH_HxDNLXNNUcXNL}vsUdlY_AXlx+D?sXvlHxDULx?UUDl?BDvsHvlF+vXFLLDXvL?HHxlYLDYYUDXHqN_H__l+F_XX_NDXHN?Wts+5UNYBUl++TF?+_lU+FU8xxUlDNU?xH?+_F?Nv??YNqv?L_F?LFHxDx+DDsY?YLH+_sHN_UHYN>XvN_??NFJLsxBDssA?sHxvD?+NUP+Y?HxvU_xlUFl_?xvU?svY?HLvFLLNsFLYY_DvYNDlYFDXHxxNHsNxHHNvXLNNXUNYFxsvPHsl>XsX+xlD+sDY+HUUxLUNxUUYv-FDXY?lL_?XsvFDLsF?_{FDDLHxDU)__;Hv__VlY_HXNYXDsvX?FN(+l_CUsU+ll!+_l_+llFv+UNxD?Dx??+v+?LvNFFvHFWD+F_LFFFLXYxDDXxD?Hl_+Xx_NHF_YMxvUX_sDXF?PmxsDKss?vHl++YlNx_lYxxUvx_+XxF?lvx?_vs??vHF+XXFNDDFYDDYvD_YlDFD+_vHX_sX__HXxNLXNUUXYssBvl!)lsH#Xlxs?lsxLlHx+ULx?UUxYNxvvFVvlFSvXFxLDYsUDFXDUYL_FYU_NHuNDHF_lX__XpQNDXsN?+HxXMLl+9UlN+SYH+_U?vDlXxYUD__U?xH?+L_FlvUFlLik+L_FlLFH+DDYD_DY?lFH+_LHNNF}vNW!+N_vXNFXXsxcDslG?ls++Ux+NlF+Y?<x_U_vxUFLN?xvX?sLYvFLxFHLNYsLYYKDvX_N;YF_lHx_XHs?_HHsvINNN3DNYLYsva_sl+HlL+xU++sYl+HU+xL?lvsUYvY?vsv?lvF?XDLY_LsYlLHHHDLYNDUYY_UHvN,HlNUHXNLXDss+#NXEUsLxNsU+Nl&LvUv+lUD+XYXxD?xx?UHLN?LvH?UL_F%LDF_D?YxLXYUDDYlD?YH_+HLN_HUNvXzN?X_N?XFNX8DsD4Xs?+Ol++LlN+UU+xQU?x_UlxFUXvxFNXX??LNF+_FFNLUFYDevUD_H+DFH+_xHN_sH?XYX+NYXNNUXYs+/vls+lsF+llxxvls+?lHL+UYxN?LxY?Uvv(+vlFHDxFxD,FslsFHD+YL_lHlDYHF_vxL_lHF_X.LsDXsssXHFHgLsNSUlX+HlvxLllDUlXxxUDxsY?xH??vLFDvU?XLzYvUNFlDDFXNxYD_xY?DH++_LHH_UX_NwXDN_XlvHXXsUCDsld?sH++lLYllUx_Unx_U_xlUFxXNLvDFxv?FEL+FLLNFU)XYiDHY_DlYFDXHxNNUX_?XUN+v%NNXUNY+xNNk_l_,F?s+xlD+s??DNUxv+UNvNUYNl?vLsYvvFFYLxYlLsF?LHHvDNYN_lYYNLHv__HlNHXXNxIDNs0XNH!+sLeNlF%YlY+vU_+llH+X?LvvUsvlUH_X?LvN?ULXYlLvYDLlT^LXYxDDYss?YH_FHLN_HU_XX!NvsDNl&sNXIxsDM?s?xhUN+LUL+UU?x0Uvx_Flv?UXvX?DLD??slF+D_YULUY?DOxMD_YlDFX+N_HDNNH?UFX+NLXNsF*NsV+vs_LNsFBXlxxN?x+?UXx+HUxNUUxY?<Yv?_L_?FDmFxLNFsD?YlD+HCDNXUDYHY_vH_N+HFNFXxNlXsN?XHl++HsN+_sYxDlvxvllLFUxxx?+xsHsxH??vL?NLJ?YLUFvDxFlLHFXDxYUDsH_DHHL_LHN_UHYN?XvsxXlsxXXsx,DssxJsH+HlL+llU+YUdxv?sxl?UxX?DvD?sv??HcvFLD_FULYY0DvY__?UvDXXx_DxN_?HHN+XLYHXUsFIbsDV_s?TFsXsslDxsl?xvU+xLUNxUl?v FLv_?UvF?XLxFD_5F?_eY+D_YNDUYY_OXx__XF_FHXNxXDNsOYsl^+ls0NYs2Ylp+v?_+?lFvLUxx_UsLFUHLvFvvNYyvYyxLvF_LlFFDlYx_sYsN+YH_vHL_NNl_YKLNvX_Nl6VNX+Llx*sUC)HlX+LlN+U?YxsUvv?UlL+UXNY?DLUFlvHYNLL+LLUFYD!HD_lYlNvYXs_HD_sH?sZ8sNLPXNULUs=}vs_+?UNpXU?+DY_+?lHx+ULv.UULx?4LF?_v??FLXYDLDYFL?HHD+HlDNHFN_H9NsH_NNHF_XXxlDX?N?+vs++lsNDDsYxxUx+_UX+FYYxxUDxs?YvN?+L??NNX?YL-FvDsYNLFHNDx+vDsY?DHXvx?HNsvHYUHXvN_XlNFxXsx+UssxLsH+vlLxNXL+H?Lxv?HxlF+xXFLLs?sDd?H_LFLLNFU_YUsDvH?DlX+DXxl_DRsLvHHs_XLsFXUNXthlv+?sUx5sXDllDxYl?LH?+xL??xUFHv0?lv_?lDv?XDLFDDFF?D!Y+__YHDUXy_=+v__Hl_FHXsvXDslX?l+0+s_wNsU+Hl8xDl_+UlF+XUxxDUFx?F+v+?_vN?UvYFVCDF_DYFFLXYxDDYs_YUD_+Xl_N+Z_YXtNvmsL1XFlD}x?N>ss?THl+LLlNxHlYv_UvxsUlxFvHvxFUvs??vHF_LLYl_LFY__Yv_LYlDFYXsxHl_s%+_HrNNLLxNU)Xl&OvlY,lFUwXlx+DUUvLlHvlUL_?UUxY?yLD?HvlYDvX>SLDFsL?HWDxYLN+YUU+HJ_vH__l+F_XwsND+xN?V/s++LH+1?Ux+>?v+_UX+F?+xXUDvHU?vx?+vL?NDUYDLEYlL_YXLF+UDxHN_sY?NDH+UxHN_UHYsx5NN_++NF+lsx:DssS?Us++UU+N?x+YUxxv?_vxUFLL?xLx?sD+?HDvYYLNH-LYYHDvY_DlXFNUHxN?Hss+HH?FXLslF+NY+NsvDvsl)FsXxLX?+l?v+HYOxLUNxU?XvY?vLX?lD_?XLxFDDUYNLHH?DL+DDUYY_IHv_UHlsxHXsFXDNUX?sH+LsL+FsUxDlQxll_x?UY+X?sxDY+x?UHv+YLvY?UDvF>DlF_lxFF_+llDDHXD?Xl_+HL_NXFvLXes?X_lLXFNXCxlNHxs?xNl+xXlN+UlYx-?>x_?XxFFsvx?NvsF?LXF+DlFNNYFY__Yvs_YHDFXL_xt__su+_HX+NYXNsYXYlDhvssSllHxNlxxllsxUlHx+ULxN?vxYFxvvFUvl?HvXFxsFFlDHFHDxYLDNYUDYHH_vXU_lHH_XXxNDXssHXHl_hLsNcUsY+PUDxNllvxlXNIUDxsU?L4FLvLFHvUH?LOFvL_Y?_LFX_UYDNXY?DHH+_LXN_U0xN<c?N_X?NFXX++BDlHI?sH++ls+NUFvLURvUU_vNUFxX?xDDFHv?YDL+Y?LN+DLYHxDFY_N+YFUFHx_DHsNYXUN+;YNNxNNY{rsv+sl?OFUl+xHx+sl?+H?vvvUNLDUY_H?vv_?lvFHXLxYFLsH_LHYvDLHN?LYHN_Hvs_HlsvHXsLXsNs+xNHxLsLINsUxY/++LUY+l?v+XHlxDFsLDUHLs?LLH?UN_F.DvYsLlHxLX+lDDHXD?#H_xHLNYHUsHX>U+X_s?+LNX+lsDx?s?zHl+vL_X+U?Lxo?Ux_?UxFFXuU?DLX??DDF+NUFNDUxHD6HlD_HUDFX__xHDlsH?sxX+sUXNNFXYlxFUs_+HsF+Hlx+Dls+?FHx+?NxN?XxY?xvv?_X??FDvFxL_FsL?FHD+l_DNHXDYHx_vH__lHFv+Xxs?XsN?XHs+3LllY+sYxNlvxYll+FlXxx FxsF+xH?vvL?lvU?YFXFvDYFlLFFXD_YD_UHYDHXl_LXD_UHYNK+vssXllLXXlU4DYvM?UoxDlLvdlU_UU*xvU_v??4xXFFvDX_v??HL+Y_DYFU_sYWl+Y_DlYFN+Xl_DSL_?v?N+XLNNXUs_d:l?1_UDnFl++xUDxvl?vDU+LLUNLxUYLx?Hv_Y+vFFYLxFDLsH?_+Y+_FYNNxYYU?HvNsHX_FSsNxvvNsX?NH+vl?>NULbYFH+vl_+lUHxLUxL*UsNsUHv+?LLls+vYYFLv0+LlFFLXYx,DYsNvYHNYHL_lHUNYXHNv<YNl+LNX+UsDvslvhHUs+L?s+UUDxQYvvUUlLvUXDF?DvY??vHFLLLYFLUHLDkYDD_H?DXYXNsHDsLH?_HX+NLXXNU++sa+ls_n?sFkXLY+DUY+?UDx+ULxNUUlX?+Lv?_LH?FLnFxLDXsL?YFD+HLDNYFDYHMXxH_NsHF_XXxNsXssY+vs++LsN+ssY+<lvv_UN+FUXxx?DxsX_xHFvvl?NL??YsYFvL_FlDHYxDxHNDs+lDHH+_LXls+HYsvXv?LXlNFXXlLx+ss+XsHDNlL+NlU+YY9xv?_xlFgxX?LvDFslF?HDnFL_NFUDYY0svLHDlH?DX+X_DXx_?+HHlXLs_XUlHOmUx*_slvFsX+XlDxNl?xBU+xL_lxU??vb?Lv_?lvF?XwLFDDNF?LHY+DLYN_FUL_ZXv__<D_FHXNxXDYXX?sYb+s_KNsFeYUxYUl_xllFv?UxxDUsx?YHv+FxvNFUvYFxLvF_K?FFDHYxDDYsD?YHNvU?_NXU_YXFNvX_NlXFYs&vlLTsl?pHl++LlNFDlYx?Uvx_UlxYUXvxHDvsFLvHFFLLFlLUYXXFYv_0Yl_HYX_xHD_s;+_HXlNLb+NUXXsu9vsl9llDBXlN+Dls+??HxDULv+UUvx?7N_?_L?FHvXFHLDH+L?FHD+YL_FYU_NH/_XH__?HFNDHFNDgvN?*vs+4DsNnFsY+dXx+_ll+FUDxxUDxsU?sY?+vL?NvX?YLOFvL_LxLFYsDxHEDsYFDHHNDHHNNvHYNxXvNNXlsLXXsxFNss2?sH+xlL+NlU+Y_xxvU_xlUHxX?xvD?sXY?HL+FLLUFULYYIDvlsDlYFDXHx_DHs_?HHY0XLNNXUsv{wsv3_slFHsX+xlD+Yl?+HU+xL^_xUUYvm?Dv_?lvF?X-LFDLsF?DLY+DLYN_hYN_0HY__HU_FX>NxXNNsX?YY{+sL7NsF)YlV+vl_NslF+XUxxHUsx?UHL++DvN?FvY/sLvYqLlYxLlYxDXYsD?YH_xHL_FHU_YLXNvX_NlM,NX^xsD6sHUkHl++LlX+UlYx{UvsDUlxFUXvL?Dvs??vHsvLLFNLUYLD}YvD_Yl??YX_xHD_lH?_HX+sLDsNUXXsgxDs_+vsF5XDL+DUx+?Uvx+ULxNFUdD?KvH?_L7?FNLFxL?FxL?YUD+YNDNY?DYHD_vH_FsHF_XXxNNXsN?XHs+_vsNyUsY+slv+_ll+F_+xxUDxs?xxH?+vL?Nll?YLPFvLlFlLFFXDxvLDsY?DHH__LHN_UHYU+XLs}XlssXXsv6DUsxDsH+?lL+llU_DUqLv?Lxl?sxX?LvDHvv??HDHFLDLFULYY2DvY_DlX%DXHF_DXD_?HXN++LNsXUsNZ7sD:_U?uFUX+DlDxLl?x;U+vNUNxU?xvc?Yv_FDvFF-LxHDxDF?DsY+DDYN_+YY__XY__Xv_FLXNvX_NsXFNH8D?v(NsUyYXC+LlN+lUILHUxxDUssXUXvx?LvNNFvYFULvFHLlFFLXXxxYYs_DYH_?HLsFHUsYFsNve+NlXYNXplsDps+CGXl?+LUx+UlXx&UvHLUlxHUXvL?Dvs??vHYxLLFNLUFHD,YvD_YXDFYX_xux_sH?_HXvNlXNNUXYXL_LHsNDX+++lU+Dls+?H+sx+9lv0FsH+vlH?svU?FvXFxs?FULXFHD+YLUNL_?HDl_DHU_lHF_XDsYH__YX-:sDaLsN}UYxNH!ssvlF?_vs??vHF+LL5NXmv_??vU?YL2+NU?L+F(Y+DUYDDsY??+L_Y:LFFY_+YDDNNs&xNFXXsxDlXXN<XvNXYYsD92sFUxxsU_xlUFsD+vU+xYU^F+L+FLLNFULYYMDvY_D?H+DXHx_DvFYL_xYYDlNlXYNY&BsvNLHHsvl++llD+sl?_Q+_ls+?ll+?Uv?_v_?lvF?XLxFDvs%UD5YFDLYNDUxxF+D_FXDNYvLxH__HHL_7sn-vsLcNsUvl?-+DlF+llF+X+LsU+DlUxLl_?_LY?UvYF,sDxNUFvN?_LLFLLYFlLx?DD_FsDsH#_iYL_sYH_UHxN?sNfHs?tHl+NY)DsYGxlx+NxlYFDXHx_DHs_?NHNYFvDvFNLUFYlDvLFlLxFUL_U_LHYUDAY+_DYY__HsXXso vs_{lsH+Xlx+Dls_X7vll+sN?+FsH+HU_x_lUxHULvBUsL+LYY+D+YLDNxlYxDL_DHU_lHF_XLvHUDlYX&VsN%LsNmUYBsxXsNN&Ys+U+xNUDxsU?lH+xlYxlUY?XF?FvL_FlDHFvDxYNDsYFDHH+_LiNLxHYNxXvNsXls+XXsxFNssqHsH++lL+NlU+YD?xvUUxlUYxX?xvD?s_??HLvFLL?FULXYu_DlYDlYXDXXU_DHs_?XL?+XDNlXUs_<>sL0_sliFlvL+lD+sl?xNU+xDUNxHYFv/?vv_XNvFFzLxYNvFF?DxY+DDYNDUYYs.v+__HY_FXvNx^UNsX?l+I+slONsUWYl#+vl_vxlFxDUxx_Usx?UHv+F9vN?HvYF_LvFNLlFF_sYxDlYsDFYH_+HLsNHX_YXLNvXUNlXXNXxxsYPssX(HlD+LUQ+UlY?DUvx?UlxHUXvx?DDs?YvHF_LLFFLUYsD%Hv_lYl_,YX_UHD_YH?_HX_NLX?NUhTs&%vs_xlU=ZXl_+DlF+??Ux+ULvYUUvv? vD?_vl?FDXYlLDFHL?YLD+HvDNYUlFHM_lH__XHFN4XxsNHFN?fDs+CHsN^UsYv4_?+_U9+FU_xx?vxs?YXD?+vF?NDB?YLMFvDs?YLFYsDxY?DsY?DH:+YHHNNvHYNlXvsNXllFdlsxfHss+LsHxFlLxl?L+YUUxvUFxlUFxXYxv_?sLD?HL?FLDHFU_YYUDvH,DlH_DXXF_DHssxHHNsXLs+XUNX2ysvxvsl+LsX+xlD+ll?LH?lxDUXxUF+vB?Xv_?lD_?XL_FDDIF?DQY+NLH+DUH+_fHN__HY_FHXsvXDNFX?sA)+sDSNsU+Fl8+Nl_+FlF+XUxLDF:x??xv+?svNY_vYF;DXF_LXFFD+YxDDYsN?HX_+HU_NX,_YXXNvX_sNXFsD)xs?.ssFAH?+xslNxWlYx_UvvvUlvHUvvx?FvsFDvHF+LLHNxxFYDNYvDYYl_UYXNLUF_sXv_HeNNLXNNU5XNLdvsXollx5Xlx+D?slDlHxUULvhUUvH?GDv?svlFDvXF?LDHvL?H5_xYL_+YU_vH(_vH_slXN_XXFNDWxN?+Ds+xLlvfUlN+tlY+_?v+FlXvlUDxXU?vs?+v_?NvUF_LnF?L_FlLFYJDxnDY7Y?__H+NYHNN_HYN)xvN_XYNF<Nsx6Nssx??l++ls+NlH+YULxvU_DLUYvv?xvN?svF?HLDXvLNFULYvFDvYNDlHHDvHx_lHs_FHHN+XLlNYxNY=LsvuUsl+XsX+xDN+sUp+HU+xLUNxUUYH??vvF?lvH?XLxFDLsLLLHYDDLYYDUYH_EHvxsHlN0HXNDXDNsX?lH?NsLr?sU++l5xXl_+lU,+XUsxDUUx?UHv+YLDv?ULvFaLlF_DsFFLXHlDDYHD?HL_+HD_NXFNXXVNUX_svXFNX(xUD+_s?+Dl++?lNxslYvx?+x_?+xFFDvx?DvsFYL?F+LYFNDiFYDtYvN_DvDFHs_xHH_sXF_H++s?XNsvXYsl3vU+ullHx(lx+Xlsx+lHx+ULLNFxxY?UvvFovlYvvXHxLsFsDDFHD?YLN+YUDYXU_vHY_lX__XXLNDXsslXHsl;LsNBUsH+,FvxHlUxLlXv_UDvsU?xHFHvL??vUFDL>FDL_HlD+FXD_YDDFY?_xH+_LHs_UX+N6XDN_XUNFXXsYQDsFV?l+++lL+N?U+HU}xNU_xYUFL??xvDYvv?FLL+F_LNFULYXk_YY_DXYF_DHxNLHs_?XFN+XUNNGrNYI+svx_UxIFlD+xl?+sUs+H?v+sUNv+UYvU?vv_?lDFlNLxFFLsYxLHYXDLHlx+YY_sHvNFHl_FHXsLHlNs{LNH9NsL{NsUxY-U+vlX+lUD+X?vxDFsLvUHvU?LL=?UDsFuDDF?LlY_LXYsDDYsD?XH_lHLN+HUNNX#sUX_ll++NXJFsD+xs?xsl++L?f+UULx5UYx_U?xFUXvs?DL ??vHF+LDFNNULDDaY?D_XxDFH__xHDlsH?NxX+NFXNNFXYUyxHs_cYsF+vlx+lls+?FlxxUsxNUFxY?+vvFsxY?FLvFx_xFsL?FHD+l_DNYXDYH _vH__lHFNDXvNlXsNYXHsNtLs?vlsY+8lvlvll+YlXxx_Nxs?LxH?+vL?NvU?Y_NFLLXFlDDFXDxYDDHv+DHHU_LDF_UHHNwXUN_XYU?XXsxrDXY)?sX++lsL_lU+YUwlFU_xUUFxX_YvDF+v?F+L+FLLNFU9sY7DYY__+YFDXHx_DHl_?X+N+XYNN;LNYrL?x!_sl/FSF+xl_+sl?YlU+xYUNxYUYvA?vv_vUvYFlLxFYLsF?LHHv_YYN_DYYNxHv__Hl_FX!NxXsNsJLNH#FsLbYHY*HlL+v)_+llY+XULxDUFDUUHv+?LUN?UvHFZLvssLlYzLXYLDDYsD?HHFxHL_?HUNsXaNLX_Nl?HNXy_sD ls?#Hl+vL_X+UU+xBUNx_UFxFFXZU?DvF??LxF+LYFNDUxHDSYND_H+DFHx_xHDxUH?NxX+NsXNNUXYU:Y?s_IYsF+vlx+Nls+?_{x+UlxNUUxY?4vv?_Dv?FLvFxLUFsL?FHD+VFDsYHDYHC_vH__lHFswXxNDXsNFXHs+mLsN0UsY+^ll+_ll+FU+xNUDxsU?l++Yll+sUF?XLNFvL_Fll?vXF_vHFNLlY+Hv_?HN_UHY?LDsHl_YHH_HX?aNsY^?sH++2LNs>vsX+vxDU?xlUFxXx_l_+UUNxvLvF?LNFULY+xFsLUFYL?FYDD_sZD_?HHN+XU_YXUNX7Ws_p_sU:FlA+xllLNl?+HU+xNUNx?UYvLHxv_?lvFYDLxF_LsYYLxY+DNYNDHYY_EHv__U?_FXvNxXDNsX?NHx+DF7NsH,YlL+vlF+llFxDUvxsUsxYUHv_?Lv?HlvYFzLvYJLlFYLXXxsfYs_vYH_sHL_UHU_Y+?NLXHNlXHNX-vsD&HHH.XlL+LlX+UlHxrUDx_UYD?UXvx?DL>??vXF+D_??LUYEDEYsD_YlDFXXvUHD_?H?N+X+NDXNNU?XsR0Ns_ClsF*XlxvDNM+?Uxx+UsxNUFxY?,DH?NvF?FL+FxL_FsDYFxD+YNDNYXDYH;_vO_L+HFNxXxNsXsNFXHs+F_sNqHsY+{lv+_llvFNNxxUlxsUXxH?NvL?N_D?HLvFvLsFlLYFXDxlNDsYHDHH+_LHN_UXYXHXvNlXlNHXXsvVDssxxsH+LlL+slU+YUExv?xxl?5xX?xvD?sv?YHLlFLL?FUD+YSDDY_DlH_DXHD_DHU_?HXN+XLsHXUNYW^sL8_slIFsX+xlD+s?s+HU+xLUUFLL_FlLFFXDx+DXHLLFlLsF?LHxD?lLXFHYX_LHv__Hl?XDsHFDUN?X?NHS+sL!NsU1Yl8+DlF+llF+XXxs_+Ul}+FUD?_vY?UvYFKs_vD??vU?LLLDNYFD?YH_+vxFsDNYxXxN_X_NlXFHY_NXFE?s?EHl++LlN+UH+_gUDx?UlxFUXsNXlU+xsN=FvLlFNLUFYULvFFULDF+Hx_xHD_sH?_HX+sFvNNFbLsR=vs__XXHNHXX_NYXDYU+x+ULxNUUxY?=_XX_vF?FvXFxLDFsL?HH++Y_DHYUDYH#UDD?YY_uYH_IHsXUs?XHs+>LFUN_X_s;i_DUXHsX&xsN+vsFfFlFxDUN?lL;?YL5Fvslvs?svHFLfsDUHxDHH+_Lx?Yv_vYlDNY?_?NHyDsxoDssLY>vsDTss_^s+X?_xvU_xlHHld+DU2+XUYxY?_vxU?+H?Xv+F+LlFlvYY+LNYvL?HLX=N_XLNNXUHY_+HFNsXFCHlN+xlD+sH?sY+LsY+?lv+FlH?_v_?lvF?XLxFDNxk?D+Y+DLYNDUYY_&WvU_HF_FHXNxXDNsX?_HLzsDqssF+Hl5+vl___d?lL+DsUHUUyxxUDxvUDH?sSxFUFxl?LFHDLYxDDYsUNvXFvLlYvH?FqX9NvX_s?XCNX4vsD+Hs?}Hl++LDx+UlXxJUvx_UlxFUXvs?_vl??L-F+LNFNLHXFD5YvD_xlDFHK_xHDxUH?NLX+NLXNNUXYs%FDs_+}sF+&lx+Dls+?_ox+UFxNUFxY?%vv?_X??FLsFxLsFsL?FH_vl?DNHLDYXL_vH__lXH_vXxs.XssYXHs+(LUNHxsY+?lvx+llxllXvL_Fxs?NxH?UvL?NvUFXANFvDvFlDDFXDxYD_UUxDHHX_LXk_UHYNJXvUFXlsNXXl;JDssQ?sH_xlLxalU+YUVxDU_xlYHxX?FvD?lv??HL+FLDlFUDsYqD_Y_DlYFN+XH_DXL_?XLN+XLNNIFlv9/lq%_sY#FsX+xUNxll?xFU+v#UNxUUYvO+XvNFLvFFYLxFNLsF?D!Y+_-YNDUYY_.Hv__Xx_FXFNxX_NsX?NHB+lswNlsbYlv+vl_+lUHxhUxvLUsLsUHv+?LvNYxvYYVLvF?LlFFLXHLNZYs_FYHNlHL_NHUNX?NNv(sNlXYNXpxsD:s??#HlX+LUl+UlXx1Uv?DUlv?UXvx?Dv???D1FLLLYNLUYNDOYvD_Xl_UYXNxHDNsH?N_X+s_JlNUIHs//Ns_ulsFx+l?+DUU+??Nx+ULxN?FL_?1L_?_vY?FvXFxDNFFL?HxD+YsDNYUDYHB_FH_NlHFsvXxNNXss?&Us++vsNx+sYx;lvxslH+FUXxxUXxsU?xHY+LF?NLU?YD<FvLHFlDHYLDxH_DsXDDHH+_LXlsLHYsxXvsDXlNFXXlLgUss+HsHx?lL+NlUxX_Nxv?Uxl?QxX?xvD?s_??HD+FLD?FULXY4_vvNDlH?DXHD_DXs_?+HHlXLs_XUsL<=sH*_slvFsX+XlDxNl?x:U+v__HxU??vy?Dv_?lvF?XNsFDDLF?DFY+DLYNDUss_PHY__Hl_FX>NxXDUsX?s_ +sH7NsFWYl{sll_xxlF+XUxxlUsx?Nov+?HvN?HvYFkLvY_UvFYDsYxDUYs_DYHNvHD_NXL_YXUNvX_Nl+FxY,xsXVslD5Hll+LUlvxlYx?UvL!UlxFUXLL?_vsFNvHFDLLFNLUYXDHYv_vYl_iYX_xHDNUXR_HXXNL8DNUXYsyKvsFyll_7XU8+DlU+?UHvUULvkUUvB?9vY?__lvLvXF?LDYYL?HsD+eLFXYU__HMNLH_sLHF_XxxNDXXN?iNs+6_sN+FDL+}l?+_UF+FlXxxUDDsU?vL?+vF?NvF?YLSsDL_Y!LFYLDxYDDsX?v_H+_FHNN:HYsFXvNFXvNFmssx DssVFsH+LlL+NDF+YUWxvUFxlUFxX?xlL?sv??HL_FLLNFULYlxDvY_DlHvDXHx_DHsY?HXNsXLs7XUNHOEsv4Nsl+vsX+slD+sl?vH?YxLUHxU?Lv>Fvv_?lLl?XLlFDLYF?DLY+DLHxDUH+_RHv__Hl_FXDYDX_NlX?sx,+sD5NsF1YlLLxl_+llFxvUxx_Usx??Xv+?LvN??vYFVLvFNLlFFLXYDDDYsD?Hi_DHL_NHUYLD+HCD?N?-xNXfxsDLXHFN?X_DYX?+FU-xdUvx_XFl+xvvx?Hvs??vHF+G_FNLUFYD^YvD_YlNF*U_xHD_sH?_HXLNLXNvFXYsx<vsN{lsF&XlxsHls+?lHxvULxsUUxYLvvv?_vl?HvXFxLDYU_vFHDxYLDsYUDYH=svct_lHY_XXvNDXUN?XHl?(LsNbUsX+VlL+_llxHlXxxUDxlU?xH?+vL?NvU?YDUFvL_FlLXFXDxYDDsY?DHH+_LHlNyHYNMXv?l_?H+_ZX__UsU^FsH++lLDYlFxsUKxvU__H2YUx+?Uv+XsHvx?Uv0UFFFDxYBDvY_UHx5FsLXlNHU_XHHN+XLFN__YHNlsDwUsltFsX_DXHlxAdxGULxLUNxUX_lvxxvsFsvF?XLx8UUlvH?NvX??+?FvLXFDL_YUDxY?DYNLXFNsX?NHDNHYNUXv_XXFNslsx+lF+XUxNN+NlXRXUD+YU_xsvXFNLvF_LlxQ?Hvl?FLLFJLx_vHN_NHU_YvXHs_UN?iDNXTxsDDF(xNvX_sxHdssavsXUDxNUlxFUXs??NL???vHF+sDxl?YvF?FLsFUvHlXLHYMDlFYDlHxLLYYN+YXXXsN9vs_&lY?NXG_NHfNsl++xLYNDUYY_!Hv__NlNs?HLvFxLDFsl6vFF_L+DlYHDYH*_vvxYxDUYLXLNsXsN?XHHX_lXH7YsY+5lv+_ll+FsX_+UsxsU?xH?+vL?NNYXYLxFNL_FlLFxoFNv_?FYHDHH+_LHN_UHYUFvvNlXlNFXXsx}DhsN+FH+++N+NlU+YU2Y_U_xlUFxX?xvD?sv?FsL+FDLNFULYYIDvX__lYF_5Hx__HsNNHHN+++NNX?NY)+svg_sl+FU9+xlD+sUN+HUxxLUNvsUYvp?vvN?lvF?X_xYDLsF?LHY+DLYUDUXYvsHv__Hl_FHXs_XDNslmNHTxsLyNsUKYlovv?v+llY+XUvxD?Lx??Hvx?LvN?ULNFALLF_LlYDLXYxDDYUD?YH_+gLNXHU_YX,NvX_N?XFNX+vsDAUs?IXl++LlNvUUHx>UDx_U?xF?xvxYD+#??L}F+L_FNDxFY_xFND_YFDFHY_xHD_sf?L_X+NNXNNYXYlD.vlsYJsF+vlxxNls+?lHvvlsxNUXxYFvvv?_vlYF?lFxLUFsD=FHDDYLNNHLDYHD_vH?_lmL_XCLlxXss+XHlL;LsN UUYxYlv+FllxxlXx?UDLs?NxH?NvL?YvUFULhFvDvFlLXFXDsYDDUY?DHHx_LH?_UHYN7XLN_XlvHXXsNODss5?sH++?LHXlUxxU%xsU_vDUFvDXxv_?Yv?H+L+FDLNFULYYLsxY_DlYFsxHx__HsNY?DN+XlNN+LNY=Qsv<FFlRYlL+x?s+slF+HU+xLU?DlUYvQ?vDl?lvY?XL_XLLsF?LHXDDLYsDUHXxNHv_?Hl_YHXNxXDssDFNHrDsL+xsU+xlZ+v?s+llF+XU_xDUUx?FHL+?LvN?UvYF5LlF_LlFYLXYxDDYUD?YX_+HLsvHU_YX.NvX_NlXFlX+DsDess?<Hl+xDlN+UUFxrUvx_UlxFUXvx?DLY??vXF+LNFNLUFYD_xDD_YUDFgH_xH__sH?_HXDUvXNNUXYUXMvsNzllqvHlx+DlsNvlHxxULxN_FxY?yvv?svl?FvXHx?sFsL?FHD+YLDlYUDYXv_vHs_lHY_XXxNDKUl_XHsLeLlDzUsY+ ?vxYll+XlXxDUDvYU?L:FvvL??vUFXL6FvL_Y?DvFXDNYD_?Y?DHH+sLXN_UXxN.XsN_XYNF+Xv_oDsYa?lv++UF+NUFvNUCxlU_vFUFxX?xDDFXv?FLL+FULNYvLYXq_sY_DXYF_DHxNxHs_?XvN+XNNNk8NYbxsvV_lETFlv+xlD+slF+HU+xHUNxXUYv=?vv_?lDFlNLxFULsY{LHYYDLYYlUYH_DHv?xHl_YHXNxXDNFxUNH1+sLDvsU8Hl4xDsU+lU++XUNxDUsx?FH!l?LvF?ULxFuDsF_D?lvLXYsDDHHD?YH_+X_xHHUNLX(NLX_NlXFl+FlsD+bs?%Xl++LlN+UDXxCUFx_UFxFUXvxYDLL?FLNF+LYFN_vFY_A7sD_HxDFX__xHH_sH?lHX+NlXNsvXYsx,vsFXXsF+Llx_sls+FlHxxULx?YlxY?Gvv*lvl?YvXYLvlFsD6FHD_YLDNYUNYUv_vH?_lX+_XONNDaUNHXHsNMLlY&UsY+}UDxsllxvlXxvUDxsU?LdFLvL?XvU?HL FvL_Y?_DFXD?YD_XY?DHH+_LHH_UXxNuXFN_X?NF6XHvIDsFR?lD++ll+NlULYU(xvU_xYUFv+?xDDHvv??HL+FLLNY)LYY/NHYNDlYF_+Hx__Hs_X+YN+XLNNNFNYi+svM_L?=FsX+xlN+sl?+HF+lNUNxUUYv#?vvs?lvFY?LxFNLsFFLHY+DLHl_XYY_vHvNLHl_FHXlxRHNsXHNH8LsL+FsU+XUN+vlU+lUH+XUxxD?UvxUHv_?LLU?UvYF6_vYXLlY+LXYNDDYFD?XH+DHL_FHUNxXRs?X_s?+vNXQssD+?s?9Hl+vLU_+UUvxtUlx_?xxFFXvv?DvH??LLF+D+FNLUHlDOY_D_YXDFH+_xHDsLH?NxX+NLXNN?XYsf+?s_pHsFAXlx+Dlsv?N?x+UlxNUXxY?Fvv?FLv?FLLFx?iFsLFFHDxYLD?MlDYHP_vD+_lHY_XX_ULXsN?XHXsQLss1UlX{Llv+?llx+lXxxUDLs_?xH?_vL?FvUYxLkYD_/FlDxFX_sYDDsY?N&HU_LHH_UHHN,XvN_T?NYXXsU1Dsl{?sH++lLx+lUx_U:xNU_xlUFLXFsvDF+v?FNL+YLLNHUDLYeDFY__xYF_HHxsDHY_?XNN+XYNN++NY% lUG_sH;Fls+xlN+sU+vcU+xlUNUsUYv+?vvN?lL<HHLxFDLsLlLHYxDLHlLHYY_DHv_?Hl_FHXlx?sNsk4NH6_sL+FsU+XlX+vlF+l?x+XUxxD?Uv+UHvs?Lvs?UvYF!DDY0LlYLLXYvDDYsD?X2_vHLN<HUsLXPNvX_NlOLNXhNsD++s?+0l+xLXs+UU+x!UUx_UHxFUX_x?Dvs??LxF+L_FN_UXsDGYvD_YlDFHD_xHDlvHF_HX+N_XNN?XYs*+Ls_=lsF+,lx+Dls+?lHx+ULxNUUxY?fvv?Nvl?FvXFxD_FsL?FHDxYLDNYUDYH(_vH__XHF_XXxNN>xN?XHs+LNHsNs:vN+<__l3xl_,LxLUUxsU?xH _Nsx7UNHXLxY_L_FlLF+t?LLsFNLNYvDDFlxUYlD?HLDsHL_YFX_sXF_Us?I?sH++lL+NlU+YUoxDUlxlUFxXxclUxXvY?XL+FLLNxvLYYFDvY_DlYFxlHx_DHs_?HHN+XLsltNNY,+svassl{FsXvxU!+slF+HUxxLUFxU?Xv??vvs?lL:?XLxFDDUFXLHYLDLY?DUYY_ZXDNDHlNQHXN_XDNsX?NH^vsL1FsU-Hlz+vl_vlNL+XUNxDUYx??+v+YLtX?ULxFtLsF_LXFFLXZxDDYlD?Hv_+H__NXUFHXRNvX_NUXFshpxsD+ls?8Hl++DlN+UlYxaUvx_UlsLUXvx?DvUF_vHF+LL)s?svC?sLxFsxlF?LsY=Dl_UHX_HX+NLL?Xv_YHD5DsYmlsF XHLNUXHsYuvlL7FxUUUxY?7vv?_+lx?NXFDLDFsL?FHD+YL_N+U_SH(_vH__lHF_XxR?DXUs+XHs+ZLYN_?XXNDw+sUl?xLlXxxUDNU+fl?xaUU+FNHZYLvFvL_FlLFFXDx+slsYY_LH+_LHNUF_xHL_NHD_NNH-vsx#DssDXXvsl{s+lUx+YUwxvXssH+llHxslUXFU?FELsFLLNFUlGvXF+LU?HLUYvHL_?Hs_?HH?s_vH?_xYH_YsD/?sl4FsXD?JxNl!xsvUvvxUNxUUYsL+sUHxYlL*kUHxHUXvl??v_FxL?D?YY_xHs__Hl_FDXYvDHHU_HsE(DsL.NsU_cXlsYX?+??v+XUxxD+UsYx_lxxNUU+X?+xlUN>GNsX?s_PxsF8UlxkHlN+?Umx!_XXNNvX_NlvXHHN!Xv_YHHsxlv+UlN+UlYNvIssl+slU+vvL?Uvs??vHdN?_xs?NvxDvYvD_YlDFYX_xxsxsHYNxX+NLXNF8_FHHNNssuYsFfXlxN?^+sl3xxvU?xNUUxY{_ls+lUYx??+XLLsFsL?FHD+YLDN?UlFHx_?H__lHF?xDvH+_LYYDXHL_Xsl+xsY+plv_UXHlL+v__}_lU+_vE?DvL?NvU+zU+vlU?F?DvFXDxYDlFLiFLLxYlDvYHHXNNXvN_XlHxN+X+NxYUDxYr+vll+NlU+YHFsLhssH+svx?xvD?sv??HL+HF3NFFDvY3DvY_lFL?Y+D0FUDU_Y*+N+XLNNv?YXNvXxNxXHspXLDDcLs_=XsvSXlsXUlvxNlD?_v_?lvF?XLxFDN=*?D6YLDLYNDUv%FDDN_sXN_FHXNxLDHLDFXN__X_DlHXNUXXslXXsNKvx+UNxDUsx?/vND+YULHFvXFLLvF_Ll+s?sLDFlYUDHYH_+HL?uLYYFXxNNX_NlXFFD_HH__XsHfHl++LlN+UlYvLHvxs?vxFUXvxcNUNveUFxDsUvlU?vU?DYD_NYlDFYXUXDLYYDHYvvvHl_?HH_FHHvLFlNDXDNxXY+sls+?lHx+ULxNHHHY?vvv?_vl?FvXFx?vqsLYYLD+YLDNxYY+DxYxD+FHHHN_XxNDXsFX_YHs_?Xv_XX++xl?+_ll+FHXl++sl++XlNxAUx?UvU?YL8FvL_FllWIXDLY_DsY?DHxN_NHN_UHYN!XvN_XlNF*+sDCDss;?XFN_1?+llY+YUSxvYLDNYUv+?FvD?sv?hD?OvsUXx??U+xFxLx?YYY_qHLNMHs_?HH?U_+Ys_+HxLvXxNxXsNHFx+LlF+sl?+HXplL+?lv+FlHx_vl?lvF?XLxFDLsXDsHYvDFYNDUYYULDDYDDlYTDHHl_vNUXXNH5+sLLFXssxXY+DUH+llF+XHlsU+FN?xpUJxLlFxF?+vls_xHUUvU?_vN?lx?FLLDFXLDYvHFNvXnNvX_FYLxX+_vXx_YsY+Dl++LlNDF+xlL+NlD+NlX?+vN?Dvs??lLxx?gvFUXY!D^YvD_YlDFYXl_xD_UX?_HX+NLvUH___XkN_FU_HXXNxXNsvXFNFzFlD+NxUUUxY?uvv?_vlUFNHFLD_FsL?FHlHLlFvLHF_D FXL??FD+Y?DNYs_FHL_YHXE_sH6UsY+2HlNXTFsD5+sHtUxU?DxH?+vLXHlXv+l6xXUNLx?+L+FDYNDFY?DHH+?xLsYNDxNvXvN_XlNFXXsxPYFseYlL++lL+NYYsFKFlx+sDFUHxX?xvD?svYFvL+FLLN+T?lv+?ULlDFYFDXHx_DHs_?YHvpXNNNXUNY Asvn_FNFFl++UlD+sl?N+)_l TFsYx+lD+Nvs?HvF?XLxvlUlxY?Uv_D_HxDUYY_kv_FlD?Y?D?YHv?HUDFH?__s_,FsU2Ylp_DXXsowLlvULxFUsx?UHND+YUYxvU+xD?DFsLYFFLXYxU+L+FlLv_vHX_NHU_YL3YXDNXx_+X+LvHl_FX=NxlvUsls+UlYx_llx_UUxF?vvx?_vs?FvHFDNvFNLUFYDLYvDNYlDFDD_xHN_sH?_HX+NLXNvDXYs+%vss-lsF<X?xHYls+YlHxxULNxUUvvU_vv?svlFLvXFvLDFlL?YxscYLDNYU_DHe_LH_N??v_XXLNDvNN?XHs++LHsqUsH+EYH+_l?+F?XXXUDxUU?xX?+N+?NL}FLLeFDL_Y_LFY{DxY_DsYXsYH+_LHNNNHYN+XvN__XNF;+sx6Dssy?sHx+XD+Nl?+YYYxvUsxlFFfF?xvN?svF?HLlFLLYY+LYYxDvHsDlYYDXHv_DHFlUHHN+XLslXUNH49svsUsl6HsX+xlD+sl?xH.xxLUsxU?lvP?Dv_Yl+l?XLLFDLlF?_HY+DUHFDUYX_0XU__HU_FXJNxXlUNX?NH)+l?>Ns?<YUxYUl_+?lF_YUxxDUsv?^Xv+?DvNYUvYFxLvH_x+FFD+YxD_YsNsYH_NxL_sHF_Y(FNvXNNlXFNX5_?Lkss?,HUY+Lls+UU+LXUvx_UlLlUXvv?DvUFYvHFvLLFsLUFYDrHv?NYlDYYXNXHD_UH?sHFHNLXlNUXHs-xXs_{XlUWXlL+D?U+?lXx+UDxNUHDF?ovv?_D??FLQFxLDLoLFYZD+Y_DNYUDYX(FLH__UHFl?XxNNXsl?Y_s+c_sNa?sYDslv+FYl+YU+xxFFxsUFxH?+vL??_l?YL)Fv_YFlLYFXD_9LDsY?DHQl_LHs_UHYXLXvNsXlNFXXsxODls_FsH+xlLDXlU+XU=LvsvxlUHxX?vvDYNv?FLLUFLLlFUNUY#DLY_DUYF_v++_DHs_?+?N+XDNNXUp+:{sD#_sleFsX+xUDNll?+XU+LvUNxFUYvglXv_??vF?XLxFFLsH?_DY+DNYND?YYsGHvN_3__FX+NxvlNsXHNHx+sUyNsY,Yl++vYv+lUFxvUxxNUs_sUHvL?LvNYNvYFvLvF_LlFFLXHxNxYsDYYHULHL_UHUlY._NvXsNlxXNX+vsDvsU_ Hlv+Lll+UYFxCFvvXUlxXUXvv?DDN??LHxxLLFlLUHFDcY_D_XlLHYX_DHD_lH??_X+sLXYNUXXs4L?s_eFsFx+lH+Dl?+?HUx+ULxN?FLl?>vN?_sF?FvXFx_DHvL?YxD+YsDNXLDY;2_sH__HHFN+Xx?xXsl?6xs+AUsN:FsYDLlv+_UD+FUvxxU?xsUYxH?NLv?NvH?YsLFvLNFlLYFXD_{LDsY?DHxD_LHs_U+YHsXvNsXlF)XX??RDsss+sH+DlL+NlU+YUkvD_Yxl?+xXHlvD?sv??HOvFLLYFULYYrDvY__?UvDXHl_D+x_?HHN+XLYHXUsvrQsDf_s?dFsXYLlD+Xl?+XU+xLUNxU_Xv6??v_??vF?XLxFD-UF?DNY+DNYNDUYY_RUD__Xv_FHXNxXDNs8YLDb+sX4NYH1YlT+vUspYlFx?UxNxUsx?UHD++HvNF_vYFFLvHNLlYH_xYx_xYslbYH_+HLNlXY_YXHNvx?NlXFNX+Ll3RslUfHF_+LlN+UlYxLUvvxUlv?UXvL?DLUsxvHFHLLFFLUFYDZYvs_Yl__YX_XHD_UH?_H_NNL9xNUXHs0kvs_SlLNyXlH+DlH+?lHx+ULllU?vs?WvX?_vU?FvXXxLDY+L?YlD+Y_DNYUYvHR_YH__lHFNvXxND?UN?^ls+issNgUsYx6HY+NUv+FU_xx?5xs?Yv_?+vX?N_v?YLzFv__NNLFYUDxH#Ds+vDHXvNFHNN_HYUNXvN_XlsH+?sx+xssLxsH++lLxllY+YUHxvYYxlUFxXFLDx?sLU?HLUFLLNFULYYFDvH+DlH?DXHL_DXsNNHHN?XLU?XUss/clDsLsU+NsXv?lD+sl?vHUlxL?xxU?sv}H?v_F?Ls?XLHFDsXF?LHY+__HHDUHU_&+U__Hl_FG+slXDs_X?FDK+sL#NlF+Ll=xxl_v+lF+XUxxD?Lx??lv+FvvN?FvYY#DsFNDvFF_xYx_,Yss?HY_+HH_Nv&_Yx?NvX_l_XFsN*xsX:ssYIHUv+NlNxvlYN_Uvx_UlxF?Yvx?FvsFLvHFvLLFNDlFYDsYvDsYlDFYX_xH?_sXL_HX+NLXNNU)XLNyvl<all_WXlx+DlssxlHxUULxlUUxX?}vvLDvlF_vXFxLDFlL?Hq_OYL_xYUs_H#_vH_slX?_XXYNDKvN?v_s++_lsyUll+}YU+_ll+F?+vvUDvDU?_D?+vL?NLF?HL*Y+L_+aLFFXDxHNDFY?_YH+l?HN_UHYNKxvN_wLNF2HsxgNss+?HX++lH+NUY+YU?xvU_DlUFvN?xvX?svY?HL+s_LNYvLYY+DvY_DlYFx+Hx_XHs_HHHN+XLNN?FNYV?sv8ssl^FsX+xDN+sUN+HU+xLUNxU?XXN?vLv?l_U?XLxFDDU?XLHYXDLxLDUYY_{OvlXHUNUHXspXDllX?l>&?sL+_sU++l%+vl_x?lX+X?xxDUFx?UHv+F_LY?ULHFgLNF_LlFFLXY_DDH_D?HX_+H__NXFs+X7sxX_?dXFNX*xlNxLs?+Hl+L+lN+UlYxzYvx_?DxF?Xvx?Nvs??FYF+D+FNLUFYDvYv_sHLDFHY_xTH_sH?_H++NDXNssXYsH:v?H<llH+HlxxLls_xlHx+ULvlFxxYF2vvHYvl?FvXYL_+FsDFFHssYLDNYU_XH?_vXs_lXD_XXxNDXs+?XHsXbLll!UsX+SUvxNllxllXvDUDv_U?xH?FvLFDvUF+LIFvL_Yl_vFXDXYDDXY?_FH+lLXX_UXUN^vlN_vLNFXXsluDlvT?l?++l_+NlUxYUpxXU_xFUFxX?xvDF_v?F?L+F?LNFULYYO_sY__NYF_+Hx_DHs_?^NN+!vNNXYNYIusv^_L?<FlX+xlD+sl?+H?vH?UNv?UYNx?vv_?lvFx_LxYDLsFYLHYvDLYNYnYYN+Hv_?Hl_FHXNxHvNswYNH-xsL)NsU<Ylx+vUl+llH+XUxxDUsvlUHLD?LvN?UvYFVDDYDLlH+LXXLDDYsD?XH_xHLNYHU_HXA?HX_s?+vNX+lsDWHs?MHl++L?++U?+x7?Ux_U?xFUXF+?DLY??vHF+LsFNDFY?D-HlD_mxDFYX_xIDNxH?sLX+sUXN?xXYlx+?s_x!sFD_lx+DlsxYUsx+?FxNFYxY?-vvFsvF?FDsFxsFFsL?FH_vYFDNXLDY+N_vH__lHFNsXxs?XslDXHsvdLlN+ssYxDlvxlllvxlXvL?LxsF+xHYUvL?NvUYYLYFvDFFl_xFXsUYD_UH_DHXs_L+H_UHYN{QDNHXllLXXUsODss%?Uh+_lLv!lUDLU9xvU_v?NvxXFFvDHXv??HL+FLNNFU_vYc_YY_D?YF_XvF__XY_?xxN+RUNNaFsNo%llw_Fl2FsX+x?DXyl?vLU+vUUNLvUYD6s?v_FXvFYDLxXXLsY?_vYx_lYNNvYYN_Hvl_XY_FaLNxLmNsbsNHy+lLBNlYwYUD+vls+lUHxYUxvlUsv_UHv+?LvN?HvYYxLvYULlFHLXYxDlYs_HYH_xHL_NHU_Y YNvdUNlXHNX/xsDisLY<HU_+LlN+UlYxn?DHYUlLxUXL+?Dvs??D>ssLLYHLUH+D)YvD_YlsFYXNNHDNXH?N;X+NLs_NU+vsPMvs_zHsFx+U_+DUX+?FNx+ULxNFUvH?-LU?_D5?FNNFxDNH+L?H_D+B?DNYUDYXxNDH_sxHF?LXxNDXssY;Fs++HsNL+sY+Glvxsl?+F?UxxHUxsU?xH?+_L?ND+?YD?FvLsFlDFxlDvH?DsHHDHXs_LXlNFHYsNXvl+XlNFXXUx+YssxxsHxslLLXlUxXUFxv?HxlHvxX?xvDFUD_?HDUFL_vFULYY!DvHDDlXvDXX?_DHU_?XHNvXLsYXUNH1nlUh_l?+lsXxllDL+l?+HU+LL??xUFLvPFUv_X+vFY+blFD_#F?lDY+DLYN_FLv_+XF__vU_FHXNxhNNUX?lsC+U#^NsU4YUxxsl_vLlFD_UxxDUsx???v+F?vNYDvYFxLvY__+FF_DYxslYsNxYHNvXv_N5+_YvYNvX_Nl+FslkxlFSsUxCH?x+LUlH+lYvsUvDNUlxFUXLLNFvsYLvHXxLLFNLUYXxUYvN!YlsYYX_xHD_sXX_HQsNL++NUXXsr+vlL:lUx4XFH+DUX+?FHvsULvYUUNs?)DH?_vlF+vXY_LDYHL?Y!D+H__HYUNxHRs+H__lHF_XXlNDB?N?+vs+z_sNMUYL++UN+_lU+FlXxxUDxYU?Lv?+v_?NvU?YL3H/L_YXLFFXDxYDDsHYNUH+N?HNsFHYNrXvss+LNF+NsxDNss9?sHxvUc+N?v+YYHxvU_xlUFv+?xL??sDL?HLvFLLNDlLYHNDvY_DlHcDXXLNHHssvHHlUXLNNXUlY-Ysv+HslxLsXLUlDxUUs+H?UxLHHxUUYvMFDD+?lD_?XNxFDLsF?_rYLDLXxDUxL_oHv__X?_YHXsHXDUXX?NH}+sLvNsUxDlnxXl_+?lFxXXFx_?Xx?F+v+FFvNFFvXF,D?F_slFFLXYxNDLlDFX__+XF_N#v_Y+,sXX_l+XFlNixlvIsl?x+l+x?lNvvlYvsUvD_UHxFF_vxw^vs#YvHYvD?FN_xFYliYvD_YlNF?N_xXY_s5v_H^+NL+NDxXYls8vlHSlH+RXUxN_lsvxlHv+ULvXUUxYH0vvF?vlYvvXFLLDYU+xFH_NYLNDYUDYHO_v+__l<h_X.sNDXUN?XHLvSLlFeUsH+Mlv+_llYHlXvsUDxUU?xH?+vLNlvUYLL-FvL_FlLFH++lYDNIY?NDH+_LHN_UDLNQ%UN_X?NFg+sxCD+Nu?U_++lL+NlH+Y?xxNU_LxUFDs?xvD?sD?YsL+YYLNHvLYGsDvHsNLYFNlHxUFHs_?HHsvnUNN+DNYvNsvc_sl+HUL+x?++sYx+HU+xL?lv+UYLY?vNY?lvF?XLxFHLsHLLHHHDLYlDUHYN}HvNHHlNXHXs?XDsU1xNH+UsLvisU5Yl8vv?P+l?D+X??xDHex?FgLL?LD+?UNLF,LvF_D?YFLXHYDDEXD?YH_+X_NYHUslXQ?UX_NlXFl+FlsDxDs?DHl++LlN+ULYx:?Fx_F_xF?+vxFDL2??D_F+NsFN_vFYs5YLD_X+DFxU_xvF_s+?slX+sFXNFvXYl+Tvs_+ssFxDlxxYls+YlHvvU_xNF+xYHxvv?_vl?FL?FxDUFs_xFHDvYLDNlDDYX__vHH_lHF_XXxHNXlsFXHlN>LsszUsYLklvxDllxYlXxLUDxsvUxHF+vL?NvUF(L{YDDYFlDYFXN?YDDsY?NHHx_LXs_UXHNfx?N_u?sNXXlLiDFXu?sH++U_+slUv3UbDUU_xlUFL+FvvDFFv?XDL+FLLNYFDFY(_sY__xYFDXHx_D+s_?XXN+(lNNXFNY+-HL4_llZFUx+xU_+sF?l_U+vLUNNCUY_??v__v+vFFXLx+CLsf+LHY+sLYN_sYYNoHv_sHl_F?+NxGLNsXFNHu+sL.NLFnYUa+vl_+llF+X?LHFUsvFUH_v?LvN?UvYxNLvY_LlFHLXYLDDHUxxYHNxHLllHU_YX9Nvx_NlG?NX+vsDCUs?BHDv+LUN+UlYxiUvx_??XvUXLv?DDF??vHF+LLx{L?YYDEHLD_YlDFYXzYHDNLH?_HX+NDXNNUxYsybYs_+DsF++lxxNLL+?Ulx+?UxNUUxY?pvH?_Lx?FLUFxLNFsL?YxD+YHDNYXDYH,_v=__HHFNUXxN?Xs?FXHlv+NsN+NsYvDlv+_ll+F?Nxx?Oxs?sxH?vvL?YvL?YLFFvLHFlLYFXDlYDDsvUDHH+_LHH_UHYN3XvYDXlNFXXssSDss&?sHN0lL+NlUxxU1xvU_xlM?xX?xvD??v??HL+FL&lFULYYzDlY_DlYFDXL+_DHs_?XNN+XLNNXUYFR{sv-_s?(FsX+xlDl+l?xsU+vhUNx?UYv_UYv_FvvFF_LxF_LsFXLHY+?vYNDUYY_xHv__Hl_FLHNxXDNsXXNHM+sL)NLF<YlC+vlF+llF+XUxsLUsx?UHv_?LvN?ULv?ULvY+LlFFLXYvDDHLD?YHFQHL_NHU_XX{NvX_Nl?HNXbxsD%ls?%Hl++LDl+UlYxJUDx_UlxFUXXL?Dvs??L+F+LLFNLUsXDKYvD_YlDFYX_xHDFNH?_HX+N?XNNUXYs;FDs_elsF+Llx+Dls+?_<x+ULxN?+xY?bvv?_ls?FvXFxLUFsL?FHD+vvDNYUDYHL_vH__lHFv+XxNDXss+XHs+KLsNFFsY+blv+Hll+FlXvLllxs?NxHFvvL?NvU?YsDFLDvFlDDFXDxYDNsHsDHHH_LXL_UvNN(XvlvXlslXXlM-Dss7?sH+slLxvlU+YUpv+U_xY?lxX?xvD+YvF?XL+FLZxFUDHY-DHY_DlYFDXlY_DXU_?XHN+XLNNXUUsu+lL<_s?!FlG+xl?N?lFxUU+s_Usx?UYvx?vvUHsvF?XLxxNLlFFLHY++_YN__YY_lHv__HlsFFNNx%+Ns6NNHDlsLxN?D/YlF+vUx+l?++XUs+XUsvlUHvL?Lvs?UvHF}LvxDLlFFLXYYDDYsD?YHYUHLNvHUN?XQNLX_Nl?HNXPHsD++s?(Hl+vL_X+UUlxKUXx_Y+xFFXDY?DLL??LUF+DlFNDkFND%H+D_YYDFH=_xH__sH?FYX+NLXNsLXYs5cvs_sxsF+?lxxvls+FlHxNlHxN?_xY?xvv?Nvl?HvXFxULFsL?FHDvYLDNYUDYvX_vH__lX+_XXxNDXUsYXHsH(LsYhUsY+2UvNNll+HlXxDUDvDU?vLU?vLFLvUFxLrFLL_Y2LFFX?+YDDsY?_xH+_LHN_ULFN-XvN_X?NFXXsx(DHNd?sH++lY+NlU+YU=HDU_xlUFvD?xvD?sv?+YL+FLLNFXLYY5DvY_?sYFDXHx__Hs_?HHN+DvNNXUNY6Fsv9_sl+FX:+xlN+sFx+HUHxLUNHFUYvY?vv??lvF?X_xlYLsYlLHYlDLr_DUHvDUHvNDHlNDHXNvXDNYX?NH_nsLqNsU6Xln+vl_+lX?+XUxxD?+x?UHv+?LXl?UvYFOLlF_LlFFLXv+DDYsD?Hv_+HL_NHUFFXqNvX_NFXFNX=xsDs+s?+?l+xvlN+?lYL0sZx_?_xF?)vxH+vsF+LvF+D+FNYsFHD+YvDNYl_!IH_xHD_sNl_XXxNLX?UlXYsS8v+s-UsYoXlxYNlsxslHxlULxNUULYssvvFvvlFlvX++LDHsxvFHDXYLDsYUslHC_v_?_UXl_X;SNDXUN?XHvXmLslhUsX+:lv+_llxYlXxxUDxlU?xH?+vH?NvU?Ys_FvL_FlLHYXDxYDDs+HFULUYLDUUHDxHvD_Y?_NHS_AXrNlX?5HsH++lL+NlU+Ys<_xUlxlUFxX?xvD?s_FXHLLYsXD++xHLU_NFLlsYXDXHx_DHs_?HH_+vvNUXUNYi<sv1_BlDxFX+DlD+sl?+HU+xL?X_UUXvD?vv_?ll+!vU?vxNUFHLHY+DLYNDUYYULxv_sHY_FHXNxvUH_NRH?avlLaNsUbYYxNLXlsLtvl+++lU+_sXX+UgxpU_xFN<FvYYDXHx_DHs_?xH+NDYHl_+HL_NvvYUD+YUD??F_?H?N+XNv?sY+Dl++LlNNJ(xsv+NlD+?DH?+vD?Dvs??UFx_??FlDNFYDVYvUlvHFsLLFDDlFYLXFxDlYl_LYXXXs_yvs_ElFHsLR_slyNslUCx_ULxNUUsTxLlLxUlH?XvXFxLDFsL?FHN+lLDUxxvHDUNNlL?PUYUHXxNsXsN?XHs+bLsNx_FY+xlN+_ll+FXxs?+XsYUYvx?+vL?Ns?vxU+xNLsFHLFFXDxLl?lvYFUL___H?_UHYN7L+YN__H+T+ssIDss{?YHNxQ_NFOsl+UxxNU_xlUFlD+?Uv+FvY?XL+FLLNQULXYDDvY_DlxDFFLvFFLY_YXDN+XLNNvFXxNLXNNDXNNXlxUFxH?+vL?NvUFYH_x?UYvv?vv_?lvF?XFxylssFYDDY+DLYN?WL_YvLFFsDDY+X+NsXDNsX?YvNLHlNlYvN+lv+vl_+llF+XUxLXHsxY?Nv+?LvNyH?LxDUsvLlxvU?DL+DNYYD?YH_+vKFsLFYxDFNDXHNlXFNXDxXLN?XLsxXUsv5D+F?lxSUvx_+?sHxNlvxsU?x7?xxUUs +NlXFs+2LsH+il++sl?+_lHx&UNxUUDxH?nXXsL3vs_flYDNxB+svlUx+lHx+ULN?+xlx+YlsxlvF?FvXFxLDFsL?FHD+Y_DHYUDYHMUNL?YF_*H+_+HHX?N?XHs+ILsNkUU+DzlDv_ll+FlXLs+Fl+9XUx+lN+H?_FHY__x?U?vx?vvNF_+xsFMYsH}NFUD_YFDUY+_N?v_lHU__sLvFsso?sHNl^ss?dUlSYUDxYDUKxvU_HtUNxNlYxU?:vFNDxY?FvYsxvH?HvYFvDDFYDNYX+?HDDFHF_NYX_HHL_XXDv?XsNXX_NXE>DY+_lN{FlFX_lLX&vl?lvF?XLxFDLsvlsHYvDXYNDUYYU+D+FlD+Y?_+Fx_LH+_lXx6vlv=NsUMYYDNL0lsxMUs_H_sH+Ul3++UD+YU_xsvHF+LDFHLlFFLXxDFUvUFXLNYDD7FFHFN+XRNvX_FY_+XNN_sNWYs?;Hl+_s>6sHTlsDUDxYUlxFUXlsxNUNxsl4nss_FlD=FYDVYvllLsFsLHYL+s_UHX_HX+NLLNH_DHXldDl+wlsFqXY_NHh?s?IUsx+YNDS?lU+Dv_?_vl?FvXFxFD:ls?Y-DFYLDNYUUxL+Y_LXYNDvFx__HH_LH!0Oss/LsN4UY+Nl&lNXXYs+++xL??xsU?xHXvlD+UUDxL?xvx??vN?*xvFLv_F_LHFHLxY_LFYsDPHlXDsNXlNFXXFXNLXYNHXvDvkls?iHsF{HDLHllD+Dlx+Yvs?sv??HL+FLLNYH YYxD_Y_DlYFUHDNYlH?lHx+ULxNUUxYL*vXs_=_sluFsX+xlDvFD?xoUNxLUNxUXZlXxDUL+HUHF+LsFDLsF?l+Lv?lvsFHLx_+Y?__Hl_FyXLUXDNlX?NH{+lHdNUUHDlA+Dl_+llFDUUxLDs*x??+v+?LvNYHvYFOXHF_LYFFDqYxDDYsD?Uc_+Hl_NHU_YXkNv+_D+XFsL8xsU%sUU!Hl+DvlN+XlYxDUvxUUlvxUDvx?UvssmvHFxLLFsLUY+NXYvD_Ylx+YX_vHD_sUY_HX_NLXsNUXYsPrvLs^llxwXlL+Dls+?lHHvULxHUUv ?3vv?_vlNHvXFULDFFL?FHD+H_+HYU__HKNLH__lHFs+H_ND!xN?vNs+bLsNxU_D+tlY+_Uv+FYNxx?NHXU?vl?+vY?NvU?YDxsUL_YDLFYsDxYDDsHYxDH+N+HNNvHYN3XvN_xXNFOlsx+xssy?sH++HD+NUx+YU)xvUsxlUF_+?xvH?svX?HL+FLLNFXLYYUDvYUDlYFDXXLNLHsN_HH?_XLNNXUsXOLsv+xslvssX+xlDxUUL+HUHxLUHxUUYv=?v_F?UL_?XLXFDLUF?LHHNDLHxDUYX_-Hv__Hls_HXNHXDNFX?NHO+l_+DsU+Ul<v+l_+llFv+?_xD?_x?YHv+?LvN?UD_F#DxF_LFFFLXYx_NHVD?HH_++v_NHU_YXhNLX_sNXFsY^xlDGss?vHl+xtlNxslYxxUvx_vsxF?Fvx?DvsF}vHYvLlFNDsFYDsYvD_YlNFHF_xXv_sXl_HQzNLzlsDXYsX/v?xAlsF7XULxLlsx?lHxUULxNUUvXFYvvFNvlHsvXFxLDYULYFH_vYL_-YUDYH*_v+__lXU_XMLNDXUN?VHY?oDlLVUUL+-U++_U?vDlXvrUDv_U?xH?+DLFXvUF?LMY+L_YsLFH+_NYD_NY?_<H+_LHNNFXYN=VvN_X?NFXXsxhDUx6?lF++UL+NlF+Y?AxLU_v_UF_+?xLv?sLYYvL+YxLNYxLYY%DvX_NSYF_YHxNvHsNUHHsv??NNKlNYxQsvJ_sl+HXD+vUD+sFN+HU+xL?lvlUYL+?vvs?lvF?XDLYDLsYYLHXYDLYNDUYYNUHvNLHlNHHXNLXDss-NNH-HsLxXsU+?l&xDUX+lUU+XY?xDUsx?FHvD?LLD?UL?FuN?F_D?YFDWH+DD8lD?YH_+X_N?HUNYX:ULX_NlXFl++NsD+ls?vXl++LlN+U?lx8?+x_?UxF?+vxFDD+??L?F+D+FNDsFYsJY_D_H_DFXl_xeX_sH?_XX+NXXNsNXYsxfvs_+YsF+?lx+Nls+?lHx+?NxN?NxY?Lvv?_vlFHD+FxDvFs_lFHD+YL_lU+DYHX_vZX_lHF_XXxUDXsssXHlK,LslMUsYlXlvxLll+FlXxsUDvU?xxHFavL?XvU?YL6Hv_}FlD?FX_+YD_NY?NOHX_LXN_U+lNwXvN_!?lvXXlv!DFLe?sH++U_xXlUxXU&LXU_xlUFL+F?vDF?v?XUL+FLLNFUNYYR_xY__FYF_+HxNDLx_FXFN+3?NNklNY+xs_7_lsuFlY+xlD+s??v_U+vvUNvlUYvX?vLs?FvFFXLxFNLsF?LHHv_UYN_?YY_xHv__Hl_FX+Nx!LNs/FNH)vsL+Nl_hYlH+vFs+lU?+X?Lx?UsvUUHvl?LvN?UDYFvLvYDLlY?LXH+DDHUxxYHN+HL_?HU_YX2sDDFNUoYNXxHsD0ss?x6lU+LUl+UlXxQUvx_??vUUXLD?D_L??vHF+LLY_LUYFDtH_D_Y?DFHXNqHDN_H?l_X+svXNsF+NsM+xs_LxsFMXlxvD?v+?UYx+?vxNHxxYFxXU?_Ll?F_+FxLDFsDYlDD+HDDNS_DYHT_vXsvKHFs+XxUvXsN?XHs+vLsN+lsYxxlv+sllxFe6xx?vxs?sxHFdvLHN?x?YLHFv_zFlDHFXsxLYDsHlDHoL_LZs_UHYU&XvsxXlsUXXsL1DssFYsH+HlL+slU+YUkxv_sxl?UxX?LvD?sv??H{vFLD_FUD+Y7DvY__?ZL_0Xx_D%X_?HHN+b_sHXUsH=}U{{_slbFsX+UlDxUl?xxU+xLUNxUFNvIFLv_FUvFY+LxYNDxF?_gY+NlYNDUYYNxXl__XF_FX?NxXDNsX?sxI+lvVNlYMYlx+vl_UslFxXUxxDUsxHUHLvFYvNF?vYFsLvF_LlHFD?Yx__Ys_FYHNpHLNlZ__YZxNvcUNlXFNX+LsYQslH0H?Y+LlN+UUXvYUvvUUlDsUXvx?DLU?XvHY_LLYYLUFYD7YvDXYl_YYXNNHD_UH?NHV?NLeNNUxDsh+Ls_+?l_:XUv+DU,+?lHx+FLxlUUvH?^LL?_Ls?FD+Y_LDYUL?YvD+YLDNHF_xH:N_H_UYHF_XXxsN4UN?+xs+1lsN/UsYxx_Y+_UH+FF?xxUDxsU?v_?+LD?NLX?YLxFvD_FXLFYXDxHFDsHFDH++s+HNNUHYsUXvUYXlNF0ssx+vss+?sH+vlLxlUY+YUXxvYFxlUFxX?xD+?sLs?HDwFLLlFULYlxDvHLDlYYDXHx_DHsxYHHswXLNlXUNYd6svFssl+FsX+_lD+sl?vM_sxL?sxUYLv(?vv_?l?YFgDLFDLUF?LHY+__H*DUX-_^H___Hl_F7+vlXDsFX?sU3+sL*NsUvYlPxvl_xYlFx+UxxDvNx??Xv+?LvN?YvYYxLXF_D?FFDNYxDDYsN?H?_+X__NXF_YXXNvVssDXFlxVxll ss?0HUv+FlNxHlYLFUvx_UlvHF+vxFUvsHNvHF+LLYl__FY__YvlNYlDFYX_xHH_sXY_H7NNLXlNUAYlv-vlN{l?L XUL+DUUvDlHvvULxXUUxY?;Dv?XvlFHvXYLLDYNL?H=DvYL_UYU_xHm_vH_N?XX_XQ_ND{?N?XHs++_lv9UUx+<ls+_ll+F?+HlUDvHU?DU?+vL?NvUHYL)YDL_YXLFY+DxHD?lY?_XH+N?HNNFHYUz_?N_%UNF+lsxvUssh??H++Uv+NU?+YUxxv?sXaUFvX?x_??sv??HL+XULNYsLYHTDvY_DlYFfUHx_HHs_?HHNxXLNNxUNYrNsv.Xsl}HsX+x5?+sUv+HU+xLU?xUUYXx?vvX?lL+?XLxFDDsxDLXYlDLXxDUH__SXD_sHlNDHXNUXDNsX?lHUXsL+esU+_laxxl_x??v+XUFxDUYx?UHv+F_vl?ULsFK_XF_LlFF_+Y?DDHLD?9U_+HL_NXFNYXWsbX_NXXFNXoxsD3Hs?+Nl+x+lN+FlYv;U?x_?+xFF_vx?HvsH??_F+LFFNslFYDDYvs_D+DFHN_xH__s+X_HX+ULXNs3XYss<vssqllHY_lx+FlsDllHx+ULxNYUxY?Dvv?Yvl?HvXFxeNFsD+FHDNYLDNYUNY?s_vHY_lX+_XvxNDXHNDXHslkLsNwUsH+zl_+_llYHlXxxUDxsU?xH?+vL+_vU?YLoFNL_FlLFFX+LYDDsY?_DH+_LHN_ULsN+XlN_o+NFfmsx!DsU>?lL++lL+NlU+YF<vvU_xXUFvD?xDL?sv?YvL+FULNFHLYYDDvY__UYF_DHx_YHs_?HHl+!YNNkINYe_svw?slfFU++xl?+sUv+HU+xLU?DlUYv)?vxY?lvY?XDL?lLsY5LHHUDLYNDUXYsLHv_?HlN+HXsHXDNsu_NHONsL+ysUMYlS+vUY+lUv+XU_xDUsx?UHLU?LvF?ULLFcLDF_LXYLLXYNDDFLD?YX_+HL_NHHlFXVNvX__DXFs;3xsDFUs?+Ll++LlN+UlYLSN?x_UXxF?DvxYLvs??NYF+LUFND5FYDLYvN_?+DFHD_xH?_sXY_Hx+HFXNs.XYUv&vUNWlsFY+lx+?lsxDlHx+ULLN_GxY?_vv?Fvl9xvXFxLXFsDvFHD+YLDNYUNYXF_vHH_lXL_X++NDXssLXHsl5LsXfUl++:UDvxllxDlXLsUDxsU?LHFYvLF<vUF_LCYxL_Y?DNFXDFYDl?Y?DHH+N_Hs_UXsNIXYN_XlNF+XXFADlv>?ll++Y++N?UxlUoxHU_vLUFLN?xLNYvv?FUL+FHLNFULYXmN*Y__DYF_?HxlsHss?X?N+*.NNy_NYLxsv6_U+!Fls+xU++slY+HU+vYUNvLUYve?vvN?lvFs+LxY;LsY_LHY+DLXNvxYY_?HvN+HllNHXNx?NNsVNNHSFsL:NsUxY_s+vUx+lUs+X?xxDUs_UUHvF?LLx?ULlFG_vlHLlYNLXYYDD+_D?HHFxHLN+HUNsXPNHX_NlxFNX;ssD+xs?+Jl+vLFx+UUvxkUlx_HvxFUXDY?_vH??LkF+LDFNLHXFD-YvD_YADFH;_xHDxUH?NLX+NLXNNUXYUwuMs_cXsF+DlxvLls+??sx+UUxN?7xY?LvvY_Dx?FLDFxL?FsNsFHD+YHDNH-DYHx_vHN_lHFN?XxN?XsN?XHs+aLUN+FsY+_lv+Fllv?lXLx?lxs?+xH?DvLFFvU?Y{xFvLFFlDLFXDxYDNsHUDHHN_LHY_UXxNbXvXXXlsxXXsU!Dss<?sHxxlL+NlU+HUhxvU_xUUFxX?xvs?sv??HLvFNLNFULYxv?sLUD?HnDXHx_DLXFFD?Y_X_NYXUNYwPFU_NX_N+YsN_lDx+l?+HU+xL_lxUUYv-?vv_?lvFYX_YFDLsF?LHY+DDYNDUlX_2HD__HU_FHXNxXDX+X?NH=+s_TNs?aYl&U_l_+llFx+UxxDUsvY?sv+?DvN?FvYF(LvH_DUFFD)YxD_YsDHYH_+Hl_NHU_YXxNvXNNlXFsH;xsDessFEHl++LlN+UlYx(Uvx_UlxFUXvv?Dvs??vHYxLLFNLUFHD;YvD_YlDFYX_xHY_sH?_HXvNlXNNUXYYvNNHNNYX+++Ug+Dls+?HLsU+xs?Xal_xxU_xUNFxLUsxHUlFUDxFHD+YLUYLvYyLlFDDxFHHHNLXxNDXsH?DXHUN_XU(UsX+Nlv+_llDH+Ll_+llN+lU+?vv??NvU?YsLxs?lvY?HvHF?YsDsY?DHH+_LHNDUxFNp+xN_XlNF++N_pDssp?lx++lL+NlUYXUSxLU_xlUFxX?xDDl9v??XL+FDLNYOLYY7DlYNDlYF_+Hx_NHs_X+YN+XLNN+_NYo+svfFFlkYlv+x?++slF+HU+xLU?DlUYvP?vDx?lvY?X_xX,LsYMLHYDDLYlDUHXxNHv_YHl_YHXNxXDNsx?NHZ_sLwHsUzXln+lsF+lU++XUXxDUlx?UXv+?s__?UvYF&DiF_LUFFDvW+DDYsD?XU_+HD_NhULDXiNsX_NYXFsyzxUDHns?+vl++llN+YlYx_HvxNUHxFF?vx?_vs??vHFDNvFNLUFY_FYvDNYlDFU+_xHU_sH?_HX+NL+NNNXYsD!vs?tllxAXlxx_lsx2lHx_ULxUUULYFUvv??vlF+vXFlLDFsDXFHD_YLDlYUDHHc_vX?_lX+_XXxNDXsN?+HsYPLsF3Ulx+Rll+_?lvNlXxNUDx?U?vv?+vLNlvUFxL8FLL_FlLFHX_+YDDYY?_vH+_FHN_UN_N1XsN_XUNFXXsx9?H?#FsH++ll+Nl?+YUxxvUUDsUFxX?xvU?svF?HL+YDLNFULYY+DvY_DlYFDXHx_DHs_?HHN+XDN?XUNY.BsvFsslRYsX+xlD+sl?+HDFxLUlxUUYv!?vv_?l_NFiLvFDLUF?LXY+DLHsDUYY_2HL__Hl_FHXNxXDNsXFNHQ+sLylsH}Ylp+vHLNUIlsLUvxlUsx?UHv+N_vN??vYFgLvF_LlHFxNYxDNYsD?YH_xHL_N+D_HX+NvXsNlXYNXbxl_Oss?KHlx+LlN+UlYx7Uvx_Y+xFUXvx?Nv???vHF+NxXDNsFXD&YvD_YlDHHv_xHD_s_xFXDUHsXlsEXYs24vFlN?X+N#e_NUlUxvlHx+UL_Un?ll+FlD+NlFxNL+FsLDFsL?Lg?_L+F_DEFxHx_LH__lHF?DXLNUXsN?XHHLNyHF_?XX+.lDxNll+FlX_X+UlL+XlNx+U%+FsYxxUFxsUlvY?DvHFRYsDsY?DHH+_LHNDUxFNxX_N_XlNFLHXNNlsU+_sH++lLDFX?lQJll+AYNFx1Us+HlU?UvX?HL+FLlsvXUHvLDDYYDlYFDXx_FUD?YX_EHE_YNUXUNY4&sv%_slv4FX+DFsL?FHD+YLDN_U_l?tFULFFXDxYDDs+?/LLUFYLHY+DLqvNUHK_nHv__Hl_FHXNxXDNUXXNHV+sLD?HXsDhL+Dl?+llF+XXss_+LUA+vvv?svN?UvYx_UFvLUYFHDLYxDDYsUXLNYDD}FFHFNYX;NvX_FY_+XNN_YlNUHFNF,LsLXssF^xsHA_lXU?vDUXvx?DsFvxUvx_?x+ ?svv?XYDD?YlDFYXYxL_Y+DYH+XLNLXNNUXYs5 vsHLlsH+Llx+Dls_H+xsx+ssFUFvL?&vv?_sXxD?xx?UNvL?oYeDDYLDNYUUxLHYsDv_FHF_XXxNDXsN?YHFu1_sX7UsY+MH_N?^Ds+bxl_MUsFUYLL?+vL?NNF+HUvxHUYv???LLF>vlUFLY?XLXYNDNF?DXYD_+YlNxNHkxsx.DssNlXvssl_+?lU+YU3Nv+xsUxDv+F+vD?sv?TvUxvN?dvs?L+L?FLs?HvXYvL?YLD__YXvN+XLNN_HYH_xHX_?s?+vsX+xlDDU+0lx+Dlv+DlYUXv_?vv_?lUDxY?DxU?UvXD++DDDYNDUHX_bHL_lHllxHXNxXDls+-NHkLsL%UsUxLlG+v?x+lU0+XUxxDUsx?UHL_?LvF?UvHFZLvF_LlYlLXYDDDYYD?Hw_+X_NlHUN+XJNDX_NlXFNX++sD4Ys?/Xl++LlNvUU_xPUsx_UHxFY_vx?Dv???LvF+LlFNL?FYD_HLD_YHDFXF_xH__sHF_HXDUvXNNUXYlY!vsN,llHY_lx+?lsxXlHx+ULvlN+xY?NvvF_vl?FvXYLZFFsDvFHDFYLDNYU_+X?_LHF_l,l_XXvNDXsvYXHs?ELss^UsY+(?vHHllx_lXxFUDLXU?xHXJvLF+vUFNLTFLL_FXLxFXDFYD_YY?DXH+_DHN_H+FN2XvN_6HNF4nsxwl?N!?sH++UY+Nl?+YU/HDU_vvUFv0?xvD?sD?l_L+FHLNYLLYXNDvY_lsYF_LHx_XHs_FHHNDxvNNXUNY+YsvMNsl+Hsv+xlX+slH+HU+xL?lX+UYv??vLN?lvF?XLxX=LlYDLHYvDLYsDUH+?+HL_FHlN?HXNvXDNHX+NHW_sLxNsUGHl^+Ll_+YF?+XUxxDFsx?UXv+?s__?UvYFys_FNLUFFLXlLDDYHD?YX_+HL_NqULUX/NlX_NXXFslixs?+ss?+Ll+vllN+?lYx+UvxUYsxFUXvxYUvs?FvHFDNvFNLUFY+lYvDNYl_xYD_xHs_sLN_HXxNLXsNUw+UXovs_IlHs4Xlv+DUUnXlHxNULLYUUxY?2Dv.LvlFxvXFsLDXwL?FHDNYLDHYUDYHB_vH__lXX_XXUNDXlN?XHs+&LsUoUlv+dl?+_lU+FlXxvUDxHU?vm?+vL?NDU?HLgFlL_FXLFY_DxXD_HY?_LH+_UHNs?HYN!ssN_&ENFa%sxyDssx?U_++l?+NU++Y?_xv?_v_UFvD?xLU?sLx?HL+Y_LNYhLYYvDvY_DlXF_lHx_?HsN+HHNDXLNN+NNYmssvpNsl{FsXvxll+sUv+HUlxLFHxUUY_X?vvH?lLL?XLvFDDU?XLHYUDLX+DUYY_w#vvHHlNDHXN?XDl?X?liFssL++sU+Hlk+vl_x?l:+XUYxDFNx?UHv+YL?+?ULsF LHF_D_FF_XY?DDHvD?Hl_+Xx_NXFsvX!NXX_lsXFNXExUDwUs?+Ul+xylNvXlYLPUNx_?DxF??vxF+vs??LLF+LYFND_FYDxYvD_HvDFHl_xHD_sHF_Hx+sFXssLXYUxIvU_3lsF+llx+?lsxDlHxvULLN?NxY?_vv?FvlHQvXFxL?FsD+FHDvYLDsYUDYHF_vHF_lHX_XXxND+ss_XHsNSLsY3Ul++9lv+NllxLlXxvUDxsU?LHF+vL?XvUFDLiHUL_FlD+FXDUYD_WY?DXH+sLHl_UXDN,X?N_++NF++N_RDl+C?Us++lL+N?UXDUixFU_vxUFDx?xLNNXv?FsL+YDLNFULYHxLNY__LYFNHHx_DHss?_sN+XXNNEDNY&Ysvx_lU-FlU+xUu+sUl+H?vvHUNv_UYLX?vv_?lDFFDLxY+LsYNLHX_DLXNNDYY_FHvNxHlNsHXNx+*NsbLNHPYsL.lsU^Yl_+vU;+llF+XUvxDYsUvUHv??LDZ?UD+F>LvX_LlYxLXYFDDYUD?XHsFHL_YHUNvXOlNX_NlxNs(AssDtUs?MXl++sF_+UlYx3LDx_UUxF?Dxs?Dv???lYF+LDFNL?FYDL/xD_YlDFvH_xH__sHXlYX+NLXN+FXYs+evsFXXsF++lx?Nls+FlHxxULx?YlxY?tvvDsvl?YvXYLvlFsD+FHNNYLDNYUNY?s_vHF_lXx_XXsNDXsvYXHss&LsNeUsY+MlvY+llxLlXxDUDxsU?xHxUvL?YvUFDL2FLL_Fl&HFXDsYDDlY?DHH+sL?X_UXvNBXlN_x5NFXXF+4DsH:?lL++lD+N?UXDUgxlU_xXUFLF?xDDlzv?FLL+FULNHsLYY_lvYNDXYFYsHx__Hs_?HHNDxvNNXUNYNlsvTNslAFD++xl?+slF+HU+xLFNxNUYv_?vvF?l_v?XLxFlLsY+LHYNDLYsDUXYN+Hv_FHlNxHXs+XDNs/YNHONsL8lsU%Hl}+vUs+lUx+XUvxDUsx?FHL5?LvY?ULvFS_UF__lHkLXYsDDYlD?HN_+HLxlHUNvX-NNX_NlXFlX++sDPHs?+Ll++XlN+Ux_xbUlx_UYxFUXvx?l_N??vHF+H_FNL?FYDPlDD_YXDFHx_xHD_s4?xLX+NUXNsoXYsLTvs_+FsF+Nlx+_ls+?lHL+UsxN?xxY?svvYYvl?FL?FxLYFsDvFHDxYL_lH+DYHl_v3&_lHF_X+xNsXssLXHsU>LUU!UlX+?lvxWllxYlXxxUDvUF+xH?FvLY_vU?YL3HvF^FlDNFXDYYD_DY?NHX?_LXx_UXsNK8+N_t?sUXXsH6DUN!?sH++?LxFlUxlUWxXU_LHUFLX?YvDFLv?FUL+Y{LNFU__Y&DFY__DYF_+Hx_DXC_?XsN+XLNNX?NYvol?cNlv>F?++xU1+sl?xLU+xUUNvLUYvx?vD_FYvFFDLxF?LsHXLHY+N6YN_5YY_xHv_NHl_FXLNxX?NsXHNH:+sLxNlDeYl_+vlF+lUM+XUxL+UsvvUHvx?LvN?UDYFNLvFHLlYLLXXlDDYsNxYH_lHL_XHU_HXKlv<DNl<LNXAUsDxks?xEsD+LUB+U?NxnUvx_FlKLUXv??DL+??_+F+D_sHLUYND0HLD_YlDFX+D_HDNvH?sYX+NLXNlUNNsrbHs_+LsF+FlxvD?D+?Ulx+UXxN?sxYFxvU?_LD?FDHFxLDFs_?YYD+HCDNH_DY2D_vJ_NUHFN?Xxs+XssNXHs++?sN+vsY+Flv+sll+FULxxUXxsU?xH?xvLHN?x?YLUFvDXFlDHFXDx2DDsH+DHH?_LHl_U:Yl?XvNFXlsxXXU_0Dssv_sX+NlL+llU+HUOvDlUxl?xxXFYvD?sv??H/vFLLHFULYYaDvY_DlHx_qHs_DHU_?X_N+XsU_XUNYb5vH>_sU9FsXYLlDxvl?+HU+xLUNxUYLv+?Hv_FLvF?XLxH?swF?DlY+XXYND?YY_?Hv_U+s_FHXNxUqNsXFNHuD?vbNsU;YvX+vlN+llFYUUxv)UsxXUHv+?LvNNDvYFFLvY^LlFFLXYxD_YsDXYH_FHLNvHUN++XNvX_Nl?NNX1vsD+_Nv>HUY+LLl+UlHx8UFx_UYD?UXvx?DHU??vXF+LsX_LUFYD)sUD_YUDFYX+YHDNvH?NxX+NLXNsFFLs,=Xs_!UsFcXlx+Dll+?Uxx+UXxN?_xY?L_x?_vl?FXFFxL_FsLXXYD+YLDNlDDYH+_vH_xLHFNUXxNlXsN?XHs+sDss+_sY+Ulv+_llxH?vxx?xxs?HxH?+vL?Nv??YLLFvD+FlDlFXDsvsDlH+DHsN_LHs_UHXNpXNUDXlNFXXxs#Dsl{?sHYvlL+YlU+HUPxvU_vluYxX?svDFHv??XL+FLSlFUDvYdDDY_DlYFNX?U_DHH_?XLN+X?NN+UDDg;sl9_sX4F?n+xUDNll?xLU+vlUNxHUYvbNDv_?XvFFLLxFDLsH?x_Y+DUYN_fYY_DHv__U?_FX_NxXDNsX?NHn+lHTNl*!YlN+vl_+llFDNUvx?Usx?UHv+?Lv?HlvYFwLvglLUFYLXHLLlYs_+YHsNHL_NHUsYFsNvXFNlOxNXeUsDqsLY2Hls+LlN+UlYxcUvD+UUvxUXvL?Dvl??DB?DLLFYLUXvDZYvD_XlvLYX_sHD_HH?l_X+NL?lNU9LsQuvs_0lsFrXLY+DU=+?lXx+ULxNUUU_?avl?_L+?FL5FxLDsUL?YLD+YUDNYUDYHi?xHN_XHFNOXxN_XssYXxs+TUsNxDsY+Clv+_D?+FU_xxU_xsU?xHY+IF?NL+?YLNFv_YFlLFYDDvY?DsYYDHHl_LH?llHYN)XvNvXlNYXXsxFNss+_sH+LlL+NlUvYDNxv?+xl?NxX?_vD?sLL?HLHFLD+FULYY-_DXoDlHUDXXF_DHs_?pHN?XLsDXUs?>zU_h_l?xlsXx+lDxll?+HU+v_?YxU?YvVYxv_?lvFYX?FFDDsF?DHY+_+YNNUHX_WXv__Xl_FXYNxSNsvX?sX,+UvyNsUCY?cxll_xUlFv}UxLUUsL?Fvv+FDvNF?vYFFLvF__xFFDYYx__YsDYYH_+HD_NXl_YX7NvXNNlxF+N^xlL*sUYwHlF+LlNx+lYx?UvvDUlxHUXDxF?vsF_vHFFLLH?LUFYDUYv_+YlDHYX_vHD_sX+_HXFNLXUNUXYsOxvl:yllN}XlY+DlF+??HvFULvLUUvN?%L??_L?FxvXY8LDHxL?FHD+XL_{YU_?HGN+H_sFHFs+2xNDoNN?wXs+;LsN+Fs++fUv+_?s+FlXxxFDUxU?vH?+LL?NLN?Y_4YxL_YlLFYXDxHvDsHY_?H+NDHNslHYNAXvl_TYNF+Msx+_ssv<sHv+U++NU?+Y?+xv?xxlUFvs?xLv?sLF?HLvFLLNYDLYYXDvY_DlYYDX+xYYHsNUHHsUXLslXUNYv{sv++sl+?sX+LlDvsF_+HUFxL?xxUY+v8?v_+?ULN?XLLFDLlF?DLvLDDYYDU?__1HL__H?_FXvU+XDNsX?DNa+sD:NsUFXlC+ll_+UlF+XUxLDs*x??Lv+?UvNH+vYFpsxF_LXFFDDYxD_Ys_+YL_+HU_NHX_HX+NvXNNl/IUHbxsDTsl;TXlx+Ll?LllYxMUvDYUUxYUXvxNNvsF+vHFLLLFNLUHYd_YvDFYl_xYX__HD_sXX_HXlNLXsNUXYs8xvUxPllLJXlU+D?X+?lHx_ULxXUUvD?:vL?_L?FvvXF?LDHxL?FHD+XLD?YU__HI_FH_sFHFs+X?NDqxN?1Xs+/LsN+FlN+plH+_?s+FlXxxFDUxU?vl?+vX?NLN?Y_bFYL_YLLFYUDxHvDsHY_+H+NhHNslHYNZXvl_SvNFw?sx++ssv1sHv+UD+NU_+YUFxv?xxlUFLv?xvH?sLN?HLvFLLNYXLYYUDvY_DlYYDX+xNYHlNDHHlvXLlNXUNY+lsv{Fsl+_sX+LlDvslY+HUNxLUYxUY+vq?vv??lLx?XLLFDLlF?LHY_DLYYDUHe_}Hv__!l_XHXNsXDNHX?sx9+sLeHsU+Dl0+Ll_+llFvXUsxD?Px??_v+Y?vN?ULXF1L?F_D+FFDQYxNDHND?H__+HF_Ndx_Ydx_NX_sxXFllrxsDIsU?H_l++YlNxvlYLvUvvsNpxF?lvxF_vs??vHYvvsFNDDFY_XYvD_YlNFDl_xXC_sX__HXHNL+NNXXYs?ovl+ llU,XUL+NlsxNlHL5ULxNUULYF?vvFxvlFsvXHNLDHsDlFHDYYL_vYU_lH._vHN_lXD_XXHNDXUN?XHsv%Ll+zUsY+!lL+_FllLlXxFUDL+U?Lx?+vLHNvUFvL6FYL_F?LFHXNYYDDHY?_LH+ssHN_U+sN+XlN_X?NFi6sxPDLUd?lL++lD+NlU+Y?tsLU_xXUFLD?xv_?sv?sCL+FULNFFLYYGDvX_v+YF_DHx_?HsNxHHl+FFNNRINYd_svxNsl(FD++xlF+slF+HU+xLFNZxUYvN?vvY?lDx?XDxx_LsY+LHH_DLYHDUH+sXHv__HlUlX;NvXDNs?YNHtNsL.ssUPYl1Lv.H+lUx+X?sxD?+x?UHXv?LvY?UvXF4LvF__lULLXYsDDYHD?HD_+)LvXHUNvXVNlX_lUXFUXNUsDKHs?xvl++_lN+UDXx%Ulx_UHxFUXvxYD+8??LLF+LUFNLXFYDZlDD_HaDFHA_xHD_sy?L_X+N?XNs+XYl_,vs_xvsF+Dlx+Fls+?lHx+YFxs?,xY?cvv?_vl?FD)FxLDFsLFFHD+YLDNYUDYH9_vH__lHFNSXvNDXsN?XHlx#LsN5UsH+Qlv+_ll+FlXxx?YxsU?xH?vv??NvU?YsLxs?lvY?HvHF?YN_+Y?DHH+?sDHFXDxYHvFHLDXH?XXsLtsss=?sH_(%ls?lYD*YvD_YlDFYXXxX+vN?Hv??HL+CN?lxXUHLL?sYs_wYFDXHxUNDYYX_xHR_xHUXFsv0ksv/_FFN?X?s+0NL?lYxvU+xLUNNYx+l+xNl???LT?XLxFDllL>UXvDDNYNDUYY_)Hv__DxUFX+N_XDNsX?HL_UXx_?sF+hl<+vl_sNb+l_ULvDUsx?UHNv+DlUxDULvx?xv??NvVlxL+F+LNFY++_vHX_NHU_YvDYL_lHx_UH_DDXls+XNNvlv+slN+UlY_D++l?+_xH?Hvx?DvsfnlXvLUYvD?+++?lLD??vFYMLsY+Dv_?H?_HX+NLXNNUHY?X-_s_2lsFzXlx+DHFD?UOx_ULxNUUU+++lDxxlH?HL_FxLDFs?+LKF,L+Ulx+lXHx_UH__lHFFDD?Hs_+YY_UH_ _s?RUsY+dHvsxXUlDUgxvU__*U?xH?+vLNlvU?HL7FvL_FlLFHXxUYDDlY?DXH+_?HN_UxFN=XLN_XUNFXXsx8?FspFsX++F?+Nl?+YU4xvUUDsUFxX?x_F?svF?HDv?sLNF?LYHLDvY_DlXFsvHx__Hs_FHHNYXLNN-?NY>xsvKNslAFsX+xUD+slH+HU+xLUNxUUYLx?vvN?lvX?XLLFDLHY+LHYxDLAvDUYH_4Hv__HYl?HXNxXDULX?NX*+sLFlsUyXlm+vl_+llFvXNUxDUUx??2v+??vN?UNFFGLDF_L?FFLXYxND?ED?Hy_+H__NXv_YxrH?X_N?XFlDtxlY^ss?Y1l++_lN+FlYxRUvL_DXxF?+vx?NvsF+vHF+DsFNLHFYD;YvD_YlNFHs_xHl_sHX_HXsNLXNs+XYsL%vsUalsFkXULxvlsx5lHxvULxNUULYFtvv??vlF+vXFXLDYUDNFHDNYLDFYUDYHTNDXF_lXv_XRxNDXsN?+HX?.LsHQUlL+qUx+_?lxYlXxlUDxXU?vs?+L_FYvUFDLbYvL_FlLFHXD_YD_5Y?__H+NDHNsUBvN2X?N_}+NFJvsx&DlD/?lv++lF+NlF+YU)xHU_xXUFxX?xv_?sLY?xL+F?LNYxLYY4DvX_v+YF__Hx_FHss&HHsv??NNrxNYq?sv7_sl+HFl+xlH+sUH+HU+xL?lvIUYvU?vLl?lvF?XLxYHLsYxLHY?DLYlDUHYNdHv_FHlNUHXNlXDNsRYNHpvsLqYsU7Xl8vvlX+llH+XULxD?Xx?UHv??Lvl?UvXF5LLF_LYX?LXYxDDgXD?YX_+HLxlHU_XX9NvX_NlXFlXXXsDIUs?+Bl++?lN+UUNxOUDx_U?xFUXvxYDLD??L-F+L_FNL?FYDaHDD_Y?DFH+_xH__sH?N?X+N_XNNUXYs79vU_+XsF++lx+NlsxxlHL+?YxNUFxY?9vv?lvl?Fz+FxLNFsLHFHD+YLNNHlDYHx_vHs_lXH_XXxXHXsNYXHsL4LsN1UsYx+lv+_ll+YlXxxUDxsU?xH?+Ls?NvU?YLxFNL_FlLF+X?Hv_Y+YHDHH+_LHN_UHY_:vxNs>LNFXXsxLUHlNHXNNXX?_UmHl_aFssUlxlUFxX?xvDvss+XHLvFsLNFULY+DF+L?F_YH_DHx_DHsUH_SY_DDH?DXNX+vsvm_slLYX+sD:LsL+ylxn__N+_lsx+lDx+UUtFUDvlUNFNLlF?LHY+UYYlDXYY_PHv??xYYDDFULXNNXX?NHt+YsN_X+NLXFNsXU+?lX+XUxxDXNUexxvv?svN?UvY++?sxNUYFXLXYxDDYsD?YHULxL_lHY_YXONv_LYHNvsxvD?sv??HL+FLYNY_+FU+x}Uvx_XFlDxllN?NLx??vHF+sNxs?sLv?+L_UlLxY_LL_DHD_sH?_HX+NLXNNUXXsl0vs_ylH/s_XNNUf__L2FsN+vxl?lxY?gvvX?lUxXUsv&UFOF?LLT?_vNF?LvFFLH_vxw_lHF_XXxvXXsN?XHs+3LsN.UlXxLlv+NllxDlXxxUDLsFvxH?xvL?svUF?LbYDLNFlLHFX_LYDDsY?NBHD_LHU_UXXN.XvN_A?s_XXs_)DlU6?sH++lLvxlUxxU5xLU_xlUFLXsUvD?Yv?FvL+F?LNHUxDYKDsY_DHYF_NHx_D+s_?HXN+XlNNXFNY+mHL3_sl>FUO+xl_+sl?HVU+xLUNxFUYvq?vv_N?vFF*LxFsLsF?LHYNlFYsDUYYN>Hv_NHl_YHXN_xLNsX?NH++sL<ssU++?X+vl_+lYD+XUvxDUsHYUHv+?Lv??UvYF:_vvlLlFFLXYxDDYHD?YHNxHL_lHUNxXENvX_s?XHNXdDsD+?s?pHl+vLUD+UUTx6U_x_?NxFF+LX?DvF??LYF+LLFNDFYDD>YsD_YHDFYX_xdDsvH?NvX+NlXNNYXYU2?Ns_2HsF+Llxx+lsxY?Mx+UUxNUXxY?rvvY_vH?FLDFxL?FsDXFHN+YNDNHaDYH__vX+_lHFsNXxNsXss+XHsv.LsN+tsY+Llv+_ll+YlXxx?Xxs?KxH?NvL?NvUYY+sFvL?FlD+FXDFYDDH+?DXH__L+D_UHHNRXvN_XYU?XXsxPD?_O?sX++U_E?lUxxUJxFU_xlUFLXsUvD?Yv?FvL+YxLNYF+LY%DlY_D?YFDXHxNNUX_?XDN+7_NNXUNY+xLU6_l+:FU++xlD+sl?HbU+xYUNxFUYv,?vD_FDvYFsLxFHLsFXLHH+slYN_vYY_YHv_XHl_F+XNxXUNshLNHuvsLVYFU#HlD+vFL+llY+XUxxDUFDUUHv+?L_D?UvHFELNXDLlFFLX}NDDYlD?XSDDHL_FHUN_XONvX_ll?XNXVNsDBYs?+Fl+x_UN+UUvxCUDx_UlxFF+vY?DvX??D>F+LLFNDFHJD1Y?D_H?DFYX_xXNN?H?NNX+s+XNNUXYso&Ys_3HsF+slx+Nlsx?XXx+UsxN?UxY?Dvv?__l?FvXFxLlFsLYFHN+XXDNYUDYHz_vHN_lHFlUXvNDXsNYXHsxzLsN+?sY+5lv+Nll+FlXxxUDxsU?LD?+vL?NvY?YL8FvL_FlLF?Xl+YN_+Y?DHH+?sDHFXDxYHvFHLDXH?M+s_:Dssw?YXs_XDN?lFxLUJxvU_NY+?l_+lU++YlXF+NLXNNUXYshbv+_+DD?YXDXHx_DvNHf_xNvXFNNXUNYDxXxNUHUstXss+av+?l?+HU+xLUNxUUYvi?DvF?lvF?XsDvNUYxFFxv_D_YUDUYY_hD+F?_6_XHXNxXDNsX?NHLLFLqlsXGYl8+vH?DYdDsFYLxNU?x?UHv+XYlUxlvXFLLvF_Ll+F??vvFHYUDXYH_+HLUFDsHxDYN_X_NlXFNXqxtDLHF?+flF+LlN+UHxs++_sX+Nlv%xU_xHULxzLIY{LLFNLU+x?+L_?XLNFvxvF?DNFYLHHxDUHv_DNYXYs-Cvs_:lQFNDYx+NlF+?lHx+Xgl;+slx?xvL?_vl?FsDFLLlFsL?FHULvYY+vXDXHN_vH__lLxYs_DYHDUHN_vs+sDsN4UsY+!L_+_ll+FlXxxUDxsU?v_?+vD?NvU?YLJFv__Y+LFYgDxY_DsYXDHH+NXHN_?HYN+XvN_XlsF-+sxGDssoXsH+xlL+NUv+YUTxvUNxlUFxXYxLU?sv??HL+FLDFFU_YUsDvY_DlYFDXX__DHskwHHNxXLNNXUNYmpUv+DslfYsX+vlD+Fl?xH?kxLUNxUFLvm?Lv_?lLl?XLxFDLUF?LHY+NLYFDUYY_dHv__Xx_FHXNsXDNUX?NX)+sLmNUUxvln+Dl_+?lFvLUxLDs9x??bv+?_vNFNvYYxvNF_LFFFD+YxDDYsN??__+HN_NHY_YXUNv>sLwXFsv2xsUgss?%HUvwslN+XlYxXUvx_UlLFxlvx?UvsF6vHYxLLHNDLFYDDYvD?YlDXYXNLXL_sX+_Hg.NLXNNU+YlvdvsF,llx0XUL+D?sxNlHxNULxYUUvv?yvv?Yvl?XvXFsLDFUL?FH_sYLD?YUDYHh_LH__lUH_XXNNDXsN?XHs+xL_LOUlx+!ls+_lY+FUDxsUDxYU?LH?+vD?Nv??YLLXxL_FlLFHXDxY_DsYXsYH+_LHNsHHYN+XvssF/NFhLsx+sss ?sH+NYL+slX+YFLxvUNxlUFxX?__L?sv??H_DFLLsFUD+XXDvY_Dl}+DXHv_DXUvxHHN_XLNXXUNY*}lv_Nsl+3sX+llD+Yl?+HH?xDUNxU?+v>?Dv_YlD_?XLxFDLsF?DFY+DLYYDUYY_WHD__HU_FHXNvXDNsX?s+3+sLuNsUxmlE+Ll_+YlF+XUxx??Lx?UXv+}?vN??vYFTLvFUNsFFLXYxUFYsDFYH_+U__NHU_YXxNvX_Nl+FXx1xsDess?KHlU+LlNx?lYxxUvxNUlxFUXLL?Uvs?HvHFvLLFNLUHYDHYvDlYlDXYX_FHDNUXH_HXDNLXFNUXYsq+DlLOll+PXU++Dls+??Hx?ULxFUUvx? LL?_DlN5vXFNLDFYL?Y+D+H_DHYU_vHmNxH__lHFsXe?NDXHN?eLs++_sNxUUU+all+_lX+FUDxxUDvxU?v+?+vU?NvF?YL=F?L_FYLFFXDxY_DsY?_vH+_lHN_UHYNEXvl_Y_NFoLsx7Uss;XsH+NlX+NlX+YH>xvUNxlUYxX?__L?sv??Hs+FLLsFUD+XXDvY_DlxNDXHv_DXUDXHHN_XLsvXUNYZ1UvYHsl++sX+NlDxxl?v8_sxLUYxUUHvm?vv_F?pv?XLlFDDPF?LHY+__lHDUHD_3H?__Hl_FHXvLXDs+X?sx8+sL9NUU+ll++Fl_xxlFxXUxvDYYx??Nv+?XvNFvvYF}NvF_LHFFDsYxDNYs_+YL_+Hl_NvF_YX+NvXNNlM.UHZxsD-sYY4Hlx+LUl-HlYxDUvvxUlxFUXDxNsvsF.vHF_LLY+LUYX_vYvDFYlDYYX_xHDNUHF_HXsNLXXNUXYs-+DlHZllLqXlU+Dls+?? vxULvqUUvs?/vv?_vlY_vXFNLDY+L?YyD+HL?sYU_+HPNlH__HHF_XxxNDXsN?Bxs+C_sNxU?s+Rlv+_ll+FUYxxUDDvUFxH?+v_?Nv??YLLXxL_FlLFLXDxY_DsY?xyH+_LHN_FHYNbXvl__FNFXXsxrDss+LsH++Ux+NlF+YU+xvU_xl?HL??xvs?svY?HL+FL_NYxLYYvDvYlDlH_DXXLNYHs_XHHN_XLNNXUsX+.svi?sl+?sX+xlDvsUv+HU_xLUFxU?HvOYvHU?lL+?XLNFDL?F?_*HlDLYYDUHF_-Hv__clNLHXNsXDNHX?lJ>+UL+ssU+vl1+ll_+XlF+XULxDU?x??Lv+?_vN?ULxF7LNF_LlFFDnYxDDHvD?Hv_+HL_NHU_Y+nD9X_NHXFsLzxslRsl+x_l++llNsLlYx+UvxNUlvIYHvx?DvsxDvHFxLLF?NlFYDfYvF?YlDYYXNLYl_sXk_HXYNLXNNU+YDs;vs?Pll+mXlF+DUUHxlHxNULxsUUxY?QLDNYvlFvvXFULDFsL?H=+sYLDXYU_DH>_vH__lUH_XX?NDX?N?XHs+xLlvE?l_+ilF+_Ul+FUXDNUDv+U?vl?+vY?NvUHYL#FsL_YxLFY+DxY?LHY?_vH+H#HN_?HYN+XvNUxsNFXXsxs+ssJFsHxvss+NlX+YUFxvU_xlFFXx?xvU?sL#?HL?FLDlYvLYY_DvYNDlYFDXXL_?HsNxHHNlXLNNXUsX+LsvPHsl+LsX+xlDxUUx+HUUxL?xxUUYv#?vvX?lL+?XL?FDLUF?DHvxDLY?DUXv_!Hs__HllFHXNxXDNFX?sV&+ULvxsUVYl7+vl_xNlF+XFYx_Usx?? v+?DvN?ULHFuLvF_LUFFLXYxDDYsD?YHU+HL_NHU_XXDNvX_NlD+Fv_?XxvUsY+xl++LlN_sXHsYmsxNUUxH?vvx?DvsfXUvvl?sFlLXFYD<YvUFvUFsDLFNHN_?H?_HX+FNDFHHXXl+Avs_3lYlNHKNssXYDY+vlD+sl_+sDHXvlX+XlFxNL+F_LDFsL?x+?ULH?FYF_vH^_vH_UFD?Y?_+HNx?NHXHs+ALsN*UsYLLYv+slH+FlXxxHslN+NlYxvv_?FvU?YL3v_?_xUFvvYDLYXDsY?DHxsYvD?YxLHYYvDHD_DHwh+lriDss*?Y?s%ElsUXXDX+DlN+Uls+U_nANUD?ULN?HL+FLl?vFUHvHF_L_?ULHFLDdFs_+_YXHN+XLNNLNHFNDX__?F?s+Kvs_RLs_FF_x+Bl?+DxF?Lvg?vv_8XU+xx?_vL?UXYD+Y+DLYNDUYY_P++U_H?N+HXNxXDHFDFHI_YHlMllDWYlA+vYXs_XYs_=N_s+NlN+YUvHNvU?UvYFbLvF_LldXsXYL_FYsD?YHYvL_YXL?H4_vYs_UHx_O?lv+?Lv?FLLxFDLUFXLUFYDlYsxlUlxFUXvx?DvsF?NHFLLLFNLUFYDtYvL_+sDHHv_xHD_sDXFX_LYXXlsxXYsI=vY_NsXXNs/_NHgNslU+x+ULxNUUxY?%_?N_vF?FvXFxLDFsL?Hxl+Y_DYYUDYHS?_L?FFD?YYD_NNXHN?XHs+DsX_N+XLNFXs+lll+FlXxxUDxss?_Y?vvl?NvU?Ys_vDUNv_?+YxDxYDDsY?DHH+lFxN_FX3N-XvN_LxYX_HsLnlssJ?sHDNdZNs}++XULxvU_xlX+lYxNUx?UL+?HL+FLU++v??vL?sLHD?H<DXHx_DxHYUDFHDX_NXXUNYpiF__NXDNsX+NvXssvlYx+U+xLUNls+xUN?DvF?lvF?Xl_xYUYvs?vLLD_YYDUYY_WvvFND?Y+DYH_XNsvX?NHA+FDNDHYNDXXsDH_ssCDsY+_xsUsx?UHv+?LvN?UvYFxLNF_LlFFUxvvF?vYDYHL_+HL_NvYH+_xHx_+YHXHs_,xsDZsFHNYXXssXFss++xxUNx_UlxFGvU?xDlY?YL?F+LLFNlYvx?Fvs?lLYF+Lv?_LYFYDsYvXvNHXNNUXYYxNxX?NNXRDDRLN_3Ds2Uwx_ULxNUUNl++lD+?UD?HLDFxLDFs?LvFFLvlFlLHDXH__vH__lxYYx__YH_HHtu%s_:LsN9UY_NYXLNYXH+XlXxxUDxsU?xHYlNL?lvX?YL!FvsFvDUYv_FDYN_xY?DHH+?+D_YX_ZYDvXY?DUXx_LsLyFssC?sHDDXlNYX?lxCFlNUlxlUFxX?xvDlsUUXHLvFHLNFULY+YFxL?FFL+ULDhYlLYYYX+N+XLNNXUNYG,U?F_s?+vsX+xlD_FXFsmHXsD+LsXUXv_?vv_?lNHvL?_vl?NvlD}YsDLYNDULvYxDxYvv??vv+NL+#NlX?NHONFLrss?{Ylv+vlN+llF+XU_DLUsx?UHvL?Lvs?UL+HXLvF_LlY+LXYvDDYsY+YH_vHL_NHU_YX-Nv?+NlXYNXOLsDdss?xH_l+Lll+UlHxKUDx_UXxxUXvL?DL+??vXF+LDFNLHXFD.YvD_HxDFH!_xXNxXH?NcX+lxXNNUXYlJ_Ls_PUsF++lx+Nlsv?N_x+U_xNU?xYHUvv?FNl?YL+FxDvFsLFFHD+YLD?<lDYHh_vXL_lHY_XX_ULXsN?XHlppLss!UsYlLlv+sll+FlXxxUDvsQFxH?xvLX+vU?XL-Hv+HFlLHFXDvYDNXY?_Lx+_DHl_UG+NVXLN_XlNFSv?+yDss.?Ux++lD+NlHLFUyxvU_vHUFvB?xvNFUv?FSL+FNLNFULYHG?LY_DUYFs_Hx_NHss?F?N+X_NNX?NYw?sv2FlxMFl++x?L+slF+HUxxLU?DlUYvR?vDD?lvY?XLxsNLsFYLHY+DLYNDUXYvsHv_sHl_HHXl?XDNs?YNH(LsLMNsU:Ylkvv_H+llX+XUDxDYlx?UHNw?Lvl?UvXFrL_F__lULLXYLDDYUD?SF_+XLFsHU_HX}NHX_N?XFlXYXsDVUs?)Xl+vNlNxiUsx^UDx_FYxF?8vx?_vs?X_YF+LLFN_HFYD+YvD_D+DYH+_xHN_sH?_H5+YDXNN?XYUvhvssflUFHFlx+Nls+FlHLHULxY?FxY?xvvYXvl?YvXFvLDFFNUFHD+YLszYUDHH1_v_U_lHH_XXxNDXsN?#HHxRLssGU?U+ilD+_lllxlXxLUDxsU?vt?+DLsXvUF.L;FLL_,vLFYX?vYDDUY?_vH+_NHNsUFDNGX_N_XUNFxFsx+DHl}?l^++F++NlY+YU;HDU_xFUFv&?xvD?sv?sBL+FsLNFFLYYBDvHsx5YF_LHxULHs_?HHN+D?NNXHNY&xsvtssldF+H+xlU+sl?+HULxL?lvFUYv_?vvN?lvF?X_xY_LsY+LHYNDLXXDUHX_+Hv_YHlsLHXNxXDsUXFNH;lsLvvsU7YlTxDl?+lUD+X?UxDUsx?F-Lv?LL+?U_lF:LvF_LlXFLXYsDDHxD?H._+XLFsHUNxX{N?X_NXXFUXNUsDaYs?vvl+vElNLU+Dx)Usx_YHxF?xvx?D_s??L+F+LlFNLFFYDqlDD_YYDFHx_xHD_sH?vzX+NlXNN?XYsoyvs_F?sF+Dlx+Nls+?lHvv_?xN?+xYHxvv?_vlYF+NFxLYFsLFFHDFYL_lU+DYHl_v+x_lHF_XqLvFXssDXHls9LsNtUsYL>lv+Fllx_lXxLUDxsvUxH?svL?NvUFILRYD_xFlDLFXDvYDDsY?NHXl_LHX_UXDN2+?N_g?lsXXs?tD?LG?sH++U_x?lUxNU&LLU_xlUFL+?NvDFvv?HUL+FLLNYFLHY9DXY_NUYFDXHx_DX+_?X_N+M2NNXFNY+Kl_2_l2hFlN+xlY+sUYvlU+xFUNx?UYv6?vD_FXvFFNLxFYLsXvLHHv_lYN_vYYNsHv__HlNH;DNxXXNs+_NHc+sL+ll?>Yl?+v?D+llF+X?LxDUsvNUHDY?LvN?UvYYULvFHLlYsLXYLDDHs_XYH_sHLs+HUNDXasDXUNlVLNX+vsDAss?xHU_+LlX+UUDxgF?x_??vDUXv??DDN??vHF+D_YlLUYNDfXxD_YlDFYXlxHDNPH?NsX+N_XNsUDHsR9Us_vLsF+Nlx+DFs+?Uvx+U?xNUFxY?QUl?_vX?FLEFxLDFsL?lWD+Y?DNY?DYH&_vH_x?HFNNXxNNXsN?XHlvF?sN+vsYvHlv+_ll+FS_xxUYxsUYxH?vvL?N?O?YLlFvL_FlLXFXNxUYDsHDDHHx_LXx_UXYY+XvNXXlsNXXsFED?sLFsX+UlL+llUL?UeDv?Fxl?DxXF+vDYNv??HDYFLLHFUD_YuDDY_DlXsDXHU_DHl_?HHN+XLsYXUs_!gsDC_sl>FU++llDxxl?DLU+xLUNvF?vv<?Hv_FXvF?XLxFDL?F?DNY+DXYNDFYY_5Nx__Xv_FHXNxXUNs-Ys?u+sX-Ns?)Ylm+v?_xslFxUUxv/UsDvUHLv?svNF_vYHFLvF_LlYHDUYx_xYs_DYH_+HLNlXF_YXHNvxxNlXFNX+LlD*slUkHl?+LlN+UlYDpUvv+Ulv?UXvL?DLs+DvXF?LLFXLUYsD=HDDUYl_NYXNvHD_sH?sHulNL&xNUIssox?s_+?l_tXlH+D?N+?lHx+?_vYUUvU?wDx?_vl?FvXFULDYvL?Y?D+Y_DNHU_YHW_YH_lLHFNUXxsN=FN?5ls+qDsNoUsYvVUD+_UL+FUUxxFYxs?YXD?+L.?NDl?YLnFvDsxXLYYFDx1+DsY?DHXvNHHNNsHYsXXvN_XlsHPssx+LssvNsH++lL+NU_+YU?xv?DxlUHxXFxLx?sLD?HD?FLDxFUDXYHDvH+DlHDDXHx_D*sNNHHNFXLsxXU?Y5alDFYsl+ssXLYlD+sl?vC_sxL?LxUHsv^?vv_F?0v?XDQFDsvF?LHY+DLJNDUHs_)X+__H?_FXXYvXDsxX?lx6+sXTN?UsDl&+Yl_+?lFL+UxxDYHx??_v+?HvN?UvYF3HHF_LXFFLXYxD_YsD?aH_+Hs_NXS_YXxNvX_v?XFsLrxsless?.Hl+Y_lNxzlYxvUvx_UlxFN+vx?Fvs?FvHF+LLFN/FFYDsYvDsYlDFYXNLUF_sXL_HxvNLXNNU:XNL<vl1PllD}Xlx+D?sDLlXx?ULv+UU_Y?-LDFUvlFNvXXYLDFsL?H=D_YL_vYUlsH/_vH_N?HH_XXXNDvvN?XHs+)LlwkUlN+bU/+_l?+F?+vNUDvvU?DU?+vL?NLFYsL#FXL_HDLFFXDxYDssY?__H+N<HN_FHYN&sxN_<xNFXXsxANss+Yls++lH+Nl?+YU5xvF_LvUFvl?xvX?s_v?HDvH+LNYDLYHsDvY_DlHHN?HxN+HslNHHN+XLslylNYhYsvvxsl.FsXxLlH+sUl+H?_xLUNxUUY_W?vL7?lLU?XLLFDDsxFLHYUDLYXDUHN_ZHvxsHlN_HXNNXDNsX?sH_xsL+MsUvNl/+Yl_+lFF+XUlxD?+x??Mv+?LUY?ULDFOLNF_LlFFLXF5DDH+D?Hx_+HL_NHUNNXENYX_NUXFNX0xsD+ls?+ll++_lN+UlYvx?+x_?DxFHxvx?DvsY?LxF+D+FNL?FYDxYv_sHsDFHY_xXN_sH?_HX+ssXNsDXYsH2vssulsFlHlxx+ls+?lHxDULvlF_xY?Yvv?Nvl?FvXHxDvFsDsFHDHYLNXYU_XHx_vXL_lJL_XXxND.UlDXHl3=LFL)UsY+>UD+XllxFlXvUUDxsU?Le?lvLFsvUHlLBFvL_FlDDFXDXYD_lY?_(H+NLXL_UXlNAX?N_)_NF++lY7DlD ?sX++lL+N?UxxUwvmU_v_UFDN?xLNFLv?FFL+X*LNFULYHxDDY__sYFl_Hx_DHsNYoNN+OLNNx_NY*qsv+sDW1FUQ+xF++sl?+HU+DLUNvNUYL+?vvs?lLF+lLvY+LsHDLHYHDLHl_+YY_YHvsUHl_FHXlxFYNs<sNH>HsLxYsUxY_s+vUv+lUl+XUXxD?sLwUXvY?LDY?ULUF4NvFHLlYsLXYLDD7ND?YHNUHLN+HUNlXyNDX_s?^vNXVYsDpFs?aHl++LUx+UU_xIUHx_U?xFUXvv?DLx??LxF+LLFNLUHNDkYHD_Y?DFYX_xXNxXH?NUX+UxXNNUXYs vXsN+LsF++lx+NlsxYUXx+?!xNYsxY?7vv?_vH?FLlFxD+FsLYFHD+YYDNHDDYHL_vH__lHFNXXxs+XsNHXHs+-LsN+?sY+slvxxll+YlXxxYDxs?+xH?lvL?lvUFXeNFvLYFl_lFXDxYDDs2?DHH__LHH_UHXNAqD_UXlsxXXlD-Dssh?UHHllL+YlUxvUODNU_xl_HxX?lvD?Hv??HL+FL?YFUDDYMDvY_DYYFNX?U_DX+_?HXN+X_NNGUYHiBs?)_s?.Fls+xlDYUl?xNU+x?UNxUUYDqs?v_FxvFFsLxFNLsY?UXY+DFYNlsYY_lHvl__+_FXNNxxDNs+lNH++HD#Nlx/Y?K+vl?+llFlsUxx?UsvvUHvx?LvY?LvYF_LvFNLlFYLXYNDDYs?UYH_+HL_lHU_YXWNv?sNlXFNX8xsD>ss?AHDv+LlN+UUDx*Uvx_Uls?UXvx?DvF??vHF+LLx_LUFYD5YLD_YlDFHX?FH__UH?NLX+NUXNsFQls4,ls_xxsFTXlxvDN^+?ULx+UUxN?_xY?_xY?_LQ?FL+FxL_FsLFFHD+vvDNYUDYHx_vH__lHFlUXvN?XsNYXHsx{LsNFFsY+_lv+Xll+FlXLxNYxs?xxH?LvLXvvUFvvUFvLHFlDvFXDvYDD?Y?DHUv_LHN_UXDNQXvN_XlY?XXsx9DsYw?sH++lLYllU+YU!xvU_xlUFxXx?vD?Hv?F_L+FDLNFUVXY7DlY__xYFDXHxsDF*_?XDN+XNNNvvNY}_NYS_l+SFlv+xl_+slH+HU+H_UNxUUYvs?vv_?lvF+HLxFDLsYdLHY+DLYN+FYY_QHv__Hl_FHXNx_HNsQ+NH*lsLOssU<YDx+vlF+lUD+XUxxDFs%vUHvs?LvU?ULLF9LlFWLlYLLXYNDDYlD?H%_+HLF_HU_YX!NDX_NlXFNXFLsDTss?+sl++LlN+U+_xJUlx_?+xF?rvx?DXU??LLF+LYFNLUFYNrU?D_HfDFHx_xXD_sX+_sX+NFXNNUXYs+:vslwlsFY+lx+DlsxvlHx+ULxN6lxY?#vv??vl?FvXFx(NFsL?FHD+YLDNYUDYDl_vHF_lXL_XXvNDXsvYXHsN=Llu^UsY+)?vHHllxvlXxDUDv_U?vLU?vL?XvUFvLPFLL_FFLFFX+LYDDsY?__H+_LHN_ULFNZXvN_XHNFXXsxyDLUW?sH++lL+NlU+YU(lFU_xXUFvN?xv_?sD?l_L+FULNF?LYXvDvYFllYY_DHxNHHl_FHHN+XLN?xlNY.Msv+XsU*YsX+xDN+sU++HU+xLUNxUFYTs?vvF?lLx?XNUFD_sUvLHYsDLYsDUOe_zHvH?HUNxHXNlXDNUX?NH?XsLylsU<Xl9+vl_+lUY+XUxxDUlx?UHv+?FvN?UvYYDLvF_LlFHDXYxDDYslYvXFLLXFHDFYF_DH+DU?F_?H?N+XNv?sYtXl++LlNDFUzxoUvx_UlxFUX!xXLv???vHF+LLFNxUvFlqYDD?YlDFYX?vDUY+DlHxXvs+XNNUXYYv_sXx_HHXsvXNNlHFsv.vsHOlxl?DxY?:vvX?lUxXUsvIUF+??XLN?YvlDlYYDYHf_vDLFH_vN+XsNDXsN?D+H__NX_NsX++xll+_ll+FHxlL9Usl+Xlv?vvU?NvU?Ysvvx?xvs?HVxDLYFDsY?DHLNY_D_YNvX?NvDNsXFNFXXsxDLXYNXl/+UlL+NlUN++Nss^?lNXDlY+sUL?UL+?HL+FLl?vx?xvY?sLlD?H=DXHx_DvsYNLXHUX_NsXUNYOtYD^ssU3FsX+xYF+UlX+HU+xLHFlsxxlY?DLD?lvF?XsNx_??vL?FvslsL;FFLxFvDNFXDsYUXxNxXDNsX?NHo+lFLNsUvHlT+vl_+lDH+XUxxDUsx?UHv+YLUU?UvYFCLvF_DvFFLXY_DDYUD?YX_+HL_NXFsUXBN_X_sNXFNX)xUD+Ls?++l++NlNxxlYvxUUx_UYxF?xvx?DvsFYLNF+LlFNDYFYD1YvN_HNDFHL_xHU_sXx_H++HxXNNXXYsDCvs?5llH+llx+?lsxHlHx+ULLNFCxY?_vv?FvlY0vXHx_,FsD+FHDNYL_LYUDYHY_vHl_lXx_XXLNDXss_XHsD%LsNuUsH+,UDLslUx+lXxYUDxsU?LH?svL?FvUFxLBFXL_FlD+FXDsYDDUY?DHH+sLHH_UXvNbXlN_OsNFXXlxIDsXJ?l}++lL+N?UvDU1xUU_vBUFvD?xvDF?v?FLL+FULNY+LYXMx?Y_DXYF_DHx_HHss?F_N+XUNN9ZNY++svx_lDoYlD+xl?+slX+HF+XLUNv.UYv_?vL??lvFFNLxFFLsFYLHY+DLXN_+YY_NHv_YHlN?HXNx8_NsBvNH0vsL:NsUxYl?+vlH+lUL+XUsxDUsxFUHvs?LvH?ULDFZ_vYvLlYvLXYlDDH+D?XHvlHL_HHUNLXwsDX_ll,ss{BlsD!Xs?+xl+vL_N+UULxKUUx_?HxFUXvU?DL>??L8F+LLFN_UHDDpY?D_H+DFHH_xHDNUH?NNX+N_XNNUXYUWhNs_+xsF+slx+?ls+?UNx+UFxN?xxY?lvvY_LX?FLNFxLYFsDLFHN+DDDNHxDYHs_vHs_lTFsNXxNYXssvXHsDzLUNxxsY+slv+Hllv+lXxx?xxs?cxH?lvL?lvUFYLLFvLUFlLYFXDNYDDsH+DHH+_LH?_UHXNn+vs-XlNFXXsx3Dlsb?sHvFlD+NlU+XU xLU_xl?YxX?xvD?lv??HL+FLLNFULYXNDvY_DlYH_BHx_DHs?YXqNFXLNNXUFx_+X__XXNNvHxs_rHsL:Jx=ULxLUNxUX_lvxxvsFUvF?XLxIH?DxF?Dv_UsLl??L?YvDvFND?Y+DYYD_HN?X?NH2+sLONsUXYFX+DlX+llF+XX_lF6YlO+FNUxxlYxlvXFDLvF_Llxx?zvHFUvYDYHv_+HL_NLYYlD+HZ__NFXFNX2xsDhss?LxY++NXYsKkvs_5lsFsX_??xvx?Dvs??vHF+_s NLFYxDBYvD_xHU;LsFX+N_UHX_HX+NLLUHvNNHDA_s_QlsFJXlx+DNsDUU+x+ULxNUUxY?OsNX_v?FxvXFxLD+F?vvv?HvlFUYF_DHa_vH_UFLYY?DHYNDlYH_lsveUsN%UsY_viNss-ssN6LxLUlxsU?xH+HlDx?Ux?XLYFvL_FllXvL?HvU??LXFvLD?sLXFXDUYDXDNlXlNFXXX5_UXXoYlU++lL+NHHsX0+l++lllpYU++NUv+??LFRLNFLLNFUl;Lx?svNFYL+_+H__DHs_?vHYYDDX;XYNYp}svr_slOFsX+xlN+?l?+HU+Nv+FlHUXvL?vv_?ls+xY?NvxLUY+LHY+DL+UFlLlFXDDllH?_YHXNxXD?XXYsvd+sL2NFYNFXFsx^s+?lY+XUxxDHUxY?Dv+?LvNx5UXxX?C+slW5HDx=Dss8?sH++lL?NU_HFNFX%NvX_?HDYXx_?Xv_XFXNN3vNlXUsH!_sX++xlUlxFUXvx?DvsY?NHFvDLFNLUFYlxvL?lLLFvD+Y+DUY_LX?+_1H4__HFvBsxGss_blsF_tZNNH(_sXU+x+ULxNUUxYl(UxX_v?FxvXFxLD+??!v+F Lx??YFWHH7_vH__lUH_XXLNDXsN?XHs++LHsZUsX+&lU+_lU+FlXHLUDxUU?xX?+vL?NDUlDL)FDL_F?LFYXDxYD+UY?_+H+_DHN_UHYlJF?N_XFNFgxsx+lss(?FY++l_+NlF+YUvxvF_8+UFv+?xvN?sLY?HDv?sLNFYLYHFDvY_DlXFvNHx_sHs_HHHl+XLslxFNHRLsv+lslmFsXvxUs+slX+HUDxLUXxUUYLL?vv??lvY?XLxFD_sHDLHY_DLYFDUHY_oHvsvHlNxHXNvXDNsX?lH+UsLnYsU+vl*xNl_+lUF+XUNxDUYx??Lv+YLQX?ULxF!LsF_N!FF_XxxD_YYD?Hv_+HD_NCUN?XmNsX_NHXFUDMxUD+Ds?+vl++llNxDlYvxU_x_UXxFFsvx?DvsFYD?F+L?FNNdFYD1YvD_YXDFHv_xHF_sHY_HPvNFXNNXXYlv;vs_ylUFHNlx+Ulsx)lHxlULxN_FxY?_vv?Nvl?FvXHx+YFsD+FHDNYL_NYUDYUx_vHY_lHY_XXxND+sDvXHsszLsHKUU++4lv_HlUxxlXxsUDxXU?LH??vL?YvUFvLyHUL_HlDlFXDsYDDHY?N?H+sLHU_UXvNcXlN_+XNF+Xsl&DsHZ?lL++lX+NUFx?U2xUU_LxUFxX?xLNFYv?F_L+HULNFULYYosvY_DHYF_NHx_NHsNYx;NxXUNN1YNY!osvx_lHyFlD+xl?+sUv+HU+vNUNv+UYv+?vv_?lDFYvLxFFLsYxLHH+DLYNN_YY_sHv_NHl_FHXlx)HNs:vNH.lsL+?sUyYlH+vlY+lUv+XUUxDFsJvUHvs?LvH?U_LF(_vlHLlYvLXYlDDXND?XH_YHD_HHUNLXollX_llLHs%,lsDRXs?+ll+x_Us+UUDx<?Fx_UlxFF+LN?DL+??_LF+LLFNLUYYD8YlD_HxDFYX_xHDNUH?N+X+NLXNNFXYsf+Fs_0YsF++lx+Dlsv?U?x+UsxNUHxYFNvv?_X??FLDFxLsFsL?FH_vFsDNH+DYH__vH__lZFLNXxNFXssxXHl_mLllY+sY+slvvNll+FlXvLllxs?LxHFFvL?NvUYY?UFvLXFlDDFXDLYDNsXPDHHU_LXC_U+xNI0DNUXls_XXlYtDss&?UHxFlLx+lUxNU^LDU_Ll?lxX?FvDFxv?YsL+FLLlFUDLY#DYY_D?YFDXXN_DX6_?HHN+XDNNXUvXVSsFz_slJFsX+x?DXDl?xNU+xYUNv+UYv_?Nv_FxvFENLxF_LsFFLHYDsvYNDUYYUsHv_NHlNB+HNxXDNsLDNH xsLzYxDtYll+vH++llY+XULxDUFDUUHv+?Lsx?UvHF>Lvs+LlYDLXYDDDYsD?HHFxHL_XHUl+XcNFX_NlxFNX5_sD+gs?+cl+vLFx+UU+xmUNx_F+xFUXDY?_vF??LIF+LDFNLUsXDAYND_Y?DFYX_xSDlvH?NxX+NsXNl+XYsPFDs_kXsF+xlx+Dlsv?N_x+UUxN?oxYFxvvFsxY?FL_FxL?FsL?FHN+UFDNH+DYHN_vX?_lXHv_XxNYXslFXHs+bLllXHsY+llvv+ll+FlXLx+Xxs?LxH?UvL?lvUYYDNFvLXFlDDFXNNYD_UX+DHH?_LZx_UHYNc+vNsXls_XXsF=DUUb?UHxLlLx+lUxNUdvYU_xl?NxX?lvDFxv?FrL+FL_oFUDDY0DvY_D?YFDXUL_DX+_?HHN+XLNN+UDU3ysF2_lx8Fl_+xl?x_l?xNU+sNUNx?UYv+?vvUHsvF?XLxxsLsFFLHYDsvYNDUYYFDHv_NHlNxsUNxXHNs__NH>xsLwlsU++?X+vl_+l#N+XUvxD?U+XUHvU?LDv?UvYFw_vvWLlYDLXY?DDXsD?X)NHHLN+HUNFX<NvX_s?%sNX9YsD+Ns?7Hl+x_?++UUlxi?xx_UlxFUXL+?DL+??LUF+L_FNDUxHDdY?D_XNDFHs_xHDxUH?NNX+NLXNNUXYUyY?s_+xsF+slx+Flsx+YHxxUYxN+HxY?+vv?_vlFo_HFxLDFs?XFHDxYL_lU+DYHl_vXL_lHF_XXs?DXlsLXHXD5LssEUsY+JlNLDll+FlXl_UDxlU?vxH9vL?NvUvxLwFLL_Y?+vFXD?YD_xY?DHH+NLLs_UXDNJ=lN_oxNFXX?x;DsF;?l_++l_+N?ULsU&xNU_xYUFLN?xvDHvvFFxL+F_LNF?LYY5+DY_DYYF_+Hx_DHss?+lN+XsNNXHNY+Nsvg_L?)FlD+xls+sl?+HF+XFUNv8UYv_?vvl?lLH?vLxFFLsY+LHY+DLXNvxYY_NHv_YHls+HXsL?FNsrvNHxxsL*NsU+XsL+vlX+l?N+XUxxDFsUDUHvU?LLw?UvXF3_vY?LlYDLXY?DDXYD?Xt_HHLN+HUssXENvX_ll+sNXoFsD+xs?vAl+vLls+UUNxQUYx_FvxFUXvl?DvX??LsF+L_FNLUFHDqY?D_YlDFH+_xHDxUH?NNX+NLXNNUXYU&Hzs_+xsF+slx+Flsx+UIx+UYxNvNxY?+vv?NvlFo_HFxLDFsYsFHDxYLD?OlDYHq_vN__lHY_XQLvFXssLXHlUeLsN6Ulv7_lv+XllUYlXxvUDxlU?vxH(vL?NvULHLnFLL_Y?+vFXD?YDDYY?DHH+NLLs_UXDN>XNN_4xNFXXLLQDl+k?sH++lL+N?UXDUAxFU_vxUFv_?xv?XsvFFNL+_LLNF?LYYeDvYUssYFDXHx<DHs_FHHsvHsNNbvNYzFsvE_slxFDx+xlH+sUL+H?_xL?lLLUYvU?vLX?lvF?XDLYULsY_LHYUDLYNDUHXN+HvNxHlsDHXNxXDsU8_NHAHsL+.sUiYl6+vUh+lUD+XUXxDUUx??LN+?DL1?UYYF/LLF_LlFFDv=+DDYsD?NH_+HD_NHHlFX*NvX_x9XFs bxlNXFs?+Nl+xtlN+UlYLk__x_?xxF?svxFUvsFYDLF+LHFN_vFYD Yv_sHFDFHU_xms_sH?_H-vNYXNs_XYllkvs_#llH+LlxxxlsvHlHx+ULxNF+xY?lvvFvvl?HvXYxU_FsDvFHDHYL_yYUDYN+_vHU_lXL_XXLND+ssXXHsDMLs?gUUD+/lvvxllx,lXxLUDxlU?xH?lvL??vUF+L6FvL_Hl_GFXD_YDDFY?_XH+_LXY_UXxN<XvN_XlNF+Xsl}DsY5?lv++l?+NlUxvU!xNU_x?UFv2?xvDFsv??HL+FDLNFULYY&DvY_DlYHDXHx_DHUNoHHN+XLFYD?HlNDHsissF>FsX+xHsNYfX+HUNxLUNxUUYXx?vv_?lvF?XLxFD_sX_LHY+DLYNDUYX_pHvxsHl_HHXNxXDNsX?lHYlsL4lsU9Xlw+Ll_+l+D+XUxxDUUx?UXv+?LLs?UvYFgLLF_LlFFLXYxDDYsD?YH_+HL_NH?_YXpNvX_sUXFNX.xs_kss?>Hl++LlN+UU?xCUvx_U?v?UXvx?DNY+F?+xU?xxHsHv_Fxvs?lLYFDLHYuHN_HH?_HX+FNDFYY_FHH_Nss YsFAXlxDU%_l58?xvUXxNUUxYXDlLxlUxxUU_+D?lL+?NvvDvYsDNYUDYvRFXLNHxHHNFXxNDXsFH_vHY_lHUNHXxNLHNNHXHsliLxDUDxsU?xH?+vLsNNl?XL_FvL_FlUbvN?NLx?YLH_kHL_LHN_UvFHD_NNsXXNFXXsxLsXUNwHXsDXl+lUv+YUhxvXUU ++lLx!NHx_U+xYLvFNLNFULYvH?sLYD?H+DXHx_DvlH6DNYX_sNl<UNY^8svLsHU_XXUNl6NsN+usF9D_N+_l_+FUxH_v_YxvF?XLxFD,UF?LHY+DLYNDUYYscD___Hl_FHXNxXXNsX?s_C+s_qNs?&Ylq+vUsxLlFxxUxv!Usx?UHD+FHvN?YvYFvLvYxLlYHDsYxDlYs_xYH_+HLNl>+_YXDNvXlNlXFNXxxsUbslcEHl_+Ll?+U?YYLUvx?Ulv+UXvX?DLU?HvHFNLLFULUFYD2XvD?Yl_xYX_sHD_lH?sHnLNLXYNUdvs<yFs_fll?AXlD+DlH+?U<x+ULviUUv+?1vv?_vU?FvXFsLDFYL?Y*D+YLDNXUvDHS_sH__HHFNNXxND?UN?wLs+;_sN4UsYvn_?+_lX+FUDxxU?xsU?_Y?+vl?NvX?YL_Fv__D4LYYLDxYUDsYYDHX+N?HN_HHYNHXvN?XlNFbvsxPDss=XsH+vlLvNUr+YUVxvU_xl?+xX?xL+?sv??HLvFLLsFULYYXDvY_DlYYDXHx_DHs_?HHN+XsNNXUNYIxssp_slGFHDNv;+sYJgx:ULxLUNxU/flDxNvs?YvF?XLxxFUlvs?vYvDUYNDUYYUNLLYvLH?DDvNx >NsX?NHB+L_oNsUKYla+vl_+l?FLUUxxDUsx?UHvv?LvNNFvYFxLvF_LlFFLXXxxYYsDYYH_vHL_sHU_YDFNvXsNlXHNXexsDMszLEHl++Lll+UlHxeUv?lUlxFUXvv?Dvs??D;YYLLFsLUY7D7YvD_Xl_FYX_vHD_lH?NxX+NLXYNUXYs(EDs_eUsFMXUs+Dls+?lXx+ULxNUUxY?^vvF?vl?FvXFLL?FsL?FHUDvF?FLNFxDv_DHY_lHF_XDsHN_NHsDZFsL_sl+vsY+Elv_U+}s+KLlpHHl_++lY?LvL?NvU?YLdFvLH#lLHYvDxYDDsx?FULxYYHl_YHYN5XvFD_HXhu+ss&Dssh?Y+svXlNs:HsxUvxvU_xlUFxX?xWDXNvY?XL+FLLNVFLXY+DvY_DlxH_+X+_DHs_?vvYx_NH*_sHLLLHFNsHH_XMvN?ELs_lH+HU+xLUNxUsYlXXvvsFLvF?XLxMUUlvH?NvX??xUFHD_FFLs_sX__FHXNxLsYY_NHv_LXs_FHH_+XsNsRvNHlHxxUxxDUsll+vUs?_vs?UvYF4sUFsLYFFLXYxlUL_Y#L?_vHU_NHU_YvvHx_xHs_H?x!LlDwss?gHYvNDXUsD1Llx+xl?+NlBXxU+x+UNxYN+FvLlFNLUFYU+Ls?XLNYnH+_sHD_sH?F+D_YN__Hs_+sevLs_=lsFEXDL+Dls+?lHx+ULxNFUUb?Svv?_vl?FL_FxLDYHL?YyD+YDDNYUDYXx_NH__FHFNxXxNDXsl?9_s+}NsN9YsY+XlvxsUD+FUvxxUYxsU?xHFvL_?NvX?YD+FvL_Fl_FYUDxYUDsHgDHHH_LcNYsHYNDXvN?Xll>XXlL+Hss++sHxxlL+NlUvY?sxvUFxl?xxX?YvDYsLY?HLNFLLYFUDvYVDvHUDlYXDXHs_DHU_?HHsvXLN?XUNYp}sLQ_l?vHlA+NlDxUl?+HU+LLUHxU?xvw?sv_??vF?XDDFDLHF?DtY+DLYNNUXv_THl__HX_FXnNxXDlLX?sDi+s_5NsU0Y?Wxvl_xrlFx_UxvvUsx??Nv+?UvNFVvYFNLvH_x+FFDDYxD?YsN&YHs+?F_NX/_YX_NvBuNl+Fs?ovs?Vsl+WHlY+L?NHUlYx_UvxFUlv>UXvxY+vsFxvHFvLLFNLUHYDxYvDYYl_vYX_vHD_sHX_HXlNLXlNUXYsRxvsH&llLdXlU+DU_+?lHvsULxHUUvL?Bv??_DlF+vXFlLDFXL?HvD+XLxXYU_LH^_UH_NlHFsXXHN_XXN?fDs++=sNxUDY+!lU+_Uz+FUvxxUDxHU?v_?+v_?NvU?Y_5Y?L_Y+LFYNDxY_DsY?_+H+_YHN_FHYN(Xvl_XUNF=ssx/Hss+lsH++Ul+NUx+YUsxvUXxlFFLs?xvY?sLv?HD_FL_NL?LYYsDvYHDlHDDX2x_XHsNvHHNlXLsvXUlY+ssvoHsl+LsX+_lD+sUs+HU_xLUXxUUXvOFvLl?lLw?XDDFDLYF?LHYUDLYNDUH+_)HD__elNxHXNxXDNsX?sv +sLvxs?<Yl^+Dl_+UlF+X?vxDUsx?UXv+?LvN?UvYFWLvY?LlFFLXYLDHYsD?YH?DD?FFLXY?vlH+DFHsXHs.nxsDPsFY++l++LlN+UlYz6+x__U?vFUXvx?DNU+FU+xFU?vl?lLx?HvNllLsFsLHYL+s_?H?_HX+NLXNNUFY?XmDsF5lsF8XYDsNXYNF+xs_U_xHUUxY?ullxsUsxll+rlsNFUDsFHD+YLUUvXFlLDF_DUFHDzFvDUYU_DHdMosNWLsNEUHwNDX_sDSNsOU+xDUDxsU?NYx_Us?lvX?YLMFvlNvH?DvYF_YNDHY?DHH+?sLXFXDUYD__NsXYNFXXsxLUX_s<X?+vlX+NlU+YHDsL+llx+Ul_VDUlv+UNxvLvFsLNFULYxz?XvNYxYH_xHx_DHsYlDvHsX_NsXUNY>!FURssXqFsX+xYssN5NsY+vDNUlvlUYvW?vN?+UUXxs?RxFsFvLFEv_?NL?FvLFFHHD_NHl_FHXFLXsNsX?NH;+sL&NlxLYlpLLl_+llF+X_LxDUsx?UHv+?LvNYU?bFoLvF_LlFFDDYxDDXDD?He_+HD_NHU_Y:xNsX_NFXFs^oxsDksU?+Xl++NlN+YlYv,UvvsUHxF?vvx?Uvs??vHYvDXFNLXFYDYYvD_YlNFH__xHU_sXP_HXXNL+NHsXYsDSvs?zllNVXULxxlsx+lHxHULxNUULYF_vv?FvlFxvXYDLDHs_vFHDNYLDYYU_NHP_vH?_lHX_XXsNDXUN?XHl?oLs?BUsY+hlL+_U?LHU0xNUDvUU?xH?+DLYzvUFxLzFsL_Y2LFFX_XYDDHY?_OH+_LHNsUovN3XlN_XXNFC?sxCDs?J?lD++l_+NlU+YFkx_U_v0UFv_?xvY?sv?F+L+FULNYCLYYNDvX_v+YF_DHx_?HsNLHHl+FFNN^!NYb_sv+UslxFl?+vl?+sU++HULxLFNXUUYv_?vvF?lD+?XLxHxLsYxLHYvDLYNDUXYNxHv_YHlNvHXNHXDNsGXNHblsL}lsUrYlhvv?++lUL+XUUxD?tx?UHLF?LvH?ULLF#L?F__lYULXYlDDYXD?HN_+oLvXHUNLXcNUX_sUXFlX;Hs_7Xs?+Dl++NlNvU_Yx&UUx_?TxFFLvx?DL???L_F+L_FNLUFYN3HXD_H+DFHN_xX+_sH?N?X+NYXNNFXYs,{vU_xLsF+slx+HlsxvlHx+?cxN?xxY?svv?XvlYFL?FxLYFsDvFHDUYLNND?DYHs_vHH_lHH_X+xsXXssvXHslqLsUEUUYx_lv+HllxLlXvNUDxs??xH?_vL?XvU?XL6YvDDFlDJFXD_YDDYY?DHX__LHN_UX+N!XDN_+lNXXXsx^Dssq?lY++lLLxl?+YUyxDU_xUUFxXFvvD?sv??XL+FLLNFULYYTDvLxDlYFDXHL_YHs_?HHF_vY?U_lHX_HHsNss?+_sX+xlD_+ksNX9sslXvs?;XlD+Xvl?lvF?XLxFDLsXXsHYv_lYNDUYYUvDxYxDsYHLxYN__HY_kHF_LHlDxHXs_k=sxXXsN+#xxvF?HL+FLLNFUsYN_?YvYF;LvF_LlFFNNlxDNYHD?YH_+vNFFLYYFDHYNXlNlXFNX5xsDHsXULHlv+slN+UlY_D++l?+_xH?vvx?Dvs9+UYxX?sFlDbFYDEYv?XLNFXLLYLDl_UX__HX+NLL HNDHHN_sFlNsXsNH)LLslUxDlHx+ULNFXvNLxxlL+UUxx+UYv_LNFXL?FHD+xs?svFU?L+YRL?_FHF_XXxNDXsN?xHL+8DssZYsY+Klv+_lllFHq_xUNv+U?xH?+ss+XUvxpU?v+U?vF?XYxsD9ss?SHl++LvNx__YxZUvx_UlxFUXHxF+bNsFG?sH++YUsvX?sLUxxUU_xlUFNv+Nl?+l?RxU?DFNLNFULYYiDvY_lF+F_+HF_DHs_?vDHA_sYXD?HULxXxNxHY=HlL+xlD+sH+l{Bxl+MFxF?xv;?vv_(Hs>xsUXXNLUYvLHY+DLxNFlD%FlDNFXDsYUX+NlXDNsX?YL_UXNNpHFNlXD+_l_+llF+XUxxDHsH??+v+?LvN?UvYF6LNV_LUFFD+YsDDYsD?vxUND_FsDNYxXxsLX_NlXFFs_XH__XXk_x}vNDIDsY:Ys++Ds?+NsXxsvL?lvs??vH+LUYL+UXY)DWYvD_YlDFYXlNxD_UHX_HX+NLLLY?__HH>_s_wlsFVXlx+Dls+?UGx_ULxNUUNW+XlXxDU??HLLFxLDFslNxX?vvlFvYF_lH5_vH_?xDUYX_NHlv?HvDXHX_?HF_HsX+?lv+_ll_Fq s_.ll++llDXYll+YUH?XLDFvL_FllDvF?vvF?YYY__H+_LHNUYLHYFDXYsDUYX_UsDlXx+ULxNUUxYaBYl+XUYxvU_xlXFlR+_llx+UlxDsvvv??vH?FvYDDY?DlYFDXxsY+LlYx_+NvPBNNXUNYDLXD_NXNNXXXNv(NNYKls++Ux_UUxUUYvoXllXxYvX?XLxFDLsF?LHF+lvYlDHYY_wHv?U_xYFDLNLXFNsX?NHLLXvNDXHNxXHsNll+llF+XUxxDUs+?_YvL?LvN?UvYFtsvvvslFHDFYxDDYslHLYFYDvYlvYYx_+HsD?HNDXHLQDsDMss?THl++LU?DUUtx>Uvx_UlxFUX_LXDvU?XvHF+LL+UU?Lv?DY_xvUDxsU?xH?+DLxUN&XNNLXNNUD-XLNDXDNLX++xlx+Dls+?lHx+YD_NUFvL?Ovv?_sYx?U_xl?+xYUXY+D+YLDNYUDYH>sNx__?Xv_XXxNDLHH}_+XDNvXlvFsX+Llv+_llNnSLlU+lxU??xH?+vLXUU_x_?Zv_sUxH?Xvx?NLv?FvFFFDDYNHU_UHYN*XvN_XlULvXsD,DssM?sH++lLDfDU+XULxvU_xlXslsxKlU??v??HL+FLLNFUsY+1DDHfDlYFDXvLYLDYYlDx?N__Ys_NHx(xsHO_sl!FYxs+2+sNbYsHtUsN+xsX+Xvx?Yv_?lvFuXUvxlUFvL?FvsUsL_FUYX_+Hv__Hl?xX+NHXDNsX?F+N!X_NDHXNXHxNLXUsx++lxUDxDUsx?UHv+?L_DXUvXF_LvF_LlbX?HvHFLLUsHH{NsHL_NHUYXDxH?DNHF_XHLN_HH_FFDvYF!LsFsLXYxDsYvDNY?_+H+vL?Uvs??vH+NUDvv?XvxDvvl?FvXFxLDFsF?UNHYsLX+NLXN?FDHHv_HHYN?X?sLJdNlHFsYXXsX+NlN&?lX+DU++l?x?XvXFxLDFsL?UHF++LDlX+DYHf_vDsF?_LY&_DHsDYHX_NHDvH?_vlFxLcFDLHY+D+Y_DxYYDFUYv_?+vL?NsFxF?LxL?Uvx??vYDLYXDsY?DHxUYxDNYX_+?xDsYYDUHU,+s?/Dss*?H+NLXDsvXXN++llvA?xFUFxX?xvD?sv?lHsOF_L?FULYYiU+vNF_L+_+H__DHs_?Lv?DDYHLXYNY9Tsv&_sl2FFvYxlNLxl?+HU+sF+?lH+Y_UHx_DvC?vv_NSvN?NxY?UL FFQD?YLFFY+xFNDFYXDLH_xL?N_LHxvH?svX?ULxF_L_FXLlFFLXULv+Usx?UHs++Dl?+HU_xHUU+s?xvv?NL_DsNxXLNNXUNY u?vUFXxNlX_NlXFFX_vXN_YXlsxlv+llN+UlYlL=Lss+Dl+?+vN?Dvs???xvbsF+UU<FXDvYvD_YlFULLYlHs_sH?_HX+NLXN?_vYsv vs_WlsF(XXxsLYs+YU+x+ULxNXYlxxLvD?Fvl?FvX+FsHv_UXvvFlY_DHYUDYHBFlDsYsDlF+vl?NXUs_XHs+ILFsNsX8Ns9xssHls?1sl9+lx?U?xH?+vL?NvUFYs-FDDNFlLFFXlXLLFYLHFvxvYlD?YHDFYHxL?l_DHD_xHYiNl+{?sH++Hl_RHUNHeLsNkXlN+vv+?svD?sv?z(?_vs??vl??YvDvY_DlYFDXHxsDxs_HsseUsY+!lv+_UlFxis+?pHsX+xl?DslF+XU+xNUNx?UYvK?vvUHsvF?XLxFsLsFFLHYDsvYNDUYY_DHv_NHl_F_DNxXNNsX?NHI+sLCNLDwYl++vls+llF+XFxXYUsxYUHvx?LsH?ULvK7LLFsLlYDLXYvDDYsD?HxlbHL_NHUN_XnNLX_NYx?NX^xsD+xs?fXl+x_DH+UlXxOHUx_UlxF?Xlv?Dvl??lDF+L_FN_UUDDdYDD_YUDFXD_xH?UsHFNnX+svXNN?XYs/<vsUvssFwXlxxLls+FlHxDYvxNUUxYFDvv?NvlFHvvFxLNFslNFHD+YLNNLLDYHx_vHs_lD+_X6LsgXsNHXHslTLsNcUlX+Nlv+UllxLlXxxUDvU?_xH?_vL?XvU?YLuFvLHFlLHFXDNYDDUY?_HLx_LHs_U vNVXDN_+lDlXXsLRDslw??l++lU+FlU+XUwvYU_xUUFvm?xvlHNv??HL+YHLNF?LYYx_DY_D?YFDXHx_DHsN?LXN+XDNNxDNYBxsvx___4Fl++xl_+s?t+HUNvvUNxFUYLX?vvN?lvY?XL_XLLsF?LHX4DLYsDUYYYsHL_sHl_HHXNxXDssDFNH7xsL+FsUqXlAvvNv+llH+XUvxDH+x??Lv??Lvl?U_+FbLLF_LUFFDv,+DDYsD?9x_+HD_NHUX+XTNDX_NlXFNX,xlD_ls?0Xl+LYlN+FlYvxlNx_U?xFX?vx?DvsY?+_F+L_FNLFFYUXYvN_?+DFHx_xH__s!+_HX+NUXsNFXYsxJvsUblsFFUlx+Uls+YlHx+ULxN_DxY?_vv?lvl?FvXFxR!FsDxFHDDYLDNYUDYD__vHH_lHF_XX_ND+sDvXHsUILss4UUv+cUvNNllxLlXNzUDv+U?DHxlvL?XvUXULyHxL_XlFLFXDUYDsUY?UDH+sL?X_UX_NMXLN_vxNF}XHvtDl}3?FN++lY+NlUlDU+xFU_vxUFxX?xvDNUv?FsL+FLLNFULYHx+UY__LYF_+Hx_DHs_?NYN+J*NNXUNYq_sv+slL0FlF+xUX+sl?+HF+xYUNvNUYvY?vl_?lLHFYLxYvLsXcLHY+DLHlDFYY_XHvlHHl_FHXsL++NsV?NHx_sL!NsU+XUN+vUN+lYL+XUxxDUsDNUHvH?LLs?UvXFdDvYlLlYsLXXLDDHDD?XT_DHLNLHUsNXpNvX_ll+LNXnXsD+Ds?_Hl++LUU+UU?xrU_x_UlxFF+Lx?DLN??_vF+LLFNDUYUD)HvD_aUDFHv_xXNxXH?NXX+llXNNUXYs:vvs_+_sFx1lx+Nlsx?Xsxx?KxNFDxY?YvvFsLN?FLFFxLHFsL?FHN+UFDNHNDYHY_vv?_laFLNXxsxXsssXH?+RLlN_LsH+Flv_?llxllXvLUXxs?sxHXVvL?NvUYYUXFLDvFlDlFX?xYD_UYFDHHX_LvY_UHYNZKDNNXls?XXYseDss(?sH+llLxLlUxFUAxDU_vl?xxX?HvD+Hv?F?L+XLD+FUDlY7UvY_sUYFsXXU_DXL_?+sN+LHNNXUs2h*sYR_lDtFl++xlDx+l?xlU+xLUNxUUYLx?Yv_FDvFF+LxFDLsF?YYY+_+YNDUYY__HvNsHF_FXYNx#XNsX?NHx+s_kNlsJYlH+vX_+lUHx_UxvLUsD-UHv+?LLl?FvYY7LvXHLlFFLXHLD?Ys_FYHs_HL_NHUNX YNvRsNlvLNXPxsDfs??0HlX+LUl+UlXxu?vs#UUvlUXDL?DL_??DtFXLLYDLUHNDpYvD_XlNXYXNgHDN_H?FHX+s_XlNUoFs2Dls_blsFx+U++DUs+?Fvx+ULxN?UvF?rLL?__U?FL+FxDNFFL?H8D+XlDNYUDYHRNsH_NNHFs+XxNNXss?Dssx++sNxDsY+Hlvxs?D+FUYxxUHxsU?xHY+MF?NLs?YLHFvl?Fl_FUNDxHvDsHlDH++_LXNFLHHNYXvF?XlsUXXlL+lss+lsHDelL+NlUvYbXxL?Lxl?UxX+xvDFUL+?HD0FLlYFULYYV_DHlDlHFDXvs_DHs_?HHsdXLsDXUsYzksDA_llxLsX+XlDNHl?xFU+DLFLxU?UvcTvv_HUvFHXLLFDDDF?NsY+UHYNDUHY_1HH__X__FX+NxXDs+X?sU5+sLINsU>YUxxHl_x_lFx+UxxDUsx?vYv+FxvN?UvYFvLvYs_LFFDHYx_XYsD?YHs+X?_NXl_YXXNvD_NlyHsUOxlD}s?F2Hl++LUl+FlYv+Uv_lUlxFUXLLFxvsFYvHXxLLFNLUYXDFYv_lYls+YX_xHD_s+?_H4=NLqUNUXXsV+vHNcllUBX?L+DUN+?FHllULvDUULl?:Dx?__lvLvXYTLDXxL?+?D+YLFYYU_FHk_DH__lHF_X?LND-sN?XHs+ LsN+FDL+#UL+_lU+FlXxxUDlHU?LZ?+vL?Nv??YDx?NL_YFLFxNDxYDDsX?v_H+NNHNNYHYYzXvssFMNF+vsxxUssr?sHxvD?+NUX+YYNxvU_xlUFDX?xLs?sD8?HLvFLDNx?LYHxDvxwDlHXDXHxlDHsN?HHsvXLNlXUNY??sv+Nsl+_sX+xlD+s=Y+X?nxL?sxUUHvA?v__?lLs?XD+FDLUF?LHlvDLHLDUYY_8Hv__X?vvHXsiXDl+X?NHM+sLl_sU+FlG+vl_+FlFv+UFxD?sx?Fsv+?LvNYUDxF^DvF_DlFFUXYx_NXDD?HX_+{l_NHU_Y9xs%X_s?XFsxnxsD3slYx+l+xNlNL?lYxRUvvs?xxFFvvxYUvs??vHF+LYFNDUFY_LYvDsYl_FHN_xXL_sOY_Hw+NL3ll+XYlBPvUR0lsFgX?x+Xlsx?lHv+ULsNUUvX?LvvFNvlHYvXFxLDYUDlFH_vYL?!YUDYH*NDXL_lXX_X+NNDXsN?+5LsWLl?ZU?x+Tlv+_llLFlXvxUDvFU?v}?+LL+svUFFLZYHL_YlLFXXFUYD_NY?NUH+svHN_U_vNafvN_XFNFXXsx(DLU3?lX++lL+NlU+Y?xHUU_v?UFvF?xvD?sv?vLL+YNLNFULYYxDv!_Y+YFNxHx?sHs?FHHsvHsNNmHNYv_svc_slxF_N+xUl+sUX+H,+xLUNUPUYLD?vvF?lvF?XDL?lLsH+LHYDDLYNDUXYvsHvNFHlsxHXYxXDsUFxNH+ssLxFsUmYl5xDsU+l?L+XHHxDUsx?FHVl?LLX?UDDF)UsF_D?lvLXH?DDH=D?YH_+X_YYH?sNX&lsX_NlXFl++UsDxvs?NDl++LlN+U?lx}??x_FLxFUXvx?DLH??DLF+LLFNLFFY_xHND_X(DFHv_xHD_sE?NvX+s?XNl+XYHdWvls+YsFxNlxN+ls+?lHvvlsxNFvxYXFvv?_vlYF+NFxDHFs_LFH?_YL_lU+DYXU_v+?_lHF_XgLH?Xll_XHsl1LsNAUlXxYlvvxllL+lXxxUDxs?sxHFUvLYvvU?YLSFvDDFl_vFXDxYDDUY?NwXN_LXX_UX+NRXvN_+lsXXXlU!DU(2?HH++U_xLlUv_U(xsU_xlUFL+U_vDYxv?4UL+FLLNHUxDY6_YY_NvYFFLHxNNUX_?}lN++NNNXUNY+xXluNUD/FlN+xlD+sUYxNU+L+UNLXUYvc?vv_YxvFYlLxHxLsF?LHY+N+YNNxYY_ZHv_sHlNH0DNx(HNsXXNH7+sLxNlF/YUl+vUX+lXF+X?Lv_UsLDUHLD?LvN?ULX?LLvH+Ll+sLXYxDDXsvvYHNFHLsxHUYxX7sD?YNl+sNXxNsD8ss?x7nN+D?L+UUDxgUvx_??vLUXDT?DL#??vHF+LLYLLUHsD6X+D_YlDFYXNyHDs+H?_HX+N_XNsF+LsV+Ys_qYsFwXlxvDUv+??sx+?HxNcUxYFxvN?_DL?F_?FxLDFsDYFxD+XgDNx_DYHf_v!_L+HFs?Xxl+XsHwXHlvF?sNxNsYvDlv+_llxH+DxvFvxsHNxH?+vLFlLH?YDXFvLHFlLFFXDxYXDsXNDH{t_LHN_UHYslXvl!XlNFXXsLSDlU+?sHxFlL+?lU+YU>LvUFxlFNxXFYvD+sv?Y&LxFL_vFUsNYzDvY__?Y;DXXX_DvL_?HHN++LLXXUlU)KU2d_HHyFU+YllDv_l?x_U+xLUNvFxvv+Yxv_YHvF?XLxYN_(F?_HY+?_YNDUYY_MX___u__FMXNxXDNsX?slt+lX>NsUIYlx+vUsxxlFv?UxxlUsx?UHD+FUvNY_vYYFLvx_LlYHDUYxNxYssFYH_+HLNlYH_YeHNvLxNlXFNXxxDY*sUl HUX+LXF+UUXHNUvLDUlvLUXvx?DLUsxvHH+LLHFLUFYD=HD+YYlNYYXFlHD_sH?_HxNNL+DNU+HsM=vs_7ll_+>UH+Dls+?lHx+ULYxUULx?.vv?_vU?FvXxlLDYFL?YWD+Y_DNHU?HH<N_H_sXHFsvXxNDxsN?mXs++NsNBFsY+WDD+_U?+FlXxxUDxs?YXD?+LN?Nv??YL8FvL_vXLFHvDxYDDsYFDHXvDsHNNXHYFsXvN_XllFYNsx+UssxKsHN+lLxl_++Y?_xvF?xlUFxXFLXF?sDx?HNsFLLNFULYcqDvH?DlXvDXHL_DXsFFHHsDXLF+XUlxtdsvv_sl+HsXx_lD+Ul?+HDFxL?UxU?sv!?vv_?lUHFQDxFDD?F?LXY+DLTNDUHU_,Xv__H?_FHXvLXDs_X?NH}+sL^NlFYLl xxl_vxlF+XUxxDvNx??Hv+?LvN?HvYYxL?F_DUFF_lYxDDYsN?HF_+XD_NX?_YD#NvmssHXFl+<xUUBss?7HUvv+lNxYlYLDUvx_UlvHFsvxFlvsHnvHF+LLYlDXFY_DYvl?YlDFYX_xHH_sXF_He_NLXlNU YlF2vl_ylUN>XUv+DUUx_lHvxULL+UUxY?<DvF+vlFYvXYvLDxsL?H5_?YL_lYUsHHC_vH_N?WN_X3DND+YN?XHs++_UfZUU++JFL+_ll+F?+DYUDvYU?L??+vL?NvUYNLCYLL_YHLFY+DxHDNxY?_HH+s_HNN?HYU%C+N_8lNFLXsxv_ssv?UN++UL+NY?+Y?*xvU_vxUFLO?xvN?sv??HL+Y_LNYFLYYYDvY_DlYF_UHxNsHsNNHHN+XLNN HNY+LsvO_sl)FsXxLU^+s?g+H2UxLUNxUUYU_?vLF?lvF?XL_FDDU?XLHHsDLxXDUYY_::vNHHlsvHXslXDYsX?l=+LsL+XsUvxlt+vl_x?Ux+X??xD?lx?UHv+?LLD?UDLFWDFF_L?FFDXYXDDHHD?0N_+X?_NXF_XX/sUX_Y+XFNX)xUD+_s?xDl+x?lNNUlYvxNxx_F+xFYLvx?DvsFYD0F+DYFND?FYDRYvD_HNDFX__xXH_sHY_HW+sYXNl6XYY?dvlYRllH+DlxxFlsNvlHx+ULLN?UxYFNvvFYvl+FvXYLL_Fs_vFHN_YLDNYU_XHu_vXX_lxU_XXxNDXslxXHls8LUMiUsX+cUvxYllvxlXLXUDvXU?LeFkvLFHvU+DLoFvL_HlDsFX_lYD_XY??HH+N_X?_U4DNi+sN_XlNF++lsuDU+g?FU++lL+NlULYU5vUU_LxUFv+?xLD+lv?YLL+qFLNH+LYY8slY__YYFNDHx_DHs_?llN+#DNNXUNYz+svo_?l!FlY+xU_+slY+HU+H_UNvlUYv+?vv_?lvFs+LxYDLsFYLHY+DLHlx+YYN+HvYeHl_FHXNxDFNs.?NH,vsLilsUmY+X+vUN+llF+XUvxD?UvUUHLv?LD+?UvYF0_vYlLlYHLXHLDDvsD?X2_lHLNUHUlHXPNvX_s?*+NX+_sDxYs?JHl+x_Ul+U?xxqYLx_UlxFF+v??DLH??_vF+LLFNLUXYDoHDD_HXDFH+_xXDFlH?NXX+l_XNsFXYsPvvs_+ssFx/lx+Nls+?_fx+?LxNUYxY?kvv?_X??FD}FxLlFsL?FHD+l_DNHFDYH+_vH__lHFv+XxssXsNYXHs+*LllY+sYxLlvDFll+FlXvLllxsFOxHXYvL?NvUYYNlFLD?Fl_+FX?NYD_UHlDHXN_LHX_UHYNg9DsDXllvXXsU%DssM?U#+NlLxXlUxDUKxvU_xl?NxXFNvDY;v?F9L+Y_LlFU_vY<NsY_DlYFN+HN_DXX_?DlN+XLNNXUUYABl_8_U8tFl++xlDUNl?vxU+xLUNxYUYLxFxv_FHvFYlLxFDLsH?DHY+_lYN_XYYFzHvNsX__FwDNx+UNsX?NH+vlNPNU+pYX++vl_+lUHxHUxvYUsD{UHv+?LLlYovYYlLvxNLlFFLXYxDHYsNiYHNUHL_lHUNYd?NvAUNl+HNX+NsD+UsFQHU_+L?++UlYxBFvv?UlL+UXLN?Dls??D<F?LLYYLUXHD;YvD_H?_?YXNlHDNNH?_HX+s_VsNU+DsODls_^lsFx+lx+D?++?Fvx+ULxNUUv+?*Ls?_Dx?FL+FxDDY+L?HxD+HXDNHXDYXx_sH_NHHFUHXxNDXsl?iss++lsN+XsYN2lvxsUU+F?DxxY_xsU?xHFvvl?ND+?Yl_FvL_FlLFXXDxHUDsXxDHHv_LXNF?HYsLXvYFXll+XXsxvDss+YsHxDlL+llU+Y+_xv?lxlUYxX?xvD?svv?HDDFLLUFULYY-DvHNDlX+DXHv_DHs_?HHNNXLsYXUNX,Jsvm_l?+LsXxllDDvl?+HU+xL?DxUFvvu?Dv_??vF?XLsFDDXF?LHY+D_YNsUX__4XU__X?_FBYNxxDXQX?lD}+?v8NlY<YlqLvl_xHlFv_UxxNUsvYNDv+FUvNXDvYFQLvF_NlFF_vYx_?YsDYYH_+U__NXX_YX2NvX_Nl4HL_exl?SssY(Hl++LlNUllYvNUvx_UlvLUXLLYxvsYvvHY?LLFNLUHY_LYv_HYlNLYXFxHDNU1L_H UNLxsNUXYsJ+DlLklU_:XlD+Dls+??Rv?ULLxUUDH?kvv?_L?F1vXYHLDF?L?FHD+YL_;YUNDHJNXH__?HFNXXUNDkXN?xGs++FsN+Fle+(U?+_?v+FlXxxFDvHU?L_?+LF?NlU?YDxFsL_HxLFxDDxYDDsHYN?H+NHHNsXHYNnXvss5pNF+UsxD?sso?sHxvlL+N?_+YFDxvU_xlUFLx?xLY?sDN?HLvFLDNY?LYHNDvX+DlXLDXXLNHHssvHH?(XLNNXUlY^vsv+HslxLsXNxlDxU?h+H?UxLXYxUUYvyFDDe?lD_?XlsFDLsF?LH)+DLHXDUXN_zHD__XlFvHXslXDYHX?l_u+?L!HsUxLlk_vl_LUlFLXUvxD?Xx?Ysv+y_vNFFvHF{D?F_lDFFLXYxNDHND?X__+XF_NLX_Y<xlRX_lxXFsN.xsD,slYxxl+xHlNxxlYx-UvvsH?xFFUvx?Yvs??vHF+DxFN_xFY_?YvDsYl_FH+_xXF_sXN_HolNLxNsUXYlNQvUNIlY?;XFxxDlsvxlHsDULLFUUxY?HvvF?vlYvvXFxLDFsDvFH_LYLDNYUDHH5_v+__lXY_X9DNDXUN?+yLs5Lll6U?++wlv+_llLFlXvxUDvUU?vo?+vLNlvUFHL.F_L_FlLFFX+LYD_UY?_xH+_LHN_UUXN8^_N_XUNFXXsxaDLU%?Ux++l_+NlU+Y?xHUU_vHUFND?xvD?sLY?xL+YULN+_LYY)DvX_lxYYNDHxN?HsYzHHsvXHNN++NY{ssvW_sl+HlD+xUY+sUv+HU+xL?lv(UYLl?vvH?lvF?XLxFXLsH+LHHUDLYlDUHXNUHvNYHll+HXNxXDsU)HNH+lsLvHsU/Yl<+vF_+l?^+X?UxDUUx?UHF(?LLF?UvYF LDF_D?Y_LXHsDDXxD?YH_+(Ls6HUsvXVslX_YlXFl++FsD+Xs?vXl++LlNxF?)xC??x_FHxFUXvxFNL_??DNF+_lFNLUFY_xYlD_XvDFX__xHD_sH?lHX+sUXNlLXYsxuvl__UsFxLlxvNlsv+lHx+__xNF:xY?Dvv?_vlFFUwFxDUFsUsFH_NYLDNAUDYXv_vX?_lHH_XXxH?XssXXHsv%LsNpUsYYxlvx?ll+YlXxxUDxs_YxHFNvL??vU?YL!FvJsFl_vFXDLYDDsY?N6Us_LXX_UqYN5XvN_XlHvXXllADsU8?lh++lLsYlUvDUJx_U_xlUFxXUKvDY+v?F+L+FLLNFUDvY*_YY_DUYFDXHx_DXL_?9lN+X_NNXUNY+xss7_UD7F?_+xlD+s??xXU+L+UNx?UYsN?vLsYDvFYYLx+3LsF?LHY+_DYNNDYYNHHv_sHl_FNHNx++NsX?NHWDsL+llF2YUY+v?Q+llF+XFxvxUsLsUHLH?LlN?ULXFFLvHLLlXYLXYxDDHU_UYHsVHL_YHU_YXSsD+vNl+FNXvvsDiss?xkUl+L?s+UFxx9Uvx_UlvDUXLX?DDl??LnF+DLYULUHlD;XDD_X_DFX+NUHDsDH?ssX+NLXNlU+lsbxds_x_sF_XlxxN?x+??Fx+FlxNUUxYFxL+?_Ds?Fs+FxLDFsDYYlD+XLDNXXDYHG_vXsvMHFlwXxlUXsN?XHs+vLsNxNsYv+lv+sllxFXlxvF+xsF_xHFHvLFlDL?YDYFvLXFlLFFXNxUYDsXsDHXH_LX+_UPYLsXvlvXlllXXlU%Dls_FsHxYlLx+lUvUU Dv+HxlFsxXTlvDH?v??HN+FL_+FU_lYVDDY__?UvDXXY_Dxs_?HHN+XLUNXUl_palHZ_s?^FsXFYlDvxl?xHU+xLUNxU_svqFHv_FsvF?XLxFD)UF?_UY+DNYNDUYY_nUD__r__FXnNxXDNsX?L.:+UxKNsFMYlS+vUsH&lFvHUxvHUsx?UHv++?vNYsvYFxLvFsLlFFYHYxNLYsD?YH_DHLNl<v_Y+!Nv+,NlXFNXxxsl9sU?1H?++LXN+UUXv+UvLNUlDYUXvx?DLUFXvHHvLLHFLUFYDnHDDXYlNXYXsNHD_sH?smC_NL+?NUxHswCvs_pllDTX?x+D?F+?UGx+?LvDUULF?nDD?_Dl?FD+FlLDHsL?HsD+YLDNXUN+H1svH_slHFFXXxsN7_N?+Xs+xlsN9UsYxxlL+_??+FFLxxUDxs?YLJ?+DN?N_??YLnFvDsl&LFXvDx6lDsY?DHH+lLHNsUHYlLXvNsXlsF_csxxLssx_sHv+lLLN+x+Y?XxvXYxlX^xXHxUY?sDU?HDYFL__FULYI=DvXvDlX?DXHL_DXUvxHHsXXL?xXUNY-6svvFslxssXv!lD+sl?+HLFxL?XxUUYvR?Lv_?l_F?XDsFD_0F?D*Y+DL__DUXL_CHv__HF_F +sHXDl.X?lsu+sL*NUU)Xl}x?l_v+lFNXUxvNUFx?FNv+HDvN?UvYYxLLF__vFFNLYxDDYs_YXv_+XX_NRX_YXiNv*sl!XFl?WxlF4ss?{Hl+LLlNvxlYvFUvxsUlvF+pvxFFvsYYvHYlLLXNFxFY_NYvlNYl_FYXlxDY_s=x_HLsNLL/NUXY?b-vl?-lUv;XlL+DlsY_lHvNULvDUUxY?ovvNsvlYvvXFDLDFsL?FH+vYL_XYUDXH*_vH_N??v_XV?NDvvN?XHs+TLHH UUD+blD+_l?+F?+HlUDL+U?_l?+vL?NvUXvLhYUL_HxLFFXDxYDrvY?NxH+_LHN_?HYNgxvN_^?NF+vsxwNss+YDD++UN+NU++YUqxvU_DlUFL=?xLs?svY?HL+NXLNYvLYH+DvY_DlYFHvHxN_Hs_?HHN+XLNN?FNY+xsvSFslIFsXvx_Y+sUH+H?VxLrXxU?vxU?vLU?lLL?XLvFDLHF?LHvwDLYNDUHH_hHv__HlF?HXNxXDspX?NH6+sL__sUeYl<+Xl_+llF+Xz+xDUsx???v+?LvN?UlFF.LvF_DxFFLXYxDDlUD?YH_+H?_NHU_YXVHFX_s?XFlvCxs_OslYYDl+x_lNvXlYx1UvvsNgxFFxvxx+vs??vHFNvHFNDHFYD+YvDNYl__YX_xLL_sH?_HhvNLXNNUXYYXVvs_ellX{Xlx+DlsNUlHx+ULxFUUxY?zvv+Dvl?FvXFsLDFsL?FH?qYLDNYU_LHi_vH__lL?_XXxND!*N?XHs+zLH_OUsY+kUv+_ll+FlXs+UDxsU?vU?+vL?NvU+FL<FvL_FULFFXDxYD+UY?DHH+_FHN_UHYN8NNN_OHNFXXsxhDssu?i_+xUU+N?x+YU%xvU_H?UFLs?xv??sv??H_+lFLNHLLYYFDvxUDlHxDlHxs9Hs_YHHNxXLNYXUNYDXsvK_slx+sX+xlD+sXU+HU+xL?HxUUYvu?vlD?lvF?XDUFDLsF?LHvTDLYNDUHN_PHv__HlxHHXNxXDNHX?NH{+sLFlsU5Yl<+Fl_+llF+X+?xDF+x?Flv+?DvN?UXXFpDFF_LXFFLXYxND?JD?Xs_+Xh_N+x_YX__YX_lLXFsx&xs_/ssYwHl+Y_lN+UlYxlUvx_UlxF0Hvx?DvsY+vHF+LLFNFvFY_lYvN+YlDYYX_xUN_sbL_HXNNLXNNUXYLxRvU;.ll_yXlx+D?sXvlHv?ULL+UUDD?zvl?bvlYNvXFNLDFlL?Y_D+YL?_YUDYHWNlH__lHF_XD+NDXsN?+vs+gLsN.ULX+^lv+_Ux+FlXxxUDsNU?xH?+L(?NvU?YLoxxL_FlLFYlDxYDDsY??YH+_LHNN)HYN*XvN_DsNFXXsxSFssn?sH++Xv+NlU+Y?LxvU_xlUF_s?xLH?sD_?HLxFLLNHNLYHlDvY_DlYFDXHxN_HssDHHsYXLNNXUNY+_svxvsl+xsX+xlDvslH+H?XxL?LxUc+v(?lv#?lD??XLsFDLlF?DLY+DLv_DUYY_%XF__Hl_FHXY+XDNsX?ll4+sLqNsU_FlS+vl_vDlF+XUxxD0Nx?UHv+?XvN?UvYFkyDF_LlFFDDYxDDYsD?U;_+HL_NXv_YX8NvX_XxXFlFIxULSssF&Hl+Y_lNvNlYx_Uvx_UlLFsNvxYvvsFsvHHlLLFYLLFY_XYvDYYlDYYX_LHD_sUY_HX+NL9>NUXYsM3vHDflsFhXUF+Dls+?lHlUULLLUULF?1vL?_vlNHvXYXLDFHL?FHD+YL+lYUN?Ha_YH__lHFsXFUND+_N?+Fs+xFsN+!sN+7?x+_Ux+FU<xxUFxsU?sY?+vL?NDL?YLJFvL_xsLFFXDxHHDsY?DHH+x_HN_UHYNlXvN_XlNFDHsx=Dss+ssH++lL+NXl+YU5xv?+xlUFxX?xlL?sv??HL_FLLNFULYxXDvY_DlX=DXHx_DHsHLHHsHXLl_XUNH7msl;#slxlsX+_lD+ll?xsU+xLd_xUUYv ??v_?lvF?XU+FDLsF?DHY+DLYNDUvF_pHv__HH_FHXNxXDYNX?NHo+sUdNsUfYldNxl_+llFx_UxxDUsx?.Yv+?LvNFLvYF<LvF_UsFFLXYx_qYsD?YH_+Lv_NHU_YXFNvX_NlXFYHmxsDfssF(Hl++LlNYFlYxhUvxHUlxFUXLxDLvsFvvHxLLLHLLUHY_lYvNvYl_LYXFDHDssXU_H+;NLXsNU+vsCdvsF7lUl(X?++Dll+??HvvULLLUUxH?pLs?_vXYDvXYXLDLFLYFXD+YLDNYHsFH7_vH_HYHHNzXxND?UN?+?s+bXsNeUsYvZ_?+_?_+F?FxxYvxsF?q_?+Dx?Nv??YDDFvL_LHLYHFDxXvDsHvDHXvDsHNsNHYFHXvN_XllFYNsxxxssxssH+FlL+NDF+Y?Hxv?xxlUFxX?xU??sDU?HL+FLL?FU_YUsDvX_DlYYDXvl_DXsFFHHlKXLFHXUlY)<svFsslxFsX+XlD+sl?vHNlxLFNxUFYvE8Uv_FllY?X_+FDD_F?_HY+sLLXDUXF_I+D__vq_FXXYvXDlNX?lNZ+sYiNsUs_l&v*l_vslFxZUxxD__x??_v+?_vN?UvYFfDLF_LlFFDMYxDDYs_DYH_+HL_NHU_YX;NvXNNlXFNXzxl_6ss?tHlx+LlN+UlYxoUvx_?xxFUXvx?NvH??vHF+sNv_?_vFFx&_DsHlDFYX_xxNFlLHYlDsH___HX_?HLL_XDNDX?s+FD+NlF+?lHx++sl8oYls?xv??_vl?Fsxxv?+vLUYxX?LvXDlYXDYH*_vvFFUDsHLDNNNXFN?XHs+_?HsNNXx+xlU+_ll+FnDlL+LlDXvs+QNvN?NvU?YL FvL_?ls?Y+DsYDDsY?UDLxY+LF?vD+NZ+sN_XlNF++X_BDss(?l+++lL+NlUv_U;xvU_xUUFv+?xvDFXv??XL+FLLNFULYYK_?Y_DUYFDXHx__Hs_?X?N+X_NNX?NY7SsvrFsY&FlP+xlY+slF+HUvxLU?DlUYv0?vvH?lvY?XL_XLLsF?LHYUDLYsDUYYN+Hv__Hl_YHXNxXDNssLNHm+sL2NsU>YlrxDU++llY+XUvxDUsx?FHLY?Lvs?UvHFqLUF_LlYNLXYLDDYUD?YH_+HLNYHUN4XtN_X_NlXFNX)_sD!Fs?+xl++LlN+UUYx&ULx_UYxF?+vx?DLH??L5F+LlFNLUFY_hYlD_Y?DFHL_xH__sH?lsX+N_XNs^XYsptvl_+lsF++lx+Nls+FlHx+UsxNUFxY?Nvv?_vlFHLLFxLsFsLFFHD+YLNNXDDYHv_vHl_lXv_XXxsxXsNXXHsv>LsN{UlXxllv+?llxLlXxxUDvUNxxH?NvL?XvU?YL1FvN_FlLXFXDsYDDUY?_HFD_LHl_UHXNhX_N_XlsUXXsL,DlR1?sH++?LxUlU+XU8xDU_xYUFxX?UvD??v??XL+FLLNFULXY#DDY_D?YF_QHx_D*L_?XpN+XYNNXUNY+xl_r_sF%FlD+xlD+s??X_U+xNUNxYUYvl?vv_HLvYF+LxFNLsFFLHY+_DYNDUYY_+Hv__Hl_FHXNxXDNHX?NH1+s_qHsU.YlbD_XHNUaUs_CNslUUvvUHv+?LsNxl?exl?NxX?svUD+YNDDYsD?vxYaDlFUDx_XXLNvX_NlL+HYNNXxKUlN;Hl++LHLsl+xlvts_s+HUZxvU+xv_l?YL?F+LLFNlXLS?DLDlXLNFFDLY_vlH+D?YvXxsXXNNUXYU%u?s_KUsFzXlx+?lsxY?Lx+U_xNUHxY?3vvY_L??FL+FxLNFsD+FHN+YYDNYFDYHx_vH?_lXxssXxN_XssNXHsxMLslaUl+vXlv+_llxslXxvUDLssvxH?xvL?NvUFvLtYDvUFlLHFXD_YDDsY?NH?l_LHl_UHXN%XlN_+lYFXXsLeDsUQ?l+++lUxYlU+HUSvYU_xUUFv+?xvlHNv??HL+YHLNF?LYYTYNY_DUYF_bHx_DHs_?l?N+XDNNXUNY>1svx_U_^Flk+xlD+slY+HU+x_UNx?UYv+?vv_?lvFYFLxF_LsFHLHY+DLXN_HYY_+Hv_NHl_HHXNx(UNsXFNH0vsL3NsUBYU_+vlN+lUS+XUxxDFsLNUHvv?LvN?UvHF9LlF#LlFXLXYxDDYlD?H+_+HLF_HU_YXdNvX_NlXFNXFLsDSss?1Hl++LlN+UDXxIUvx_UHxFUXvx?D?+??vXF+LNFNL?FYDhHLD_YlDFH2_xHD_sHF_HX+NLXUNUXYs6hDsl{lsFoXYNsvXF+YUxx+ULxNHXl?xDU#?sLN?FvXFxlUv??hL5lULxFNLXY+vvYNLNYYD+_XXHNDXsN?XHLv(LsNKUsY+=lv+_?lXLlXxxUDxsU?v+?+L_U?vU?HLOFDL_FlLFHXxUYDDlY?DXH+_NHNsULYNpXLN_XUNF:Esx)?sX*?sH++lX+Nl?+YU+xvUUDsUFxX?xLu?svF?HL+LsLNFULYYoDvY_DlYFHsHx_DHs_FHHN+XLNNNxNHf-svB_slnFsX+x+H+sl?+HUvxLUNxUUYL+?vv_?lvY?XLxFDLsF?LHY+DsYNDUYY_xHN__Hl_FvLHA_UHDXYs?P+sL4NYXsSXDsDYXsNnFlL+_Nlx+l?+vvv?lvN?UvY+L?xv?UFvLD+YXDDYsD?x?YRDlYULX?UDXHlD?H__+HYN_s_+Fs?MHl+vLlX+UlHx5Uvx_U?xFF+Ll?DvU??vXF+LLFN_UYlDdYDD_Y?DFH+_xVDNUH?NnX+N_XNNHXYs_+?s_9UsF+Xlx+_ls+YlHxDYvxNUUxYFdvv?NvlYF+NFxL_FsL?FHDvYL_lFHDYHx_vHN_lHF_X+xLYXsNYXHsvkLslAUUYN9lv+sll+HlXxDUDxH??xH?xvLFUvU?HL1FDL_FYN?FXDxYD_?Y?DXH+_LUl_UHHNMXvN_XlNFZDFxR_slt?lH++lD+NlU+YULDxU_xlUFvX?xv_?svXHYL+FLLNYYLYY+DvY_HxYFDXHx__Hs_?HHN+?_NNX?NYr+svR_slcF+s+xl_+sl?+HU+xLUNv?UYvZ?vvN?lvF?XLxFDLsF?DFY+DLYNDFHx_CHv__vXFYD?HNDUNU5?NHR+sLLlH?NzX?NU%sss++sYe__s+NlN+YUvHNvU?UvYFWLvF_Ll?FsHYLDYYsD?YH?+DvYUDvH+DlHx_LN?dLNXVxsDL?HFNUXYN_XsNYVsxvUvx_UlxFUXvxlDNN?YLLF+LLFNsYvF?FLxFsgFDHHv_xHD_sDxFXDHYlXlNXXYstpvY?LYXDNFFL+NlH+?lHx+H?ss+NlxXllN?sL#?FvXFxU?vU?Uv?llxNUYYF_xHJ_vH_YYD??NLDF?XUNHXHs+6LXD_XEL+vlv+_ll+FlXxxUDxsUY_W?+vL?NvUNXL{FDL_FlLFFXDxHD?lY?_}H+_DHN_?HYN-?DN_X?NF8RsxyDss6?Di++lN+NlU+YUZxvF_r+UFvx?xvs?svF?HD++HLsFFLYYxDvYlDlHH_XHx_NHsNxHHN+XLlNUlNYrxsvtssl+ssX+x?m+slH+HUxxLUNxUUYvv?vvs?lvH?XL_FDLsY3LHY_DLYlDUYY_CHvNXHlNxHXNDXDNsX?NH+YsL:?sU++l&+vl_+lUv+XUsxDU?x?UHv+?Lvl?ULxFbLDF_LlFFLXHUDDYYD?Hv_+HL_NXFslXrNlX_sxXFNXMxUDHSs?+Ll++UlNxNlYxExLxN?,xF?xvx?DvsFYDUF+LFFNDsFYD(Yv__N?DFHs_xHs_sHX_HBvv?XNsLXYsHSvs_hlsFvXlx+?lsxDlHxvULvN.?xY?Dvv?UvlFxvXFx%NFsD)FHDNYLDNYU_XYL_vHF_lXD_XXxND+slHXHsN4LsYcUlU+^UDv^llxvlXxsUDxsU?LAFlvL?XvUF?LOFvL_YlDlFXD?YDD?Y?_=H+N_XY_UXNNOJ+N_XlNFXXsspDsHp?ls++l_+NUUNHUExsU_xYUFvD?xvDNUv?FvL+F?LNFULYHxLNY_DXYF__Hx_DHss?F_N+XUNNOpNYw?svQ_uUoYl_+xlN+sl?+H?vvLUNvxUYvv?vv_?lLHs_LxFHLsFHLHY+DLYNsUYY__Hv_XHl_HHXsxYlNsPhNH8vsLeYsU#YU++vl?+lUL+XUxxDFsxFUHv_?LvF?ULxF/LvYULlYxLXYvDDYsD?YHN?HL_FHU_XX}NLX_Nlc>NX3NsD++s?nHl+x_U?+UUvx{U?x_UlxFFX>U?DvH??LLF+LHFNLUXsD+YsD_Y?DFHw_xHDNlH?_HX+NDXNNUXYsT-vs_8llN(Xlx+DlUxNlHx+UL_sEFU!+XlXx?UYx+lxx??XxYLYYvD+YLDNvYFlL+YnD__?X+_XXxNDLY?X_NHHv_sl7?sY+9lv_Hl?xLlXxxUDNs+UU++UUsxyUlx?LxYvL_FlLF+-?LLsFNLNYvDDFlvNYl_<Yl_NYX_sHUn+sD8Dss.?XFN_C?+llH+YUSxv+vsUxylN?Lv_?sv??HlUFNLNFULYYzDvY_DlYF_xHx_DHs_?HHN+HL?_X??l3asvn_slFHsX+vlD+sl?+HU+xUlHxUUYvVHHv_?UvFF#LxFlNNF?LHY+sXYND?YY_RUD__HU_FX,NxXDNs}+?HuxsDZNFD/Yl++vl_+lU7LHUxxDUs__UHvx?LvNNFvYF+LvFsLlFFLXYsU?YsD?YH_?HL_sHU_HXMNNxDNlXFNXaFsD7ls?+xF;+LlN+UYsx!ULx_??xwUXvv?DLa??vHF+_LlXLUFHD;YLD_Y?DFYXxLHD_UH?_HX+NLXNlUYDsI-Ds_m?sF+LlxvDNw+?U>x+U_xNUHxY?dXD?_vF?FLxFxLDFs_?U_D+YNDNYYDYH__v;_L+HFNxXxNsXsNXXHs+N+ssfFsY+xlv+lllxH__xxUsxs?DxH?+vL?NXF?YLLFvLlFlLFFXNxUYDsYXDHHD_LHs_U^YvsXvNUXlsQXXs_uDss+_sH+xlL+?lU+XUnxv?xxlUHxX?DvD?sv?YHD+FLLlFULXYtDLY_NlXLDXHL_DHU_?XxN+XLs_XUNHR}sL)_s?5FU+xvlD+Ul?x_U+xLUNLU?Lvq?Dv_??vFF+LxHDDLF?D+Y+DLYNDXYYsuXp__HF_FXxNxXHNsX?LO*+ssrNsYWYla+v?_X+lFxvUxxlUsv+UHD+sFvN?HvYFLLvFXLlFF?FYvDsYsDHYH_DHLNl?+_YXLNv88NlXFNXOxLNgsl9yHlL+LlN+U?YXsUvx?Ulv+UXvv?DDslvvHF_LLFFLUY_DRYvs_YlDHYX_NHD_UH?_H?vNLXUNUiis*tvs_xl_L.XlD+Dl?+?lXx+FLXXUUvi?/v_?_Lx?FvX+DLDFUL?YOD+YNDNYU+XHI__H__YHF_XXxsNHFN?Gxs+9NsN(UsYvc_?+_lY+FUvxxUFxsU?UX?xvl?Nv??YLfFvDsYHLFYDDxYXDsY?DHH+HDHsN+HYNxXvN_XlsH#?sxrYss+DsH++lL+NFU+YULxvUHxlUHxXFxl_?svH?HL_FLL?FULYDlDvYNDlH+DXHx_DXsTYHHNLXLsxXUNXh#svsXslPXsX+slD+sl?+H_vxLUUxU?Lv.?vv_?ls?F6LDFDLlF?LXY+DLHsDUYY_mHL__Hl_FHXNxXDNsB+NHZ+sL;lsX)Yl(+vHUss++sxyUxNUFx?UHv+XlUDxXUUFxLXF_LlFFlFL+FUL?Fmx1Y_DsY?DlY?x+NDJvNlXFNXDNXs_YXYDNXXsLyFsHX+ll+vs?U?vLUXvx?DssxU?+xU?sv^?lv?DxYUD_YlDFxxFUL_Y_DxYvDDND+xNUXYsexvsH,lsYCXlx+DlF+??ZxYULxlUUxX?}vv?_DlYDvXFLLDFUL?YxD+XL__YUDXH-_DH__FHFNDaLNDXlN?BUs+&DsN.FsY+LFx+_ll+FU?xxU_xsF?!_?+vD?NvU?YLLFvDs?YLFY+DxYNDsY?DHb+vFHN_FHYNxXvNUXllFDXsx4Nss2YsH+xlL+YUL+YU+xvFyxlUYxX?LvD?F_U?HL+FL_+FULHY.DvDUDlYYDXHv_DHs_?HH+HXLNsXUNY11svi_Ul+VsX+vlD+sl?xvU+xL?lxUUHvK?Lv_?lvF?XLUFDLlF?D+Y+DLYNNUH+_qHL__HU_FXLNxXDNlX?NX=+s_qNsUPYl:+_l_+UlFxvUxxDUsL??Qv+?_vN?UvYF_LvFFLvFFDxYxDDYsDFYH_LHL_NLl_YX NvX_NlXFNXhxLN5ss?JHl++LlN+UlYHxUvx_Ulv+UXvx?DvsvLvHFxLLFULUFHDOYv_NYlDFYX_vHD_sH?_XX+NLXNNYXYsPVvsswFsF,XlxDUO_NXU{xDULxNUUNx+HUsxvv?FUvXFxLD+Y?HvvFv+YFDLUYxDL?_DUFU_mYLXxs+XsN?XHs+F_sN4UsY+elv+_llvFNNxxUDxsU?xH?LvLFlxH?YL+FvLsFlLFFXNxUYDsYFDHHx_LHU_UuYYfXvNNXlNYXXsvTDsHxvsH++lLxxlU+HU;xLU_xYY?xX?xvDFvv??XL+FLF?FULYYuDvY_DlYFDX_?_DHs_?HXN+XLNNXUXD>+sv&_slPFsX+xlDU+l?+HU+x_UNxUUYvkFLv_?lvFFnLxFDLsF?LHY+DLY?DUYY_ HD_?Hl_FHXF__LHYDHH_fvl+PNsUqYHDs_X?s?HDsY+xlU+FNXxNU++lvl?HvYF1Lv9??NL+?FYL_xYsD?YHUHDvYFDYYxvYHx_FYH_lHLNRXl5llX>Hl++L?NxxlYx+Uvx_UlxHUXLLFavs?YvHFLLLFNLUHYD?YvDsYlDHYX_LHDssHY_HXvNLXlNUz+saVllsflsYwXUx+Dll+?U*x+UsD_UUxY?cLv?_vU?FDXlULDFlL?FHD+Y_DNHFD+H}_DH__FHF_XXxlDYpN?z9s+K_sNeFsYvEXv+_l?+FU+xxU_xs?+vY?+vD?NLY?YL+FvLsFlDfXHDxYDDsHHDHHx_LHNxFHYN+XvN_XlNFXXssLDsl=FsHx+lL+slU+YUhxNYDxlUFxXFxvD?lv?FxNeFLLNFU_gY3DLY_Dl_DDXHx_DHl_?HHN+XLvlXUNHBnsL1_slCFsXl?lD+ll?+HU+xLUNxU?HvJ?vv_?UvF?XLxFDLsF?LHHYDLYNDUYX_LHv__Hl?Y_LYvDlNUXXNHr+sLN?H?s0X?+DlX+llF+XX_lFTYl9+FNUxxlYxlvXFXLvF_Ll++?)LD?HL_FxxxFUD_FFLYH+DlHx_LN?XYNX2xsDLHsYxLl++LlNDFXHsv)HsY+?l?xLUI+lsFxYlXxX?NvNU?vX?DL+?lDxDXYX_xHD_sH?_HX+NLXlNHXYsM)vYxNxXUNLlL+lls+?lHNL}YU+CXxX??vv?_vlw+U)vDUHv_?xx+FDLYFvvXDXHv_vH__lDUYL_lNsx?UHv+?LvN?UFYFF+xlU+_ll+FXvl+cFsX+Nlv+DvD?NvFFHLTFvL_+x?lv>?lvUUFLY?XLXYNDNF?DXYD_+YlNxNHpLsx>Dss_pYxNUb+LllFx+UqxvU_U4=Ylsx_vs?sv??HL+FLLN?UsFYvHY_XXxNDXsN?xHxN_FHXNvX?NNXUNYD_HFNlXx_HX?NNls+sl?+HU+xLUNsHHYvx?_v_?lvFrH?NvlL?XHs+-LsNgUsY?&lXHD_FHl_FHX?D_NYYDFXx__s_*?sUVYl,DsdLsH1lxxUxxDUsx?UHv+XNNN?FL+F%LvF_llvs?:L?DDNxD?YH_+HLxlHU_YX*NvX_NlXFsDLxs_#ss?+xl++DlN+UlYxLYxx_UlxF?vvx?_vs??LXF+LLFNL?FYD!YvD_DYDFYX_xH__sH?_HX+XYXNNUXYsWdvs_flsFFxlx+Dls+FlHx+ULxNFNxY?+vv?Nvl?FvXHxDHFsLFFHDxYL_LYUDYXF_vHN_lHY_XXxND2ssDXHs+ELlLBUsH+ElvxXll+FlXxvUDxsU?LH??vL?NvU?YLwY9L_FXLxFXDxYD_sY?DXH+_DHN_H+FNaXvN_.lNFO(sxql?N7?sH++Hs+Nl?+YUaHDU_xlUFv+?xvD?s_??FL+FLLNYXLYHLDvY_NLYFDXHx_sHs_?HHU+++NNXUNY+Dsv+UslwFlH+xlD+slX+HU+xLFNL_UYv3?vv_?lL+?X_xFYLsF?LHY+DLYXDU.Y_xHv__Hls+HXs_XDNs+NNHB+sL,FsU;YlMvv2l+llF+XUxxDF+x?UHvF?Lvl?UL+FBLvF_D?HNLXYDDDY?D?YH_+1LNlHUN*XRN_X_sLXFl++YsDAFs?x_l++LlNxFU?xnUsx_FvxFUXvxYDDL??LvF+LlFNDLFYN*PND_YHDFHL_xH__sXYsNX+NUXNlLXYsSevU_+ssF+Dlx+?ls+XlHL+UlxN?)xY?_vvFYvl?FLYFxLsFsD+FHDvYLDN_lDYHL_vH__lHY_XPLNXXss.XHl+zLsNVUUY+Ulv+?llx+lXxYUDvUF+xH?NvLFlvU?YLzYDLsFlDvFXDlYDDsY?NfXH_LHX_UXLN2XvN_B?NYXXs?:DlH-?sH++lLLNlUxxUhxFU_x?UFvX+vvD?Fv?FNL+FlLNFUNYY#DvY_DYYF_+HxsD+v_?HHN+XLNN+_NY(uUHZNslKFl++xl_+sl?H<U+xLUNxXUYv>?vD_xFvF?XLxFDLsHLLHY+DXYNDFYY_xHv__HlNHXlNxXsNsXHNHr+sLxNl+/Ylv+vll+lUN+X?LxlUsxXUHLL?LvN?ULXYNLvF?LlH_LXYxDDXsDYYH__HL_FHUNNXRlvFHNlZ+NXkNsDdls?WHF++LlU+UUxx-UDx_Ul?sUXv_?Dvs??vXF+NLYYLUY+D;HxD_HIDFYXN!HD_sH?NxX+N_XNlUIXsz.vs_GlsFx?lx+DUF+?lHx+U_xNU?xY?dvL?_vl?FLLFxLDFs_?HvD+YLDNYUDYXl_vH_x?HFN+XxNsXsN?XHlvXssNPYsY+vlv+_llvFNNxxUsxsUHxH?FvLFlm+?YLLFvDlFlLFFX_LFlDsH(DHX?_LHN_UzYLsXvN?Xls+XXsFODUsHvsH+_lL+FlU+HUdxvY_xlUXxX?NvD?Uv??H?NFLL?FULYY>DLY_slDLDXH__DHH_?XDN+XLUNXUNYp%sNt_s?aFUXvYlD+sl?+HU+L8UNxUYsv+?vv_??vFF4LxYNvFF?LHY+D_YNDUYYsoYx__Hl_FHXNx _Ns*Yl_<+sDZNUxbYlb+vl_xllF+XUxxNUsxFUHvDFlvN?UvYDNLvFNLlFF++YxDDYs_kYH_+HLsNDY_YX<NvX_Nl+DNXZxlD1ssYtHlv+LlN+UUXxHUvxlUlxXUXvx?DDsYPvHFLLLFULUYsDdHDDFYl_RYX_HHD_sH?s:XYNLXFNU+Nsmmvs_xlULzXlN+DlY+?Usx+FLXXUUvx?kvs?_vU?FvXXxLDF?L?YvD+Y_DNYUHlHm_NH__lHFNBXxUD++N?txs++vsN+FsY+/UL+_ll+FUvxxUNxsF?vX?+vL?NvU?YDFFvL_YsLFFXDxYNDsYFDHH+N+HN_UHYNDXvN_XllF+xsxODssd?sHxUlL+NDF+YUxxvUlxlUFxXFLxl?svH?HLLFLLNFU_YUsDvYlDlYXDXHY_DXUvxHHNDXLsvXUNY-}lDXUsl++sXxFlD+sl?vHNlxLUFxU?xvt?Yv_Yl+L?XLNFDLYF?LXY+DL#NDUH5_;Hs__H?_FHXXHXDNFX?NHf+sD/N?Uxll!+Nl_+XlFv+UxxDFLx?UHv+?svN?FvYHOD_F_LlFFLXYxN+YsD?HH_+HL_NHF_YX+NvX_sHXFNX{xsUGss?^H?++UlN+UlYxTUvvXUlxFN+vx?Nvs?XvHF+LLYlvHFYDvYvDlYlDFYXsx?Y_sHH_HXLNLexNU3XLNZvsU(llX/Xlx+DUUwXlHx_ULL+UUxY? Dvv0vlF+vXFNLDYxL?HHDUYLDFYU_xHc_LH_N?XL_XXsND+xN?XHs+xLllgUlv+kll+_lY+F?XxXUDxHU?vL?+L??NvU?HL&F_L_FXLFY+DxYDDXY?_xH+_LHN_?HYsxN+NNXHNF Xsx-Dssx?l_++ll+NlX+YU?xv?sxUUFvD?xLN?sv??HDvYvLNY+LYYNDvY_DlHHN_Hx_YHsNxHHN+XLslXFNYSlsvx+slJFsX+xlY+sU/+HUUxLUlxU?Yl+?vvU?lLD?XLNFDLsX?LHY+DLY?DUYX_4avl+Hl_FHXNxXDlLX?NHxFsDpNsUKXlO+Ll_x?l6+XUxxDUUx?UHv+YL1X?UvYFPLvF_DUFF_+llDDYlD?X+_+HL_NHUlsX+NvX_N?XFs2}xsDFUs?(Hl++_lN+UlYDZ+?x_UlxFFLvxFvvs??,6F+LLFNLYFYD-Yvs_D+DFYX_xXU_sXl_HX+v_XNNUXYsL!vs_{lUFHNlx+Dls+?lHx_ULLNsxxY?7vv?_vlFLvXXx?YFsL?FH__YL_DYUDY_L_vH__lHF_XXxNDXszLXHs+3LsNbUsY+0lvxNll+FlXxvUDxsU?xH?+vL?NLD?YLaFvLsFHLFFXDxvsFLvFF?D+__H?_UHYNa_-YN_YHLQxsx#DssJ?sH++sLD_lFxYUhxvU__U HUxx+U+xYUXxvl+vv?UvvF+vlFxLLD?HsDXHx_DxlFY_+HR_qHF_HHxDvHFs8HH/Hlx+xlD+s)lsv+sxNUNxUUYvy?vv_?lvFF+LNFDLsF?Uv+D?YLLsFYX_+Hv__HlFDX+NUXDNsX?FHNmXNN.XHN_XXs+ll+llF+XUxxDUsZ?HYvxYYvN?UvYF:SDF_LUFFLXYxDDYs_+YD_+HL_N+x_YX+NvXNNlu%UHhxsDts?vdHlx+LlNYFlYx+UvxNUlxFUXvsXDvl?FvHHlLLFsLUFYDmYNsDYlDFYXsUHD_lH?_H?vNLXsNUXYsyWvs_3lLH8XlL+DlU+?lHx+UU+HUUxH?!D??_vU?FL+FxLlXNL?FHD+XFDNY?DYXxDNH__UHFN+XxNDXsl?Y_s+uDsNO?sY++lvv_N++FU+xxUDxs?DxHY+dF?NvF?YLxFvLXFlLFl+DxYsDsYHDHH+_L4NLxHYNvXvNlXls0XXUxYYss<HsH+LlLx%lU+Y5YxLUsxlUHxX?DvDFUrx?HLLFLLHFULYYnDvlsDlHuDXHD_DHs_?3HLlXLN?XUs+aZssT_UlHLsX+_lD+Fl?xNU+xLYNxUUHve?Nv_??vF?XpLFDLUF?D+Y+DLYNNU?D_GHD__H?_FXLNx+DDoX?s.W+s_bNlvnYle__l_+UlFxoUxxNUsx?N4v+?_vN?HvYFwLvYsvYFFDxYxDYYsD?YHs+?F_NHY_YXvNvXFNlEHL_0xslCsl_8Hl++LUlH+lYxDUvxYUlxFUXvxv_vlF+vHFxLLFNLUYXDNYvDYYl_vYX_xHD_s+?_HXLNLXHNUXXso+vHN}lsH/XlF+Dl?+?UHFvULxlUUv>?JvL?_vlLDvXFLLDFYL?FHD+YL+lYUDXHb_lH__lHF_XL+N_XUN?XXs+%DsNyUlH+Ilv+_lU+FlXxxUDxsU?xHYvvL?NvU?XLNFvL_FlsXvHFeLl?YLlYxHv_?HN_UHYY__DHD__FHL_FLPNs?/?sH++rxNF++x UBxvU_xlUFxXH.ND?ULK?HL+FLsYvFUHvY?sYs_XYFDXHxUNLlFHDlYs__H__XH?_LYNNsHUNU-xsxX_sUo,sF}LlYUlv/UYve?vs_+UUHxL?ivlLUY+LHY+DL+UFlLlFXDDllH?_XHXNxXDF?_=Xx7vsLeNsU)Ylx+Yl_+llFN+++lU+_sXXLUv+DUL+XL.F&LvF_LlFFLXH_lDYUDXYH_+HL?UDvHNDDN_X_NlXFNXoxsD4ss?++l++LlN+UlYxOH+__U?vLUXvx?DssxU?+xU?svk?lv?DvYvD_YlDFYX_x;YxsHYNxX+NLXNFHN_Xe_ssl_XXxNDXsN?XHJ+YYxvUsxNUUxYX_UxxLUY?HLDFxLDFslHLxFvLvFxvX_^H._vH__lHF_XHx?LXUNXXHs+/LFFNsOxNYlDxall+FlX_l+LlF+vsX+HN_x_U_x+LvFvL_FlLFFXvxLLlsYY_vH+_LHNYHLHYxDXY?XFNFXXsx%Dss%??_D+l_+?lU+YU<NNZ?U+xuv+?_vD?sv?rFUxv+UFFFDvYKDvY_UFL+FxD+YvLF_YXLN+XLNN_vH?NvHsNsXY8Hl_+xlD+sHXNXJvNxZslN+xvx?sv_?lvF+Ls_xH?DXYD%Y_DLYNDUxlF+LDF?DD_HLsNxXDNsX?FD!xs_oNsUEYlB+vl_+HlFxxUxx_Usx?UHv+?lvN?HvYFxLvF_LlYH_UYxDUYsNYYH_+HLNlHH_YX_NvI5NlXFNX+LsXWslxyHlD+LlN+UlYxUUvxUUlvvUXvL?DvsLUvHF_LLFNLUY+D.HD_LYl_xYXsvHD_sH?sHXHNLXYNUkvs/<_s_+?UvEXll+DUH+?lHx+?_vUUUvD?uLL?_vl?FD+FYLDY+L?HLD+YLDNHFNxH#_YH_NNHF_XXxND0+N?TLs+dHsN-FsYx>?E+_lH+FUFxxU?xs?Yvs?+vU?ND??YLcFv__YvLFYDDxY?DsYHDHXvNlHNN+HYNHXvN_XlsH+xsxEYssx_sH++lLxl?v+YUlxv?LxlUFxXFLXF?sLD?HLXFLLNFULY2nDvYFDlH_DXHL_DXsFDHXN_XLsNXUsvgelD+?sl+xsXxllD+sl?vHNlxLUYxU?vv{FNv_Yl+L?XLsFDLHF?__Y+_LHFD?Hx_ XN__HX_F+XsHXDNYX?l?y+sD)NsUxNlw+_l_+HlFx+UxvN?xx??xv+YSvN?UvYFhDFF_L?FFDvYxDNYsD?HH_+HN_NHU_YX=NvX_sLXFsv2xssRss?RHl+Y_lN+XlYx+Uvx_UlxFN+vx??vs?YvHF+LLYl++FYDNYv_+YlDFYXNLYl_sXv_HXlNLXNNU+Y?l3LsHZllLWXlL+DUUxNlHxUULLOUUxY?SLDFHvlF_vXY?LDFsL?H5DLYL_xYUN_H;_vH__lXL_XXUND-vN?nbs++_lXfUl_+eU++_ll+F?+vFUDvxU?vU?+vL?NvUHYL3FlL_YvLFY+DxYDHNY?_DH+_LHN_YHYsxXYN_&+NFx&sx^Dssx?U+++lF+NUx+YUvxv?sLvUFvs?xL??sv??HDvYxLNYLLYYHDvY_DlHH_LHxNoHsNlHHN+XLslXFNYgFsv+Dsl/FsX+xFD+sUv+HUYxLUlxU?Yl+?vvY?lLl?XLUFDNsLvLHYsDLYYDUXm_iHvxsHlNLHXN_XDNsX?sH_xsLrHsU+Ll>+?l_+lFF+XUNxDUXx??Jv+?LUY?ULvFuLLF_LlFFLXsYDDYXD?HM_+HL_NHUxXXEN?X_NlXFNXGxsDFUs?+Nl++_lN+UlYvx_Ux_?vxFFLvx?Dvs??UDF+LYFNLFFYDxYv_sUkDFHl_xXU_sH?_HX+UUXNsxXYsUwvs_blsF?Ulx+?ls+?lHxxULxNYUxY?Lvv?Fvl?HvXYL*FFsDTFH_XYLDNYUDY+1_vHl_lX+_XXLNDhsYDXXsvrLUvmUsH+,UDxxllx(lXvFUDxsU?LHslvL??vUF+LcHxL_Fl4HFXDNYDDYY?DHH+_LDY_UXvNGXvN_XYNF>XHv&DsHI?U?++lD+NlUYXU=xUU_xXUFxX?xDDlev?FDL+F?LNHNLYH3?LY_DXYFNXHx_FHsl?__N+XUNNbFNYxxsv+_HU#FlD+xlU+slH+HU+lYUNxHUYv_?vvN?lvFvDLxFlLsF?LHY+DLYYDLYY_DHv__Hl_YHXNvXDNsDUNH3+sLRlsUiYl3xvXN+lUi+XU?xDUYx?UHHX?Lv??UvXF*LvF_LlYYLXYxDDYlD?YH_+HD_NHU_YX+NvX_NlXHsv^xsD{sYXNvhlssll+YlYx>Uvx__?xF?+vx?Dvs??vHY+UDFNLFFYD+YvDNYlDFXG_xHD_sHF_HX+NLXNNUXYsav_s_IlsF++lD+Dls+?iFs_+?xlH+xY? vv+HUYvRUXvDNXXNNULDFsL?sDLFFFLxFXDDH++UYx_+HxxNHv_vHx_sXUNxXFsLFCsU2+l+QFsL+vsl+LlUHPlYxLl?xLUDkx??vF?+L+l?vllDYHDHH+_LHN_UHY?HvvNsXYNFXXsxDlg+N?Xv+LlL+NlU+YUIUvHN_lUHvx?xvD?ssHxv?DF__NFULYYaNlLYFxLaYvLUUx+FlY+HlNDFYF_vHL_sXNLv?YvH?XvsX?sNZYs?kxlsHLlU+?lN?DLF?lvF?XsLx_U?v_?DLvFvLFFsL+?LDDFNDNYXDXYv_NYY_lH+NUsNqNsU4Yln+vl_LYYFxxUxxDUsx?UHv+YHNN?FLxFILvF_?YxY?+vH?UY?D?YH_+HL_NFUYFvmNDX?NlXFNXL?Xx_lXxNvlv+UlN+UlY_++lsN+YsYx+vL?lvs??vHrXUDvLUXYbD8YvD_YlDFYXl<xD_UXv_HX+NLL?YXNDXLLNHNN?XN+xlx+Dls+?lHx+lL__UFvN?Gvv?_sQx??vxUU_vDsYvY?YvsDlYHDYH&_vvxFHDxHvXLNFXsN?XHY_NxXxNsXFsNW++slX+FlXxxXslF+YlY+Fll?lv??YLQFv__FFLFFXDxYDDsD?UXx+_NHN_UHYNPXvN_AY?F{+ss)DssM?Y+s5C&s_2FDqUxxUU_xlUFsv+vlN9_lFx?U_F_L?FULYYJllLDFND*_+H__DHs_?L+YU_HYFXFNYJ^sv:_s?+_sX+xlD_U{UlvBXssHYlFGHlY+svs?HvF?XLx++UlxY?vvYDNYNDUYY_OHv__JYUFX+NsXDNsX?FH_xX__FXss+lx+Nl_+llFNv=NlY+FxY?Fv+?LvN{+UFvLU?xN?_+X?LvX?HvUFULUFDH_NxHU_YXa?NDXHF_FH?_vXHD_HFN?X_+_U_+UlYxqXvlxwUUD+LUL7DllxYlXxs?_xs?UvDDxYlD_YlDFLsY9DsFYDYHxXvNlXNNUXYX5__HNNDXs++U#+Dls+?Xxs_+Fl?tx_H+FlF+YUNxlULvo?lFUDvFHD+YLUNLlY LlYNLXYsDUN+XNNDXsN?DvFD_YXLvFsX+Nlv+_llsx++l++xNUXxN6?LvL?NvU?YL%FvL_FlLHYvDxYDDsxBFFD_Y+Hl_XHYNZXv?F_?YY_FHNKNlVP?sH++HlsUXXsXZHsL+vsHUXlD+sl?+HU+xLxNzvLlY1LYYpDvxl?HvXFHDcFlH?_?HHN+XLNNNUFHF*sDFDslfFsX+ss?+slF+HULxLUsxUUHv-?N_D?lvF?XLDFDLlF?_zlsDLYsDU,U_!Hv__X?vvHXNLXDsYX?NH/+l_FHsU+wl<xsl_+llFv+l_xDUFx?Y_v+?LvNF{vNF%LsF_LlFFD&YxDNYsD?UT_+HL_NHU_YXCNvX_YsXFNXIxs_;ss?THl++Uls+HlYxxUvx?UlvxHXvv?lvsYNvHFxLLFNLUY+NXYvD_YlNsYX_vHD_HH+_HX_NLV_NUXHs9.Ls_}Y??GXlx+DUN+?lXx+UsD_UUxY?%LX?_vU?FDXlULDFHL?YvD+H_DNH-lYH+_lH_sDHFN3XxNDXsNXxYs+hLsNx_sY++lvv_N++FUDxxUUxs?YxHY+hF?NL1?YL_Fv_?FlDx_UDxYNDsXxDHHx_LHY_UX+lXXvN_XllvXXsv2DlUYxsH+vlLxFlU+YU>LvNHxl?xxX?NvDFUv?YH+lFLLYFUDvYtsvY_DXNNDXHD_D(L_?HXN+XUNNXHUFG;svk_UD=Flo+xUNYXl?x+U+vlUNxUUYv%NDv_?XvFF9LxFDLsF?+eY+D?YNDFYY_mHv__U?_FXNNxXsNsX?NH7+L_5NlvyYlL+vl_+lUHH_UxxXUsLUUHv+?LLlUHvYF?LvH0LlFFLXXxsHYl__YH_FHLlvHUNXXYNv<xNl9sNX>xsD+UlN9HlH+LUv+UlYxJ?DvlUlvUUXvH?Dvs??vHFULLYxLUY?D8YDD_H?NMYX_HHDlDH?_HX+s_{+NUfUsO+Fs_ilsFGXFx+DU++?U?x+U_xNUU?F? vY?_vl?FLxFxDNHxL?YlD+XXDNYUDYgA_NH_NLHFNUXxN_XssYbXs++%sN+FsY+8lvxs?L+FUFxxYxxsU?xHFvvN?NLs?Y_YFvL_FlDHHlDxHLDsXvDHH+_LHNlUHYN?XvsDXlNHXXlx__ss+DsHxHlLxxlULY+sxv?0xl?LxXHvvD?sXY?HLFFLLFFULYYV_vvNDlH_DX,L_DXv_?HHU+XLNXXUsNqOsDd_slsxsX+?lD+?l?+HU+xL_lxU?NvM?_v_?lvF?XMLFDDvF?DxY+DLYN_FUL_/HX__X__FHXNxONvXX?s?:+UxRNsU%YUxYUl_xNlFLFUxxDUsx?YHv+?XvNFsvYFxLvF_?XFFD?YxDDYs_TYHl+DF_NX__YXXNvILNl-HXY8vlxes?_cHl++L?NxXlYxYUvvvUlxYUXLLFlvsFlvHHHLLFNLUYXDLYv_DYlDXYX_xHDNUXv_H{+NLxLNUXYsQ+Dl+/llYRXlD+Dls+?lHvUULvLUUvH?<vD?_Ll+_LoFHLDHDL?Y?D+H__LYU_UHmsHH__lHFsXU2NDyDN?o?s+bDsN+Fl++RU++_F_+FlXxx?Nv_U?vY?+LY?NvU?YDxH&L_YlLFXFDxYDDsHY_+H+NDHNsvHYNBXvN_;XNF4Fsx+_ssOYsHx+U3+NU_+YFUxv?vxlYFUN?xL+?sLv?HDvFLDll+LYYYDvYsDlYFDXHxH_HlNlHHNxXLNNXUsX+Lsv+Dsl+vsX+xlD+slF+HUHxL?LxU?Fv/FvlN?lLs?XLXFDDDF?LHvYDDH+DUHl_GHD__HlNYHXNYXDNlX?NHO+sLxnsU+ll#+_l_+llF+X?YxD?Dx??xv+?LvNFFLUFdD+F__lFFLXYxDDXxD?HY_+H__NHU_YqxNDX_slXFsX<xsD*ss?vHl+x+lNxUlYxxUvx_+XxF?Yvx?DvsF(vHX+?FFNDsFYDXYvN?Yl_HDY_vXL_s+__HX+NL+NNFXYsX^vlD4lsYwXUL+Flsx?lHvvULxNUUvX?NvvFNvlHXvXFxLDYUDtFH_vYLsLYUDYHQNDHY_lXX_XX?NDXsN?XHlY0Ll_{UUV+ylD+_UlN_Uwv2UDLDU?vY?+L_FLvUFFL#HHL_FlLFHX7hYD_NY?_YH+_DHNNFXvNEnvN_x_NFXXsx+NlXd?lX++UF+NlU+Y?xxLU_v?UFDF?xvD?sLYY_L+YNLNH?LYY3DvY_DHYF_HHxNsHs_YHHs+rLNN)sNYxUsv+Dsl+Hsv+xUL+sFl+HU+xLFN&xUYvX?vLD?lDs?X_xlYLsYULHHQDLHUDUHY?UHLNLHlssHXs+XDsU+sNH+;sLvDsU/Yldvv_H+lU?+X?+xDY+x?FHKl?LL_?ULFF*DNF_DlxYLXHQDDK+D?HY_+HLlNHUNlXns+X_N?XFl+FlsD+Ds?v+l++LlN+Uflx+UHx_?_xF?+vx?DL+??LUF+LDFNLUFYD HxD_H_DFHx_xHD_sH?NbX+sxXNNHXYsZkvls+?sF+HlxvDls+?lHx+UYxN?UxY?vvv?_vlFHD_FxD_FsDDFHD+YLDNwUDYHH_vXN_lHH_XXxH?XssUXHs+7LsFtU?YsslvxDllx?lXDxUDvUxlxXF+vLHxvU?YL2HvDFFlDFFX_xYDDlY?N&HU_LXs_UXXN=XvN_h?sHXXlL-D??z?sH++U_+llUv1U{DRU_xlUFL+??vDFFv?FNL+FLLNFU_UYy_vY__YYF_+HxNDLx_FXYN+++NN,UNY+xlNQ_ll F?U+xlD+s??FFU+vLUNvUUYv+?vLsYDvFY7LxXxLsF?LHHv_DYN_FYYNsHv__HlNH!+Nx2sNsxsNH1+sL+llUpYUL+vl?+llF+XUxvXUsv?UHLD?Lvl?ULYFHLvYDLlX_LXHxDDHULXYHN+HLlDHU_YX5lvFHNlzFNX+xsDxLs?xH_l+LUN+UUYx*FNx_?ls_?#L+?DDL??LHF+D_FULUYYDqn+D_YlDFXXvUHDNsH?NHX+lYXNlUYDs7+vs_+lsFxvlxxDXl+?UYx+FYxN?UxY?)_v?_L_?FLHFxLNFsDYlDD+HxDNH?DYH=_vH_llHFN?XxsvXsNYXHs+F_sN+NsY++lv+_ll+F_+xx?vxsUXxH?+vLFl2+?YLXFvDFFlLFFXDxvFDsHlDHHv_LHl_UXXvNXvsDXllxXXsxWDssL+sH+HlLx_lU+YUQxvD+xl?DxX?xvD?lv??HN+FLLHFUD_Y1DDY__?UvDXHU_D+U_?HHN+XLUNXUsvhgs?9_s?0FU+m_lD+Xl?xlU+xLUNLUsDv ?Uv_FQvFH_LxFDSUF?D_Y+DUYNDUYY_GDl__Xx_FHXNxXlNsX?XX&xsHWNsF5YlS+vUsx+lFxUUxvFUsx?UHv+_XvNF_vYFvLvF_LlFFDRYxDXYs_DYH_YHLNNL?_YXlNv7DNln_NXyxLNpslDzHls+LlN+U?YXsUvvAUlv_UXL+?DLs+FvHFULLHxLUYND15vFHYl_DYX__HDsHH?NHDxNL^aNUxFsqSls_cltD2Xll+DU++?lXx+ULlYUUvL?Pvv?_vl?FLD?FLDY L?FXD+YDDNYFDYHbxDH__lHF_XXxNDXsN?DYs+3LsN+tsY+Zlvx_XU+FU_xxU?xs?vxH?+Xx?NL+?YLxFvL_FlLFH9DxYDDsYFDHH+_LHl_UHYN*XLN_XlNF7+lFoDss2?YDN_Ks_FVYsx+x_F+LsX+?UxXLUHEYUHxv?vAYU?vYsHLvFFLL?FYF_NHx_DHs_??aN+XLNNXUNY)Isvx_?L<FsX+xlD+slF+HU+lUUNxFUYv+?vv_?lvFs+LxFsLsFFLHY+DLYNFFYH_xHv_lHl_YHXNx XNsX?NHavsLGNsU%YFs+Ll_+llF+XUxxDUsvFUHv+?Lvs?UvYF6LvF_LlFF_+YxDDYsDYHx_+HL_NvHYx_sHNXsNHXFNX-xFHNDHFNDX_+_lF+UlYx0+vslyUls+?vD?Dvs??vHF+LL?NslFXDvYvD_YlFULLYlHs_sH?_HX+NLNN??vYs+JLss/HsF*Xlx_UYFsL-?DvUNxNUUxY?Gvv?_vl?FL+FULDFsL?+HFiLNFJLHF_LXY+HsU2HF_XXxYY_FHX_HXLvH?_vl&LsN4ULL2?s?b+sH+LU}Yll+x;U+H_UxxxU+xN?lv+??LvNXLlFKD8F?LvYxLsYvDllXDFHvDUHv_LF+NUX?N0f4DUXsDLlFxsUfxvU__Y+DUxxxU++l?LGFUxv+UFFFDLY7DvY_UHLUFUD YLDXYlXfl+XLNNXUUvNNHF_UXYNLFFL_FNLsF+s_5_sYWHlxx+_YHN_sHl_xxD?+vN?DxFFxtHFLLDF+YX_NHv__HlFxDsHDDHYU_NHvCvsF:NsUuYHDs_X?s?gUsttXsUU?x?UHv+?LvNvUsHbOLDFFLlFFLX+vF?vlFXvXYvH_lYHU_YX5NlHFNlXYNXiDsDmls?mXl++sF_+UlYxgU_x_UUxFF+Xl?Dvl??LNF+LLFNDFlLD6YDD_H_DFYX_xXNxXH?N+X+s+XNNUXYlxXNs_mYsF+xlx+Dlsx+lsx+UlxNUUxY?+vv?svl?F}+FxLDFsL?FHD+YLDNvlDYHk_vHN_lHF_XXxN?XlNXXHsv/LsF8UlvD4lL+UllvNlXxvUDxsU?vxH0vL?NvUYsL)FLL_FXsFYWDNYDNvY?DXH+_LHN_H+FN^XvN_+LNF%/sxxD_CA?lL++ll+NlH+YU__vUNxXUFLU?xv_?sv??HLDXvLNFULYH?DvYNDlXFvNHx_?HsNEHHNDXLlNYxNY/_svTFsl+ssX+sv%+slY+H?NxLUsxU?vv8?N_D?lvF?XDsFDLlF?_2lsDLYlDUHU_<Hv__5lLLHXNsXDNYX?sxI+ULYXsU+vl%+ll_xllFxDvYxDU?x?Flv+?DvNF=vYFLNxF_LlFF_UYxD_Ys_YUD_+HN_NXN_YXrNvX_v?XFsDQxs_mss?RH?++HlNx{lYx_UvvxUlvFFsvx??vs?FvHFvLLFNDDFYD_YvDNYlDFYXsxHX_sX+_HXNNLPvNUxYl?>vsF^ll?iXll+Dlsv_lHxNULxsUUxY?qDvF+vlFxvXFsLDYsL?YHDXYLDYYUDHHi__H__lXl_XXsNDXlN?XHs+xLsFBUlv+Pll+_Ul+F?+U:U_xXU?v_?+vL?NDUFLLbFUL_YtLFYLDxHNN}Y?__H+_YHN_UHYsxE?N_RxNF+KsxmDss+Yl?++lH+NUv+YUPxv?svXUFvU?xv??sv??HL+YDLNY+LYY?DvYsDlHFF/Hx_?HsNDHHNsXLNN?FNY3_svkNsl%FsXvx_Y+sU++HUNxL?lxU?XXN?vvY?lLN?XLxFDLsLFLXYlDLYsDUYY_MXDNUHlNDHXshXDNsX?NHpxsLwHsU+Lld+Fl_xlXY+XUsxDUUx??Dv+?LLs?UvYFgLLF_LlFFDPYxDDYsDFYH_+HL_l:L_YX<NvvYYHNGYLNDHUNUYLNFXNsvKUDF+_ND+_s?+?ND+vUDX_U?vLUFxLLLFXLUFYDkYv+sYlDFYX_xHD_sH?sH+FNLXNNUXYsGwLs_*l2xcXlL+Dll+?lHx+ULHlUUvW?uvL?_vl?FvXvLL_FUL?Y+D+YDDNYUNNH5_vH__?HF_XXxNDv,NFXHs+/LsN!UsY+-UL+_ll+FU3xxUDxsU?xH?+vLHDvU?YLJF_L_FlLFFXDxYDs1l?_eHD_LHN_UL+Hl_vY?X?sxXXsxaDX+NlZ+N_V_s?lY+YUzxvU_xlUFLvXxvs?sv??HL+FLLNtx8YYxDYY_DlYFU_D+YlD}FFD??v_vHvDHNXJ_svQ_slLXXHNH5LsUFHx)UsxLUNxU+vUxxxUv<?sv9+LLYYLsF?LH+s?lL?UULXFXDvF?D?HG_s?DDYYl_lHD__HsDUXvNLXHNL2x+?Ux+XUxxDXssFx)l_xxU??FLxFALvF_lH+K?svXsNY?D?YH_+HL_NHUlDv#NDXFNlXFNXDDHU_?XUNFXD+_lU+UlYxg++s?x!xH?lvx?DvsbYUYv_?xx?lqvX?+Lh??Y?_xYX_xHD??DXH=_tYXDFNF(+s<Jvs_LXX?NYQ_+NU8+?lHx+XssFxxU+XLlLxsUL?HLvFxLDFsl/vFF_L+DlYUDYHh_vHs_YHF_XXxFs_+XD_vsvaNsNGUsY_vXssUl?xvlXxxUDNFpFl.XXlDxLlX?XLDFvL_FlUevsF_L+?YYY_vH+_LHNYHLHYxDXY?XFHx_DHs_?HHN+NLD6lN+NlU+YUWxvU_+lH?vx?xvD?sv??HL+XhsNFYLYYoDvY_DlYFsYxx_NHF_?HHN+LxYs_NHxKxs?g_slVFYXs+hss+,XsN+dlxUlxHUYv%?vsU+H?LvvLDFDLsF?LHY+DLYNDUH<_rHv__Hl_FHXl_vDNUElNHM+sLLHXls+XsNLBv_FQ+sF,?sN+NlN+xvL?LvN?UvYFELvdLslFXLXYxDDYsD?YHl?xL_lXD_YXPNvLUYHNLXvDlXN_lX?NHX_Nsll+XlYx UvNxfUsH+LlH?NvY??vHF+sUvlU?vU?DYDDXYlDFYX?xL_YULFYD_vYD_NHxXHs+.DlF lsF XYLN_X?s_:Dlv+vlF+sl+1LUD+NUNxXUXxv?NxY?lv+FUYNDNYUDYHS_vF_YsxFNxXxNDXsN?XHs+xHFN/FlL+ lv+_YFs?%Yl_{Ul_+Xv+v?vL?NvUFvsQFLLNFlLXFXDvYDDsY?_x+W_LHN_UXbN1XLN_XYU?XXsxQDsF-?sX++U_YHlU+HU=LvU_xlUFvDXxv_?Uv?FDL+FDLNFULYYLsxY_DlYF__Hx__Hs_X+YN+XLNNZxNYT+sv+sDomFl++xFv+sl?+HU+H_UNxYUYve?vv_?lvFs+LxFlLsFFLHY+DLYN+FYY_DHv_sHl_FHXNx?NNsV+NHoLsLANsU+XDN+vlY+lU?+XUxxD?U+XUHvl?LvH?UvYF4_vXXLUYLLXYUDDHSD?X<_YHLNZHUllX)NvX_s?K?NXSFsDvLs?6Hl+x_?++UUsx9FXx_UlxFUXvv?DLz??LlF+L_FNDFHlDoYFD_XUDFYX_xXN_UH?NsX+NsXNNUXYsJvvs_dXsF+llx+Nls+?xYx+U?xNUUxY?vvvFsDD?FLNFxDZFsL?FHN+HlDNHxDYHs_vXL_lXHsvXxNHXsl_XHs+MLll+wsY+UlvvNll+FlXvL?+xs?_xHYxvL?NvUFXL_FvDxFlNdFXDxYDDs ?DHHl_LXv_UHXN2%vYNXlsvXXlN1DlpV??HsllL+HlULsU vYU_xl_HxX?UvD?Fv??HL+YLUsFUDLY7DYY__+YFDX+x_DHY_?XDN+X_NNXUXvC!sl3_s?^FsX+xlDYUl?xDU+xLUNxUUYv#NDv_F+vFF+LxFDLsF?+%Y+DYYNDYYY_hHvNs?^_FXlNx+FNsX?NHf+:D slD*Yl++vl_+lUHxsUxv+UsLsUHv+?LvNHUvYFlLvYxLlFHLXYxHLYs_DYH_+HL_?HUNXdUNv,+NlkNNX-xsDxssYzHlF+LUx+UU?xp?DxsUlvsUXLY?Dvs??DAYULLYLLUFHDrYvD_H?_UYXNiHDslH?_HX+s_+LNUQFs0+Xs_)lsF6Xl?+DUv+?UYx+U_xN?UxH?6vY?_LH?FLUFxDNYLL?YlD+YXDNYUDYeANFH_NLHFNUXxsvXssY+ls++TsNx?sY+SlvxsUs+FUFxx?+xsU?xHFvvU?NLs?Y_+FvL_FlDHl_DxHLDsXYDHH+_LHNlUHYN?XvsDXlNHXXlxDXsl+DsHv(lLxxlUxX?_xv?+xl?XxX?xvDYs+v?HLFFLDxFUDHY,NvUHDlHNDXHY_DHH_?XHs_XDs+XUsH<OsH9_?l+?sX+FlDv_l?v_U+xL?xxU?Dv}?Yv_??vFY+LNFDD+F?_HY+DLYNDUH?_KHU__Xx_FX+NxXDsFX?s_d+sLuNsUAYl,xLl_xxlFx+UxxDUsx?N*v+?HvN?YvYF1LvYs+BFFDUYxNFYsD?YHNvU?_NX__Y!LNvX_NlhHL_ xlx3s?s%Hl++LlNLUlYxUUvvvUlxHUXvxLLvsF_vHF+LLFFLUYX_sYv_xYl_NYX_xHDssXH_HXYNL>vNUA?s0+Dsl2lll)XUY+Dls+??}xFULvDUUvx?rvv?_L?FLvXY+LDHlL?FHD+H_DUYU_YH!sLH__lHF_XX?NDiLN?ZHs+(_sN+UsX+PlH+_UH+FU?xx?NvYU?vU?+vX?NvU?Y_VYxL_YDLFY?DxHvDsHY_vH+N+HNs?HYNtXvss+xNF^Ysx++ssw?sHxvUv+NUl+YF+xvU_xl?HX_?xLD?s_2?HL+FLLNXULYYFDvH_DlYHDXXx?XHlN_HHl<XLsvXUsX+ssv+xsl+XsX+xlDvsNv+HUYxL?vxU?Hv)Yv)H?lLs?XLHFD_?F?DHvxDLHxDUHH_nHX__+lHLHXNYXDl_X?UFi+?LNXsU+sl1vll_LvlF+XYxxD?+x??lv+?_vNFF2LF LYF_D?FFLXYxDDusD?H__+HH_NHF_YXbvDX_sxXFNXmxsDhss?Y6l++HlN+YlYx/UvvsN6xF?UvxFDvs??vHF+U?FNDLFYDxYvDsYl_HU__xX9_sX?_HX+NLXN?#XYslGvl+;lsF(XlxF>lsx+lHx+ULxsUUxYH8vv?UvlFxvXFLLDYU+xFHD_YL_LYUDYHB_v+__lHX_XXNNDXUN?XHLv.Ls?qUlx+hlv+_?lXLlXxNUDx?U?DF?+DLHxvUFxL!FsL_YxLFH++lYDDXY?NHH+_LHN_U+YNmXsN_5oNFA+sxk?sxT?lL++lL+Nl?+YU+xvU_ssUFxX?xvs?sv??HL+vYLNFHLYY_DvYNDlXFvNHx_lHs_HHHlXXLsNDLNHBLsvx_slcHsXxLUx+slX+H?UxLUNxUFYes?vvU?lLu?XLDFDLssYLHY_DLYYDUYY_hHvYFHlNxHXNxXDNFX?sH_xsLCYsUx?lS+Ll_+lDH+XUlxDUXx?UHv+YL:X?ULLF3LUF__NFFDXvvDDYHD?XD_+H?_N+UHDXPNlX_N?XFUsmxlD_ls?+Ll+vFlN+YlYx&+Fx_UYxF?Dvx?_vs???LF+LsFNLUFYDcYvDFYvDFHL_xH__sHF_HXxNLXNYlXYsw}vslMlsFnXUxN_ls+XlHvNULxFUUxY_Hvv?Uvl?HvXFxLDFsDFFHD+YLDsYUDYH(_DH__lHFNlXxNDXsNHXHs+GLsN%UsYLsDv+lll+FlXxxUDxsl?_Y?vvs?NvU?YlvxFFzxHLHY_DxYDDs+HFYLXYsLFYs_+NxX_N_XlNF_YHNNFs?8?sH++lL+NlU+YU)xDUNxlUFxX8?vs?sv??HL+FLFN{?sYYxDsY_DlYF?Lx_FHDDlYXpN?XLNNXUY+_DX?NUF?N?,LskXls?l?vlU+xLUNxU_XvJ?vv_?lvF?XLxHDx<F?LHY+DLYNDHYYNxvx__HU_FXsNxXDNs+?sH:+sD/Ns?9YlD+vUsvLlFx+UxxNUsx?UHLvFFvN?YvYF+LvF_LlYH_FYxDlYs_+YH_+HL_N)v_YXDNvX_NlXFNXxxl_cslz>Hl_+Ll?+U?YXsUvx?Ulv+UXvF?DDslvvHF_LLFFLUYLD#Yvs_YlDYYX_NHD_UH?NHDxNLXNNUK,sd=Ls_}lD_KXlx+Dls+?lHx+?_vDUUxH?uvF?_vl?FDXFlLDFlL?FXD+YlDNHF_vHe_DH__?HF_XXxsN%LN?q+s+}UsN%UsYxxUD+_lY+FUDxxUDxsU?vU?+vl?NvU?YLZFv__U+LFYLDxYUDsYXDHE+vFHN_XHYNDXvs2XllFYNsxOUss+8sH+slLvNXX+YUDxvU?xl?LxX?x_D?svF?HL_FLLlFUDYv+DvY_DlYXDXHv_DHsNFHHN+XLNsXUNYPJsv4_slaFl++xlD+slYxxU+xLUNNH+xUsxNvsF2vF?XLxMs?NvlFxv_FxL?DFH+_gHv__HlxHHXNLXDNsX?NHa+ULYXsU8XlJ+Dl_+?lFxXVvxDUUx?UXv+?DvN?ULHFSLvF_LUFFLXYxDDYsD?YHUvHL_NHUNGX&NvX_NlXFNXxULDWUlv(Hl++LHNsl+Osl+NsX+slU?+vl?Dvs??lxxxU_+DU?vU?DYDDFYlDFYX?DDlYUDUYlD_N_tZNUXYszDlHNNDP+NLHiN_yDs#U+x+ULxNUUxY?MNFX_vFHXNxXDNsX?NHU+lIY_DNYUDYH(_DHl_lHF_XLDYU_FNHXHs+mLsN*UsYvsYv+lll+FlXxxUDxsYl_H?xvD?lLp?YLEFvllvD?Dvv?NLNDUHxDHH+_LLYYFDFYYLD?Yv?NH%LsxJDssLHXYNYVvsllFxNU*xvU_N(+?Uv+Ul_xDNYxYUYxsLlFHLYY*Dv+?FND+FFHD_DHs_?HHN+XL_NvlsIIusv2_slmFsX_?YD+UU?+HU+xLX?sXxDUL%NUs+UUUvx?xx_?Uv;?FvLFYYUDUYY_PHv__HlULUXNDXDNsX?NHP+sLvvFUqXlD+vl_+lHxl+cvlxzYxY?xv+?LvN,YlHv_UsFsD_FFLXYxUsvYFNLvFLDsFFLHF+DsYs_vYHXHsL7xsDosYN_XXvNlzv+FUxxqUvx_XHNP+slXHNv???vHF+LLFNLUFYDkYDDFYlDFYXF?DvY?DaHw_DNNXNNUXYsCTvs_+lFF++l?+Dls+?HNsX<Nll#XlU+DU+xUv?F+vXFxLDvFUFvI?YvlDlHxDYH*_vxlFUDsY?DLY_D?H_7.sD1LsN<UY?N+>BN?lFHl_?HHN+XLNN+UX,v_?UvU?YL0+BUNL+LX_lH?_HX+NLXNFUUvHlNLHYNcXv?X_NHFNLX_LNHYNxHXNXl_xNlU+YUd__+xlx+FUxX_lUx?lHxvUXxsUsvsF+LvDDYUDlYFDXv_YHDsY7XTN_XLNNXUYv_+HXN?HHuXsX+xlD+sl?XH+f_LUlxXUYv9?vNFxDlYx_?DFsLsF?LHY+DLYNls+Y_xHU__Hl_FvvYND?YlNaHUNDs_zYsU3Yl#__X?NFw?sYt_xNU?x?UHv+xxlFv+vXFULvF_Ll+H?HLNFvvFU+DaFxD+FFHY_YXmNvX_NlXFUvLxsN7Hs?OHl+_sXXNXnUsD+_xlUlxFUXvx?DvsXDNHFvLUFNLUFYlvLxFxLsFH+x_LHF_sH?_HvLHv_DHH_xHHNNssVHsF}Xlxs?XlsN+vs_UNxNUUxY?1vv?_D+XFL+F_LDFsL?x+?ULH?FYFNvHg_vH_U?LYYxDYYF_UHUNvHX_sY?NFHHNHq_s_XUsH<Ll#{sU+UHxH?+vL?NvU?Y_UAvLlFlLFFXDxYDlsx?lHHv_NHN_UHY?YDFHLXFNFXXsxIDssy?UxD+l_+?lU+YUE_l+xsU+vv+?HvD?sv?BNUXvL?FvHl0vs?LLLF6L+FvHL_lHs_?HH?N_vHD_HNXJLsv;_sl_)XLsUml+UU++HU+xLXNs?+XlDx+UU??sXF(LxFDLHF+LHYxDLY?DUYH_8HL__HYl?HXNxXDNFX?NX-+sLNYsUIXl9+vl_+llF+XDYxDUlx??Iv+?LvNYU+DF-LDF_LUFFN+YxD?FHD?HZ_+HF_NH?_YX+NvXUUsXFNXVxsY>ssFKHUvY?lN+FlYxYUvx_UlvF+Jvx?_vsYYvHFvLLHNxxFYDxYvDNYllsYX_sxD_lHY_HXHNLXsNUXYs=aN?DolsFoXlX+Dll+?UxDqULxNUUv??CvL?_L?svvXFLLDHLL?FHD+HL?sYUDHH5lXH__?HFsXFUNDXUN?XXs+xssN+rFY++lD+_UF+FUrxxUDxsUXDY?+vL?NLY?YL+FvLUXsLFFXDxHlDsYFDHXvx?HN_FHYsvXvN_XlsF_Ssxa_ssxXsH+vlLvNNN+YUxxvUNxlF?xX?svs?svY?HDUFLLsFULHYMDNSDDlYFDXX?_DHl_?q>vsXLNlXUsXd{sv5_ll_YsX+vlDvNl?xAU+LLNXxUUXvz?Lv_H_vFFDsxF_LUF?_FY+DDYNDUYY_L+x__Hl_FAYNxX_NsXXUYC+sL&NUlkYl++vUsH*lFx+Uxx?Usx?UHL++DvN??vYHYLvFsLlHFxNYxDNYsDFYHsxHL_YxU_HXxNv+UNlXYNXfxsD{F?U(Hl++L??+UlHxhUNDDUlxFUXDN?Dvl??LoYvLLFlLUFXDyYvD_Hl?YYX_vHDslH?N;X+lLYLNUXXs3.Ls_bHsF+DUX+DlU+?Fsx+UDxNU?xY?L_x?_vl?F_lFxL_FsDYlDD+Y_DNHxDYH8_vX_FUHFNnXxNUXsNYXHU+YFsN%FsY++lvxDllxxYXxvUNxsYUxH?xvL?NvUF+_XFvL_FlN?FXDvYDDF,UDHH+_L+F_UHHN<XvvsXlNHXXsx#DssG?UHHllL+llU+XUiDDU_xl_HxX?DvD?sv??HL+HL+XFUDwY&D_Y_NxYFDXx+_DHU_?X8N+XNNN+UDD> sDA_s?WFlv+xUDNll?+XU+vvUNxFUYD/lGv_??vFFoLxevLsY+D:Y+D_YNlLYY_+Hv_NHlNw+HNxXDNsvDNHSxsL:Nbx)Hlx+vls+llF+X?xs_UsxFUH_X?Lvl?UDYlYLvFsLlFYLXHUDDYHDFYH_vHLU_HU_HX/NLX_NYx?NXpxsDLNs?#Xl++L+?+UlXx<Uvx_UlxF?Xlv?Dvl??D_F+L_FNLULvDcYDD_YlDFH+_xzDLCH?N+X+NDXNUNXYlV_Ls_^?sFvslx+slsv?N_x+UNxNU?xYFsvvF_lU?FL+FxDYFsLHFHD+DsDNYYDYH(_vH__lHFv+XxNlXsNFXHs+.LsNFFsY+Dlv+sll+FlXxx_Nxs?+xH?LvL?NvU?Y8xFvLYFlD8FXDxYD_UUxDHHl_L+N_UHYNM+vLHXlsDXXsvRDlN1?UbYslLx+lUvlUJxvU_v?NvxX?YvDXDv??HL+FLNNFUDLYODHY_D?YFDXN+_DX!_?HHN+XNNNnFlN#wsF-_ULRFsX+x?D+Hl?xNU+xYUNDlUYLxFUv_FvvFY?LxFDLsYYDFY+DXYNN_YY_SHvNsXH_FX?NxMNNsX?NH+vlH{NlN;YUF+vl_+llFLsUxxHUsvsUHvv?LLNFLvYFsLvXHLlYDLXix_HYs_vYHlUHL_HHUlYXYNvXHNlxvNXRHsDQsl+gHlN+LlX+UlXxqUvL9UlvvUXvx?Dvs??vHYxLLFXLUFHDGYvD_Yl+HYX_?HD_?H?_HX+NL?lNU!Nsg&Ns_alsFx+Dl+DUv+??sx+ULxN?FXL?WvX?__X?FvXFxDNsXL?Y?D+uHDNYUDYHilvH_NvHFNFXxNNXsN?sYs+-XsNOUsY+DlvxsUv+FU?xxFZxsU?xHY+v??NL_?YLFFvNDFlDHYvDxHxDsHYDHH+_LXlNvHYNHXvNNXlNFXXlL+Hss+UsHxYlL+NlUxX?_xv?_xlFxxX?xvD?sLL?HLYFLDNFULXYE_vHXDlHNDX+U_DXL_?KBs_XLsvXUls.%sv1_Ul+?sX+HlDxLl?LYU+v_F+xU?UvnFXv_?lvFY+LvFDD_F?DsY+DLYN_FXs_BXx__zD_FHXNx#NvXX?sH8+??3NsUbYl(Lvl_xDlFxXUxxNUsv?Bsvx?XvN?FvYFFLvYsD/FFD?Yx__YsD?YHs+?F_NX__YXFNvv_Nl+FDNBxl+EslNpHU++LUNN?lYx?Uv__UlvsUX_xxYvsF_vHHvLLXWLUXYFsYv_+YlN(YXNHHD_s+?_HXUNL;xNUXXsP+DLY#ll_hXYv+Dls+?lHDNULxXUUvN?5vv?_vl_NvXFlLDFsL?FXD+YLsNYU_xH=_UH__?HFs+vXNDXHN?wxs+iLsNeUsX+AlN+_lX+FU+xxUDLgU?vv?+vD?NvU?YLkYsL_FXLFY+DxYDDsY?_vH+_?HN_YHYN}XvN_9NNF9Nsxelss3?sHxvUL+NUv+YYRxvU_xlFFv_?xvX?svF?HDEFLDlHDLYY?DvXxDlYFDXXL_sHsNNHHUHXLNNXUNYv1svZHsl+ssX+LlD+sxU+HUUxLUNxU?&viFDvU?lL_?XDYFDLsF?_HHEDLH+DUHN_V+x__X?NYHXNYXDsUX?NH>+l_+DsU+ll;xsl_+llFv+?vxD?Dx?FUv+?LvNFFLvFVD+F_NFFFLXYxDDH+D?Hs_+Xx_NHF_YBPNFX_sxXF?N&xsXPslYxUl++HlNvDlYx5UvL_?XxF?lvx?XvsHUvHYvLlFNDDFY_FYvD_Yl_HX+_xX+_sXD_HX+NL*lslXYsYTvUx0lsF)XULYFlsxllHLYULxNUUxYHSvvFVvlFUvXFLLDYsUFFHDUYLDlYU_NHtlvDH_lXD_Xx?ND+?N?XH?+oLsHmUl_+rlD+_lllxlXxUUDx?U?xH?+vLNlvUF_LiFLL_FlLFFX+LYD_xY?_+H+_LHN_UUXN(XHN_XYNFXXsx+NLX&?lU++ls+NlU+YUPsUU_vLUFv+?xvN?sv?U?L+YCLNFULYY+DvX__NYF_FHx__HsNUHHs+PNNNJ_NYAXsv+vsl FUl+xlX+sUN+HUvxL?lv+UYv??vvU?lvF?XLxYLLsYLLHYFDLYlDUYY_+HvN)Hl_YHXNxXDNsmYNHqFsLtUsUhYlc+vU?+lUs+XU_xDUsx?FZvY?LLL?UDNFwLvF_D?lvLXH*DDEHD?YH_+X_xHHUNFXPUYX_NlXFNXvxsD+Ls?+Yl++_lN+UxFxA?}x_UlxF?LvxFNDD??LFF+DXFNLUFYN/YND_HNDFHY_x+L_sXYNsX+svXNsFXYst0vls+lsF+Xlx+_ls+?lHvv?YxN??xYFFvv?_vlFHLXFxDNFs_+FHD+YLDNHvDYHH_vXs_lHH_XSxsxXsssXH?l8LlDzUlX++lvxLllvNlXxxUDLsUFxH?XvLFDvUHFLnYDLFFlD?FX_HYDDsY?N=Hx_LXN_UXNNoXvN_&?l+XXlvtDULP?sH++U_YHlUxXU DUU_xlUFxXHxvDF_v?YML+F_LNYUUNY+_<Y_D?YF_YHxNNHl_?XFN+dDNNXUNYxgD?8_lN6FlY+xYD+s??X_U+vxUNvsUYL<?vL_+UvFFFLx/DLsYlLH%+FFYN_NYYsxHvsXHllF_NNxZxNsMXNHx_sLkN?UBYl?+vUv+llH+X?LHFUsvNUHNx?LvN?UvYXbLvY;LlYsLXYLDDYs+_YH_FHL_?HU_YXRNv_sNUaLNX/YsD{ls?KHF++LlY+UUDxzUDx_??XvUXvl?DvF??vHF+LLXNLUYxD0YUD_Y?DFYXxLHD_HH?_XX+NLXNNU?XsOOUs_2?sFnXlx+DDU+?U_x+UNxNUUxY?tXD?_Lx?FLvFxLDFsDYlDD+YHDNtUDYHw_vXsDYHFNUXxUlXsN?XHU+vYss+DsY+?lvxLllxHU?xx?+xsYDxH?+vLFlL+?YLYFvNIFlLFFX_LYUDsHlDHV?_LHN_UHYsLXvs+XlsUXXsL,DlU+NsH+YlLvvlU+YUZvDU?xl?lxXYgvD?sv??HN+FLDBFUDUY^DDY_Dl_?DXHF_DHs_?X=N+I_sxXUssaQlHM_sl6FUXxslDxvl?xlU+DvUNvF?+v1?Xv_F?vF?XLxYNLFF?D?Y+NKYNDUYYNxX?__XN_Fh?NxXDNsgYslm+lv;NFDQYlg+vl_LllFxUUxvLUsxYUHL++DvNFLvYXsLvY+LlFF++Yx_>Ys_ YH_+HLNNL?_YXUNvvsNlgNNX x?DGslvBHl?+Lll+UlYl_UvxXUlxXUXvx?DvsUlvHF?LLFsLUFYDaYv_NYl_NYX_DHD_sH?_H)pNLBvNU#+s!Gvs_+?l_yXlX+D?x+?lHx+FLxYUUv??:vL?_D??FD+Y+LDYNL?YlD+YLDNYUNvH%_XH_NsHFN+XxNDsNN?C?s+dLsN!HsYxxlX+_UN+F?UxxUDxsF?v+?+Lx?NLs?Y_XFvDsYHLFYHDxHNDsY?DHXvNHHNNUHYN+XvN_XlsH+Lsx+_ssxNsH++lLxlUs+Y?xxv?FxlUFxX?xvH?sLl?HDvFLLlFUDYYsDvHvDl+LDXXi_DXUNFHHNXXLlxXUNYV-Uv+Dsl+UsXxblDLNl?vbUHxL?_xUFlv}?vv_F?LL?XDxFDDxF?LHY+__HxDUHH_kXX__Hl_F +vlXDsUX?UX:+sLyNsUvYl!x+l_x?lFx+UxvD xxF??v+?_vNFsvYYxDHF_DNFF_yYxDDYsN??__+Xx_NXs_Yv%Nv+_D+XFsY*xlvSsl?BHU+xllsxNlY_SUvvLUlDFFNvxFxvsYYvHX_LLFNLHFYD?Yv_vYlDHYXNLXH_sXN_HvxNLXNNUXYlsZvl^ llsdXlL+DlsvNlHxFULxsUUxY?1vvFHvlFsvXF_LDFsL?Hu+XYL_LYU_+HV_vH__lXl_XXHNDXUN?K s++_lsEUlU+)lN+_ll+FlXxDUDvvU?v??+v_?NvUYlLGFXL_FHLFFXDxYD_DY?_NH+NKHN_?HYNVxvN_5oNFtssxZNss+YDD++lF+NFs+YU4xvU_DlUFvD?xvY?svY?HDv?sLNY+LYXJDvY_DlXFvNHx_FHsNxHHsHXLNN?FNY>ssv9FslkFsX+xM?+sUL+HU+xLU?xUFYcs?vLJ?lvY?X_LFDDsxFLHYUDLXlDUHN_KHvxsHlN_HXNlXDNsX?lHYlsL++sU+NlMvDl_xlXY+XU?xDU?x??sv+HLUX?UL_FC_?F_D_FFDXvvDDH+D?XD_+HU_NHUU_X:NUX_sxXFs&GxsDxLs?+Dl++LlN+UlYxpUYx_?+xF?lvx?Dvs??DlF+LXFNDxFYD9YvN_HNDFH?_xHU_s++_HXN_HXNsNXYs0AvsN!llx>XlxNLls+?lHxsULxNUUxYCXvv?_vlFDvXFxLDFsUUFHD+YL_+YUDYHG_vLD_lHF_XXNNDXsN?XHLv^LsN*UlD+{lv+_llYHlXxxUDv+U?xH?+vLv=vUFsLeYdL_FULFFX+LYD_vY?__H+_LHNsUFDNCXXN_XHNFvHsx2?sx>?l?++lN+Nl?+YUxxvU_H?UFxX?xvH?sv??HL+xvLNFULYYsDvY_DlYFYsHxN:HsNsHHNxXLNN?FNYO?svrHslOFsX+xDN+sUN+HU?xLUNxUFY6s?vLx?lLs?Xs+FDLHFDLHYHDLY?DUYH_MHU__HlF?HXNxXDsTX?NHn+sLFlsUkYl,+Fl_+llF+Xn+xDUsx??Dv+?LvN?UlFFVLvF_LHFFLXYxDDvND?YH_+H__NHU_YX:YxX_NlXFs>1xsD!ss?Ytl++LlNxDlYxgUvx_xxxF?UvxFxvs?FvHFNvHFNDDFYD+YvDNYl_+YX_xUN_sH?_HXYNLXNNUXYYXnvs_VlsYQXlx+DlsYYlHx+ULvLUUxY?Ovv+Dvl?FvXF_LDFsL?FH?kYLDNYU_xH;_vH_NlLY_XXLNDW+N?*ls+xL?x4Uls+ilD+_Ux+F?XXUUDvDU?vE?+DY?NvUv_LTFHL_Y_LFY3DxXDvDY?_lH+_DHNUsHYN_<NN_ILNFLFsv)_ssMFsH+DFv+NlU+YHYxLUNxl?nDH?xvD?ssF?XLxFLLNsFLYY?DvY_DlYFDXKxvYHsN_HHNFXLUxXUlYYssv+xsl3YsXDelD+sxn+XUFxL?vxUUXvE?vXL?lvH?XLLFDLsF?LHHxDLYNDUYH_rHv__HH_FHXNxX?NsX?NHnvs?,NsUyYYvN?XNsN.vsL/_xN?Dx?UHv+,lUU+XUX*l?+v_?HL6UvL?FDvYDYHx_+HL_NxXY?_DH;XsNHXFNX2xYlNNyaN+Xl+_lX+UlYxQXvlD+FlDxvl?xLU_?YLUF+LLFNlNvFFDL_??+?Y+DvY_DLY_+F_XnYNLXNNU+YssuvsNtlsF5XlL+DUUxxlHxvULxUUUxY?uDv?Hvl?HvXFLLDFUL?HH_?YLDlYUDXHZ_lH__XHY_XXvNDoDN?XXs+,_sN/H?F+>lv+_U_+FUTxxFD9wU?xX?+vL?NvF?YDx?NL_F?LFYxDxYDDsX?v_H+__HN_FHYNxXvl_Y+NFt+sxGNssqXsH+NHU+Nl?+YUYxvUNxlUHxX?__L?sv??HLHFLLsFUD+XXDvY_DlXNDXHv_DHsHXHHNxXLNsXUNYq9sv?vsl0YsX+xlD+sl?vH?UxLUsxUUYvr?sv_?lvH?XLvFDLlF?LHY+DLYFDUYH_iH___Hl_F8XsXXDNlX?NXf+sl&NsU+slI+Ll_+?lF+XUxxD?+x?UXv+?svN?UvYH5DXF_L?FFLXYxD_Ys_+Ys_+HN_NHU_YX+NvXlNlXFYH7xsDbss?zHl++LlNYFlYxOUvx_UlxFUXvxNNvs??vHF_LLFNLUFYFlYvDNYlDXYX_vHD_sXF_HX+NLXsNUXYs0MLs_qlsF+xlx+Dls+YUxx+ULxNHXl?xDUf?sLN?FvXFxlUv??oLelULxFNLXY+vvYNLNYYD+N+XDNDXsN?LvHX_ssN+_sY+dlv+_D?+FlXxxUDxsU?xHY+:F?NvU?YL,FvLsFlDHFvDxY_DsYFDHH+_L/NLxHYN+XvNNXlNHXXUx_DssyFsH+xlL+UlUxvUHxvU_xl?NxX?vvD?lv?FxNiFLLNFUDsYZDLY_Dl_3DXHx_DHs_?HHN+XL!(XUNYG%sLu_sl,FsXsUl_+sl?+HU+xLUNxUv_v=?vv_??vF?XLxFDDlF?LHY+DDYNDUYY_#Hv__HlsDHXNxXDN?X?NHt+sLeNsUXYFX+DlU+llF+XX_sUxtlX?kvU?LvN?Ul+vNUsx??N+D?YvsFLYUDXYH_+HLYLL?H+DsNDXFNlXFNXLDXN_YHFsxX_+_U#+UlYxQOlls+sllqxlD+_ULxOL*FLLLFNLU+U?lL+DsYHDFYX_xLsYLLFY?_+N_XUNUXYsPN+H?susH+Nlx+DlssX#YlL+sll+vl?+NvD?Uvl?FvX+DUHLx?=Y D_YLDNYU?xxLFFDvl?HHNxXxNDXsFUNvXD=_lx.UsY+nYsNN(FsDeYslXslFxLlU+_v_??vU?YLr+L??xU?uY+DDYDDsY?U?LxYFHl_HHYN:XvF__DYYNssL HssW?sH_NXDsvkXsxHHsL+vsHUHvL?xvD?sl++XUYvlUFFFD_Y2DvY_UxLUFxDLFUDDY%DFHDX_NsXUNYEaUvesl+mFsX+xYsNl!NsU7vsDEUlD?:_vH__lHF_XXx9D;LLUFXLHY+DL+FFsDxFYHDNDHl_FHX?ND_H?_LHF_sFsNpXFNxXvsNXXss#Ux+HsxDUsx?FnxD?Lvl?UL+F(LvF__lULLXYLDDYUD?H__+HLxlHUNuXaNvX_NlXFNX?YsDBFs?bXl++LlN+UDXxwUsx_UUxFUXvxYD+>??LvF+LlFNDHFYD)/vD_YFDFHL_xHN_sH?v=X+NsXNN?XYs=qvU_H+sF+vlx+llsxxlHx+__xNUXxY?+vv?_vlYF+NFxLUFsDZFH_+YLDNMUDYHx_vH?_lHH_X;xY_XsN?XHlLtLsltUsYYxlv+sll+HlXxxUDLs+HxH?vvL?lvUFxL-FvLsFlDGFXDDYDDsY?NnXL_LHF_UX)NVXvN_+llsXXsNwDsYV?lN++U_xYlUxvU8vUU_xlUFL+FLvD?Xv?Y_L+FLLNHUDlYTDUY__(YF_YHxsDD__?XDN+X?NNglNY+xsD1_l+BFUN+xlD+s??xvU+xFUNvxUYLl?vD_FUvFFNLxFYLsYsLHY+_FYNDXYY_sHv_sHl_FXLNxX?NsX?NH:xsL+lNH9YlN+vUx+llF+XFxXYUsvxUHvs?LvY?UDYlsLvFHLlFFLXHDDDYs+YYH_UHL_sHU_YX#lvFHNl&DNXc?sD Xs?GHYN+LlX+UUDxkUFx_Ulv_UXv??Dvl??vHF+_LYULUY_D4YFD_HlDFYXNxHDNxH?_XX+NLXNlU8xs8.Ys_+vsF+_lx+DUl+?UNx+UYxN?LxY?MLY?_L+?FLNFxLHFsDY+FDxYYDNY?DYHP_vH__UHFN_XxNHXsNYXHl+x+sN+dsY+?lv+Yll+F?NxxUNxs?+xH?vvLYNLL?YLxFvLsFlDYFXDxY_DsYYDHHv_LHs_UHYvxXvNsXlspXXsx5DUsHvsH+vlL+llUvcURvDlUxlUXxX?FvD?sv?YH+lFLL?FULYY&__Y_DlLvDXHD_DHU_?X.N+9_XLX?s+VWlsS_sl7FsX+UlD+Yl?+XU+xLUNLU?Hv4?sv_?HvFY+LxFDLYF?D+Y+DNYNDXYYNMH___H?_FX+NxXsNsX?l_K+s_#NsYzYlK+v?_+XlFx+UxxNUsvHUHLvFXvN?YvYFULvF_LlHFDNYxDlYsD?YHNLHL_NX?_YXvNvXsNlXHNX+LLF(ssX6HU_+LlN+UlYlYUvx?UlxYUXvx?DDsY*vHF_LLFFLUYXDVYvN+YlDXYX_DHD_YH?NHXsNLXlNUXXsi{_s_kllF XlL+Dll+?lHx+FLvUUUxX?SvD?_LX?FDXY+LDF?L?FHD+HNDNYUDXH>_DH__?HFN&XxND+vN?XHs+WDsNkUsY+}lv+_ll+FlXxxUDxsUFxH?+vL?NL??YL:FvLNFlLFFXDxYDDsY?_xH+_LHN_FXUNSXvN_LHHX_LXLLHX_N?hvsDHsl-mUsxUxxsU_xlUFsvx+UU+?UvFzLHFLLNFUlUvXFsLl?HxlFHDsFUDDY-DFHDX_N?XUNYo&FsNLXHNll=xNlD+sl?vHUlxLUsxUUYvW?Lv_F?D+?XLLFDLFF?LHY+NLH?DUYX_nHD__HU_F9XssXDNUX?sk<+sN#Nl^+wl%+Ll_xUlFxPUxxNUsxXYYv+?LvNF?vYF+LvH_x+FFDqYxDDYsDFYHNvYs_NHF_YXLNvX_Nl+FDNSxsNMssYBHlx+L?NXxlYxxUvxsUlxHUXvs1?vs?FvHFHLLFsLUFXDrYNsDYlDFYX_XHD_lH?Nxx6NLXNNU++sT9Ls_1lLHzXlv+Dls+?lHx+UU_NU?xH?rLL?_vU?FvXFxLlXNL?FHD+HDDNY?DYHLlxH__lHFsvXxN_XsN?sNs+eLsN%?sY+9lv+_D?+FUQxxU_xsU?xH?+?Y?Nv??YLcFvL_FlLFH^DxYDDsYFDHH+_LHN_UHYNm %N_XlNFI+sDgDss2?Y?NUtx+lUx+YU-xvX_ls+Xlsx_lHxNUlF^LNFLLNFUlLv+F0v?UxL4_+Hv_DHs_?L_NvXNNNXUNYLYHLNHs?+!sX+xlDNXXFs?w_x_UFxUUYvJ+_Ux+UUlxXLLY+LsF?LH+x?_LUFlLlYDDNF?vFYD_lYNXNN?X?NH!+YN_FXH%XU!+vl_+lYYs++DlL+LUdxxl_<LU_xYU_vLUFvD?NFXLXYxDDYsD?YH_+HL_lHH_YXANv_vYUN=HNuDsDpss?gHl++LsNDllHL?Uvx_UlxFN+vx?_vs??vHF+LLFYL+FYD8Yvs^YlDYYX_vHD_F+U_HX+NLx+NUXHsmovLsilsYzXlv+Dls+?ULNNULxNUUvL?qvL?_vU?FLvX+LDFsL?YDD+YDDNYHsFHW_vH_lvHFNRXxND?UN?XXs+0_sN!UsY+_sl+_lU+FUUxxU_xsUFxH?D_v?NvU?YL?FvLNFlD&XHDxYDDs)DDHHx_LXlDHHYN+XvsxXlNFXXUxYYssSFsH+xlL+HlUvYNsxvUsxlUFxX?LvDYs+v?HLvFLLlFUD+YpDvlsDlYXDXHD_DHs_?VHLlXLNUXUsErWsY6_UlHLsX+DlD+?l?xxU+xL+Lx?UXvm?Dv_?FvF?XbLFDL?F?D+Y+DLYNNU?D_}H___HF_FXNNx+DD(X?s+W+sNnNsH2Yl(__l_+?lFx+UxxsUsvYNDv+?NvNFDvYFILvYs+&FFDvYx_xYsD?YH_++L_NH?_YXLNvXsNlXFL+<xsNtssX!Hl++L?NLDlYxxUvxsUlvDUXvxNNvs?XvHF_LLFNLUHYxsYvDUYl_nYX_vHD_sUY_HX_NLXFNUXYscxvDHGll+GXlN+DlY+?lHHvULxYUUvx?.vv?_DllLvXFsLDFHL?FXD+YLFLY?_xHJ_sH__XHF_X+vNDXYN?fvs+}DsNJUY++ylN+_lY+FULxxUDU+U?vw?+vs?Nv??YL{sDL_F?LFYDDxYDDsHYDxH+_NHNN:HYN.Xvl_Y+NF6xsx4sssiHsH++?X+slF+YUxxvUNxlUFLq?xvD?svF?HL+FLLNFULYYSULY_DlYF_+Hs_DHs_?L+HD__H__DHx&xsUr_sl{FH+NNX?sUM{l+Clx_UXxUUYv(XNUsxsUFxv?+vF?_FYD+Y+DLYNss=?sHH___Hl_FHXNxYDHNv?sdaNsL.NsUDYX+sDX?sN+^x+UsxDUsx?XDU5xslX+?UUFxLNF_LlFFlDL+FvLFDHYH_+HL_NHU_YxHvvXsNlXFNXTxsN3?s?zHl+sxXFl+lXxLUvx_UlsyxsUx+UvUFxvHF+LLBl?XL+FLLxFLLFDHH__xHD_sL+YN_LYYDlH__xsv4vs_OlsFGXlxDlYs+YULx+ULxNXYlx+vUxxLlY?XvXFxLDFsL?FHN?+LDlXxDYH9_vxYFH_u?X_LHL_sH*NrXDNYFUNxHHNHXUN?XY_XBssl+vsl+Nv<?lvL?NvU+TUDxXU?xFFRvL?_YsDsY?DHH+_LHNUHUYN+XLNlXlNFXXsx.Dss^?sH+vlH+NlU+YHNlx+Ul+pYlFXLULxLlXF+L+FLLNFULYYSl_+_D?HvDXHx_DvFYUDDYs_kYFDHNXm_svT_slLXXHsLOvNYBYx^?+xLUNxUX,lF+FU_xFsqxL?DxsUYvl?xvxFxL?FYYX_sHv__Hl?FDHHDDHHF_LHY_Xs_/?sU;YlENlXXsNCEx+UUxDUsx?X+lxx5Uv+FlHxvUHFsLXFFLXYxUl+HFYvXFHLl_lXx_YXdNvLUYHNLXvL_H_NUX_++l++LlN+UlYx<++__U?vNUXvx?Ds+xslXxsUlOU?lvl?XLDslY?_+YX_xHD?LLFY{D_HaXlNXXYseGvYF_UXssLXN+NlF+?lHx+XssFxxU+?xvH?_vl?FlxxD?NvN?NvUlNL_?sLNFxHxN+H__lHFFvDNHY_FYvvXHY_YHHNsXUND1+sUl?x+lXxxUDlFAFl:+Yll?UvU?YL1FvL_FlvFTHDLYFDsY?DHLNY_D_YNvX?NvDNlXlNFXXsxrDssLHLH+vll+NlU+YXD_N^Xl_YHvx?xvD?sv??HL+?Lp_F?LYYvDvY_DlYFDXHxsYxs_YXLN+XLNNvFXxNLXNNDXNgHUb+xlD+sHssY+_lNAF_FxxULxNUDxN_YZxUHxHU?v_D+Y+DLYNDUYY_7(?x_H?_YHXNxXD?HXYsD5+sLINH-NxXvsNIDs?FHxxUxxDUsx?UHv+HsNN?YvYF:LvF_LlFFDX+xDsYsD?YH_+HL_NXHUYXxNsX_NlXFFDNLH_NDX8+zl_+LlN+UHXsl-UsH+YxH?Dvx?DvsXHUYxY?vvlNYFXD_YvD_YlFDLYYDLUYUDXNqXDNLXNNUD%HlNYH?r?lv!Xlx+DYFsGPLsx+llv+HvG?,vv?_vl?FvXUxsLFUD_FHD+YLlsLsF4LsYxDs?lD?Ys_dHlXUlxXHs+7LXl_F1DN+p_slXHl)Pss_YXDNYU_DH+_?HlN+HYN_XUNXXXLHY_DxYDDsxX?XLv?xLsYNDxNxXNN_XlNFDxHvN?HYTYlD++lL+NHlsY+LsF+DlN+Xv+?_vD?sv?evUXvl?LFFDLYODvY_lYLDYDL?FlLYYYXtNDXLNNXUFv_FHL_Ys?+_sX+xlD_U{UlvQXssHYlFPHlY+svs?YvF?XLx++?+vl?vYv_NYNDUYYU+LDYlDsYs_LH_DU??_UHFNDHlNDXH_*XlsYX?+?U0+XUxxDXLlLx+UD?_v??UvYFal+xN?_v+D+YNDDYsD?xNFHLDFHLX_XXDNvX_NlLxH?_vHFN?sHkHl++LlN+UlYLHHvxsUFxFUXvxoslYxXLzFLLLFNLU+_?vLxDsHMDFYX_xxsYNDlHxD_Hx_?NFNfs+bvs_3XFF+tlv+Dl?+?lXx+ULxNUHDF?evv?_vF?FLWFxLlXNL?FHD+YlDNY?DYHtYlH__?HF_XXxNDXsN??ls+-DsN(FsY+Jlvv_N++FU+xxU_xsX_xH?NNL?svF?YLlFvLNFlLFFXD_eLDsY?DHHU_LHs_UX+lXXvN_Xls_XXsvVDlUYxsH+vlL+UlU+YUavvdNxlUYxXXYvD?Uv?YH+HFLLlFULHYpl_Y_DXHlDXHL_DXN_?HXN+XDNNXHUFO6svT_lsoFl:+xlDsHl?xgU+xLUNxUUYLf+Lv_?UvFnxLxFNLsH?x_Y+D_YND?YYlYHv_Fxl_YX+Nx<lNsXFNHT+sLz??lJYl#+vUU+llY+XU_DLUsx?UHL_?Lvs?ULXsNLvFsLlY_LXYxDDHs?FYH_xHLULHU_XXrlvFHNlXHNXfvsDx_s?+LY++Dll+U?NxkULx_UlxF?v_+?Dvs??DsF+LDFNLHXFDkYvD_XLDFHt_xHNNUH?NuX+NsXNNUXYl!_Ls_,UsFxYlx+Nlsv?N?x+U_xNU?xYX_vv?FvH?FL+Fx_DFsLFFHDxYLD?4lDYH)_v6__lHY_XXxHYXlNYXHsvgLsNfUlYN+lv+Nll_xlXxLUDLssvxH?vvL?svUXXLBFls_FULHFXNNYDDlY?DHH+_s+__UHYNz+sN_XUNF,v?+2Dssr??L++lD+NlUU+U5xDU_xlUFxX?xLD+lv??XL+t_LNFFLYYKvXY_D?YFDXHx_?Hss?Q?N+XNNNX?NYvYsv+_lLpFl++x?l+slH+HF+x_UNxYUYv+?vNl?lLFY/LxFNLs HLHYLDLYN_HYY_vHv__Hl_FHXsxXYNsXYNHnHsLzUsUvYlX+vls+l?D+XY0xDYsvXUHvv?LLv?UL;F8_vYlLlFXLXYvDD+UD?HHFxHL_lHUUXXMN_X_s?FvNX(DsDvXs?{Hl++LgX+?U+xAUNx_UlxFF+x_?DvY??__F+LLFN_UUDDQYsD_YHDFXF_xpDL{H?NLX+N_XN?YXYUWY?s_+9sF++lxvlls+?FHx+UlxN?+xY?xvv?FxX?FLLFxs+FsLFFHDxYLD?ZlDYHf_vxx_lHY_XxxHYXsNYXHUDWLs?kUsYYxlv+?ll+FlXxxUDvUNxxH?NvLb+vU?YL,FvUYFlD+FXDLYDDUY?DHUv_LHY_UHHNAXvN_XlvHXXslADsU,?sH++lLYllUxDUEx_U_xlUFxXNLvDF+v??HL+FLLNYF+LY#DYY_NXYFDXHxNNYF_?XlN+xHNNXUNYxgHYh_lLzFlU+x?X+sUYxNU+vgUNvlUYv^?vLsF+vFFFLxYLLsF?LHHv__YN_sYY_XHv__Hl_FXNNx4INsklNH(vsL+lD+*YlF+vFF+llF+XUxDDUsvLUHvY?Lvl?UvYv_LvY!LlFYLXYxDDYs+_YH_FHL_FHU_YX:Nv_sNU._NX6YsDhls?mHF++LlX+UUNx1UDx_UlUxUXv??Dvs??LxF+LLslLUYND4YND_YlDFHX?FH_N+H?NLX+NHXNsF++s.CYs_vDsFqXlxvDL_+?Usx+UHxN?DxYFxvH?_LL?FDDFxLDFsDYH+D+H!DNX,DYHK_vXssuHFNFXxs?XsN?XHlv+DsN+ssYxslv+_ll+FULxxUXxs?lxH?vvLFNvF?YLlFv_xFlD_FX_LDvDlHDDH;Y_LHN_U;Ys_XvsaXls_XXsY3DlU++sH+FlLL(lU+YU&vDUNxl?sxXFsvD?sv?Y3LYFLDLFUN_YRDvY__?HUDXXu_D+v_?HHN+XLNYXUsNzEl+R_s?0FlXxNl_x+l?DUU+xHUNDUFxv#?Fv_YLvFYLLxFDD?F?DDY+DYYNDFYYNxXY__X+_FvLNxXDNsX?l+z+sU&NlxJYlx+vl_+YlFx_UxxNUsx?UHv+?FvNFxvYFBLvF_LlYH+_YxDHYss?YH_+HL_ND+_YXsNvXsNlXHNXpx+L<slLzHl++Lls+UUXxHUvvOUlDsUXvx?DDsFHvHF?LLY+LUYsDrHD_HYl_NYXs?HD_sH?s7XxNLRvNU+vsGPvs_+?U+0XlX+DF++?lHx+?_xHUUv??=Ll?_vl?FvXXxLDYxL?YFD+Y_DNHU?HH^_FH_UDHFNlXxNDxsN?GDs+aYsN=FsY+6DD+_U++FU&xxUDxsU?X5?+vY?NvY?YLqFvL_s?LFYlDxYNDsY?DHH+x_HNNDHYNiXvN_XlsHF_sx++ssDxsH++lLxlsH+YUYxvH xlUFxXYx_H?lLs?HLHFLN+FUDXH6DvHLDlH+DXHx_DXUNsHHsCXLNFXUNYQBlDxxsl+FsX+NlD+sl?+HUNxL?LxU?Yv!?Dv_F?Lv?XD=FDDHF?LHY+__H,DUHF_0+U__Hl_FHXUxXDsvX?sYe+s_PNsUlFl#+Xl_+llFxxUxvN?Fx???v+HKvN?UvYH2DCF_D_FFDFYx_ZYs_YHx_+Xx_N+v_YX*NvmsNFXFsH(xl?iss?OHUv+FlNxUlYv_Uvx_UlvH?HvxF_vsYvvHF+LLFNHUFYDYYv_NYlDHYXNxH__sXN_HxYNLeLNUXYl+rvlv2llBRXlx+DUsxLlHxYULxYUUvU?/_v?UvlFsvXYYLDYYL?FH_DYL_+YU_lH8_DH__lHH_XXYNDX?N?XHs+VLsl<Ull+9ll+_ll+FlXvDUDvDU?vh?+vL?NvUFGLfY+L_FFLFFXDxYD+UY?_YH+_LHN_UHYsx?UN_MlNF+HsxrDsso?XD++Uv+NlF+YUxxvU_lXUFvX?xvU?sv??HL+?xLNY?LYY+DvY_DlYFNxHxNNHs_YHHN+XLNNXXNY+vsv<_sl*FsXxLlX+sUX+HFLxLUNxUFYLN?vL??lvY?XsYFDDUY+LHHNDLxDDUYY_WHv_NHlNXHXssXDNUX?NHlpsL+?sUPYlG+Nl_x?Us+X?NxDYLx?UHv+YLLH?UDxFzDsF_DLFF_+HLDDHHD?QN_+HL_NXF_HX<sUX_U?XFNXwxlN+Ls?x_l+vYlN+UlYvxFKx_FxxFFDvx?Dvs??LNF+DlFN_vFYDxYv__X_DFXv_xx+_sMe_HuvlhXNsXXYUFpvs_>lUF+XlxxUlsvMlHxFULvl?NxYF_vvFFvl?FvXYLDYFs_xFHs)YLDNYU_XHN_vXH_l#x_XXxNDSULxXHlU&LlYrUsY+.lvL_llv+lXv?UDxUU?vHM?vDF?vUYlLoYsL_Y?_vFX_NYDlFY?DHH+sL?X_U6xN2isN_k+NF+XDUyDlYg?Uv++U?+NUUvxU+vNU_v+UFLL?x_D?Hv?YxL+QXLN+?LYYaD?Y__?YFNvHx_NHsNY.lN+JNNN+XNYg:sv _U+JFU=+xUs+slY+HU+xDUNvFUYv+?vv_?lvFFDLxYsLsFYLHY+DLYN+FYYNLHv__Hl_FHXsL?FNs+JNHLYsL/NsU+XDN+vUF+lYF+XUxxDUsD?UHLD?LLY?UvXFgLvDDLlH+LXYxDDYYD?XtNxHLNYHUllXbNvX_ll+DNX+ssD+Hs?+ll+x_UY+U?LxR?lx_UlxFF+LF?DDB??NvF+LLFNDFHDD=HFD_HXDFYX_xXNNNH?ssX+UlXNNUXYs1vvs_+XsFxllx+Nlsx?Xsxx?lxNH_xYF_vvFsLM?FDDFxNlFsL?FHN+HFDNXZDYX__vX+_lXHNDXxsFXsl+XHs+>Lll+_sYxslvDLll+FlXxxUUxsF+xHFlvL?lvUFYDLFvD?Fls?FX_sYD_UHDDHXN_L+v_UHYNh+vNFXllxXXlsZDlvq?UCYslLxHlUL_UIxvU_v?+xvKFUvDF+v??HL+Y_D+FU__Ypl+Y_DlYFN+XU_DRx_?fLN+XLNNXUl+tAll,_UvuFl++xUDx_l?vvU+LuUNL)UYLxFLv_FXvFXlLxFDLsH?_+Y+_UYNNkYYsUHvNs?^_F:_Nx+_NsX?NH+vL?.NUxMY?++vl_+lUHXlUxvHUsLFUHv+?LvNFvvYY_LvYXLlFHLXHx_vYsNtYHsvHLNYHUlY5UNv2?NlLNNXDxsD ssH}HUL+LUF+UlXx^?DxUUlLkUXDx?Dvs??vHY&LLYlLUH+DbYDD_YlUvHyNDHD_lH?_HX+NLyYNU++sJJDs_nlsFqXlX+DUY+?lHx+ULxN?FLL?!Ll?_DF?FvXFxDNYLL?HDD+HNDNYUDYXx_HH_s+HFs/XxNDXsN?.xs++lsNxxsY+xlv+_xs+F?DxxUDxsUXxHFvvU?ND+?Y_FFvL_Fl_FY+DxHFDsXxDHHF_LXlN(HYssXvlXXlNFXXlLc_ssxLsHxDlL+NlUxXU+xvF!xlYDxX?xvDFUL+?HDFFLDYFULYY6DvW_DlXvDXXY_DHU_?XHF?XDsYXU?la9lUz_l?:XsXxllDDFl?+HU+LL+sx?FLvwFUv_F+vFYXDxFDDXF?_DY+D?YN_UXU_MXl__X+_Fz_NxxDNXX?lL6+FX4NlY/YUxxll_v.lF_vUxxDUsL?s_v+F?vNY+vYHNLvH_x+FF__Yx_FYslLYHN+LD_NBu_Y+NNvSYNlXFUXwxll)sU+)Hlv+LUlH+lYvDUvL_UlxFUXvxHDvsFHvHY_LLFlLUFY+xYv_UYlDYYX_xHD_sUY_Hp_NLXlNUXYsT6vLs8lUx;Xlx+Dls+??2HsULvHUU_D?dvv?_vlxvvXYsLDFUL?Y=D+YLH_YUNLH6_vH__YHFs+5+ND+IN?xUs+(LsNxUl?+wU?+_?++FUUxx?NvxU?LN?+DY?NvU?YDxYHL_HvLFHDDxYDDsHYNOH+NXHNs HYN8Xvss++NF+?sxxHssG?sH++lY+N?x+Y?FxvUsxl?Fvx?xLF?sNN?HDlFLDlHCLYHsDv*xDlYFDXWx__HssvHHslXLsxXUsX&Hsv+XslxxsX+xlDxUUF+H??xL?YxUUYv8FDvN?lDN?X_?FDLsF?_4lsDLXvDU1U_9Hv__Hl+FHXsUXDlLX?sw=+lL+YsUxLlZxXl_v+lFLXUNxD?Xx?Xlv+XFvNHUDsF%DUF_DNFFNYYxDDHvD?Xv_+X?_NHF_Y<xs7X_sXXFsS9xsD;ss?+?l+xslNv7lYxxUvx__LxFFLvx?Fvs??vHF+?_FsDUFY_DYvDNYlDFrX_xXv_sX?_HXvNLXN lXYsXdvs_zlsX7XULx+lsx?lHLYULxNUULY??vvF_vlFFvXFYLDYU_+FH_xYLs2YUDYHqNDHY_lXH_X5sNDXsN?+SlH}LlUkUUv+#lv+_U?x_lXv_UDLuU?xH?+vLHNvUFYL,YNL_F?LFYX?vYD_NY?lUH+NLHNlU_DNPAxN_+LNF+LsxvD,hg?lY++YX+NFY+YU3DvU_v_UFvH?xvN?sv?sqL+YxLNF?LYYQDvY_+?YF_HHx_DHs_?HHsv??NN4UNY +sv=_slyFX_+xUL+slY+HUvxL?lX+UYLM?vvN?lvF?XLxXDLsYlLHH+DLYlDUYYxxHvNDHl_FHXNxXDsUFxNH++sLx+sU4Yle+vHX+UU?+X?xxDUsx?UHYF?LLx?UvYF:LLF_LlXFLXY?DDHvD?H>_+X_xHHUNNXCsvX_NlXFNXvxsD+es?+sl++_lNxFl+xnUFx_Y+xFUXvxYD+)??LNF+LYFNsDFYD8lDD_HvDFHL_xHD_sH?HLX+NXXNNUXYsLivU_H+sF+?lx+_ls__lHv+oDxN?DxYX?vvFxvl?F%+FxD+FsD+FHD+YLNN?xDYHF_vXx_lvN_XnxY_Xss_XHFxGLlv3U?Ysslvx+llxslXxDUDvsQFxH?FvLHXvUFDLwFv?XFlDDFXDYYDDlY?DHUv_LX-_UXLNpXvN_+lUNXXsFJDsYM?Ue++U_YHlUxlUp_FU_xlUFxXHxvDFxv?FUL+F_LNYwLNYhDHY_DFYF_)Hx_NHs_?LYN+XLNN.,NY^.svd_HsKFsX+xlU+sl?+HU+lYUNvvUYv??vvN?lLx?lLxFHLsF?LHYxDLYXDUYYxxHv__Hl_YHXNxXDNs?YNH#+sLglsU5Yl#+vDs+llF+XUDxDUsx?UHXv?LvN?UvYFZLvF_Llx?LXYxDDYHD?YH_+HLxlHU_YX,NUX_NlXFNX_+sDZss?+Ml++LlN+UDXx)Uvx_?+xFUXvx??vx??LsF+L_FNL?FYDxYvD_vsDFYX_xHN_sH?_HX+YvXNNUXYslqvs_mllFNzlx+Nls+YlHx?ULxYULxY?Uvv??vl?YvXF_LDFsUUFHD+YLDlYUDYHV_vLD_lHF_XXUNDXsN?XHLvPLsN#Ul_+Qlv+_llN?lXxxUDxlU?xH?+LL+svU?XL7+xL_YvLFFX+LYD_xY?_DH+_LHNsUFDN0XHN_#wNFvOsxA?sx0?lU++lD+Nl?+YUDxvU_ssUFxX?xvN?sv??HL+xvLNFULYYsDvY_DlYFx+Hx_DHsNLHHN+XLNNDlNY#>sv)lslGFsX+xXL+sl?+HU_xLUNxUUY_+?LL*?lLs?XLvFD_sH+LHY?DLYlDUYX_iWvN+HlNsHXNLXD??X?NH+xsL+LsU4Ylr+vl_+lUY+XUFxD?Dx?UXv+YLL_?ULNF#LDF_lsFF_XHxDDHLD?HM_+}s_NHUssX7NYX_sDXFsTqxUDH)s?+sl++DlN_ylYx_HvxN?vxFxevv?_vs??vHFDNvFNLUFYF+YLDNYlDFU+_xHX_sXD_HX+NL+NDxXYsUKvl/OlYl%X?xHYlsx_lHxxUL_YUUxYvDvLF#vlFNvXFLLDFsElFHDvYLDlYUDYH%_vXN_lHF_XXvNDXsN?<Ls+ELsNxNsY+*lv+lll+FlXxxUDxsFv_H?vvl?NvU?YlD^NUXv_NHY+DUYDDsY?UHD2YNDrYHD_YX_+Ns2iNFXXsx_?XUNUX?_vY?DllFx+UgxvU_NF+DUl+Nvs?sv??HL+FLLNr_sYYx_lY_DlYFU+LvFsDvYx_ H-_lHDDHY+NxHLNLXFNFXdsLXUs_XHlNUvxlUNxUUYNF+Lls+HUsFxLxFDLsF?LHY+ls+NDFHY_)Hv__xFYsDsHx_s?F_QX+_LHlNDHH_HXHsNgl+?Ux+XUxxDH?lUx6lX+lUl?FL+FuLvF_lYv+FNL_DNYFD?YH_+vxFsDNYxXxsLX_NlXFFFN+XUN?XRD:B_ss(?sl.?D+H_lx+xsX+UvD?Dvs??vHF+LLHN,UFXD_YvD_YlUFLrYLLUY_DXN+X+NLXNNUXYsV;vs_:FsF*Xlx+Dls+?sH_QUDxsUFvL?qvv?_NYxD?Dx?UlxY?YY+D+YLDNYUDYH0sYx__?X+_XXxND_sYF_NXvNNsl++sY+glvDs*Hl.+vl++vl?UYv+?+vL?NUsxx?NF_L_FlLFFXDxYDNs+?_/HN_LHN_UxXHD_NHU_sHUA+ssgDssw?Y+sBVSs_(FDgUxxsU_xlUFsv+?UlxLUwF+Y?DYH:_vH__lxF+DDUxXDXHx_DXUDXHHNxXLsYXUNY}asvF+sl8HsX+xlD+sl?+HUNxDUsxUUXvQ?_v_?Y_??XLxFDlsF?LXY+DLllDUHv_QHv__Hl_FHXvLXDNXX?NXR+sLcNsUFXlT+?l_+?lF+XUxxD_Ux??Nv+?NvN?UvYYx4UF_DvFF_lYxDDYs_YYx_+HX_N8D_YXONv+_D+XFsU>xlIdssXtHUvY?lNx_lYxlUvx_UlvHN_vxFxvsFLvHF+LLYl++FYDHYvDXYlDFYX_x+?_sX__HXXNLXNNUXYY+4vsXclsF}XlL+DlsLYlHx?ULxsUUxY?2vvY+vlFNvXFDLDFsL?H _HYL_vYU_sHT_vH_N?XL_XXXNDRlN?XHs++_lL{Ul?+BlL+_ll+FlXsHU_vvU?vF?+v_?NvU?HLMFXL_FlLFFXDxYD_&Y?_?H+_DHN_UHYN5)sN_kNNF5xsx Dss+YUN++Uv+NUx+YUSxvU_vsUFvX?xvU?sv??HDvY/LNY?LYHDDvY_DlHHx_HxNNHsssHHN+XLNNxUNYuHsv+ssl=HsX+xxL+sUU+HU+xLUUxU?Xv??vL_?lvH?XLxFD_sFHLHH+DLHNDUXD_SXD_sHlNYHXsvXDNsX?l*+_sL+lsUx_lc+vl_x?Ux+X?DxD?lx?UHv+F_LF?UD+F DLF_LlFFLXY?DDHsD?Xx_+H__NXUs_XZsxX_NFXFsXGxlN)?s?+Hl++_lN+UlYL(??x_?lxF?XvxFYvsFYLDF+DDFNDFFYD)Yv_sHYDFX+_xXL_sH?_HyvNlXNsYXYlx!vs_(llHY_lxxllsxFlHx+ULxNYUxYF)vvFUvl?HvXYxU_FsDUFHD_YL_NYUsYDs_vXD_lXl_XWHNDXsU?XHsHGLl_tUsX+<UDYYllxUlXxHUDxsU?xHHNvLFvvUF?LpFvL_FlXNFXDFYDDsY?DXH+_L+N_UXDNeXYN_X?NFXXXsmDl+d?sH++ls+NlUYXURxYU_xYUFxX?xLD+xvFFNL+YLLNYLLYHxDNY__vYF_+Hx_DHss?lFN+XHNNmLNY+ssv+slH%FlU+xUN+sl?+H?vvNUNv_UYL+?vv_?lLHFYLxYxLsYFLHY+DLHlDYYY_HHv_FHl_FHXNxMxNsnDNHGXsLylsU+YlF+vlX+lU++XUFxDYsUvUHvU?LvH?ULXF;NvvHLlYDLXYFDDH?D?YHl+HL_HHUN_X8NDX_s?FvNX.UsD+Fs?8Hl++LFN+UUvxkU?x_U?xFUXXL?DvX??LvF+LLFN_UUDDOY?D_YXDFHY_xH?_xH?NNX+NLXNN?XYsvGvs_F?sFyXlx+?ls+?lHx+0vxNUUxY?Dvv?_vl?F}+FxLDFsDxFHD+YLDNLUDHHN_vHX_lHY_XXxl+XssxXHsNzLsNzUUY++lv+YllxvlXvlUDxs?!xH?svL?FvUFvL!FvLNFlD5FXDxYDDsY?_LLL_DHs_UX+NQXLN_X?NF;v?+;Dsso?lx++lD+NlUxHUgxvU_xUUFxX?xv_?sv??HLLFLLNFULXYvDvY_DlxXFLD__NHH_?HHN+v?Ys_NHxLlHNBssY{FsX+xXFNl4ssvU+xYUNxUUYvgNDv_?lvF?XLxFDLsH?NlY+DLYNDUYY_+Hv__U?_FX+NxX_NsX?NHG+XY(NsUQYlx+vlN+llF?xUxxDUsxYUHv+?LLlFYvYF+LvFlLlFFLXXx_?YsDFYH_xHL_lHU_YXXNvX_NlXHNX8vsDcsU+ZHl++Lls+UlYxkUvx_UlxFFlvx?Dvs?HvHF+LLFNLUFYDyYvDsHFDFYX_xx_FUDHYYDYHl_?YXL0HXN+XU_HXUsvHDNH+xsJU=xFULxNUUNx++U_+XUNxvlxv_?HvL?VYpDDYLDNYUUlLlY+L?_?XJ_XXxNDLsHNDXXUE_ssiUsY+{HF+slY+FlXxxX_lYzFlx?vvN?NvU?YsXvs?UFFNXtxsD4ss?>Hx+x(__H?_UHYN^vsHL_HHlZ+s_nDss;?H+NU/HNFlY+YU!xvU_xlxFlDXxvN??v??HL+vxUFL+DqYoDvY_DlYFDXYxULHUNxHHN+XLF__UX+_lXxNLXFIXsX+xlD+sl?+HHL_LUlv+UYv7?vsUxsUvx_UHxUUFFYDLY+DLYNlYLXFDLLYULH_HXLNxXDNsD4Fx_UX+vlsF+DlS+vl__?T?lvRvll++lU+FvL?LvN?UvYF6LvExslFHDsYxDDYsUXDDF_LlYDvvY?D_HxXss=XFNXdxY?N+XHNNXvsKXF+FUwxaUvx_XxsX+HvL?_vs??vH8NL_Y_LUFYD>+s?NLFFDLYFlxlY+DYYvDLHs_cHl_?sesDs_zlsFEXLD+Dls+?lHx+ULxNUULD?0vL?_vl?FvXFx_DF?L?FXD+YDDNH?DYHQ_UH__UHFNkXxNDXss?+?s+CLsN+?sY++lv+_lY+FlXxxU_xsU?xHY+LX?NvU?YL0FvDXFl_FUNDxYDDsY?DHHD_LHNXXHYN+XvN_XlNFXXUx+FssbFsH+xlLxslUxY?lxvU_xlFvxX?vvD?sLD?HL+FLLlFULYY=NvHXDlYFDXHx_DXU_?HHsLXLNlXUNH4=svM_UlxNsX+LlD+Ul?vNU+LLNXxUUXvn?Dv_Y+vFY+v_FDL?F?_LY+DLYNNU?D_{H___HF_FXFNxKNvXX?sx5+sY%NsU3YUxMNl_+HlFxlUxxDUsL?xsv+?lvN?XvYFvLvH__DFFDLYxDUYs_xYHNvHD_NXS_YXUNvX_Nl+Fl_Vxs?5sl+ HU?+L?NvxlYx_UvxFUlvLUXvxF+vs?HvHFNLLFlLUFYD_YvDUYlDFYX_vHD_sUY_HX_NLXNNUXYswxvDHzll+PXlN+DUl+?UL_+UDxFUULX?}vL?_vl?FLvX+LDFsL?XED+YDDNHFxLH%_sH_NDHF_XXxN?HHN?nvs+xNsNG?sY++lv+UFs+FlXxxFsxsUFxHFvX??NvX?YL+FvL_FlDFv^DxYlDsHXDHH__LHNsFHYN1XvNUXlNHXXUx+?ss)?sH++lL+FlU+Y?NxvU_xlUHxX?vvD?sLz?HL+FLLNFULYYuNvYXDlYFDXHx_DXN_?HHsxXLNNXUNY9=svy_sl++sX+vlD+?l?+HU+xUXlxUUHvmH+v_?UvF?XLxFlNNF?LHY+sxYND?YY_L+x__Hl_FL_NxX_NsX?L3r+sLMNsFmYlp+v?_sFlF+XUxxDUsvYUHv+FHvN?FvYF+LvF_LlYH_DYxDsYsN+YH_+HLsNXX_YXvNvXlNl(lNX+Ls_cssXWHlU+LlN+UUXxUUvx?Ulv_UXvx?DDsYNvHF_LLFFLUY D5XvAUYl_+YX_NHD_XH?s5XxNLXYNUrNs(Tvs_xllXhXls+DlH+??sx+FLLvUUvv?Rvl?_L+?FvXFLLDF?L?YLD+Y_DNYUNsH*_NH__lHFN5XxND%HN?)vs+TLsNVUsYvc_?+_lH+FULxx?_xs?+_H?xvl?NsD?YL+FvL_FlDQXHDxYDDsx_DHHx_LXlDHHYNDXvslXlNFXXUxYYss+5sH+_lLxLlUxX_NxvUFxl?UxX?xvDFUVx?HLsFLLsFULYYS_DlYDlHLDXHv_DHs_?HHvvXLsRXUsg..sv=_Ul+slo+?lDx+l?vvU+vLYFxU?_vKFvv_FxvF?XNxFDLYF?DNY+D_YN_WYv_aHs__v?_FXONxX_NsXXUY#+sLJNYFqYl++vUszYlFxLUxvsUsx?UHD+NNvN?XvYFDLvYvLlYH__YxD?Ys_lYH_+HLNlRL_YXNNvXNNlXFNX+LsNCslv(Hlx+LlN+UUXv_UvxXUlvFUXvx?DvsY_vHF_LLYILUFXDIHv?NYl_yYX_YHD_YH?_Hx+NLXNNUk+s4%Ds_xl?NkXlx+Dls+?Uvx+ULDxU?xY?^vD?_vU?FLvX+LDFsL?LXD+YDDNYU+XHE_vH__?HF_XXxlD_?N?XHs+ZLsN+FsY+Ill+_l?+FUTxxUDxs?YL_?+vN?NDh?YL;Fv__YNLFYxDxYsDsHsDHXvNrHN_HHYNlXvN_XlsH+lsx7Uss+DsH++lLvN?(+YUDxvU?xlUXxXYxHl?sL;?HL_FLLHFUDXYxDvYFDlH_DXHx_DCsNLHHNNXLNYXUlNqMUvissl+xsX+slDx.l?+H?DxLUUxU?vvy?Dv_?lLY?XL_FDLsF?LXY+DLHYDUHx_2Hv__Hl_F.XLXXDNYX?sv,+lD,NlExslJ+sl_svlFxnUxx_UsxXYYv+?LvNxLvYF+LvFUNsFFLXYxF?YsDFYHNvYs_NHX_Y1vNvX_Nl+FvX1xsUGsl.OHlH+LUlxHlYx_UvvLUlxFUXLLF+vsFxvHFxLLFNLUYX_DYvDHYlDYYX_xHD_sXF_HXUNLX?NUXYsmxvllgllDnXl?+DlU+??HvlULvJUUv_?Avl?_DlYNvXF?LDY+L?YHD+YL_HYU_xHr_FH__?HFNDfsNDXYN?N?s+SDsN2?sY+LFx+_ll+F+FxxU_xs?Yxx?+vl?NLY?YL:Fv__sFLFYLDxYUDsHsDHXvNNHNN4HYNHXvN_XlsH+NsxPFssMFsH++lLxlUL+YUsxvUNxlUFxXFLDx?sLL?HD+FLLNFULYYFDvY?DlHDDXHL_DXsFFHHNDXLsxXUsxWasvv_slcFsX+_lD+Ul?vHFFxLUNxUUYv-?sv_?l_NFRLxFDLUF?LXY+DLHsDUYY_5HL__Hl_FHXNxXDNso+NHG+sL0lsXiYl8+vXlsD(+sf+LxNUXx?UHv+X_UFxH?+xX?+vlL?YvLXYxDD+FFiD+YDD_Y__v_XXDNvX_Nl_FH#_?XNN?sY+vl++LlNsHXHsxyXs?U?vvUXvx?DsNx??xxU?vvD?YYR_FYvD_Yl_x+X_vHN_sRM_HXxNLXNNU3+UXZvs_VlU+QXlv+DUUOXlHxLULx?UUxY?5vvNsvlFTvXFxLDFsL?HHxlYLD?YU_+HT_DH__lXxN<XDNDXUN?hvs+es?_5UsY+{lF+_lU+F?XLYUDvcU?vD?+vN?NvUHsL+F?L_F?LFYiDxY???YF_+H+_?HN_?HYNxXvNUxsNFXXsx0FsstFsHxvss+NlY+YUDxvU_xlFF1N?xvs?svH?HLxFLLNsFLYYLDvY_DlYFDXrxvYHs_XHHNDXLNYXUNYx?sLTlslTHsX+vlDxUsX+HULxLUFxUUYvCYv,H?lvX?XLDFDLlF?LHlvDLY?DUYY_mHv__4lLLHXN_XDNFX?sh)+sLvxs?+kl.+Dl_+UlF+X_LxDU?x?UHv+?LvNFUF?FmL_F_LXFFDcYxDDHFD?H+_+HD_NHU_YXIsxX_NYXFNXQxsDasU?x_l++slN+HlYx_Uvx_?FxF?xvx?Nvs?FvHF+DvFNLUFYD+YvD_YlDFYX_xHD_HH?_HX+N_T+NUXYs3L_HNNN)xN<*D_s&+lD vxvUlxNUUxYKDNN+XU_HHLxFxLDFsL?FHD+YLDNYF_dHp_vH_YND+H_XLN_XsN?XHYU-_lUeUsY+iYLNscFs?6?lN+lsYHHlY+XUs+FUsv+lvxFFuxHLFY?DxYDDsY?xsH+_LHN_UHYNVXvssrYNFh;sxeNssc?sHv+lH+Nl?+YU+xvUUxl?HLF?xvN?svH?HL+FLDlFHLYYvDvYlDlYFDXXL_FHs_XHHNLXLNNXUNY+DsvB?sluYsX+xlDvsNv+HU_xLUFxU?vvzYvuH?lL+?XLNFDLYF?LHp+DLYsDUHx_yHD__XlFYHXNxXDNlX?NXK+sL+ssUWYl<+Ll_+llF+XUxxDUsx?UHv+?LvN??vYFZLvF_DUFFLXYxD_YsD?YH_+HL_NHUssXSNvX_N?R+NX{xsDDHHFNUt_Nlll+HlYxtUvNN+HsY+vvDHs_?HHN+XLNNsUslFXDlYvD_Yl?kD_FNLUY_vLYFDNHvXlN?XYswmvFFI?l+,Xlx+DHFsL+xsYklxUUUxY?Vvv?_vl?FvXFLLlFsL?FHU+LG?sDvDXHL_vH__lv+YY_NHxXUNHXHs+#LY_NX3++xUx+_ll+FHLsv+sl++llDXDlYxllXxc?LxF?DvNLHYNDxYDDs+H?XLYYrLlF?DMY?XDNYXlNFXXFLNUXFNXXYNX&N+lU++YUrxvXDllxylsx+Uvx?vYFxL+FLLN+H?xLsFNYsDHYFDXHxYlLlFYDUY_X_sxXUNYEeFs_NXFNDXYNlHssF+LsU8_x_UXxUUYvdK_l?xDU+xx?_xUUFFYDHY+DLYNUHLxYsDN?UD?FYDYHD_DYl_YHv_XHNsIsF+xlS+vl_slXYss+LlsUUxHUHv+?L_DHs_?FvYYDXHx_DHs_?xH+NDYHx_+HL_NDEY_DHYNXsNXXFNX&xFsNUX0_X#DNlll+YlYxdUvlLeHUv?xvx?Dvs??vHF+vLK_LFHvD&YvD_+??YLxFYLFYUDUHvDXYsL?HFDHHHN_X__UXHNLT#Ns+++YvHx+ULxN?Fx+?2vD?_Ll?FvXFx_DUzL?Y2D+Y_DNX+DYH{xDH__FHF_XXxNDXsl?Y_s+mNsNuYsY+Hlv+_DL+FUvxxU_xsU?xH?+_L?NvF?YLLFvLsFlDx6XDvYNDsHLDHHx_LHN_UX+lXXvN_XlsDXXsv1DsFvUsH++lLDLlU+HUAxv_sxlUHxX?xvD?sv?HH?lFLLlFULHYR_sY_DllHDXHL_DHl_?HHN++LLXXUNXr{sD1_sH{FUXHUlD+Ul?xMU+v_UNxU_Xv^?_v_?lvF?XLxHDxnF?D+Y+DNYND?YYN8vY_NH?_FXHNxXsNsgYsD&+s_*NlHAYl/+vl_Y?lFxxUxxDUsx?UHD+sFvN?YvYFvLvYvLlFFDDYvDNYsDYYH_DHL_?+l_YXPNvv:NlXYNX&xLN,slxbHlv+LlN+U?YYNUvxYUlvvUXLU?DvsYNvHFULLFYLUFYDhHD_?Yl__YX__HD_sH?sHnHNLg+NUkNs{+Fs_+?lYhXlY+Dl?+?lHx+?_LxUUvl?VvF?_vl?FDXvFLDYLL?YUD+HDDNXUNsHz_XH_NDHFN+XxsNwsN?d?s+2YsN,UsYv1UL+_U_+FUFxx?gxsF?v,?+L+?NLN?YLUFvL_HvLFYlDxHxDsYYDHH+NsHNNDHYN2XvNNXlUFlNsx+nssx_sHx?lL+N?G+YUNxv?+xlUHxXYxvY?sLx?HLsFLLXFULYYlDvYYDlYHDXHv_DHs_YHHNsXLNlXUNY^8UvrXsl+vsX+llDvAl?vH?_xL?&xU?vvm?lv_F?LX?XLFFDLFF?LHY+NLYsDUHN_nHY__%x_F2+NlXDsvX?s+c+sLGNlFE+l<+Xl_xxlF+XUxLDxxx??Uv+FVvNF?vYHkLUF_DDFFD?YxDNYs_YYX_+X+_NXv_YXBNv+_sxXFsF!xlxrsl_eH?++XlNxNlYxYUvv#UlxFF?vx?XvsFsvHFvLLFNLFFYD?YvD_YlDYYXlxDY_sX__H LNL!YNUXY?rhvsYPllN4XlL+D?sL_lHxsULxHUUvD?6vvH+vUFvvXFLLDFlL?YL?LYDDlYUNvHa_LH__?HFNvx+NDXsN?+Ls+%DsNIUlH+Blv+_lU+FlXxxUDHUU?v%?+vL?NvU?YD9xLL_F?LFYdDxY_DsY?x2H+__HN_?HYN=Xvl_Y+NFy+sxVNss+CsHv+_F+NlF+YUxxv?sxlUFX+?xvs?sv??HL+FL_NUxLYYvDvYlDlYYDXXx?XHl_YHHs{XLNUXUsX}?sv9sslxpsX+xlD+sDY+HULxLUNxUUYvoYv(H?lvX?XLDFDDDF?LHYNDDYlDUYX_VHN__HYl?HXNxXDH_X?NXm+sLFlsU+Lld+Dl_+llFvXDlxDUXx??Dv+FFvN?UDDFZLFF_LXFFLXYx_NXLD?Hs_+Hs_NHU_Y+fsLX_svXFslSxlH%slY++l++XlN+YlYx*Uvvs?lxF??vx?Hvs??vHH+?HFND_FYDFYv_NYlNFHX_xX+_sXN_HXvNLIlsXXYsYGvsX1lsF.X?xv+lsxslHxHULvxUULYFUvvFvvlFlvXFFLDFsDLFHD?YL_LYUDXH{_vHH_lXN_XXxNDXlN?xH+l4LlxBUUs+fUY+_llvxlXxlUDvvU?v3?+DL?FvUFLL0FUL_Y+LFFXDDYDDXY?_TH+_DHN_U!vN}XUN_X?NFXXsxxDsYf?lD++l?+N?x+YFPxYU_vxUFvD?xv??sLYFXL+FHLNFHLYYZDvX__HYF_lHx_XHssLHHsvEWNN2DNYOvsvk_sl+Hsv+xU++sUL+HU+xLFNULUYvF?vLx?lLY?X_xHxLsYNLHYYDLYlDUHX_vHvNvHlNDHXNxXDls+LNH2HsL+LsU+sl}vv?++lUl+XUXxD?xx?UHvN?LL+?ULUFmLDF_LlHLLXYYDDYsD?YX_++LYXHUNsX.s_X_sXXFNXvxsDIXs?+ll++_lNvUFsx#UUx_?AxF?Nvx?D_v?FLDF+L_FNL?FYD_v_DNY?DFxl_xH__sHY_HXDUvXNNUXYFU^vsN^lsFY+lx+Nls+YlHx+ULLN_cxY?xvv?svlYLvXFxDYFsLXFHD+YLDNYUNYXl_vHU_lX>_XXXNDXssLXHsD,Ls?#UsH+GUD+sllx+lXx_UDxsU?LH?lvL?FvUFxL%YFL_Y?DxFXDsYDD?Y?DHH+N_XL_UXLN0XFN_XlNF+XXF{DsXf?lD++UD+N?UxHUGxUU_v:UFv+?xLNF?v?F_L+FYLNFULYXODlY__+YF_NHxN)Hss?8sN+XFNN&xNYPUsv<_lDfFlL+xlY+slY+HU+vFUNv{UYvM?vvN?l_FYNLvF?LsH_LHYsDLYNNvYY_xHv_FHl_HHXlxXYNsXYNHwvsL}XsUKYlN+vls+llH+XUvxDUsLLUHvv?Lvl?UvYFr_vYlLlFHLXYLDDXOD?YH_NHL_?HU_YXRNvX_ll%NNXJ_sD0Fs?+?l++LlH+UU+xfUNx_UUxFFXvs?DvF??LxF+LUFNDFF+DeYsD_YYDFYX_x4DLGH?NvX+NlXNlvXYlxFUs_gXsF+xlx+DlsxYlxx+U?xN?vxY?GvvY_?v?FL_FxLFFsDFFHN+YlDNH+DYHN_vHs_lXHssXxNYXssLXHs+GLUN++sY+slv+HllxNlXLxU?xs?vxH?lvLF+vU?YLlFvL?FlDLFXDLYDDsXNDHHN_LHN_UHHN&xvYFXlsxXXlD:DsX%?sHxllL+llUxvU)xDU_LlFvxX?LvD?Uv?F_L+FL_vFULXYADDY_DUYFDXXD_DHU_?X+N+XLNN+UsXG8sDm_s?KFl?+xlDxDl?x+U+xLUNxUUYD&FXv_?FvFFxLxF_LsF?_NY+D_YNDYYY_yHv__XN_FX+NxXDNsX?NH%+lDVNsUaYl++vl_+llF+XUxxDUsx?UHv+?Lvs?UvYFGLvYNLlFFLXYvDDYsD?YH_+HL_N+O_YX%NvXssLXFNX2xF_N_HHN_PIs_HNslg_sH+NxsUFxFUXvxxvlYvxL+F+LLFNLUFYD%XXl_YFDFYX_xHD_sH?l_?+N_XYNUXYsf_FXLNFX+s+7_+NlX+?lHx+XNsF0YU++lUxxLv?FnvXFxLD+??LLs?_Y_DFYUDYH{UXLNF?D+Y?XDNDXsN?XHs+ LlXLUlb+#lv+_ll+FlXDFHDxU?.xH?+vLWFNHx_UYXDLsYFLFFXDx+_?ULHFYLYYlD?FXvTYX_+HUDHHUNvYD_HwxN(l+++lL+NlU+YU,D?__x??LxX?xvDJFU4v_?D4sUsvF?sYvDvY_DlYFDXHxlFxs_HHHN+XLNNXUNYK%sv9ssXAFsX+xHlDH(YNXoHslUlvxUYv0?vs_xsUXxs?_xH?NvlD<YsDLYNDUv+F+LD?LLUYlDLNLXlNsX?NHL_XxNFXN+Al%+vl_+llF+Xlx_LUlxF?ALl?LvN?UsLxD?N+_??v??XvNFNLFYLx+FlLDYDD+YxDLF_DXHg_UHK_HsN+_s?/Hl+D?4_sHoDs++1NlAHll+slLxLUL+XLAFNLLFNLU+Y?+LD??LNY)H+__HD_sH??UDUHN_?NFtLs!9vs_DXX+Nx1_sLVULYU-xDULxNUUN?++U%+?v?FsvXFxLD+YlL+U?ULNF?x_?HDlYxD?YYHHNsXxNDXsFLN+YL_lHUNHX_NXy++slH+FlXxx+lslRYlU+_v_?FvU?YLKCl?sxU?lvLDDYDDsY?DHH+_LHXUUHXNLXvN_XlHU_LXUNlsU,XsH++lLDYVls?+LxDUFxlUFxXXUULxLlXxv?vF_L?FULYY:UNLXFlL+_xHx_DHs_?HHN+xL?NXFXY (svr_UlHLsX+LlD+ll?vUU+xUHNx?UXv8?Nv_?UvF?XLxFlNNF?LHY+DsYND?YY_L+x__Hl_FXLNxX_NsPYLD*+s_ NlTuYli+vU_NUlFx/UxL+UsxYUHv+N_vN?FvYFKLvF_LlFF++YxDsYsDFYH_+HL_NUF_YXLNvXsNlXFNX+LLFdslMmHUx+LlN+UlYsNUvxUUlxHUXvL?DvsLUvHF_LLFNLUFXD#HDDFYl_xYX_YHD_sH?sH&vNLXYNUgvs:oDs_+?lU}Xll+DUY+?lHx+?_vlUUvD?*Lv?_vl?FD+YsLDY+L?YHD+YLDNHF_lHG_YH_NvHF_XXxNDxsN?8Ls+,HsN:FsYxTXL+_lH+FU_xxU?xsU?X/?+vU?NvY?YLbFvD_xULFYLDxHHDsH+DHH+lLHN_YHYNDXvNsXlNFNDsx4lss5FsH++lL+Nss+YUDxvUUxlUFxX?xv_?sL+?HLxFLLNFULYYYDvYYDlYHDXHx_DXU_HHHNlXLNXXUNYBZUvSlsl+DsX+vlDvLl?v/?lxL?+xU?ov5?vv_?lDx?XLlFDDxF?D>Y+DL__DUHD_5Hv__HF_F/+s?XDs+X?sl)+sLMNUU+UlW+Fl_xxlFx+UxvNU?x??sv+FlvN?UvYYxDFF_DLFFDvYxDDYs_YH+_+X{_NXU_YXuNv7sNFXFsFWxU?2ss?/Hl++YlNxvlYxYUvxsUlvF?lvx?YvsFxvHFULLYl_+FYDlYv_+YlDFYXsxXH_sXL_HXUNLXlNUSXs+)vlf llFbXlx+DUUvvlHxFULvNUUxY?7LDFUvlFsvXYxLDFsL?H9+sYL_LYUNHHr_vH__l+F_XX?ND4DN?wJs++LH+g?lD+yUD+_Ux+F?+vvUDv+U?Lx?+vL?NDUlDL7FFL_YxLFXxDxXDveY?_NH+_YHNsxHYswDLN_6+NFxxsx.Hss%??H++lU+NUx+YUxxv?sX.UFv_?xLv?sv??HL+XLLNFXLYYNDvYsDlYFx+Hx_?Hs_?HHN+XLNN?FNYwNsv)Nsl}FsX+xDN+sUv+HUvxLUNxU?XXN?vvX?lLY?XLxFDLsvxLHYlDLYlDUYX_iHvYFHlNDHXNxXDNFX?leXDsL++sUxslQ+vl_vl?L+XUFxD?xx??wv+F_Ll?ULsFzDvF_LlFF_+YFDDHLD?HH_+HL_NHUNHX^NYX_sDXFs+{xlD+Ds?+Nl++DlNxLlYvxUHx_?vxF?Uvx?DvsY?DlF+LHFNDLFYDxYv_sU*DFHU_xXU_sH?_HEvYUXss_XYlW vs_(llHxLlxxxlsvolHx+ULvl?xxY?HvvFvvl?FvXFx_xFsDDFHDXYLDlYU_YHD_vHX_lXv_XXFND%UlvXHs?BLlxyUsY+T?vxNllx_lXxFUDxUU?LZNNvLFxvUFYL5FvL_Y?_DFXDHYD_sY?DHH+N_XH_UXUN0^vN_XlNF++llEDl_Q?lY++lL+NlUv_UJxYU_vNUFv+?xLDFYv?FNL+Y_LNYLLYJk_LY__xYFN?HxslHs_?+HN+X?NNMvNY9xsvw_??^FlN+xlD+sl?+HU+v7UNvvUYvx?vv_?lLHFFLxFXLsHDLHY+DLHlNDYY_?HvN_Hl_FHXsLXHNsSNNH)UsL,NsU5YF_+vlX+lUs+XUxxDUsY_UHvl?LvN?UvHF)LvXFLlYxLXYUDDYsD?YH:FHL_?HU_YX.NLX_NlxFNX%LsDWFs?+el++LDl+UUgx6Usx_UlxFFX}U?DvF??LyF+_sFN_UUDDhYND_YYDFXF_x<DlvH?NxX+NsXNl+XYlxFUs_nXsF+?lx+Dls+?FHx+UsxN?bxY?xvv?Fvv?FLLFxLDFsLFFHDxYLDNvlDYHM_vHs_lHF_XXxHHXsNHXHs_yLsspUlX5Llv+lllv?lXxxUDLssvxH?LvL?UvUFxL(Fv8sFlD/FXDsYDDsY?DHDN_LHF_UHYN^XsN_+lDLXXss}DslK?UU++ULNslUxxU6vXU_xXUFxXNLvD?Hv?FDL+FLLNHUxDY1DlY_DXYFN?HxNDLl_?XvN+%NNNV&NYvdX?z_sH;F?L+xl?+sU?l+UxxlUNLUUYvx?v__FLvFFLLxHvLsH+LHY+DsYNDYYY_DHv_NHl_FXlNxXsNsX?NHh+sL+llXCYlL+v?s+llF+XUxvlUsv#UHvl?LvN?UDYYxLvFFLlFHLXX_DDYs_YYH__HL_lHUNvXoNN+xNlXFNXNHsDKls?#H+_+DlU+UULxSU?x_UXsX?-v_?D?v??vXF+L_FNLHXFDcYvD_DLDFHz_xHDx_H?N+X+N_XNNUXYsJ+Ls_alsF+plx+Dls+FlHx+ULv+UUxY?av_?_vl?FvXFxLDFsL?YpDDYLDNYU?^LlYYL?_?HY_XXxNDD+NYW+s+RLsNNsXxsNl_+_ll+FlXxxUD_NH?v-?NvL?NvUIDUXxXUUxH?HY+_DYDDsY?lXLvYND_Y__xHLDs?l_sHUNvHNNvXFDHXNs?Xl+lU_+YU1xvX?NxXslsxDUl=LlFvN?hvl??FYLYY4DvY_DlYFLXx+_NHY_?HHN+Ll??_vHUvxsvxvsl6FsX+xDX+sl?+HU+xLUNxU?Xvx?vvN?lL_?XLxFD_sFFLHYxDLYsDUH+_aXDNNHl_HHXN?XDNsX?lCmLsLmUsUCHlf+vl_x??D+XU_xDUlx?UHv+?LDR?ULxF-LvF_LlFF_XXND_YYD?Hv_+HU_NgU_XXGNsX_NHXFsN&xUDxxs?+vl++llNx+lYLT?Dx_UHxF?Lvx?svsY?LDF+LlFNLXFYDDYvD_XxDFHn_xHU_sHY_HC+sHXNNUXYsxcvsNWlsFx+lx+Dls+?lHx+ULLN?UxY?:vv?_vlFxvXYLlLFsLFFHD?YLDNYUNYX+_vHN_lHY_XX_ND!Ul_XHsvzLl9RUsY+kUDx?ll+XlXxvUDxsU?L!F?vL??vU?HL^FvL_FlDlFXDNYDDsY?DHH+sLXF_UXxN1XsN_XXNF+XDUrDsYo?lv++lF+N?UXDUIxsU_xHUFv_?xDDl}v?FvL+FlLNFYLYY:svY_DUYF_LHx_NHsN?LXN+XLNNXFNYR+svd_lU=FsX+xl_+sl?+HU+xLUNxU?xve?vv_??Lv?XLxFDlHvLF+vU?_Lv?XYH_+HD_?Hl_FHX?X_LYFDFHUrxsLyllUwYlz+vHvss++lx%N_H2?lU+FN_xxls+FUlxDUNF_DsFFLXYxDDlUD?YH_+HL_NHU_Yx6H?X_NlXFsO,xsl/ss?YIl++LlN+?lYxtUvD_XxxFUXvx?_vs?YvHF+DDFNLUFYD2YvD_YlDFHY_xHD_sHY_HX+NLXNsLXYs-nvsl4lsF3XFxxXls+?lHxLULxlUUxYFDvv?_vlF7vXFxLDXs_LFHD+YLDUYUDXH<_vHU_lHF_XXNNDXsN?xHsH<LsNGUlx+5lD+_llxUlXxxUDx?U?xH?+_LxXvU?YL,FLL_F?LFFX_vYDDsY?DXH+_LHN_UHYN!XvNYXlNFXXsLnHssQ?sH_D4?NFXXs?Hll+:FlsUXlD+sl?+HU+xLxN:vLU_LH__lHF_XXxUDlHHL_lHs_?HHF+_aYsNvNX+_sv7_slLHXbNDMiNXQYsY+_lxw?NH+Xl+x+UlxllYv+UNvvU?LLDkYLDLYNDUL?FDDU_sHX_FHXNxvsHU_KYXNDHl;N?UdYl3+vl_Y?lF+XUxxDUsx?UHvNUUvN?UvYFLLvFNLlFYLXY_sLYsD?YH_DHL_sHUN++XNvX_Nl:FNXfvsD.sLYtHl++Lls+UlYx)FvDYUlxFUXvx?DvX??vHFvLLFlLUFYDqYvD_H?_UYX_DHD_lH?_HX+lLn?NU7)s>z_s_nXsFx+U?+DlF+?U+x+ULxNUULs?#v_?_v??FL+FxLDYvL?YxD+YLDNY?DY+KY?H__YHFNLXxNNXsN?xHs+8LsNpHsY+xlvv_FL+FlXxxUDxsUXxH?+DX?svU?YLxFvLNFlLFl+DxYDDsYYDHH+_LHYUUHHNQXvlDXlNYXXsx:DsFvUsH++lLv_lU+HUpxv_sxlUFxX?vvD?sv?YHNsFLLNFULYY;DUY_DlXvDXHL_DHU_?HHN+9_lvXUsKKVsL8_slRFUXxxlD+?l?x+U+xUUNvF?Nv(?Nv_?FvF?XLxFDDXF?D+Y+D_YNDFYY_zHl__HY_FHXNxX_Nsx?X_o+ss/NsXWYlx+vl_LllF+XUxxlUsxYUHD+YXvN?UvYF9LvFULlFFNUYvDDYsDYYH_xHL_NUF_YXKNvXlNlXFNX{sN?Zss?^H?L+Lls+UlHx0UNDDUlxFUXDD?Dvl??LxXRLLFNLUXFDSYLD_Yl+HYX_xHD_lH?_HX+lLxHNUXYskZvs_+}sFqXUv+DlU+?U+x+ULxN?FLQ?!v_?_vU?FvXFx_DYXL?Y+D+YNDNH;DYXxN+H__YHFNxXxNDXsN?+_s+=NsNVFsY+xlv+_l?+FUvxxUDxsUFxHH+UF?NvH?YLDFvLsFlLFXXDxYDDsYXDHHv_LfNlDHYN{XvN_Xls-XXsxvSslB?sH+vlL+slU+Y?+xvU_xlUYxX?xvD?sv??HL+FNLNFULYYxDXY_DlYFUxD+YvLHYLDD?N_vHvDHHxNxsDzHsl<FsXN?zsNH/UsUoDsl+lxF?Nv6?vv_x_lYxUUNx??NvN?xv_F_YN_DYY_kHvNsLF_FHXNxXNNsX?NHa+lv3Ns?-Yl2+vl_+l?Fv_Uxx_UsxFUHvx?LvNYvvYFnLvFsLlFHLXYs__YsD?YH_?HL_sHU_HXiNNxDNlXFNX}FsD0ls?x.sD+LlN+UUzxpUvx_UlHHUXvv?Dvs??vHF+_LlXLUFHD,YLD_YUDFYXsYH__sH?NfX+NDXNNU;Hsgovs_bUsF8Xlx+Dls+?lHxFULxNUUxX?Lvv?_vl:+UYvN?xFUD9FHD+YLU?LlYxLvF?Hs_FHF_XXxHvDYXxB7sN3LsNzUY.sxXsNN}Ys+U+vsUDxsU?Nm+xlNxxU+xXUXvs?LxYUrL+?vLvF?L??XDvFlDDFY__NxXFN_XlNFDvXl_UHYNlYNNXXUs_lFxlU:xvU_N_+?ULxDlUXU?ivx?Dvv?DX?LXYYDvY_Dlv+YxLNYNv+YlDHH__sF?NvHY_DsD:Usl%FsX_xb+Nl+Lx+v??YLgFvL_FlNFND?FUxxDUsx?UHv+vL+.DD+sDUYY_G1vvHHl_YHXNxXDs8X?l1XDsLQlsU8Hl)+vl_vlNL+XULxDUUx??_v+YLlN?UvXF^LDF_D,FFDDYLDDYlD?HD_+HD_NHF_YXLUxX_NlXFs_Gxs_{ssXvYl++LlNxslYx+UvL_s+xF?ovx?DvsFvvHYvvsFNLFFYD+YvD_YlNF?N_xHN_sHY_HXlNL+NDxXYsx!vss3lsHZXls_?ls+FlHxXULxsUUxX?:vNHDvl?FvXYCLDFlL?YxskYLDNYUlYH,_LH__lUH_XXvNDXsN?XHs+SUFNi?sH+ Yv+_lU+FlXxxUlDNU?xH?+NL?Nv??YLQLNL_FULFFXDxYDDsY?HNH+_DHN_UHYN7XvN_??NFK)sxC_ss3?sH+NYL+sl?+YFxxvUNxlUFxX?__L?sv??H_vFLLsFULYlxDvYNDlYHDXHx_DBsUxHHNxXLNsXUs+bOsv+YslIXsX+vlD+sl?v1?YxLU?xU?vv3?vv_YlD_?XL_FDLFF?D+Y+__YYDUHx_^HY__Hl_FHXNFXDNFX?sik+s_6NsUxvlR+sl_+llFx1UxDDx#x??vv+?lvNFDvYFzNvF_LUFFDLYxDNYsN?6l_+HD_NH?_YXlNvX_ULXYs(3xsNJssF^Hl+Y_lN+?lYxvUvx_UlvxHXvv?_vsHFvHFxLLFNLUY+NXYvD_YlsYYX_vHD_sUY_HXxNLXlNUXYsqxv?YhlsYpXlv+DlF+?lHxHULxUUUvh?mvv?_L?YsvXF_LDFHL?FHD+XL_UYU_+HW_NH__FHFs+!lNDXYN?Vss+GLsNKUsX+0lN+_l?+FU+xxUDLDU?vv?+vL?Nv??YNQv?L_FHLFYLDxHZDsY?sHH+_DHN_XHYNxXvl_xLNFQ&sx3_ss+LsH++?X+sl?+YUxxvUNxlUFX+?xv_?svX?HL+FLLYIULHY+Dv+_DlYYDXHx_DHFlUHHN+XL?NXUNH3fsvFssliYsX+LlD+sl?vHYsxLUsxUUHvC?Nv_?lLh?XLDFDLFF?LHY+__HLDUH+_cHl__Hl_FCXs_XDNFX?sxP+sN)NlF+?l.+sl_xvlF+XUxxDFxx??xv+?_vN?FvYF!LsF_LHFFLXYxD_Yss?D__+Hl_NHX_YX?NvX_UlXFs{>xsUCssY3H?+vXlN+?lYx+UvxXUlxFYUvv?_vs?YvHFxLLFND?FYD;YvDNYlDFYX_xHD_sH?_HX+NLXNNUXHs5Tvs_^llYcXlx+Dll+?lHx+ULxNUUxYF7vv?_vl?HL_FxLDFsU+vv?LLsF_LFsXHx_LH__lHFFNXLN_XsN?XHYU6NsN4UsY+hlv+_ll+FU+x_UDxsU?Nv+XUlxLvFFlLaFvL_9UUHLxF+L+FYLXFvvLFY_+FXHXNYXvN_XlY+NxHNNNY+NlXHs_Vs_?+vsYpDxDUUxlUFxXAxU++l?LF*LYFLLNFUlUvXFsLl?H+HYLD_YlDNYl+XNLsH+Plv+_ll+F?XFs8Hls+xlD+sHXlDf_sl+DNv+?l_xxvsF+vF?XLx+D?NvH?NLD?YL_FsYXN_Hv__HlUHDKYD_^YX_YHYN_Xx_?YHNXX+s+!lslXYl+fNlv4?UL?-vL?LvN?UU?xD?UFsLXFFLXYxlsLUF<vXYDLl_lHX_YXSNvLUHsN+Hx_Us_D+s?%Hl+vLlX+UlHxZUvx_?OxFF+Lx?DvU??LvF+LLFN_UY D)YDD_Y?DFH__xBDsvH?N<X+N_XNsvXYs_:ss_EUsF+?lx+_ls+YlHxDYvxNUUxY?Fvv?NvlYF+NFxL_FsL?FHDsYL_lFHDYHx_vH?_lHF_X+xLYXsNYXHsvKLsH,UUYN2lv+sll+HlXvxUDxHUXxH?xvLXXvU?HLZFDL_FYN?FXDxYDUnY?DXH+_L_?_UHHN,XLN_XlNFXXUUpDsl.?sH++lL+NlUvxUkxLU_x?UFxX?xDDFFv??XL+FDLNYwLYY!_FY_DUYF_zHx_DHsNY.LN+XDNNX?NY,asvx_s?GFlI+xl_+sUl+HF+vfUNxFUYv<?vLx?lDFY?LxFNLsFYLHYvDLXN_DYY_vHv__HlNsHXlxXsNsXHNHgLsLAUsU0YFV+vlN+llX+XULxDUs?LUHvx?LvU?UvYF)LvssLlFYLXY_DDYsD?HLDNHL_sHUsUX/NLX_NUXFsvv+sDdss?x?l++DlN+HFFxQUvx_YxxF?Ivx?DXU??vXF+LlFNLUFYNgKUD_YUDFHm_xXL_sH?s+X+NNXNNHXYs&gvls+ssF+vlxxqls+?lHL+?DxNUHxY?LvvFLvlFHLvFxLUFsDDFHD+YLDNY?DYHL_vHs_lHH_XXxs+XsspXHs+SLss6U?Ysslv+?llxllXx_UDxsY?xH?xvL?FvU?XLBHvN+FlLYFXDvYD_9Y?DH(F_DHs_UHXNmXLN_XlvHXXsvcDsH/?sH++lUDNl?+HUCD?U_xUUFxX?xvlHNv??HL+XFLNF?LYYr+DY_DUYF_LHx_DHss?xDN+XDNNX?NYuXsv=_lMwFlx+xl?+sl?+H?vxYUNxHUYv??vv_?lDFY_LxFlLsFXLHYXDLHlNDYY_DHvNcHl_FHXNxoUNsXXNHdvsL lsUAYlF+vl?+llF+XUvxDYsUvUHv_?LLL?UL+F*LvX_LlFYLXYNDDYUD?XHsFHL_sHU_HXPN?X_NlxNsoyvsD}Us?5Xl++LDl+UlHxRUUx_UlxF?Dxs?Dvl??NUF+LDFNL?FYDL%xD_YlDF+?_xH__sHXlYX+NLXNFxXYs+Svs_F?sF+!lx+Uls+?lHL+Y?xNU?xY?+vvFDvl?FDLFxLsFsDxFHD+YL_lHUDYHL_vX+_lHF_X+xNsXsNXXHsD^LlD:UlX++lv+?llx_lXxxUDxs?3xH?DvL?lvU?XL/FvLNFlD+FXDxYDDlY?sHDl_LHF_UXUNVXNN_XlUFXXsv%DsYR?l*++?LLxlU+HUrxLU_v+UFxXYYv_?lv?F9L+FDLNFUDHY#DvY_DUYFDXHx_DHs_?HHNUXLNNXUNXyLsvu_slD+XYsN1x+UlX+HU+xLXNl_GHUl?DvF?lvF?XsDvNUYxFFxv_D_Y?DUYY_Ov_FX_vY+X+N_XDNsX?FXN_HD_?sF+Il&+vl_sNd+l_ULxHUsx?UHsDx?lF+XU?.l?+xF?sFHDUYxDDYsUkvXYLLYYDD+F5_LHF_xYHXX+ll?+HU+xLUNLUDvlNx?lYx&Uvx__?xFUXvx?Dvs??vHH+?NFNLUFYDBYvDlYlDFX?_xHN_sHF_HX+NLhlsHXYsv!vsYdlsF{X?x+Uls+HlHxLULxYUUvX?Uvv?UvlFDvXFxLDYU_DFHD_YLDsYUDYH-svHH_lX+_XXNND4pN?+HYLBDsF/Ulx+3ls+_llv+lXxDUDxYU?v.?+vLYLvUF+LuFvL_FULFFXDXYDDYY?_eH+_LHNNU3NN2XNN_XYNFnLsx#Dl_n?sH++ls+NlF+YFqxXU_xlUFxX?xvN?sv?F}L+FLLNFFLYY+DvY_DXYFDXHx__Hs_?HHN+XLNNXUUL^Ssvg_s?+?sX+xlDvsHHsviLlv+DsHSHUxxFD_gYU+vN?_FNLHF?LHY+UNL?FFLFF?Ls_NHU_HX?NxXDNs+?FH_xXx_FX_xYYvsxPxss^Hx+UlxDUsx?XxlUxUUc+HUxvxLDY+LlFFLXxD?Uv?FULFFDxNY_D_YF_xNDBDNlXFNXLLH__?X_NDnvsvZFssr+_v+xlx+slH?+Lv?Dvs??DHavUDxU?DvLFxLxF?LNFQXXUDDLYLDUH,XvNsXNNUXYFY_LHXNNsH+Ulx+DlsDFc+sLAllD+HN0+XlXxDU??HLNFxLDFslXvvFlLsl?v?FXL?_LH__?X9_XXxNDLFH*N_XDt_sHQUsY+rYNN?XXNY+LsH+lxU?_xH?+vLYNsHxx?svN__5F??v?F+LNDUYXDHH+_LvUF?_vYDXDsvXlNFXXYD_UXLNaX+sDXlN?HHsDdDlW^?x??YxX?xvDYssYxv?Lxl??HUF+vXNv+U?HLxF.DNY+DF_YXxN+XLNNL2Hl_+HU{sl<>FsX+xHxNl,_svXDsDBlxF?Uvc?vv_7?lYxs?ixN?NLxlRLTF_v??XLX_xHN__Hl_FvsHODHHFXYsLk+sL5NFYNFXHNlXXsAlHxNUxxDUs_HkXlYx2ll+?U=x?LDFULlFFLX+??sLNFlHJNxHL_NHUsYvlHND?H__XlXLLH__?X_ND5vsv2Fsso+xxUlx_UlxFbvlU+UUDx1?+FvLYFNLUFYULvsFHLYlXLHFHDLYUHYNFX+NLXN??_+HLL_XDNDX?s+0xNHX?s_IvlvU_v_UUxY?wDv9slUxDUYxL?LvX_?+wFuL_??vXFXHx_XH__lHF?vD?H?_+YX_vXvLNX_N_XFsxlD+Fll+FlXND;Us?+UlF+Dv_FHvU?YL5vDUsL+UYLxFDvUFFLLFx+?lv+_U+xLUvxNU_xHUXvv?Lv?sU+LsH++lLDsXHs+XLlx0YlQ+slL?LLC?sv??Hl+v_UFvN?_LDFOxDFNLsYsHLNxHs_?HHFDDlHX_HF+_+XDN+FFN?X?s+!N+UUL+HU+xLHssH++NxxsUUxYU?xYLLFlLsF?LH+X?DLL?XYX_YHv__HlsFvkYDDsYY_lXxx+FNN_X_NFnx+LvD+llF+XUxHNUsxFUHv+?LvN?UDYH?LvFNLlFYLXHsDDYss_YX_xHL_lHU_HX/Nv?sNlXYNXOvsDkss?xH?F+Lls+UlHxa?Nx_UlUxUXvD?Dvs??L+F+NLvXLUYRDAXlD_XkDF<XYUHD_?H?sNX+lDXNUUNDsaP_s_xFsF+?lx+DFs+?lXx+UNxNUFxY?(?N?_v??FvXFxLDFsL?L_DxYNDNYYDYHg_vH_x?HFNvXxNDXsN?XHU+YFsNIHsY+Llvv+ll+F_+xxUUxsU?xH?+vLYN+x?YLDFvL?FlDYFXDx+LDsYXDHHD_LHF_U#YLsXvNUXlsZXXsL>DUsv_sH+_lL+slUvXU/xv+Fxl?vxX?xvD?Yv?HH?lFLLHFUNvYQN+Y_slDLDXHl_DX__?XUN+xLHXXUsL>#l_b_lHIF?XsUlD+Xl?xHU+xNUNvoUNv.??v_?XvFF0LxFFLsF?UYY+DLYNDFYY_IHv__Ls_FHXNxXlNsX?NHn+L_ONsU-Yln+vl_+llFH+UxxDUsxYUHv+?LvN+lvYF5LvFlLlFFLXYx+NYsD?YH_LHL_NHU_Y?xNvX_NlK%NXzxsD+s=xIXls+LUX+UUDx^UvvYUlv+UXvl?Dvl??DHFlLLFFLUFHD>X>D_Yl__YX_lHD_sH?NvX+ULzDNUMLsSxls_v)sFKXUH+DUz+?lHx+ULxNFULx?<v??_L+?FDUFxLDHlLFYND+YLDNYUDYmr_FH_NxHFNsXxs_XsN?+Ls+dFsN+xsY+llvv_UY+FUNxxUYxsUYxHF+L_?NL+?YLHFvLHFlNFY+DxYFDsHHDHH?_L+NNUHYNNXvs_XlNXXXssXXss+vsH++lL+slUxDUPxv#DxlUFxX?LvD?sv??HU5FLLNFUD)YcDvY_Dlv?DXHx_DHF_?HHN+XLvlXUNY0usvp_sldFsXYLlD+sl?xxU+xLUNxU_Xvd?vv_??vF?XLxFD;UF?LHY+DlYNDUYY_rUD__Hl_FXDNxXDNs&?XD5xs?.NUxEYls+vl_xUlFxLUxxFUsxFUHD+?svN?XvYF+LvHvLlFF_?YxDFYsD?YH__HLlNXY_YXNNv+FNltLNXJxl?qslv4Hl++LlN+U?Yv8UvxHUlvLUXLY?DvsYFvXFULLFNLUFYDwXv_vYl_DYX_?HDNlH?_HXFNLXXNU{DsOTFs_xllsrXlU+DU)+?UNx+?LxYUUvL?^L+?_L+?F_XYsLDFXL?H+D+Y?DNMU_HHP_UH_NlHFNxXxN?XxN?6_s+5?sNu?sY+vlv+_D?+FlXxxUDxsU?xH?+X_?NvU?YLLFvL_FlLFl+DxYDDsH+DHH+_LXNH+HHNNXvsHXlsLXXsxrYss+osH+slL+slUvYU+xvU?xlUYxXFXvD?sDL?HLsFLLNFUDxYOsvHYDlHvDX s_DXN_?HHNxXLNXXUNY/dsvz_Ul++sX+UlDxJl?vlU+xLFsx??_vi?vv_?lvFYXDlFDD+F?DNY+_DYNDUXN_zH?__X+_FXsNx+DssX?s_O+sF.NlNeYU,xXl_xIlFxYUxxYUsD?FNv+??vNFYvYYFLvX_LHFFD_Yx_DYsDHYH_NYH_NXx_YXDNvXNNlXXNX}xLN6ss?wHl++LlN+UlYHxUvx_UlvfUXvx?DvsNYvHF+LLFYLUFYDkHvFYYU_vYXNUHDN8H?_HX?NLXFNUuLsc0Ls_xlUlOXlN+Dll+???x+ULv+UUvL?pvv?_vH?F_XYxLDFXL?XLD+YDDNYU_tHt_?H__lHF_XXxlDXFN?T_s+JFsNxDsY+)?L+NUx+FlXxxUDxsF?Li?+vY?NLv?YD+FvL_YNLFYNDxYYDsHLDH#+NHHNNxHYNsXvs+XlsF:xsxKFss+lsH+llLLNlX+YUNxv?lxlY)xXHxDx?sLx?HD+FLLUFUDvFUDvYHDlYYDXHv_DH?_?HHvvXLNNXUNYcEsvm_slFHsX+xlD+Fl?+HU+xL_lxUUYvu?lv_?lvFFX?lF_LXF?__Y+DFYNDUHN_/Hs__XE_FX{Nx+Ds+X?sv(+sDgNUNSYlg+?l_xulF+XUxxUUsD??Uv+??vNHovYFLLvF__vFFDNYxDDYsD?YHs+X?_NXx_YXsNv++NlXFU}SvsHzss?&Hl++L?Nx(lYxlUvxXUlvYUXvxY7vsFvvHFlLLY,LUHYDUYvDHYl_LYXsxHDNsXl_HXsNL{DNUIDsQvvlXEllv9XUD+DlH+?FHvHULxHUUvY?ev_?_vX?_vXFULDFFL?FXD+YNDNYU+XH5_vH__lHF_XXxND?UN?XHs+CssNKUsY+kDD+_ll+FUDxxUDxs??UD?xv??NDx?YLsFvL_YsLFYLDxYFDsYFDH2+NxHN_XHYN+XvlvXlNFy?sxzFss!?sH+_lLLN?++YUNxvFFxlF_xX?xLX?sLv?HL+FLLNFU_YYNDvYHDlHLDXXY_DHssFHXNUXLNNXUNYWGUv+_sl+DsX+?lDxll?+H?FxLUXxU?Dv^?Fv_YlDx?XLUFDD7F?DvY+_LYUDUHL_IX+__X+_F+XslXDNXX?l+Z+UvdN?U+SlB+Ul_xllFxxUxx?Uxx??_v+?_vN??vYFvLvF_<?FFLXYxDDYsD?YH_+U__NHU_YXLNvX_NlXFL+,xsD:sl+.Hl++LUNN?lYxNUvvHUlvLUXvxxHvsFZvHFsLLFsLUHYN?YvD?YlDYYXsNHD_s_+_HXsNLXNNUXXs;vvXHbllvRX?s+DUU+?UL+?ULxXUUv6?}vL?_vY?FvXsLLDFsL?FHD+YLDNYU?FHS_vH__YHF_XXxND?UN?XHs+.ssN}UsY+1DD+_ll+FUDxxUDxs??sX?+v??NDx?YLsFvL_LxLFYLDxYFDsYFDHH+xxHN_?HYNxXvN_XlNF+,sx6DssGFsH++lL+XlU+YUbv+U_xlUFv+?_vD?sv?xDUxv+UFFFDtYtDvY_FNL+Y_HL_?Hs_?HHFDDFYF_NHxNvsD2XslKFsX__7FNY}OsFHUlxcYllUXvU?vv_?ls0xs?Dxs?Nvl?Fv_?NL?DFXx_CHv__xXYDDYY_v?H+_YX+NDFN_XXvNlXL_xXFDFCsso+DlsUUv+UHv+?LsUxHUXxXUHx?L?YLLXYxDDxYULv+YDD_Y_DDYxXxNsX_NlXFFxN+X+NNXY+QlN+LlN+UHJlxossN+Yl+?+v_?Dvs??sHxYUDL*LFYvDOYvD_xI?YLFFNxHFFHHU+xLUNxUUYvwDvLxss+_sFuXlx_sXYsNnvsL+ssFBHs++slsxvlH?Y_XFxLDFsL?lwD+YDDNYUDYH(_vHFDXHFN.XxNlXsNFXHsxaLs?vlsY+&lv+Ull+YlXx_YLxsU?xHF(vL?svU?YFLFvLNFlLFFXDxYDDs_LDHHx_LHN_UHYNGXvvsXlNYXXsvKDss(?lL0NlL+slUxNU.xLU_xUUFvvH+vD?sv?FsL+FDLNFHNFYuDvY__sYF_qHx_DUU_?HXN+XDNNXUNYxbUHZ_sUfFl*+xlU+sl?LlUxxDUNxFUYv+?vv_v+vYF7LxF_LsF?LHY+YYYND?YY_+Hv__Hl_FNsNxXDNsXYNHz+sLiNLF:Yl++vll+llF+XFxXYUsxFUHvx?LvU?UvYsxLvFsLlFXLXYxDDXsvvYH_vHL_lHUN?X&NvvDNlXYNX*vsD-Us?+HXx+Lls+UULxcUvx_UlHHUXvv?DvF??vHF+LL+_L?FHD1YLD_YUDFYXxLHD_lH?NvX+NLXNlUxssV1Ls_EUsF+DlxxNDX+?U+x+UFxNUUxY?b_v?_vU?FLxFxLNFsD+FLD+YDDNXlDYH+_vHN_lX<lHXxNDXslUXHsxdLs?vlsY+;lvL+ll+YlXxx_NxsUYxH?NvL?NvUYY_?FvLsFlLHFXDFYDDsl_DHHD_LHs_UHYNI2D_UXls+XXs_uDssA?UHHllL+FlUxxU%xDU_v?NvxX?svDFDv??HL+FLUHFUDxY6DDY_D?YFDXDs_DHH_?HHN+XDNN&UYH(nsl{_lxZFsX+xlDLsl?xfU+xUUNxFUYDtYHv_??vFF+LxYmLsF?NlYxD_YNDFYY_+Hv__U?_FX+NxXFNsX?NH+vNs}NsYrYl++vl_+l?FXNUxxsUsxHUHvY?LvNHDvHFxLvFsLlFYLXYx__YsD?YH_xHL_NHU_YXrNvX_NHXFNXBxsN4Fs?}Hl+N?XssNexxxUlx_UlxF!vlU+UUDxb?+FvLUFNLUFYlNvLFvvHUDLv_LXx_sH?_HLLYl_vYX_,XL_sHUDYXLNLXXNUlUxvlHx+ULN?7XUDxLNN+NU?xNL:FXLDFsL?FH+vYLDsYUDYH%_vH_slFL_XXvNDXlN?8Js+6LLlaUsX+6lv+_ll+F?XXUUDxUU?vK?+vs?NvUXFLoFLL_FULFY+DxHD?lY?DXH+_lHN_UHYNA?DN_XUNFabsx!Dss6?YY+xlD+Nl?+YU+xvU_?FUFv0?xvN?sv??HDvY_LNFFLYY+DvY_DlXF__Hx_NHs_YHHNLXLNNSLNYQ+svIssl#YsX+x?x+sl?+HUxxLUNxUUYvr?vv_?HvF?XLxFNLFF?LHY+??vsFNLx_xHl__Hl_Fv_Yv_xYYLLHxEvs?eNsUKYYLNF=Fsx-ksL+LxN?Dx?UHv+^NlFx_Uxxv?Nx?UYx*?NvNFxvYDYHL_+HL_NvHYDDDHED?HFXYsF(xsD)ss?YAl++DlN+UlYxkUvL_s+xF?Tvx?_vsF/vHF+d_FNLFFYDZYvD_YlNF?N_xHN_sHY_HXDNLXN?lXYs+tvsNflsHRXUxN_ls+FlHxLULxNUUxYNxvv?Nvl?YvXFxLDFslUFXDxYLDsYUDHHP_vNl_lHY_XXLNDXsN?+&lx,Lsl=UsH+Elv+_?lvllXxLUDxUU?v/?+vLYEvU?HLJFDL_FULFFX_vYDDsY?DXH+_LHN_UHYN4XvsHXlNFXXsLulss^?sHNsXDsLXX+XUXxvU_xlFFs++NUs+YUXYHsLvv?LvU?lvDFNv?D?HlDXHx_Dv?YeDUY_DNH?DXH+DLH?_?X_N+l++_lD+sl?_?TxsY+DxF?Lv%?vv_XFU?xY?_xU?_vXDAYDDLYNDUv+FDD?YUH?NxHXNxXDFF_vHv_HHlNUsF++l/+vl__YwDsFkNxsUsx?UHv+?LvN&sNYFxLlF_LlFFl_vvFxvYULLx_LHL_NHU_YX(NvxX?lXHsDAxsDusYHsx5vsvWxNXlXx_Uvx_UlNX+LlDxLU_+XL-FsLLFNLU++?lLl?XvYF+D+_LHF_sH?_HDNH___HNLXFNLDss^YsF8Xlx_vXlssrvxv?LxNUUxYXYlLx+lHgUUHv_UHxH?Lv+?xLsFCLlF?Hx_?H__lHFFvDNHY_F?XDXXv_XsU;UsY+ilv+_llDFYXxLF?xsU?xHXxUrxvDUxzUXxX?Dv??XHX?Uv_FHLZNHLvFlLFYs!YHxDsHlDHXu+XX_NLUs_XXvNNXDsF&_l+F+xDUFxlUFxXXDULxLUUvgNLFNLNFULYY3DvY__++F_xHx_DHs_?HHN+_x?NXYNY=9sv(_slFFX+DxlDDYl?+HU+xL_lxUUYvi?vv_?lvFYX+UFDLsF?LHY+D?YNDUlX_4HL__Hl_FHXNx+DDSX?NX7+sDONsY#Yl sll_+?lF+XUxx?UsvYUxv+?NvNFXvYFeLvH_x+FFDxYxDsYs_UYHNvLU_sHH_YX?NvX_NlfHlUmxsUOsl_}Hl++LUlvhlYx_Uvv+UlxFUXvxF_vs?HvHFNLLFlLUYYDYYvDsYl_VYX_DHDNUEs_HXLNL FNUXYs%xvsUClsXkXlD+DUN+??osNUDx?UULb?ovv?_L??HvXFNLDY?L?FHD+H__LYU_vHWN_H__lHF_XXFNDX?N? Ls+9_sN+UUs+6lD+_U_+FUxxx?NvDU?v+?+Ll?NvU?Y_>YlL_FFLFYxDxHLDsHYFLHx_sHNNvHYNOXvss+xNFbLsx;HssM?sHxvU++NU;+YUlxvU_xlUFv??xvs?sL+?HLvFLDNFXLYYxDvHxDlYXDXXLsxHs_HHHs_XLNNXUlYE?svmlsl-XsXx+lDxUc++XUDxL?txUUYvSFDLl?lL+?XL?FDLsF?_KYsDLYYDUH__kHv__HlNUHXNDXDNHX?sgE+lL+LsUAXl)x+l_+FlFv+?YxDU?x?Fvv+?LvNYUL_FZL_F_LFFFDHYx_NvHDFHx_+X?_NHU_YTxN?X_NHXFl_gxsD2slY+%l++UlNv+lYx/Uvx_F_xF?xvx??vs?YvHY+LUFNLFFYD_YvDlYl_HHN_xHs_sKz_HX+NL+Ns?XYsvTvsl{ll?zXULYFls+XlHvlULxNUUvXNNvv??vlYLvXFxLDYU+xFHDNYL_XYUDYH;_v+__lHX_XXsNDXUN?GHHxALsl;UlX+ml_+_llU+U xxUDxlU?vm?+vLNlvU?YL&FvL_FlLFHXxUYDDsY?DHH+_?HN_UUXNaXLN_XlNFXXsxxD_^P?sX++lD+NlY+YUa_xU_xlUFxX?xv_?sD?D{L+FLLNFULYYFDvY_NxYFDXHx__Hs_?HHN+XHNNXUNY*xsv5_sl/Fl++xlD+slF+HUxxLUNv?UYv9?vvl?lvF?XDLF?LsFFLHYxDLYNDUXY_+Hv_NHl_YHXNFXDNs5XNH +sL.lsU<HlZ+vUY+llF+XUxxDUsx?FHvx?LvN?UvYFCDLF_LlLxLXYLDDYsD?H+_++LYXHU_XXfsvX_N?XFUXNUsDSUs?+vl+xslNLU+Dx/UDx_?+xFFDvx?D?+??vHF+L_FNL?FYD}HLD_YlDFH)_xHD_sH?_HX+NLXFNUXYsAcDlvglsFQXHDNUSLs4}+lD)ls?XHlD+DUK+?v?FxvXFxLDZXUFv??_+Y??YF_vH9_vH_?YDLYLDXYU_?NYhxs+{LsNN+HHNYXs+slX+FlXxxXssY!HlY+Xls?sLN?YLiFvL_s?LFY4DxYDDsY?DH6+vFHN_?HYN+XvNlXlNFF+sx9NssQ?sH++lLvNNx+YUxxvUsxlUYxX?xNL?svF?HLxFLLlFUDYv+DvYNDlH+DXHx_DHsxYHHNxXLNsXUNYrCsvDDsU YsX+vlD+ll?+HvLxLUsxUUXvm?vv_F?D_?XLLFDLFF?LHY+NLHUDUYX_hHD__H?_FHXsXXDNlX?sI,+sDQNsU+llg+vl_+UlF+XUxxDUsx?UHv_?LvN?UvXFLLvF_Llx.?LLUFlYUDXYH_+HLFHL?YUDDNDXFNlXFNXD_HY_YXsNvkL+_lY+UlYxaHUsN+_l+Xsl_?NLD??vHF+lNxF?_vx?vLN??vY?VLNFNDxFYHFN?X+NLXNNU?Xs8ZLs_8lsF:XlxvDNb+?lXx+UDxNUYxY?6XD?_v??FvXFxLDFs_?U_D+Y_DNYFDYHD_vH_UsHFN&XxN_XsNYXHl+_DsN)?sY++lv+_ll+F_+xxU_xsUFxH?+vL?Nsl?HL+FvLNFlLYFXDx_sDsYFDHHv_LHN_UXXNUXvNsXlNHXXsx;DUspHsH+vlL+llUx+Urxv?ExlUYxX?LvD?lv??HLxFLLNFULHY,DvY_DlYFDXHxNNHs_?HHNvXlNNXUNYLvXxNxXsNHl++XlD+sl?NB3_lxt?sX+XsvxNl?xlUFxLU_FNLXF?LHY+lsvFFYD+YxDxYXH?NlHXNxXDF?_zHU__HNN?HXN+HLN?X?s_J+x+UUxDUsx?XNlXxNU?+?U?xvUsFsDNFFLXYxl?L+FlLxUNLYYlDYH+vvY?DXHD_is+WFsDhss?_vYUD?VlN?9+slZslL+YxH?Dvx?Dvs:H?xvv?vvxUXFXD_YvD_YlUFL0YLLUY_DXN.XLNLXNNU_?HDNUss+CsFGXlxDsINsl}Fs_pNl?UFvF?ovv?_s?+YUsvWUNvNFx+DFvvD??LvFxLHYNHs_XHF_XXxFl_eHu_?H_NNsl+LsY+JlvDUpxsXCxl++vl_+ l+xDv_??vU?YLz++UNv_?+Y+_NYDDsY?ULLUYxL??ZD_Hx__HUvFHL_sHH_lYNN+Y+NYXDsUyY+XUsxvU_xlz+Ns(DUlxUUUxlU_FNLNFULYY,DvY_DlYF_dxH_DHs_?HHXUXLNNXUNY-#svu_slFHsX+vlD+sl?+HU+xUlYxUUHv.?sv_?UvFFfLxFlNNF?LHY+DlYND?YY_L+x__Hl_F+UNxX_NsX?L3#+sDdNsFQYlT+v?_E0lFxcUxx_UsvsUHv+?FvN?FvYFxLvF_LlHFDDYxDNYsDYYH_DHL_Nq+_YX+NvXNNlXHNXxxsU7ssFrHlx+LlX+UlYxHUvxNUlxYUXvx?DvsY+vHFxLLFULUFYDmXv_HYlDYYX_vHDNsH?sbXFNLXUNU<HsyWvs_TllD)Xlv+Dl?+?UAx+UU_NU?xH?6NH?_vU?FvXFxLlXNL?FHD++XDNY?DY.isHH__?HFN6XxN?XssYFDs+VssN+_sY+Qlv+_Fl+FU+xxUlxsUYxH?NNL?svF?YDlFvLNFlLFFXD_&LDsY?DHXU_LHs_U*Yl?XvNlXlNHXXsD0Dssv_sX+LlL+llU+HUZvDlUxlUXxX?NvD?sv?YHv+FLLUFUD7Y&DYY__?XvDXH__DHX_?HHN+XLsxXUsaGIsDu_s?aF?X+NlD+?l?xYU+v8UNvUF+v^?_v_FxvFF^LxYND+F?DxY+__YNDUYY_6X?__HH_FXLNxXDNs+?sHp+sliNsX-Ylx+v?_vLlFxLUxxUUsv_UHvNUHvNF+vYFpLvFNLlFXLXYx+NYsD?YH_+HL_NHU_YLXNvX_Nlm/NX:xsD{sHU^Hl++LlU+UlYx{UvD_Ulv+UXvl?DvU??vHLULLFFLUY+DgYvD_Yll6HS_LHD_sH?_HX+Nsx_NUXYs-LHs_cUsF(XDL+Dll+?Uxx+ULxN?)_Y?+vL?__F?FLVFxLDFsLXXYD+YLDN0YDYH+_vH_x?HFN&XxNlXsN?XHU+xXsNZ?sY++lvxLll+FFUxvU_xsUYxH?xvL?N?x?HL+FvLNFlLFFXDxDHDsYFDHHD_LHN_UHYvxXvNNXlNXXXsx DUsv_sH+xlL+slUxYU%vD_YxlUXxXFvvD?sv??HN+FLLsFUD3YfDDY_DX+F_-Hv_DxU_?HXN+XLNNXHUF*#svV_F?*Fld+x?DLvl?x/U+xDUNv5UYLxNUv_?YvFF?LxFDLsF?NHY+D_YNDHYY_xHv_Fxl_YX+NxvDNsXFNHI+sL=??lBYln+vY_+llY+XFxD=UsxHUHvv?LvU?UvYH?LLFlLlFHLXYvDDYs+YYH_LHL_sHU_YXysvDNNlXYNXVvsD(?s?:HDv+Lll+UlXxpUvx_Fl&LUXvL?DvU??L?F+LLslLUY(DVYDD_YlDFXXvUHD_?H?N+X+NsXNNUvFs%&Ds_8?sF+xlx+DDU+?U+x+UDxNUUxYFQlL?_v??FLNFxLsFsL?lKD+Y_DNHmDYH^_vH_?sHYN+XxN_XsNFXHs++DsN;UsY++lv+_ll+YlXxxUDv?U?xH?+v_?HvU?YLQxl?svs?l+NUDx?D?Y?DHH+_LHN_UYDUXXDNFXlNFXXFDNLXLNUpRLLlN+NlU+YU(xvU_.lH?v+?XvD?sv?G+?.v4?_vFUtvDFLL??HLUFxLN_sHs_?HHN+XLNNvF?Y{v?_vl?FvXFxLDsIDNlYx_U+xLUNNF+FUL+LUUxxU?xYLDDXH+_LHN_UHYUOllH0XUNFXXsx5DssD?vLN?X?NH1+sL!NsUYYFX+Dl?+llF+XHDlL+LlUxavv?NvN?UvYxHUsvYLFFFLXYxDDYsD?YH_+H_NFHU_YX;?__DHD_?X+DDHUNlQgNvXXNNXF_D:xll+vlD+xlUxvvD?Dvs??vHF+LL?NslYVsv!_sl;FsX+xLDxL_?H?_HX+NLXNXUNvFiC_x6UxxDUsx?UHN+DUlXNUULxNUUxYNxvv?Nvl?FvXFxLDFHL+FHDxYLD?YUDHH6_LH__Y+?_XXxNDXFN?XXs+/LlsyUsY+plL+_ll+FlXHLUDxlU?xX?+vL?NDUFlL+FDL_FlLFYDDxYDlFY?DXH+_DHN_FHYl<+3NNXUNF65sx+NssI?+N++lD+Nl?+YUrxvU_H?UFvA?xvN?sv??HL+s_LNFFLYY+DvY_DlHFF{Hx__HsNvHHNvXLNN?FNYS+sv%Nsl!FsXvx?&+slF+HUxxL?lxUFYLY?LvN?lvY?XDxFDLssYLHYvDLYsDUYY_buv?+HU_HHXNLXDsUX?lHuFsLClsUVXl^+Fl_vlUL+XULxDUUx??Hv+?LLD?ULcF5LLF_LlFF_XYDDDY?D?H+_+X__NJUsxX N_X_NFXFlxcxUDxxs?++l++NlNxUlYx0?Lx_UYxF?/vx?DvsY?LHF+LsFNLHFY_xYvN_HKDFHv_xHl_sXF_H++l+XsNHXYsLTvl_IlsFY+lx+Uls+FlHx+ULLNFDxY?Dvv??vlFHvXHxUUFsDpFHD_YL_+YUNYXY_LH?_lX+_XTxNDXsvYXHsN-LslkUsY+ UDGUllxvlXxNUDxsU?LHslvL?HvUFLLGYRL_FlFxFXDUYDDFY?DHH+N_Y?_UX_N>0xN_XlNF+XDUEDl+I?lN++U++NUFHLU^xYU_vNUFxX?xLNUFv?FlL+FNLNFULYX7x?Y__LYF_UHx__Hs_?_XNx-JNNX?NYu<sv+sUvhFlF+xlF+sl?+H?v%xUNvsUYL1?vv_?lvFY_LxY LsYlLHY+DLYNNLYY_lHv__Hl_HHXsLXNNsbDNH+dsLaNsUxYlx+vU9+lU_+XUXxD?UxYUHvF?LLx?UvYFBDDY+LlYsLXYDDDYsD?XH_UHLNvHUNlX.NLX_NlNYsZ6XsDkUs?:Hl+x_UL+UU?xVUUx_UlxFF++7?DLN??LHF+LLFNLUHlDGYXD_HsDFYX_xHDNFH?NsX+NLXNNFXYlx7Us_+LsF+Hlx+Dlsv?UUx+UXxN?DxY?YvvFsD+?FL?FxLlFsL?FH_vH_DNHNDYHv_vH__l>FNFXxsxXsssXHsxnLsNs?sH+Hlv+lll+FlXvLF/xs?UxH?svL?NvUFX+HFvD_FlDFFXDxYDDsHlDHHH_LXN_UHYN)XvsXXlsNXXsxZDsU%?U&xYlLxvlUxFUVxvU_Ll?LxX?HvDFLv?F?L+Y_L?FUDUYiDDY_DlYFN+Hl_DX__?X+N+XLNN+Usx{fl+E_lNqFl=+xlDlllFxYU+xsUNxUUYLx??v_FlvFF_LxFDLsYYxFY+_DYN_UYY_/Hv__XX_FXYNx}_NsX?NHi+U+/Nl_TYlp+vls+lUHv_UxvxUsvUUHv+?LDN?HvYFYLvYvLlYlLXHLDsYs_lYHN+HL_NHUNXXsNv6DNlXXNXExsDxsUD<HU*+LU_+UlHx>UvUNUUvFUXvN?Dvs??DVYYLLYsLUYLD*YvD_H?xvYXNLHDNsH?_HX+NLxYNU=FsM+Ds_TlsF*XlF+_UD+?lHx+ULxNUUYs?Av??_vl?FLRFxLDxXL?YDD+Y_DNYFDYX!FLH__XHFN?XxNFXsN?VXs+=LsNq?sY+Rlv+_ll+FlXxNUDxsU?v6?NvL?NvU++Usxs?vxH?XY+D_YDDsY?FDLxY+LF_FXUNoXvN_LFH+_?HN_sXFNuXx_DXFNF%NsxUxxNU_xlUFNF+vlHx_vYFLL+FLLN++UHvY?s+X?YYY_FHx_DHs_??7N+XDNNXUNYE(svx__+tFl/+xl_+slF+HU+H_UNxFUYv-?vv_?lDFlNLxFNLsFYLHYLDLYNllYY_+Hv_NHl_HHXsxD_NsXFNHhDsLmNsU!YDx+vlN+llY+XUxxDUsNUUXvx?Lvs?UvHF>LvDlLlFYLXYLDDYsD?XGNxHL_lHU_XXhNvX_ll0lNXnLsDRUs?+vl++LUN+UlHx<UDx_UUxFUXvL?Dvs??vXF+LLFNLUFYD>YvDYYlDFYX_LX?_sH?_HvvYDDUHD_LXxNxX?NNX;_v#LN_._sH:Hsx+_sF+sl^xlv_Hl_FHXNxXDNsl?sUY2DLYLDNYUF?LDYUHs_XHF_XXx?s_UH!DXXD_lsl HsY+mlv__9DNY+sxDYsD?YH_+HL_NNUNl?XLlFvL_FlU,L_?NvUF_xLFFLNYvHNlYHYN!XvN_??NFXXsx&DssV?sH+NsU+NlU+YYxxvUNxlUYxX?__L?sv??HNvFLLsFULYlxDvY_DlYYDXHx_DHH_+HHN+XLNHXUNHu3sLf_sYv?sX+xlD+Xl?+XU+xsY_xUUYvaF_v_?UvF?XmLFDLsF?D3Y+DLYNNU+L_MHv__Hl_FXvNxXDlxX?s#0+sDRNsUiYUxxHl_+FlFx_UxxDUsL??Yv+?NvN?YvYFvLvYsLFFFDvYxD?YsD?YH_+XH_NHY_YXxNvXsNlXFlD)xsl,ss?2Hlx+LFNlxlYxLUvxNUlxHUXvxHDvs??vHFDLLFlLUHYN?YvD_YlDFYX_NHD_s+__XX+NLXlNUXHse!vLsilsFhXlD+Dls+?UL+NULxNUULL?yvL?_vU?FLvX+LDFsL?HDD+YDDNYHsFHG_vH_sFHFN8XxND?UN?XHs+a_sNkUsYv/FU+_ll+FlXxxUlxsU?LD?+v_?NvY?YLaFvDsYDLFYxDxYFDsY?DHQ+NDHN_YHYNvXvNlXlsH+ssx5lss++sH++lL+N?D+YUvxvUsxlUHxX?xvs?svX?HL+FLLsFUNYLsDvYUDlYYDXHL_DHsl?HHN+XLN?XUNXyfUvv+slMFsX+xlD+Yl?+HFFxDUNxUUXva?Lv_?lXH?XLxFDLFF?LHY+DU+ND?YY_!+D__HU_FHXNxXlUNX?NH,+?_yNs?dYloYDl_+llFx+UxxDUsL?HDv+?LvN?UvYFLLvF_DFFFD+YxDlYsD?YHNvXF_NHY_YXNNvX_Nl+FsLCxss3ssH4HlL+LUlvLlYxLUvxFUlxFUXvxFFvs?HvHFvLLFlLUFYDDYvDUYlDFYX_vHDls_v_HXDNLXsNUXXs{tv?_5lsF#Xl_+DlU+??HLFULxNUUxY?nvs?_vlHNLMFxLDFUL?FXD+YL_sYUDYH._LH__lHF_XXxNDXsNHXHs+6Lsl++sY+VlvDH)Yl^{X_lAUlFUYLH?+vL?NUxv+?Lvv?lEvN?XHFxv_F?LXFvLNYY+DF?DYHwxxHNvHHL_OFNNYY}_X?YsvXDsHlY+YU%xvU_xlUFssXxvDFsv??HL+Y_KHFULYY0DDY_DlYFDXUL_DHl_?HHN+XLNN+UUs :sLE_sUOFlk+xlDYvl?x+U+xLUNxUUYv9vNv_?YvFFOLxFDLsF?NHY+DDYNDHYY_xHv_Fxl_YX*Nx!LNsXFNHV+sL>??l3Ylr+vUD+llY+XUxLFUlxYUHvx?LvN?UL?XDLLFlLlY?LXYvDDYUD?HxliHL_NHUNFXdNLX_Nl?HNXcLsD3ls?EHl++LDx+UU{x4ULx_UlxFUXll?DvU??LmF+L_FNLU+FD+YDD_YUDFHd_xHDNlH?_HX+NDXNNUXYsbbvs_SlsY=Xlx+DlUxDlHx+ULlv+lsH+LU_xUU?xDUYxlLDFYL?FHD+H_L?YUDYH^_LH__lHF_X?LNDXlN?XHs+uLsN(UUN+Vlv+_lU+FlXxxUD_RUFxH?+vL?NvU?YLIYLL_FlLFY6DxYDDsY?DHH+_LHY_UHYN3XDNYXlNFXXYs_HX?NLX5NYXl+slU+XUDxvU_xl+XlX+vUFx_vYFHL+FLLN+N?FLDF_v?UxvXFHD>UUD_FFD^YYDlY?XFs+IJsvp_XY_YwxNYl_+llFv_U+xLUNv5Uvvz?vv_?FvFF LxF_LsFXNYY+DLYNDYYY_+Hv_U+s_FHXNx#_NsXFNHV+BszNs?9Yl++vl_+llFUsUxx_Usx?UHv+?LvNNFvYF+LvFNLlFFLX&xFYYsDFYH_DHL_YHU_Y?xNvXNNlXHNXRxsDvsav}Hlx+Lls+UUvxR?D+UUlxYUXvN?Dvs??DHllLLFsLUFHDPY_D_YXD_YX_LHD_sH?_XX+NNXNNU?XsAPvs_4lsF.Xlx+DDU+?lHx+UDxNUUxY?EXD?_vl?FL+FxLDFsL?XlDxYDDNYFDYH+_vHUlsHF_XXxsFXsNFXHs+sssNb?sY+klv+_ll+FxsxxU_xsU?xH?+vL?NXF?YL+FvLNFlLFFXsxLYDsYFDHHD_LHl_UHYvxXvNNXlNHXXsx3D?ssvsH+xlL+slU+XU2xv?NxlUFxX?vvD?sv??XL+FLLNYeLYYaDvYs_lYFDXHx?xDNH,_+Y_vYYU_lH?LDX+_NH?NsXLN_lN+Xl?+HU+NU+qlY+_lx+Xl???Le?XLxFD?FxFF+vFD_Y?DUYY_QDUFNDxHVXxNxXDNsX?NHT+_LL_s?>YlJx#l_+llF+X_LxDUsx?UHv+?LvNFaNYF+LvF_D+FFD;YxDDYsDXbY_+HL_NXx_YX+NvTs_YXFNX.xss9ss?fH?+7vlN+UlYx1UvxUUlvH?xvx?_vsFevHF+LLFNL?FYD8YvDsYlDYYX__X?_sH?_HX+NLXsNUXYLxCvs_GlsYRXlx+DFslvlHx+ULxsUUvv?mvvNsvl?FvXFLLDFsL?XHFlYLDNYUDXHf_lH__lXY_XXxNDXlN?XHs+CLsNGUsY+7lv+_ll+YUxxxUDxsU?X}?+vD?NvU?YL{FvL_sNLFY1DxYNDsY?DHH+NDHN_UHYN+XvN_XlNFXXsxfDsY=?sH++l_+YlU+YUTsU^?lY+LUL+?vN?Hv??HL++LUsvF?xvHFNYsDYYFDXHxFFLlYsDvNvXHNNXUNYLNHsNUYFN+I+ssXHN?tVx6UsxLUNxUX lXxDl?Wo?+xsLvHGLsF?LHHvLsYND?YY_+Hv__HlNxHDNxX_NsXXNHexsLCssU++?X+vl_+lUq+XUvxDUFDUUHv+?LLD?UvHFOLvssLlFYLXYxDDYsD?XHvlHL_sHU_HX0NDX_s?XfNX5LsDrls?1Hl++LXX+?lXx}ULx_U?xF?Dss?Dvl??LlF+LDFNLFFYDL3xD_YlDFHU_xH__sH??sX+NDXNNUXYsMfvs_sYsF+Zlx+_ls+?lHx+_xxNU?xY?xvv?_vlF^_HFxLDFs_DFHDxYLDNlFDYH+_vH__lHF_X+xLYXsNFXHsx7Lsl0UlX<Llv+sll+XlXxxUDLsY_xH?vvL?lvUF+L(YD^YFlD1FXDNYDDsY?DH++_LHl_UX+NfXDN_XXNvXXsvADlXJ?sX++l_+NlHLFU xvU_LrUFvG?xvlHNv??HL+YFLNF?LYY9lYY_DUYFDXHx_DHs_?NxN+XDNNX?NYn.sve_LNZFlc+xlN+sl?+HU+vDUNxUUYv+?vv_?lvF?XLxFD");local s=0;k.uBKuuahH(function()s=s+1 end)local function l(l,_)if _ then return s end;s=l+s;end local _,s,h=f(0,f,l,o,k.AJMZRFvl);local function d()local s,_=k.AJMZRFvl(o,l(1,3),l(5,6)+2);l(2);return(_*256)+s;end;local b=true;local b=0 local function p()local l=s();local s=s();local n=1;local e=(_(s,1,20)*(2^32))+l;local l=_(s,21,31);local s=((-1)^_(s,32));if(l==0)then if(e==b)then return s*0;else l=1;n=0;end;elseif(l==2047)then return(e==0)and(s*(1/0))or(s*(0/0));end;return k.IOMoJ_nY(s,l-1023)*(n+(e/(2^52)));end;local c=s;local function z(s)local _;if(not s)then s=c();if(s==0)then return'';end;end;_=k.zricIn_m(o,l(1,3),l(5,6)+s-1);l(s)local l=""for s=(1+b),#_ do l=l..k.zricIn_m(_,s,s)end return l;end;local c=#k.nAZdKHpF(a('\49.\48'))~=1 local l=s;local function _l(...)return{...},k.WnYgpeYV('#',...)end local function sl()local b={};local a={};local l={};local o={b,a,nil,l};local l=s()local f={}for e=1,l do local _=h();local l;if(_==1)then l=(h()~=#{});elseif(_==3)then local s=p();if c and k.KuzkwpLO(k.nAZdKHpF(s),'.(\48+)$')then s=k.kgsrFMMD(s);end l=s;elseif(_==2)then l=z();end;f[e]=l;end;o[3]=h();for o=1,s()do local l=h();if(_(l,1,1)==0)then local h=_(l,2,3);local r=_(l,4,6);local l={d(),d(),nil,nil};if(h==0)then l[n]=d();l[t]=d();elseif(h==#{1})then l[n]=s();elseif(h==u[2])then l[n]=s()-(2^16)elseif(h==u[3])then l[n]=s()-(2^16)l[t]=d();end;if(_(r,1,1)==1)then l[e]=f[l[e]]end if(_(r,2,2)==1)then l[n]=f[l[n]]end if(_(r,3,3)==1)then l[t]=f[l[t]]end b[o]=l;end end;for l=1,s()do a[l-(#{1})]=sl();end;return o;end;local function ll(_,l,s)local e=l;local e=s;return a(k.KuzkwpLO(k.KuzkwpLO(({k.uBKuuahH(_)})[2],l),s))end local function m(c,h,o)local function sl(...)local d,g,u,ll,b,s,a,y,j,z,p,_;local l=0;while-1<l do if l<3 then if 1<=l then if-1<l then for _=15,62 do if 1<l then s=-41;a=-1;break;end;u=f(6,56,3,53,c);b=_l ll=0;break;end;else u=f(6,56,3,53,c);b=_l ll=0;end else d=f(6,85,1,37,c);g=f(6,75,2,16,c);end else if l>4 then if 6==l then l=-2;else _=f(7);end else if l==4 then z=k.WnYgpeYV('#',...)-1;p={};else y={};j={...};end end end l=l+1;end;for l=0,z do if(l>=u)then y[l-u]=j[l+1];else _[l]=j[l+1];end;end;local j=z-u+1 local l;local f;local function u(...)while true do end end while true do if s<-40 then s=s+42 end l=d[s];f=l[el];if 196<=f then if 294<=f then if 343>f then if f>=318 then if f>=330 then if 336<=f then if f<=338 then if 336<f then if 335<f then for o=45,96 do if f~=337 then local f,p,c,k,u;for o=0,6 do if o>2 then if 5<=o then if 4<=o then for r=18,94 do if 5<o then f=l[e];u=_[l[n]];_[f+1]=u;_[f]=u[l[t]];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if o~=3 then f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];else f=l[e]p,c=b(_[f](r(_,f+1,l[n])))a=c+f-1 k=0;for l=f,a do k=k+1;_[l]=p[k];end;s=s+1;l=d[s];end end else if o>0 then if 0<o then for t=18,72 do if o>1 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]]=_[l[n]]-l[t];s=s+1;l=d[s];end end end break;end;local e=l[e];local t=_[e+2];local d=_[e]+t;_[e]=d;if(t>0)then if(d<=_[e+1])then s=l[n];_[e+3]=d;end elseif(d>=_[e+1])then s=l[n];_[e+3]=d;end break;end;else local f,c,p,k,u;for o=0,6 do if o>2 then if 5<=o then if 4<=o then for r=18,94 do if 5<o then f=l[e];u=_[l[n]];_[f+1]=u;_[f]=u[l[t]];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if o~=3 then f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];else f=l[e]c,p=b(_[f](r(_,f+1,l[n])))a=p+f-1 k=0;for l=f,a do k=k+1;_[l]=c[k];end;s=s+1;l=d[s];end end else if o>0 then if 0<o then for t=18,72 do if o>1 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]]=_[l[n]]-l[t];s=s+1;l=d[s];end end end end else local h;for f=0,6 do if 2>=f then if 0>=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if-1<=f then for h=11,98 do if 2>f then _[l[e]]=_[l[n]]*l[t];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]]-l[t];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]]*l[t];s=s+1;l=d[s];end end else if f<5 then if f>=2 then repeat if 3~=f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if f~=1 then for t=41,72 do if 6~=f then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];break;end;else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end end end end end else if 340<f then if f>337 then repeat if 341~=f then local o;for f=0,4 do if 1<f then if f>2 then if f~=0 then for h=20,74 do if 3<f then _[l[e]][l[n]]=_[l[t]];break;end;o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];end else _(l[e],l[n]);s=s+1;l=d[s];end else if f>=-2 then repeat if f>0 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end break;end;local f,a;for h=0,9 do if 5<=h then if 7<=h then if 8>h then f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];else if h>=6 then repeat if h~=8 then f=l[e]_[f](_[f+1])break;end;f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];until true;else f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];end end else if h==5 then _[l[e]]={};s=s+1;l=d[s];else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end end else if h<=1 then if h~=-2 then for f=35,54 do if h<1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if h>=3 then if 2~=h then repeat if 3<h then f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end until true;else local o;for f=0,4 do if 1<f then if f>2 then if f~=0 then for h=20,74 do if 3<f then _[l[e]][l[n]]=_[l[t]];break;end;o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];end else _(l[e],l[n]);s=s+1;l=d[s];end else if f>=-2 then repeat if f>0 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end else if f>339 then local h,a,k,r,b,f;for f=0,6 do if 2>=f then if 1>f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if 1==f then _[l[e]]=o[l[n]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if f>4 then if f>=4 then repeat if 5~=f then f=0;while f>-1 do if 2<f then if 4<f then if f<6 then _(b,r);else f=-2;end else if f>0 then for l=32,70 do if f>3 then b=h[a];break;end;r=h[k];break;end;else r=h[k];end end else if 0>=f then h=l;else if f~=-2 then repeat if f~=1 then k=n;break;end;a=e;until true;else a=e;end end end f=f+1 end break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=0;while f>-1 do if 2<f then if 4<f then if f<6 then _(b,r);else f=-2;end else if f>0 then for l=32,70 do if f>3 then b=h[a];break;end;r=h[k];break;end;else r=h[k];end end else if 0>=f then h=l;else if f~=-2 then repeat if f~=1 then k=n;break;end;a=e;until true;else a=e;end end end f=f+1 end end else if f~=0 then for t=33,75 do if 3~=f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end else local f,o;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;end end end else if 333<=f then if f<334 then local f,a,u,o,k,b,t;for t=0,9 do if 5<=t then if t<7 then if 4<t then repeat if 6>t then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if t>7 then if t~=6 then repeat if 8<t then _(l[e],l[n]);break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 2<=t then if 3>t then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if t>=0 then repeat if 4>t then t=0;while t>-1 do if t>2 then if 4<t then if t<6 then _(b,k);else t=-2;end else if t==4 then b=a[u];else k=a[o];end end else if t>=1 then if 0~=t then for l=11,77 do if t<2 then u=e;break;end;o=n;break;end;else o=n;end else a=l;end end t=t+1 end s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];end end else if 1~=t then _(l[e],l[n]);s=s+1;l=d[s];else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end else if f>=333 then repeat if 335>f then local f,o;for h=0,5 do if 3>h then if 1<=h then if-3~=h then for o=42,68 do if 1<h then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end else if 3<h then if h~=2 then repeat if 4<h then f=l[e]_[f](_[f+1])break;end;f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];until true;else f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];end else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end break;end;_[l[e]]();until true;else local f,o;for h=0,5 do if 3>h then if 1<=h then if-3~=h then for o=42,68 do if 1<h then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end else if 3<h then if h~=2 then repeat if 4<h then f=l[e]_[f](_[f+1])break;end;f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];until true;else f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];end else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end end else if f>=331 then if f~=328 then for a=27,71 do if f~=331 then local a,h,k,u,c,b,f;a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if f<=0 then h=l;else if 2>f then k=e;else u=n;end end else if 4>=f then if f>=2 then for l=33,60 do if f>3 then b=h[k];break;end;c=h[u];break;end;else b=h[k];end else if 6>f then _(b,c);else f=-2;end end end f=f+1 end break;end;_[l[e]]=_[l[n]]/l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]%l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]]/l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]%l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]]/l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]+l[t];break;end;else local a,h,k,c,u,b,f;a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if f<=0 then h=l;else if 2>f then k=e;else c=n;end end else if 4>=f then if f>=2 then for l=33,60 do if f>3 then b=h[k];break;end;u=h[c];break;end;else b=h[k];end else if 6>f then _(b,u);else f=-2;end end end f=f+1 end end else local f,o;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];if(_[l[e]]<_[l[t]])then s=s+1;else s=l[n];end;end end end else if 324>f then if f<=320 then if 319>f then local h;for f=0,6 do if 2<f then if f>4 then if f~=2 then for t=32,84 do if 5~=f then _(l[e],l[n]);break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);end else if f>2 then repeat if f<4 then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if f>=1 then if f>-3 then repeat if f~=1 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]={};s=s+1;l=d[s];until true;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end end end else if f<320 then local f,h;_[l[e]]=o[l[n]];s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e];do return _[f](r(_,f+1,l[n]))end;s=s+1;l=d[s];f=l[e];do return r(_,f,a)end;s=s+1;l=d[s];do return end;else if _[l[e]]then s=s+1;else s=l[n];end;end end else if 321>=f then local o,a,k,c,u,b,f;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=0;while f>-1 do if 3>f then if f>=1 then if-2~=f then for l=32,73 do if 2~=f then k=e;break;end;c=n;break;end;else k=e;end else a=l;end else if f<5 then if f>=0 then repeat if 4~=f then u=a[c];break;end;b=a[k];until true;else b=a[k];end else if f>=3 then repeat if f<6 then _(b,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if 1<=f then if 2~=f then k=e;else c=n;end else a=l;end else if f<5 then if 0~=f then for l=48,80 do if 4~=f then u=a[c];break;end;b=a[k];break;end;else b=a[k];end else if 2~=f then for l=21,81 do if f~=5 then f=-2;break;end;_(b,u);break;end;else _(b,u);end end end f=f+1 end s=s+1;l=d[s];o=l[e]_[o]=_[o](r(_,o+1,l[n]))else if 318~=f then repeat if 322<f then local h;for f=0,5 do if 3<=f then if 4<=f then if 4==f then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];else _[l[e]]={};end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 0<f then if-2<=f then for h=36,79 do if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end break;end;local f,h;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f](_[f+1])until true;else local f,h;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f](_[f+1])end end end else if f>326 then if 327>=f then local t;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))else if f>327 then repeat if f>328 then for f=0,6 do if 3>f then if f>0 then if-3<f then for r=33,81 do if 2>f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]={};s=s+1;l=d[s];end else if 5>f then if f>0 then repeat if f>3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f~=4 then repeat if f<6 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];until true;else _[l[e]]=_[l[n]][l[t]];end end end end break;end;if(_[l[e]]<=_[l[t]])then s=l[n];else s=s+1;end;until true;else for f=0,6 do if 3>f then if f>0 then if-3<f then for r=33,81 do if 2>f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]={};s=s+1;l=d[s];end else if 5>f then if f>0 then repeat if f>3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f~=4 then repeat if f<6 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];until true;else _[l[e]]=_[l[n]][l[t]];end end end end end end else if f<=324 then if(_[l[e]]<l[t])then s=s+1;else s=l[n];end;else if 321~=f then for o=36,65 do if f>325 then local t;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))break;end;local f,c,k,p,o,u;for k=0,4 do if 2<=k then if 3>k then f=l[e]u,p=b(_[f](_[f+1]))a=p+f-1 o=0;for l=f,a do o=o+1;_[l]=u[o];end;s=s+1;l=d[s];else if k<4 then f=l[e]u={_[f](r(_,f+1,a))};o=0;for l=f,l[t]do o=o+1;_[l]=u[o];end s=s+1;l=d[s];else s=l[n];end end else if-3~=k then for r=44,72 do if 0~=k then f=l[e];c=_[l[n]];_[f+1]=c;_[f]=c[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end break;end;else local t;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))end end end end end else if f<306 then if f>299 then if f>302 then if 303>=f then local f;for h=0,4 do if h>=2 then if 2<h then if h~=2 then for f=17,96 do if 3<h then _[l[e]]=_[l[n]]+l[t];break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if h>=-2 then repeat if h~=0 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f]()s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f]()s=s+1;l=d[s];end end end else if 305>f then local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))else local f,h;f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=(l[n]~=0);s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))end end else if 301>f then _[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];else if 300~=f then for h=17,70 do if 301<f then _[l[e]][_[l[n]]]=l[t];break;end;local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];if(_[l[e]]==l[t])then s=s+1;else s=l[n];end;break;end;else local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];if(_[l[e]]==l[t])then s=s+1;else s=l[n];end;end end end else if 296>=f then if f<=294 then local h;for f=0,6 do if f<=2 then if 1<=f then if f>=0 then for h=41,95 do if 1<f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if f>=5 then if f~=4 then repeat if f>5 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else h=l[e]_[h]=_[h](r(_,h+1,l[n]))end else if f>=-1 then repeat if f>3 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end end end else if f>=293 then for h=20,74 do if 295~=f then local j,u,b,c,j,f,h,p,g,y,m,o,z,k,a;f=0;while f>-1 do if 3>f then if f<=0 then h=l;else if f>-3 then for l=35,96 do if f>1 then b=n;break;end;u=e;break;end;else u=e;end end else if f>4 then if f~=5 then f=-2;else _(o,c);end else if f>1 then for l=47,81 do if f<4 then c=h[b];break;end;o=h[u];break;end;else c=h[b];end end end f=f+1 end s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=0;while f>-1 do if 3<f then if f>5 then if 4<=f then repeat if f~=7 then _[o]=m;break;end;f=-2;until true;else _[o]=m;end else if 3~=f then repeat if f<5 then m=y[h[g]];break;end;o=h[p];until true;else o=h[p];end end else if 2<=f then if f>=1 then for l=12,62 do if 3~=f then g=n;break;end;y=_;break;end;else g=n;end else if f>=-3 then repeat if f>0 then p=e;break;end;h=l;until true;else h=l;end end end f=f+1 end s=s+1;l=d[s];z=l[n];k=_[z]for l=z+1,l[t]do k=k.._[l];end;_[l[e]]=k;s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))break;end;_[l[e]]=#_[l[n]];break;end;else _[l[e]]=#_[l[n]];end end else if f>=298 then if f>=296 then for s=20,52 do if 298~=f then local l=l[e]_[l](_[l+1])break;end;for l=l[e],l[n]do _[l]=nil;end;break;end;else local l=l[e]_[l](_[l+1])end else if(_[l[e]]<_[l[t]])then s=l[n];else s=s+1;end;end end end else if f<=311 then if 308>=f then if f>306 then if f>=304 then for r=32,90 do if 308~=f then local o,r;for f=0,5 do if f>=3 then if 4<=f then if 1<f then for h=11,58 do if f<5 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]={};break;end;else _[l[e]]={};end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f>=1 then if-2~=f then for a=20,78 do if 2~=f then o=l[e];r=_[l[n]];_[o+1]=r;_[o]=r[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end break;end;local d=l[e];local e={};for l=1,#p do local l=p[l];for s=0,#l do local s=l[s];local n=s[1];local l=s[2];if n==_ and l>=d then e[l]=n[l];s[1]=e;end;end;end;break;end;else local r,o;for f=0,5 do if f>=3 then if 4<=f then if 1<f then for h=11,58 do if f<5 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]={};break;end;else _[l[e]]={};end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f>=1 then if-2~=f then for a=20,78 do if 2~=f then r=l[e];o=_[l[n]];_[r+1]=o;_[r]=o[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end else for f=0,6 do if f>=3 then if 4<f then if 1<f then for h=37,92 do if f~=6 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][_[l[t]]];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 2<f then for r=36,63 do if f~=3 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if f<=0 then _[l[e]]=o[l[n]];s=s+1;l=d[s];else if-3~=f then for r=47,93 do if 2>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end end else if 310>f then if(l[e]<_[l[t]])then s=s+1;else s=l[n];end;else if f==311 then _[l[e]]=-_[l[n]];else local t;t=l[e]_[t]=_[t](r(_,t+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_(l[e],l[n]);end end end else if 315<=f then if f>315 then if f>=315 then for h=27,73 do if f~=317 then local t,f;t=l[e]_[t]=_[t](_[t+1])s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];t=l[e];f=_[t];for l=t+1,l[n]do k.VzBdgTiT(f,_[l])end;break;end;_[l[e]]=l[n]-_[l[t]];break;end;else _[l[e]]=l[n]-_[l[t]];end else _[l[e]]=_[l[n]]/_[l[t]];end else if 313>f then local l=l[e];do return r(_,l,a)end;else if 310<f then repeat if f>313 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);break;end;local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);end end end end end end else if 368>f then if 354<f then if f>=361 then if 363>=f then if f<362 then local s=l[e]local n={_[s](r(_,s+1,a))};local e=0;for l=s,l[t]do e=e+1;_[l]=n[e];end else if f>359 then repeat if f~=363 then local f,u,p,c,h,k;_[l[e]]=o[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f]()s=s+1;l=d[s];f=l[e];u=_[l[n]];_[f+1]=u;_[f]=u[l[t]];s=s+1;l=d[s];f=l[e]k,c=b(_[f](_[f+1]))a=c+f-1 h=0;for l=f,a do h=h+1;_[l]=k[h];end;s=s+1;l=d[s];f=l[e]k={_[f](r(_,f+1,a))};h=0;for l=f,l[t]do h=h+1;_[l]=k[h];end s=s+1;l=d[s];s=l[n];break;end;local u,a,c,k,b,f,o;for f=0,6 do if 3>f then if f<1 then _(l[e],l[n]);s=s+1;l=d[s];else if f==1 then f=0;while f>-1 do if 2>=f then if f>=1 then if-1<=f then for l=34,61 do if 1~=f then c=n;break;end;a=e;break;end;else a=e;end else u=l;end else if 5<=f then if 2~=f then repeat if 6~=f then _(b,k);break;end;f=-2;until true;else _(b,k);end else if 4~=f then k=u[c];else b=u[a];end end end f=f+1 end s=s+1;l=d[s];else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if 5<=f then if 3<f then for r=22,95 do if 5~=f then _[l[e]]=h[l[n]];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];end else if f==3 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end until true;else local k,a,c,u,b,f,o;for f=0,6 do if 3>f then if f<1 then _(l[e],l[n]);s=s+1;l=d[s];else if f==1 then f=0;while f>-1 do if 2>=f then if f>=1 then if-1<=f then for l=34,61 do if 1~=f then c=n;break;end;a=e;break;end;else a=e;end else k=l;end else if 5<=f then if 2~=f then repeat if 6~=f then _(b,u);break;end;f=-2;until true;else _(b,u);end else if 4~=f then u=k[c];else b=k[a];end end end f=f+1 end s=s+1;l=d[s];else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if 5<=f then if 3<f then for r=22,95 do if 5~=f then _[l[e]]=h[l[n]];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];end else if f==3 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end end end else if f<=365 then if f>360 then repeat if 365>f then local f;for t=0,6 do if 2>=t then if 1<=t then if t~=0 then for f=39,72 do if 2~=t then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if 5<=t then if t~=1 then for f=39,78 do if 6>t then _[l[e]]=_[l[n]];s=s+1;l=d[s];break;end;_(l[e],l[n]);break;end;else _(l[e],l[n]);end else if t>0 then for f=27,83 do if t~=3 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end break;end;_[l[e]]=_[l[n]]-_[l[t]];until true;else _[l[e]]=_[l[n]]-_[l[t]];end else if 363<=f then repeat if f>366 then local o;for f=0,9 do if 5<=f then if 6>=f then if f>4 then repeat if 5<f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];until true;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end else if f<=7 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else if f>6 then for t=20,85 do if f>8 then _(l[e],l[n]);break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _(l[e],l[n]);end end end else if 2>f then if f~=-3 then repeat if f<1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if f>2 then if f<4 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end end break;end;local l=l[e]_[l]=_[l](_[l+1])until true;else local o;for f=0,9 do if 5<=f then if 6>=f then if f>4 then repeat if 5<f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];until true;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end else if f<=7 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else if f>6 then for t=20,85 do if f>8 then _(l[e],l[n]);break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _(l[e],l[n]);end end end else if 2>f then if f~=-3 then repeat if f<1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if f>2 then if f<4 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end end end end end else if f<358 then if f>=356 then if f~=357 then local h,b,a,o,u,c,k,f;for f=0,4 do if 1<f then if f<3 then f=0;while f>-1 do if 2<f then if 4<f then if 6~=f then _(k,c);else f=-2;end else if 1~=f then repeat if f~=3 then k=a[o];break;end;c=a[u];until true;else k=a[o];end end else if 0>=f then a=l;else if-1<f then repeat if f>1 then u=n;break;end;o=e;until true;else o=e;end end end f=f+1 end s=s+1;l=d[s];else if 1<f then repeat if 3<f then if not _[l[e]]then s=s+1;else s=l[n];end;break;end;h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];until true;else if not _[l[e]]then s=s+1;else s=l[n];end;end end else if 1==f then h=l[e];b=_[l[n]];_[h+1]=b;_[h]=b[l[t]];s=s+1;l=d[s];else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end end end else _[l[e]]=_[l[n]]-l[t];end else local e=l[e];local t=l[t];local d=e+2 local e={_[e](_[e+1],_[d])};for l=1,t do _[d+l]=e[l];end;local e=e[1]if e then _[d]=e s=l[n];else s=s+1;end;end else if f<359 then local h;for f=0,6 do if 3<=f then if f<=4 then if 2<=f then repeat if 3~=f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];until true;else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end else if 2<f then repeat if f~=6 then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];until true;else _[l[e]]=_[l[n]][l[t]];end end else if 0<f then if f>1 then _(l[e],l[n]);s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end else if 359==f then local f,h;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]*l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];else local l=l[e]_[l]=_[l]()end end end end else if f<349 then if 345>=f then if f>=344 then if 345==f then local l=l[e]local e,s=b(_[l](_[l+1]))a=s+l-1 local s=0;for l=l,a do s=s+1;_[l]=e[s];end;else _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]*l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]]-l[t];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);end else local f,b,k,a,o,t,u;for t=0,6 do if 2>=t then if 0<t then if-2<=t then for f=21,85 do if t~=1 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]={};s=s+1;l=d[s];end else if 5<=t then if t>5 then u=l[e]_[u]=_[u](r(_,u+1,l[n]))else t=0;while t>-1 do if t>2 then if 5>t then if 2~=t then repeat if 3~=t then o=f[b];break;end;a=f[k];until true;else a=f[k];end else if t==5 then _(o,a);else t=-2;end end else if t<1 then f=l;else if-1<=t then repeat if t>1 then k=n;break;end;b=e;until true;else b=e;end end end t=t+1 end s=s+1;l=d[s];end else if t>=0 then repeat if 4>t then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;t=0;while t>-1 do if 2<t then if t>4 then if 3<=t then repeat if 5<t then t=-2;break;end;_(o,a);until true;else _(o,a);end else if 2~=t then repeat if 4~=t then a=f[k];break;end;o=f[b];until true;else o=f[b];end end else if t<1 then f=l;else if t~=-3 then for l=42,80 do if t~=1 then k=n;break;end;b=e;break;end;else k=n;end end end t=t+1 end s=s+1;l=d[s];until true;else t=0;while t>-1 do if 2<t then if t>4 then if 3<=t then repeat if 5<t then t=-2;break;end;_(o,a);until true;else _(o,a);end else if 2~=t then repeat if 4~=t then a=f[k];break;end;o=f[b];until true;else o=f[b];end end else if t<1 then f=l;else if t~=-3 then for l=42,80 do if t~=1 then k=n;break;end;b=e;break;end;else k=n;end end end t=t+1 end s=s+1;l=d[s];end end end end end else if 347<=f then if 343<f then for o=43,52 do if f>347 then _[l[e]]=l[n]/_[l[t]];break;end;local o;for f=0,6 do if f>2 then if f>4 then if f==5 then _[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];else h[l[n]]=_[l[e]];end else if f~=3 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _[l[e]][_[l[n]]]=_[l[t]];s=s+1;l=d[s];end end else if f>0 then if 0~=f then repeat if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else o=l[e]_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end end break;end;else local o;for f=0,6 do if f>2 then if f>4 then if f==5 then _[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];else h[l[n]]=_[l[e]];end else if f~=3 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _[l[e]][_[l[n]]]=_[l[t]];s=s+1;l=d[s];end end else if f>0 then if 0~=f then repeat if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else o=l[e]_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end end end else for f=0,1 do if f>-3 then for h=33,72 do if f~=1 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];break;end;else _[l[e]]=o[l[n]];end end end end else if 351<f then if 353>f then _[l[e]]=l[n]*_[l[t]];else if f>352 then for r=31,74 do if f~=354 then local f,r;for o=0,4 do if o<2 then if o>0 then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end else if 3>o then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if 2~=o then repeat if o~=4 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];until true;else f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];end end end end break;end;for f=0,4 do if 1>=f then if-1~=f then for h=32,91 do if f~=0 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 2>=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if-1<=f then for r=34,66 do if f~=4 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end end end end break;end;else local r,f;for o=0,4 do if o<2 then if o>0 then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end else if 3>o then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if 2~=o then repeat if o~=4 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;r=l[e];f=_[l[n]];_[r+1]=f;_[r]=f[l[t]];until true;else r=l[e];f=_[l[n]];_[r+1]=f;_[r]=f[l[t]];end end end end end end else if 349<f then if 348<f then repeat if f<351 then local z,p,r,u,c,b,k,a,f;for f=0,6 do if f>2 then if 5<=f then if 2<f then repeat if 5<f then _[l[e]]=o[l[n]];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if-1<f then repeat if f<4 then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 1>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if f>=-2 then repeat if f~=1 then f=0;while f>-1 do if 3>=f then if 1>=f then if-4<f then for s=12,94 do if f~=0 then u=e;break;end;r=l;break;end;else r=l;end else if f>=-2 then for l=17,75 do if f~=2 then b=_;break;end;c=n;break;end;else b=_;end end else if f>5 then if 4<=f then for l=17,96 do if 6~=f then f=-2;break;end;_[a]=k;break;end;else _[a]=k;end else if 2<=f then for l=47,52 do if 4~=f then a=r[u];break;end;k=b[r[c]];break;end;else a=r[u];end end end f=f+1 end s=s+1;l=d[s];break;end;z=l[e];p=_[l[n]];_[z+1]=p;_[z]=p[l[t]];s=s+1;l=d[s];until true;else f=0;while f>-1 do if 3>=f then if 1>=f then if-4<f then for s=12,94 do if f~=0 then u=e;break;end;r=l;break;end;else r=l;end else if f>=-2 then for l=17,75 do if f~=2 then b=_;break;end;c=n;break;end;else b=_;end end else if f>5 then if 4<=f then for l=17,96 do if 6~=f then f=-2;break;end;_[a]=k;break;end;else _[a]=k;end else if 2<=f then for l=47,52 do if 4~=f then a=r[u];break;end;k=b[r[c]];break;end;else a=r[u];end end end f=f+1 end s=s+1;l=d[s];end end end end break;end;local d=_[l[t]];if d then s=s+1;else _[l[e]]=d;s=l[n];end;until true;else local d=_[l[t]];if d then s=s+1;else _[l[e]]=d;s=l[n];end;end else _[l[e]]=-_[l[n]];end end end end else if f>379 then if f>=386 then if 388>=f then if 386<f then if 383~=f then repeat if f~=387 then local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;local s=l[e]local e,l=b(_[s](r(_,s+1,l[n])))a=l+s-1 local l=0;for s=s,a do l=l+1;_[s]=e[l];end;until true;else local s=l[e]local e,l=b(_[s](r(_,s+1,l[n])))a=l+s-1 local l=0;for s=s,a do l=l+1;_[s]=e[l];end;end else for f=0,6 do if 3>f then if f<=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if f>=-2 then for h=43,79 do if f~=1 then _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 4>=f then if-1<=f then repeat if f<4 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f<6 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else _[l[e]][l[n]]=l[t];end end end end end else if 390>=f then if f<390 then _[l[e]][_[l[n]]]=_[l[t]];else local f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];end else if f~=392 then local f,h;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;else _[l[e]]=_[l[n]]%l[t];end end end else if 383<=f then if f<=383 then local f;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e];do return _[f](r(_,f+1,l[n]))end;s=s+1;l=d[s];f=l[e];do return r(_,f,a)end;s=s+1;l=d[s];do return end;else if f~=382 then for o=46,85 do if f~=384 then local f,a,r,h,o,t;for t=0,1 do if t>0 then t=0;while t>-1 do if t<3 then if t>0 then if t<2 then a=e;else r=n;end else f=l;end else if t>=5 then if 2<=t then for l=19,89 do if t~=6 then _(o,h);break;end;t=-2;break;end;else _(o,h);end else if t>=2 then for l=10,56 do if t>3 then o=f[a];break;end;h=f[r];break;end;else h=f[r];end end end t=t+1 end else _[l[e]]=_[l[n]];s=s+1;l=d[s];end end break;end;local o,k,a,b,c,p,u,f;for f=0,9 do if f>4 then if 7>f then if 2~=f then repeat if 6~=f then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;f=0;while f>-1 do if 3>=f then if f<=1 then if f>=-2 then for s=34,61 do if 0<f then a=e;break;end;k=l;break;end;else a=e;end else if-2<=f then repeat if f>2 then c=_;break;end;b=n;until true;else b=n;end end else if f>5 then if 5~=f then for l=19,64 do if 6<f then f=-2;break;end;_[u]=p;break;end;else f=-2;end else if f~=2 then for l=11,73 do if 4~=f then u=k[a];break;end;p=c[k[b]];break;end;else u=k[a];end end end f=f+1 end s=s+1;l=d[s];until true;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end else if 8<=f then if f~=6 then for t=28,73 do if 9~=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 2<=f then if f>=3 then if f==3 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if f==0 then _(l[e],l[n]);s=s+1;l=d[s];else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end end end break;end;else local o,a,k,b,c,p,u,f;for f=0,9 do if f>4 then if 7>f then if 2~=f then repeat if 6~=f then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;f=0;while f>-1 do if 3>=f then if f<=1 then if f>=-2 then for s=34,61 do if 0<f then k=e;break;end;a=l;break;end;else k=e;end else if-2<=f then repeat if f>2 then c=_;break;end;b=n;until true;else b=n;end end else if f>5 then if 5~=f then for l=19,64 do if 6<f then f=-2;break;end;_[u]=p;break;end;else f=-2;end else if f~=2 then for l=11,73 do if 4~=f then u=a[k];break;end;p=c[a[b]];break;end;else u=a[k];end end end f=f+1 end s=s+1;l=d[s];until true;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end else if 8<=f then if f~=6 then for t=28,73 do if 9~=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 2<=f then if f>=3 then if f==3 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if f==0 then _(l[e],l[n]);s=s+1;l=d[s];else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end end end end end else if f>=381 then if 379<f then repeat if f<382 then local k,a,r;for f=0,9 do if 4<f then if f>=7 then if f<8 then _[l[e]]=o[l[n]];s=s+1;l=d[s];else if 8<f then r=l[e]_[r]=_[r](_[r+1])else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if f~=3 then for r=38,55 do if f~=5 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 1<f then if 3<=f then if 1<f then for h=31,96 do if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;k=l[n];a=_[k]for l=k+1,l[t]do a=a.._[l];end;_[l[e]]=a;s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f~=-1 then for t=34,91 do if f~=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end break;end;local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))until true;else local k,a,r;for f=0,9 do if 4<f then if f>=7 then if f<8 then _[l[e]]=o[l[n]];s=s+1;l=d[s];else if 8<f then r=l[e]_[r]=_[r](_[r+1])else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if f~=3 then for r=38,55 do if f~=5 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 1<f then if 3<=f then if 1<f then for h=31,96 do if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;k=l[n];a=_[k]for l=k+1,l[t]do a=a.._[l];end;_[l[e]]=a;s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f~=-1 then for t=34,91 do if f~=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end end else _(l[e],l[n]);s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);end end end else if 373<f then if f>376 then if 378>f then local o;for f=0,6 do if 3<=f then if f>4 then if f>=2 then repeat if 5~=f then _(l[e],l[n]);break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);end else if f==3 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 0>=f then _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];else if 0<f then for h=34,53 do if f<2 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end else if f~=378 then local f,c,u,k;for h=0,6 do if h<=2 then if 0>=h then _[l[e]]=o[l[n]];s=s+1;l=d[s];else if h>=-1 then repeat if 2>h then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 4<h then if h>2 then repeat if 5<h then f=l[e]c,u=b(_[f](r(_,f+1,l[n])))a=u+f-1 k=0;for l=f,a do k=k+1;_[l]=c[k];end;break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];until true;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if 4>h then _(l[e],l[n]);s=s+1;l=d[s];else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end else local f,o;for h=0,5 do if h>2 then if h<4 then f=l[e]_[f](_[f+1])s=s+1;l=d[s];else if 1~=h then for r=17,55 do if 4<h then f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if h<1 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if-1~=h then for a=47,58 do if h>1 then f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end end end else if 374<f then if f>=371 then repeat if f~=375 then for l=l[e],l[n]do _[l]=nil;end;break;end;local f,o;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];until true;else local f,o;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else local f,c,u,k;for h=0,6 do if h<3 then if 0<h then if h==2 then f=l[e]c,u=b(_[f](r(_,f+1,l[n])))a=u+f-1 k=0;for l=f,a do k=k+1;_[l]=c[k];end;s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end else if 5<=h then if 4<h then repeat if 5<h then _(l[e],l[n]);break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _(l[e],l[n]);end else if-1<h then repeat if 3<h then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];end end end end end end else if f<=370 then if 369<=f then if 366<=f then repeat if 370>f then for f=0,4 do if 1<f then if 2>=f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if 3==f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else _[l[e]]=o[l[n]];end end else if f>=-3 then for h=41,79 do if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end break;end;local s=l[e];local e=_[s];for l=s+1,l[n]do k.VzBdgTiT(e,_[l])end;until true;else local s=l[e];local e=_[s];for l=s+1,l[n]do k.VzBdgTiT(e,_[l])end;end else local o,u,b,k,c,a;for f=0,4 do if f>1 then if 2<f then if f>-1 then repeat if f<4 then _[l[e]][_[l[n]]]=_[l[t]];s=s+1;l=d[s];break;end;o=l[e];u={};for l=1,#p do b=p[l];for l=0,#b do k=b[l];c=k[1];a=k[2];if c==_ and a>=o then u[a]=c[a];k[1]=u;end;end;end;until true;else _[l[e]][_[l[n]]]=_[l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f>=-2 then repeat if 1>f then o=l[e]_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end else if f>371 then if 370<=f then repeat if 373~=f then _[l[e]][l[n]]=l[t];break;end;local h;for f=0,6 do if 3<=f then if f<5 then if f<4 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if 4<=f then for h=19,63 do if 6~=f then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if 1<=f then if f>=0 then repeat if f~=2 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end until true;else local h;for f=0,6 do if 3<=f then if f<5 then if f<4 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if 4<=f then for h=19,63 do if 6~=f then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if 1<=f then if f>=0 then repeat if f~=2 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end end else local f,k,a;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]k={_[f](_[f+1])};a=0;for l=f,l[t]do a=a+1;_[l]=k[a];end s=s+1;l=d[s];s=l[n];end end end end end end else if f<245 then if 220>f then if 208>f then if f>=202 then if f<=204 then if 202<f then if f==204 then local h,a,u,b,k,f,o;for f=0,6 do if f<=2 then if 0>=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if 0~=f then for t=28,75 do if f~=2 then f=0;while f>-1 do if f>2 then if 5<=f then if 5<f then f=-2;else _(k,b);end else if f>=1 then for l=10,55 do if f~=4 then b=h[u];break;end;k=h[a];break;end;else k=h[a];end end else if f>=1 then if f~=-2 then for l=28,94 do if 2~=f then a=e;break;end;u=n;break;end;else a=e;end else h=l;end end f=f+1 end s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]];s=s+1;l=d[s];end end else if f<=4 then if 0<f then for t=25,86 do if 3<f then f=0;while f>-1 do if 3<=f then if 5>f then if 1<f then repeat if 3~=f then k=h[a];break;end;b=h[u];until true;else b=h[u];end else if 1<=f then for l=43,85 do if f<6 then _(k,b);break;end;f=-2;break;end;else _(k,b);end end else if f>0 then if-3<=f then for l=11,83 do if 1~=f then u=n;break;end;a=e;break;end;else a=e;end else h=l;end end f=f+1 end s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else if 2~=f then for h=30,88 do if 6~=f then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];break;end;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end end end else if(_[l[e]]~=l[t])then s=s+1;else s=l[n];end;end else _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=h[l[n]];end else if f>=206 then if 203<f then repeat if 206~=f then local f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);break;end;local f,a,o,b,u,p,c,t,h;for t=0,5 do if t>2 then if 4<=t then if t>=3 then repeat if 5~=t then t=0;while t>-1 do if t>=4 then if t>=6 then if t~=5 then for l=14,93 do if t>6 then t=-2;break;end;_[c]=p;break;end;else t=-2;end else if t~=5 then p=u[a[b]];else c=a[o];end end else if 2>t then if t>=-4 then for s=28,64 do if t~=0 then o=e;break;end;a=l;break;end;else o=e;end else if 2~=t then u=_;else b=n;end end end t=t+1 end s=s+1;l=d[s];break;end;f=l[e];h=_[f];for l=f+1,l[n]do k.VzBdgTiT(h,_[l])end;until true;else f=l[e];h=_[f];for l=f+1,l[n]do k.VzBdgTiT(h,_[l])end;end else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if t<=0 then _(l[e],l[n]);s=s+1;l=d[s];else if-2<=t then for h=16,65 do if 2~=t then f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];end end end end until true;else local f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);end else local f,h;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];do return end;s=s+1;l=d[s];s=l[n];end end else if f<199 then if 196<f then if 195<=f then repeat if 198>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=(l[n]~=0);s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];do return end;break;end;local o,a,b,u,k,f,h;f=0;while f>-1 do if f>2 then if f>=5 then if f~=6 then _(k,u);else f=-2;end else if f==3 then u=o[b];else k=o[a];end end else if f>0 then if 1<f then b=n;else a=e;end else o=l;end end f=f+1 end s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=(l[n]~=0);s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];do return end;end else local r,b,a,h,k,f;for f=0,6 do if 3>f then if f<=0 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if-1~=f then for h=21,62 do if f~=2 then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if f<=4 then if 3==f then _(l[e],l[n]);s=s+1;l=d[s];else f=0;while f>-1 do if 2>=f then if 0>=f then r=l;else if f~=-3 then repeat if 1~=f then a=n;break;end;b=e;until true;else b=e;end end else if f<5 then if f~=4 then h=r[a];else k=r[b];end else if 1<f then repeat if f<6 then _(k,h);break;end;f=-2;until true;else _(k,h);end end end f=f+1 end s=s+1;l=d[s];end else if 1<=f then for t=25,64 do if 5<f then _(l[e],l[n]);break;end;f=0;while f>-1 do if 2>=f then if 1>f then r=l;else if f>-2 then repeat if 2~=f then b=e;break;end;a=n;until true;else a=n;end end else if f>4 then if 3<=f then repeat if 6>f then _(k,h);break;end;f=-2;until true;else _(k,h);end else if f>-1 then for l=42,95 do if f~=4 then h=r[a];break;end;k=r[b];break;end;else h=r[a];end end end f=f+1 end s=s+1;l=d[s];break;end;else f=0;while f>-1 do if 2>=f then if 1>f then r=l;else if f>-2 then repeat if 2~=f then b=e;break;end;a=n;until true;else a=n;end end else if f>4 then if 3<=f then repeat if 6>f then _(k,h);break;end;f=-2;until true;else _(k,h);end else if f>-1 then for l=42,95 do if f~=4 then h=r[a];break;end;k=r[b];break;end;else h=r[a];end end end f=f+1 end s=s+1;l=d[s];end end end end end else if 199>=f then _(l[e],l[n]);else if 198~=f then repeat if 200<f then local f,o,a,u,b,k,t;for t=0,7 do if t>3 then if t>=6 then if t>=5 then repeat if t~=6 then f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))end else if t>=3 then for f=14,89 do if t>4 then t=0;while t>-1 do if t>2 then if t>=5 then if 5==t then _(k,b);else t=-2;end else if-1~=t then for l=45,95 do if 4~=t then b=o[u];break;end;k=o[a];break;end;else k=o[a];end end else if t<1 then o=l;else if t==2 then u=n;else a=e;end end end t=t+1 end s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end else if 2>t then if t~=-2 then repeat if t<1 then f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if-1~=t then for f=45,53 do if 2<t then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end break;end;local a;for f=0,9 do if 4>=f then if f<2 then if-3<f then for h=26,94 do if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 2<f then if f>=1 then for h=37,57 do if f~=3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if f>=7 then if 8<=f then if f>=5 then for h=11,72 do if f~=9 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f<6 then _[l[e]]=_[l[n]]/_[l[t]];s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end end until true;else local f,o,k,u,b,a,t;for t=0,7 do if t>3 then if t>=6 then if t>=5 then repeat if t~=6 then f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))end else if t>=3 then for f=14,89 do if t>4 then t=0;while t>-1 do if t>2 then if t>=5 then if 5==t then _(a,b);else t=-2;end else if-1~=t then for l=45,95 do if 4~=t then b=o[u];break;end;a=o[k];break;end;else a=o[k];end end else if t<1 then o=l;else if t==2 then u=n;else k=e;end end end t=t+1 end s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end else if 2>t then if t~=-2 then repeat if t<1 then f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if-1~=t then for f=45,53 do if 2<t then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end end end end end else if f<214 then if 210>=f then if 209<=f then if 208~=f then repeat if 210~=f then if(_[l[e]]<l[t])then s=l[n];else s=s+1;end;break;end;local f,c,u,z,k,p;for u=0,8 do if 3<u then if 6<=u then if u<7 then f=l[e]p,z=b(_[f](_[f+1]))a=z+f-1 k=0;for l=f,a do k=k+1;_[l]=p[k];end;s=s+1;l=d[s];else if 4~=u then repeat if 8>u then f=l[e]p={_[f](r(_,f+1,a))};k=0;for l=f,l[t]do k=k+1;_[l]=p[k];end s=s+1;l=d[s];break;end;s=l[n];until true;else f=l[e]p={_[f](r(_,f+1,a))};k=0;for l=f,l[t]do k=k+1;_[l]=p[k];end s=s+1;l=d[s];end end else if u>3 then repeat if 5~=u then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;f=l[e];c=_[l[n]];_[f+1]=c;_[f]=c[l[t]];s=s+1;l=d[s];until true;else f=l[e];c=_[l[n]];_[f+1]=c;_[f]=c[l[t]];s=s+1;l=d[s];end end else if 1>=u then if u>=-1 then repeat if 0<u then f=l[e];c=_[l[n]];_[f+1]=c;_[f]=c[l[t]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if u>1 then for t=47,89 do if 3~=u then f=l[e]_[f](_[f+1])s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end end until true;else if(_[l[e]]<l[t])then s=l[n];else s=s+1;end;end else _[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else if f<=211 then local f,r,h;f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];r=l[n];h=_[r]for l=r+1,l[t]do h=h.._[l];end;_[l[e]]=h;s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;else if f>209 then for h=31,55 do if f>212 then local l=l[e]_[l](r(_,l+1,a))break;end;local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];break;end;else local l=l[e]_[l](r(_,l+1,a))end end end else if f>=217 then if 218>f then _[l[e]]=l[n]/_[l[t]];else if f>216 then repeat if 219~=f then local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;local s=l[e];local e=_[s];for l=s+1,l[n]do k.VzBdgTiT(e,_[l])end;until true;else local s=l[e];local e=_[s];for l=s+1,l[n]do k.VzBdgTiT(e,_[l])end;end end else if f>=215 then if f>214 then for s=45,55 do if 216~=f then local s=l[e]local n={_[s](r(_,s+1,a))};local e=0;for l=s,l[t]do e=e+1;_[l]=n[e];end break;end;_[l[e]]=_[l[n]][l[t]];break;end;else local s=l[e]local n={_[s](r(_,s+1,a))};local e=0;for l=s,l[t]do e=e+1;_[l]=n[e];end end else local t,f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];t=l[e];f=_[t];for l=t+1,l[n]do k.VzBdgTiT(f,_[l])end;end end end end else if 231<f then if 238<=f then if f>=241 then if f<243 then if 242==f then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];if not _[l[e]]then s=s+1;else s=l[n];end;else _[l[e]]=_[l[n]]-_[l[t]];end else if f==243 then _[l[e]]=_[l[n]]/l[t];else _[l[e]]=o[l[n]];end end else if 238>=f then local f;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))else if f~=240 then local h;for f=0,3 do if 2>f then if 1==f then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f>=-1 then for t=26,92 do if f<3 then h=l[e]_[h](_[h+1])s=s+1;l=d[s];break;end;s=l[n];break;end;else s=l[n];end end end else local f,r;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];end end end else if f<=234 then if f>232 then if 232<=f then for a=10,54 do if f>233 then local a,r,o;for f=0,9 do if 5>f then if 1<f then if 3>f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else if f>=0 then for t=25,96 do if 4>f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end else if f~=1 then a=l[e];r=_[l[n]];_[a+1]=r;_[a]=r[l[t]];s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end end else if 6<f then if 8<=f then if f~=7 then repeat if 9>f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];until true;else _[l[e]][l[n]]=l[t];end else r=l[n];o=_[r]for l=r+1,l[t]do o=o.._[l];end;_[l[e]]=o;s=s+1;l=d[s];end else if 2<f then repeat if 6~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end end end break;end;local f,h;f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;else local a,r,o;for f=0,9 do if 5>f then if 1<f then if 3>f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else if f>=0 then for t=25,96 do if 4>f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end else if f~=1 then a=l[e];r=_[l[n]];_[a+1]=r;_[a]=r[l[t]];s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end end else if 6<f then if 8<=f then if f~=7 then repeat if 9>f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];until true;else _[l[e]][l[n]]=l[t];end else r=l[n];o=_[r]for l=r+1,l[t]do o=o.._[l];end;_[l[e]]=o;s=s+1;l=d[s];end else if 2<f then repeat if 6~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end end end end else if(l[e]<_[l[t]])then s=l[n];else s=s+1;end;end else if 236<=f then if f~=235 then for o=20,53 do if 237~=f then _[l[e]]={};s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;local f;_[l[e]]={};s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);break;end;else _[l[e]]={};s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else local l=l[e]local e,s=b(_[l](r(_,l+1,a)))a=s+l-1 local s=0;for l=l,a do s=s+1;_[l]=e[s];end;end end end else if 225>=f then if f<223 then if 220>=f then if(_[l[e]]==l[t])then s=s+1;else s=l[n];end;else if 220<f then repeat if f~=221 then local f,u,c,k;for h=0,7 do if h<=3 then if 2>h then if-2<h then repeat if 0~=h then f=l[e]u,c=b(_[f](r(_,f+1,l[n])))a=c+f-1 k=0;for l=f,a do k=k+1;_[l]=u[k];end;s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]u,c=b(_[f](r(_,f+1,l[n])))a=c+f-1 k=0;for l=f,a do k=k+1;_[l]=u[k];end;s=s+1;l=d[s];end else if h<3 then f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if h>5 then if 4~=h then repeat if h~=6 then _[l[e]]=_[l[n]][l[t]];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];end else if 4~=h then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end break;end;for f=0,1 do if-4<=f then for h=48,94 do if f>0 then if not _[l[e]]then s=s+1;else s=l[n];end;break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else if not _[l[e]]then s=s+1;else s=l[n];end;end end until true;else local f,c,u,k;for h=0,7 do if h<=3 then if 2>h then if-2<h then repeat if 0~=h then f=l[e]c,u=b(_[f](r(_,f+1,l[n])))a=u+f-1 k=0;for l=f,a do k=k+1;_[l]=c[k];end;s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]c,u=b(_[f](r(_,f+1,l[n])))a=u+f-1 k=0;for l=f,a do k=k+1;_[l]=c[k];end;s=s+1;l=d[s];end else if h<3 then f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if h>5 then if 4~=h then repeat if h~=6 then _[l[e]]=_[l[n]][l[t]];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];end else if 4~=h then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end end end else if 223>=f then local t;for f=0,4 do if f<=1 then if f~=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else t=l[e]_[t]=_[t]()s=s+1;l=d[s];end else if 3>f then _[l[e]]=_[l[n]];s=s+1;l=d[s];else if 3==f then t=l[e]_[t]=_[t](_[t+1])s=s+1;l=d[s];else if _[l[e]]then s=s+1;else s=l[n];end;end end end end else if 224<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];else if(l[e]<_[l[t]])then s=l[n];else s=s+1;end;end end end else if f>=229 then if f>229 then if f>=229 then repeat if 230<f then local o,a;for f=0,9 do if 4<f then if f<=6 then if f==5 then h[l[n]]=_[l[e]];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if 7<f then if 7<f then repeat if f~=9 then _(l[e],l[n]);s=s+1;l=d[s];break;end;o=l[e]_[o]=_[o](r(_,o+1,l[n]))until true;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))end else o=l[e];a=_[l[n]];_[o+1]=a;_[o]=a[l[t]];s=s+1;l=d[s];end end else if 1<f then if 3>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if f>3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];end end else if f~=-1 then repeat if 1>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end break;end;local o;for f=0,6 do if 3<=f then if 4<f then if 5<f then if not _[l[e]]then s=s+1;else s=l[n];end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f==3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else _[l[e]][_[l[n]]]=_[l[t]];s=s+1;l=d[s];end end else if 1<=f then if 1==f then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end until true;else local f,a;for o=0,9 do if 4<o then if o<=6 then if o==5 then h[l[n]]=_[l[e]];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if 7<o then if 7<o then repeat if o~=9 then _(l[e],l[n]);s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))end else f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];end end else if 1<o then if 3>o then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if o>3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];end end else if o~=-1 then repeat if 1>o then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end end else local l=l[e];do return _[l](r(_,l+1,a))end;end else if 226>=f then if(l[e]<_[l[t]])then s=s+1;else s=l[n];end;else if f~=224 then repeat if 227~=f then local r;for f=0,6 do if 3<=f then if 5>f then if 3~=f then r=l[e]_[r](_[r+1])s=s+1;l=d[s];else _[l[e]]=_[l[n]];s=s+1;l=d[s];end else if f~=1 then repeat if 6>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];until true;else _[l[e]]=o[l[n]];end end else if 1<=f then if f~=0 then for r=10,87 do if f~=1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end end end break;end;if(_[l[e]]<l[t])then s=l[n];else s=s+1;end;until true;else local r;for f=0,6 do if 3<=f then if 5>f then if 3~=f then r=l[e]_[r](_[r+1])s=s+1;l=d[s];else _[l[e]]=_[l[n]];s=s+1;l=d[s];end else if f~=1 then repeat if 6>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];until true;else _[l[e]]=o[l[n]];end end else if 1<=f then if f~=0 then for r=10,87 do if f~=1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end end end end end end end end end else if 268<f then if 281>f then if f>=275 then if 278<=f then if 278<f then if f~=275 then for o=11,66 do if f<280 then local f,o;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];break;end;local f,o;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;else local f,o;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];end else if 275>=f then local h,k,a,u,b,c,f;h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if 0<f then if f>-2 then for l=19,90 do if 2>f then a=e;break;end;u=n;break;end;else a=e;end else k=l;end else if f>=5 then if 4~=f then repeat if 5~=f then f=-2;break;end;_(c,b);until true;else f=-2;end else if f<4 then b=k[u];else c=k[a];end end end f=f+1 end s=s+1;l=d[s];_(l[e],l[n]);else if f>273 then for o=29,87 do if f~=277 then local t,f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e];f=_[t];for l=t+1,l[n]do k.VzBdgTiT(f,_[l])end;break;end;local f;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];break;end;else local f;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];end end end else if f>271 then if 272>=f then local f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);else if 271<f then for t=47,96 do if 273~=f then local l=l[e];do return r(_,l,a)end;break;end;for t=0,6 do if t>=3 then if 5<=t then if t>2 then repeat if t>5 then _[l[e]]=(l[n]~=0);break;end;for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];until true;else _[l[e]]=(l[n]~=0);end else if t>2 then repeat if 3~=t then _[l[e]]=(l[n]~=0);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _[l[e]]=(l[n]~=0);s=s+1;l=d[s];end end else if 0>=t then _[l[e]]=(l[n]~=0);s=s+1;l=d[s];else if t>-2 then repeat if t~=1 then _(l[e],l[n]);s=s+1;l=d[s];break;end;for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];until true;else for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];end end end end break;end;else local l=l[e];do return r(_,l,a)end;end end else if 269<f then if f~=267 then repeat if f>270 then if(_[l[e]]==l[t])then s=s+1;else s=l[n];end;break;end;local d=_[l[t]];if not d then s=s+1;else _[l[e]]=d;s=l[n];end;until true;else local d=_[l[t]];if not d then s=s+1;else _[l[e]]=d;s=l[n];end;end else local h;for f=0,6 do if f>2 then if f<=4 then if f~=-1 then repeat if f~=3 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];until true;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if f>2 then repeat if f<6 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];until true;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end end else if f<1 then _(l[e],l[n]);s=s+1;l=d[s];else if f~=-3 then for t=48,78 do if 1~=f then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end end end end end end end else if f>=287 then if f>=290 then if f>=292 then if f>291 then for o=14,81 do if 292~=f then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;local o;for f=0,6 do if 3>f then if f<=0 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else if 2==f then _[l[e]]={};s=s+1;l=d[s];else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if f<=4 then if 2~=f then repeat if f~=4 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if 4<f then for t=19,92 do if 5~=f then _[l[e]]=h[l[n]];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];end end end end break;end;else local o;for f=0,6 do if 3>f then if f<=0 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else if 2==f then _[l[e]]={};s=s+1;l=d[s];else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if f<=4 then if 2~=f then repeat if f~=4 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if 4<f then for t=19,92 do if 5~=f then _[l[e]]=h[l[n]];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];end end end end end else if 291~=f then local a,r,k,u,p,c,b,f;for f=0,7 do if 3>=f then if f>=2 then if f~=2 then _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f~=-4 then for o=44,60 do if 0<f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;a=l[e];r=_[l[n]];_[a+1]=r;_[a]=r[l[t]];s=s+1;l=d[s];break;end;else a=l[e];r=_[l[n]];_[a+1]=r;_[a]=r[l[t]];s=s+1;l=d[s];end end else if f>5 then if 5<f then repeat if f>6 then _[l[e]]=o[l[n]];break;end;f=0;while f>-1 do if 2<f then if 5>f then if-1~=f then for l=15,88 do if 3<f then b=k[u];break;end;c=k[p];break;end;else b=k[u];end else if 1~=f then for l=12,54 do if f>5 then f=-2;break;end;_(b,c);break;end;else _(b,c);end end else if 0>=f then k=l;else if 2~=f then u=e;else p=n;end end end f=f+1 end s=s+1;l=d[s];until true;else _[l[e]]=o[l[n]];end else if 1<f then repeat if 4~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end else local f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];end end else if 288>f then _[l[e]]={};else if 285<=f then repeat if 288<f then for f=0,6 do if f<3 then if f<1 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if 1~=f then _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 5>f then if 0<=f then for h=29,98 do if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 4<=f then repeat if f<6 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];until true;else _[l[e]][l[n]]=l[t];end end end end break;end;local t,h;for f=0,5 do if 2>=f then if 1>f then t=l[e]_[t]=_[t](_[t+1])s=s+1;l=d[s];else if f~=2 then _(l[e],l[n]);s=s+1;l=d[s];else t=l[e]_[t]=_[t](r(_,t+1,l[n]))s=s+1;l=d[s];end end else if f<4 then _[l[e]]=_[l[n]];s=s+1;l=d[s];else if 1<=f then repeat if 5>f then _[l[e]]=_[l[n]];s=s+1;l=d[s];break;end;t=l[e];h=_[t];for l=t+1,l[n]do k.VzBdgTiT(h,_[l])end;until true;else t=l[e];h=_[t];for l=t+1,l[n]do k.VzBdgTiT(h,_[l])end;end end end end until true;else for f=0,6 do if f<3 then if f<1 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if 1~=f then _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 5>f then if 0<=f then for h=29,98 do if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 4<=f then repeat if f<6 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];until true;else _[l[e]][l[n]]=l[t];end end end end end end end else if 284<=f then if 284<f then if 281<=f then repeat if 286>f then _[l[e]]=_[l[n]]%l[t];break;end;local h;for f=0,6 do if f>2 then if 5<=f then if f~=1 then repeat if f~=5 then _[l[e]]=_[l[n]];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if 3~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if f<1 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];else if 2==f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end end end end until true;else local h;for f=0,6 do if f>2 then if 5<=f then if f~=1 then repeat if f~=5 then _[l[e]]=_[l[n]];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if 3~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end else if f<1 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];else if 2==f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end end end end end else _[l[e]][_[l[n]]]=_[l[t]];end else if 281<f then if f>278 then for h=28,70 do if 282<f then local e=l[e];local d=_[e]local t=_[e+2];if(t>0)then if(d>_[e+1])then s=l[n];else _[e+3]=d;end elseif(d<_[e+1])then s=l[n];else _[e+3]=d;end break;end;for f=0,6 do if f<=2 then if f<=0 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if f<2 then _[l[e]]=o[l[n]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 4>=f then if f<4 then _(l[e],l[n]);s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else if 5~=f then _(l[e],l[n]);else _(l[e],l[n]);s=s+1;l=d[s];end end end end break;end;else for f=0,6 do if f<=2 then if f<=0 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if f<2 then _[l[e]]=o[l[n]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 4>=f then if f<4 then _(l[e],l[n]);s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else if 5~=f then _(l[e],l[n]);else _(l[e],l[n]);s=s+1;l=d[s];end end end end end else local s=l[e]local n={_[s](r(_,s+1,l[n]))};local e=0;for l=s,l[t]do e=e+1;_[l]=n[e];end end end end end else if f<257 then if 251<=f then if f>253 then if 254<f then if f<256 then local l=l[e]_[l](r(_,l+1,a))else local a;for f=0,9 do if 4<f then if 6>=f then if 5==f then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f<8 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if 6<f then repeat if f~=8 then if not _[l[e]]then s=s+1;else s=l[n];end;break;end;_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];end end end else if 1>=f then if-1<=f then for h=23,72 do if 1>f then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f>=3 then if f~=3 then a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];else _[l[e]]=_[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end end else for f=0,7 do if f>=4 then if f<=5 then if 3<=f then repeat if 4~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 6==f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else _[l[e]]=h[l[n]];end end else if f>1 then if f>0 then for r=41,76 do if 3>f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end else if-4<f then for r=21,71 do if f<1 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end end end end end else if f>251 then if 251~=f then repeat if 253~=f then local f;for o=0,4 do if 2>o then if-2<o then for h=31,87 do if o~=1 then f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if o<3 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if o~=3 then _[l[e]]=_[l[n]][l[t]];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end break;end;local f,r;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][_[l[n]]]=l[t];until true;else local f;for o=0,4 do if 2>o then if-2<o then for h=31,87 do if o~=1 then f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if o<3 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else if o~=3 then _[l[e]]=_[l[n]][l[t]];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end end else local o,b,k,u,a,t,f;for t=0,6 do if t<=2 then if t<1 then t=0;while t>-1 do if t>2 then if 5>t then if 1<t then for l=18,98 do if 3<t then a=o[b];break;end;u=o[k];break;end;else a=o[b];end else if 2~=t then for l=48,91 do if t~=6 then _(a,u);break;end;t=-2;break;end;else t=-2;end end else if t<1 then o=l;else if t>0 then repeat if t~=2 then b=e;break;end;k=n;until true;else k=n;end end end t=t+1 end s=s+1;l=d[s];else if-3~=t then repeat if t>1 then t=0;while t>-1 do if t<=2 then if t<=0 then o=l;else if t>=-1 then for l=41,71 do if t~=1 then k=n;break;end;b=e;break;end;else k=n;end end else if 5<=t then if t>4 then for l=12,77 do if t>5 then t=-2;break;end;_(a,u);break;end;else _(a,u);end else if t>=2 then repeat if 4>t then u=o[k];break;end;a=o[b];until true;else a=o[b];end end end t=t+1 end s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];until true;else t=0;while t>-1 do if t<=2 then if t<=0 then o=l;else if t>=-1 then for l=41,71 do if t~=1 then k=n;break;end;b=e;break;end;else k=n;end end else if 5<=t then if t>4 then for l=12,77 do if t>5 then t=-2;break;end;_(a,u);break;end;else _(a,u);end else if t>=2 then repeat if 4>t then u=o[k];break;end;a=o[b];until true;else a=o[b];end end end t=t+1 end s=s+1;l=d[s];end end else if 5<=t then if 4<=t then for o=26,88 do if 5~=t then _[l[e]]=h[l[n]];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if 0<=t then repeat if 4>t then f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end end end else if f<248 then if 245<f then if 246<f then if(_[l[e]]==_[l[t]])then s=s+1;else s=l[n];end;else if not _[l[e]]then s=s+1;else s=l[n];end;end else local k,u,c,b,a,f,o;for f=0,6 do if 2<f then if f>=5 then if f>=4 then repeat if f~=6 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_(l[e],l[n]);until true;else _(l[e],l[n]);end else if f~=4 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _[l[e]]={};s=s+1;l=d[s];end end else if 1<=f then if-3~=f then for h=16,95 do if 2>f then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end else f=0;while f>-1 do if f>=3 then if 5>f then if f>=1 then for l=25,92 do if f~=3 then a=k[u];break;end;b=k[c];break;end;else a=k[u];end else if f~=2 then repeat if 6>f then _(a,b);break;end;f=-2;until true;else _(a,b);end end else if f<1 then k=l;else if f==1 then u=e;else c=n;end end end f=f+1 end s=s+1;l=d[s];end end end end else if f<249 then local r;for f=0,6 do if 3>f then if f<1 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if-2~=f then repeat if 2>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 5>f then if f~=3 then r=l[e]_[r]=_[r](_[r+1])s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else if 1~=f then for h=37,67 do if 5~=f then _[l[e]][l[n]]=l[t];break;end;_[l[e]]={};s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=l[t];end end end end else if 245~=f then for r=23,92 do if f~=249 then local a=g[l[n]];local r;local f={};r=k.aeDnXgTe({},{__index=function(s,l)local l=f[l];return l[1][l[2]];end,__newindex=function(_,l,s)local l=f[l]l[1][l[2]]=s;end;});for e=1,l[t]do s=s+1;local l=d[s];if l[el]==95 then f[e-1]={_,l[n]};else f[e-1]={h,l[n]};end;p[#p+1]=f;end;_[l[e]]=m(a,r,o);break;end;local l=l[e]_[l]=_[l]()break;end;else local l=l[e]_[l]=_[l]()end end end end else if f<=262 then if f<260 then if f>257 then if f==258 then _[l[e]]=_[l[n]][_[l[t]]];else local f,u,c,k;for h=0,6 do if 2<h then if h>4 then if h>5 then f=l[e]u,c=b(_[f](r(_,f+1,l[n])))a=c+f-1 k=0;for l=f,a do k=k+1;_[l]=u[k];end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if 3~=h then f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end end else if h>0 then if 2>h then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end end else local f;for h=0,6 do if 3>h then if h<=0 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if-3~=h then repeat if h~=2 then _(l[e],l[n]);s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end else if h>4 then if h>1 then for f=46,71 do if h~=5 then _(l[e],l[n]);break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _(l[e],l[n]);end else if h==3 then _[l[e]]={};s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end end end else if f<=260 then local s=l[e]_[s]=_[s](r(_,s+1,l[n]))else if 258~=f then for r=39,62 do if 262~=f then for f=0,6 do if 2<f then if f>4 then if 4~=f then repeat if 6~=f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];until true;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end else if-1~=f then repeat if 4~=f then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];until true;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end end else if f>=1 then if f>-2 then repeat if 1~=f then _[l[e]]={};s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _[l[e]]={};s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end break;end;local s=l[e]local n={_[s](_[s+1])};local e=0;for l=s,l[t]do e=e+1;_[l]=n[e];end break;end;else local e=l[e]local n={_[e](_[e+1])};local s=0;for l=e,l[t]do s=s+1;_[l]=n[s];end end end end else if f>=266 then if 266<f then if 265<=f then repeat if f~=268 then local f;_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];do return _[l[e]]end s=s+1;l=d[s];do return end;break;end;_[l[e]]=_[l[n]]*l[t];until true;else local f;_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];do return _[l[e]]end s=s+1;l=d[s];do return end;end else local l=l[e]local e,s=b(_[l](r(_,l+1,a)))a=s+l-1 local s=0;for l=l,a do s=s+1;_[l]=e[s];end;end else if 264<=f then if 265==f then local e=l[e];local d=_[e]local t=_[e+2];if(t>0)then if(d>_[e+1])then s=l[n];else _[e+3]=d;end elseif(d<_[e+1])then s=l[n];else _[e+3]=d;end else local h,u,b,k,a,f,c;for f=0,6 do if f<3 then if f<1 then _(l[e],l[n]);s=s+1;l=d[s];else if f>-1 then for t=20,68 do if f<2 then f=0;while f>-1 do if 2<f then if f<5 then if-1<f then repeat if 3<f then a=h[u];break;end;k=h[b];until true;else a=h[u];end else if 4<=f then repeat if f~=6 then _(a,k);break;end;f=-2;until true;else _(a,k);end end else if f>=1 then if-1<f then for l=24,84 do if f>1 then b=n;break;end;u=e;break;end;else b=n;end else h=l;end end f=f+1 end s=s+1;l=d[s];break;end;f=0;while f>-1 do if 2<f then if f<=4 then if f~=0 then for l=43,62 do if f~=3 then a=h[u];break;end;k=h[b];break;end;else k=h[b];end else if f>3 then for l=19,55 do if 6>f then _(a,k);break;end;f=-2;break;end;else _(a,k);end end else if f>0 then if-3~=f then repeat if f>1 then b=n;break;end;u=e;until true;else u=e;end else h=l;end end f=f+1 end s=s+1;l=d[s];break;end;else f=0;while f>-1 do if 2<f then if f<5 then if-1<f then repeat if 3<f then a=h[u];break;end;k=h[b];until true;else a=h[u];end else if 4<=f then repeat if f~=6 then _(a,k);break;end;f=-2;until true;else _(a,k);end end else if f>=1 then if-1<f then for l=24,84 do if f>1 then b=n;break;end;u=e;break;end;else b=n;end else h=l;end end f=f+1 end s=s+1;l=d[s];end end else if 5>f then if 1~=f then repeat if f~=3 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;c=l[e]_[c]=_[c](r(_,c+1,l[n]))s=s+1;l=d[s];until true;else c=l[e]_[c]=_[c](r(_,c+1,l[n]))s=s+1;l=d[s];end else if f~=2 then repeat if 5<f then _[l[e]]=_[l[n]][l[t]];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];end end end end end else local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];end end end end end end end else if 98<=f then if f>=147 then if 170>=f then if 158<f then if f>=165 then if f>167 then if 169<=f then if f>169 then do return end;else local f,o;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else local f;for h=0,6 do if h<=2 then if h>=1 then if h~=1 then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 4<h then if h>3 then repeat if 6>h then _(l[e],l[n]);s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))end else if h>1 then repeat if 4>h then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end end end end else if f<=165 then local h;for f=0,6 do if 3<=f then if 4>=f then if-1<f then repeat if 4~=f then _(l[e],l[n]);s=s+1;l=d[s];break;end;h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if f==6 then _(l[e],l[n]);else _(l[e],l[n]);s=s+1;l=d[s];end end else if f<1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if-1<f then for t=37,74 do if 2>f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end else if 163<=f then repeat if 166<f then local f;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];do return end;break;end;_[l[e]]=#_[l[n]];until true;else _[l[e]]=#_[l[n]];end end end else if f>161 then if f>162 then if 162~=f then repeat if 163<f then local h;for f=0,6 do if 3>f then if 1<=f then if f==2 then _(l[e],l[n]);s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 4<f then if 2<f then repeat if f>5 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if 1<=f then for t=26,96 do if 4>f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end break;end;local s=l[e];local e=_[l[n]];_[s+1]=e;_[s]=e[l[t]];until true;else local e=l[e];local s=_[l[n]];_[e+1]=s;_[e]=s[l[t]];end else _[l[e]]=l[n]-_[l[t]];end else if 160<=f then if f==160 then local o,a,k,c,u,p,b,f;for f=0,9 do if 4<f then if f>6 then if 8>f then f=0;while f>-1 do if 4<=f then if f<=5 then if f>3 then for l=19,93 do if f~=4 then b=a[k];break;end;p=u[a[c]];break;end;else b=a[k];end else if f~=7 then _[b]=p;else f=-2;end end else if f>=2 then if f~=3 then c=n;else u=_;end else if 0<f then k=e;else a=l;end end end f=f+1 end s=s+1;l=d[s];else if 5<=f then for t=43,87 do if f~=8 then _[l[e]]=h[l[n]];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if f~=2 then for t=17,60 do if f<6 then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]={};s=s+1;l=d[s];break;end;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if 1>=f then if 1>f then o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if 2<f then if-1~=f then for h=35,60 do if f>3 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end else local f;for t=0,7 do if 4<=t then if t>5 then if 3~=t then repeat if t~=7 then _(l[e],l[n]);s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](_[f+1])until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if 4<t then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 2<=t then if-1<t then repeat if t~=2 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if t==0 then _(l[e],l[n]);s=s+1;l=d[s];else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end end else local h,o;for f=0,5 do if 2<f then if f<=3 then h=l[e]_[h](r(_,h+1,l[n]))s=s+1;l=d[s];else if 1<=f then repeat if f>4 then if _[l[e]]then s=s+1;else s=l[n];end;break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 1<=f then if f>-2 then repeat if 2>f then h=l[e];o=_[l[n]];_[h+1]=o;_[h]=o[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end end end end end end else if 152>=f then if 150<=f then if 151>f then local e=l[e]local n={_[e](_[e+1])};local s=0;for l=e,l[t]do s=s+1;_[l]=n[s];end else if f==151 then local l=l[e];a=l+j-1;for s=l,a do local l=y[s-l];_[s]=l;end;else local f,a;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);end end else if f<=147 then local f;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;else if f>144 then repeat if f~=148 then local o,r;for f=0,6 do if 2<f then if 4<f then if f>3 then for r=18,82 do if f~=6 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f>2 then for a=21,64 do if 4~=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;o=l[e];r=_[l[n]];_[o+1]=r;_[o]=r[l[t]];s=s+1;l=d[s];break;end;else o=l[e];r=_[l[n]];_[o+1]=r;_[o]=r[l[t]];s=s+1;l=d[s];end end else if 0>=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if f>1 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end break;end;local f;for t=0,9 do if t>4 then if 7>t then if 1~=t then for f=17,85 do if t~=5 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if t>=8 then if 6~=t then repeat if t~=8 then _(l[e],l[n]);break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if t<2 then if t>0 then _[l[e]]={};s=s+1;l=d[s];else f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if t>2 then if 1<=t then for f=15,62 do if 4~=t then for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];break;end;_[l[e]]={};s=s+1;l=d[s];break;end;else _[l[e]]={};s=s+1;l=d[s];end else _[l[e]]={};s=s+1;l=d[s];end end end end until true;else local o,r;for f=0,6 do if 2<f then if 4<f then if f>3 then for r=18,82 do if f~=6 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f>2 then for a=21,64 do if 4~=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;o=l[e];r=_[l[n]];_[o+1]=r;_[o]=r[l[t]];s=s+1;l=d[s];break;end;else o=l[e];r=_[l[n]];_[o+1]=r;_[o]=r[l[t]];s=s+1;l=d[s];end end else if 0>=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if f>1 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end end end end else if f>155 then if f<=156 then local h,k,a,o,u,f,b;for f=0,6 do if 3>f then if f>=1 then if-1<f then for t=12,91 do if 2~=f then f=0;while f>-1 do if 3<=f then if f>=5 then if f~=4 then for l=45,56 do if 6>f then _(u,o);break;end;f=-2;break;end;else f=-2;end else if f>=-1 then for l=29,92 do if 3<f then u=h[k];break;end;o=h[a];break;end;else o=h[a];end end else if 1<=f then if f~=0 then for l=30,72 do if 2>f then k=e;break;end;a=n;break;end;else k=e;end else h=l;end end f=f+1 end s=s+1;l=d[s];break;end;f=0;while f>-1 do if 2<f then if 5>f then if f>0 then repeat if f~=3 then u=h[k];break;end;o=h[a];until true;else o=h[a];end else if f~=6 then _(u,o);else f=-2;end end else if 0>=f then h=l;else if f>=-3 then repeat if f~=1 then a=n;break;end;k=e;until true;else k=e;end end end f=f+1 end s=s+1;l=d[s];break;end;else f=0;while f>-1 do if 2<f then if 5>f then if f>0 then repeat if f~=3 then u=h[k];break;end;o=h[a];until true;else o=h[a];end else if f~=6 then _(u,o);else f=-2;end end else if 0>=f then h=l;else if f>=-3 then repeat if f~=1 then a=n;break;end;k=e;until true;else k=e;end end end f=f+1 end s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 4>=f then if 0~=f then for t=21,98 do if f>3 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else if 2~=f then for h=49,52 do if 6~=f then b=l[e]_[b]=_[b](r(_,b+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];break;end;else b=l[e]_[b]=_[b](r(_,b+1,l[n]))s=s+1;l=d[s];end end end end else if f>156 then for o=16,72 do if 158>f then local t;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];t=l[e]_[t]=_[t](r(_,t+1,l[n]))break;end;local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];break;end;else local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];end end else if 154<=f then if f>=153 then repeat if f~=154 then local d=_[l[t]];if not d then s=s+1;else _[l[e]]=d;s=l[n];end;break;end;local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e];do return _[f](r(_,f+1,l[n]))end;s=s+1;l=d[s];f=l[e];do return r(_,f,a)end;until true;else local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e];do return _[f](r(_,f+1,l[n]))end;s=s+1;l=d[s];f=l[e];do return r(_,f,a)end;end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end end end end else if f<=182 then if f<177 then if 173<f then if 175<=f then if 172<=f then for a=37,79 do if 175<f then local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;local r,a,b,k,u,p,f,c,g,z;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if f<=3 then if 1<f then if 2==f then b=n;else k=_;end else if-1<=f then for s=22,75 do if 0<f then a=e;break;end;r=l;break;end;else a=e;end end else if 6<=f then if 6==f then _[p]=u;else f=-2;end else if f>=3 then repeat if f>4 then p=r[a];break;end;u=k[r[b]];until true;else u=k[r[b]];end end end f=f+1 end s=s+1;l=d[s];c=l[e]g={_[c](_[c+1])};z=0;for l=c,l[t]do z=z+1;_[l]=g[z];end s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=0;while f>-1 do if f>=4 then if 6>f then if f~=4 then p=r[a];else u=k[r[b]];end else if 5<=f then repeat if 7>f then _[p]=u;break;end;f=-2;until true;else f=-2;end end else if 1>=f then if f>=-1 then for s=48,73 do if f~=0 then a=e;break;end;r=l;break;end;else a=e;end else if 2==f then b=n;else k=_;end end end f=f+1 end s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];break;end;else local r,a,b,k,u,p,f,c,g,z;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if f<=3 then if 1<f then if 2==f then b=n;else k=_;end else if-1<=f then for s=22,75 do if 0<f then a=e;break;end;r=l;break;end;else a=e;end end else if 6<=f then if 6==f then _[p]=u;else f=-2;end else if f>=3 then repeat if f>4 then p=r[a];break;end;u=k[r[b]];until true;else u=k[r[b]];end end end f=f+1 end s=s+1;l=d[s];c=l[e]g={_[c](_[c+1])};z=0;for l=c,l[t]do z=z+1;_[l]=g[z];end s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=0;while f>-1 do if f>=4 then if 6>f then if f~=4 then p=r[a];else u=k[r[b]];end else if 5<=f then repeat if 7>f then _[p]=u;break;end;f=-2;until true;else f=-2;end end else if 1>=f then if f>=-1 then for s=48,73 do if f~=0 then a=e;break;end;r=l;break;end;else a=e;end else if 2==f then b=n;else k=_;end end end f=f+1 end s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];end else local h;for f=0,6 do if f<=2 then if f>=1 then if 0<f then repeat if 1~=f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if 5<=f then if f>=3 then repeat if f~=6 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];until true;else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end else if f>=1 then for t=35,80 do if f>3 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end end else if f>171 then if f>=170 then repeat if f~=172 then for f=0,7 do if f<4 then if f>=2 then if 1<f then for t=20,58 do if f~=2 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;h[l[n]]=_[l[e]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if-1<f then repeat if 0~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;h[l[n]]=_[l[e]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 6<=f then if 4~=f then for r=15,74 do if 7>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f>1 then for r=24,73 do if 5~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;h[l[n]]=_[l[e]];s=s+1;l=d[s];break;end;else h[l[n]]=_[l[e]];s=s+1;l=d[s];end end end end break;end;local f,a;for o=0,5 do if 2<o then if 3<o then if o~=0 then repeat if o~=5 then _(l[e],l[n]);s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))until true;else _(l[e],l[n]);s=s+1;l=d[s];end else f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];end else if o<1 then _(l[e],l[n]);s=s+1;l=d[s];else if o>=0 then repeat if 1<o then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end until true;else local f,a;for o=0,5 do if 2<o then if 3<o then if o~=0 then repeat if o~=5 then _(l[e],l[n]);s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))until true;else _(l[e],l[n]);s=s+1;l=d[s];end else f=l[e];a=_[l[n]];_[f+1]=a;_[f]=a[l[t]];s=s+1;l=d[s];end else if o<1 then _(l[e],l[n]);s=s+1;l=d[s];else if o>=0 then repeat if 1<o then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end end end end end else local l=l[e];local s=_[l];for l=l+1,a do k.VzBdgTiT(s,_[l])end;end end else if f<180 then if f>=178 then if f~=174 then for a=34,74 do if f<179 then local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;for f=0,6 do if f<3 then if f<=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if-2~=f then for r=49,72 do if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if f<5 then if 0<f then repeat if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=(not _[l[n]]);s=s+1;l=d[s];until true;else _[l[e]]=(not _[l[n]]);s=s+1;l=d[s];end else if 5~=f then _[l[e]]=_[l[n]][l[t]];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end break;end;else for f=0,6 do if f<3 then if f<=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if-2~=f then for r=49,72 do if 1~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if f<5 then if 0<f then repeat if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]]=(not _[l[n]]);s=s+1;l=d[s];until true;else _[l[e]]=(not _[l[n]]);s=s+1;l=d[s];end else if 5~=f then _[l[e]]=_[l[n]][l[t]];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end end else o[l[n]]=_[l[e]];end else if f<=180 then local a;for f=0,6 do if 3<=f then if 4>=f then if-1~=f then for h=29,65 do if f~=3 then a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];end else if 2<f then for t=27,84 do if f~=6 then _[l[e]]={};s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];break;end;else _[l[e]]={};s=s+1;l=d[s];end end else if 1>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if-1<f then for h=38,67 do if f>1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end end else if f~=182 then for f=0,9 do if f>=5 then if 6<f then if 8>f then h[l[n]]=_[l[e]];s=s+1;l=d[s];else if 4<=f then for r=36,56 do if 9>f then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];break;end;else _[l[e]]=_[l[n]][l[t]];end end else if 4~=f then for h=42,53 do if 5<f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if f<=1 then if f>=-4 then for t=14,72 do if f~=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;h[l[n]]=_[l[e]];s=s+1;l=d[s];break;end;else h[l[n]]=_[l[e]];s=s+1;l=d[s];end else if 2>=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if f<4 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end end else local f,r;f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];end end end end else if f<=188 then if f>=186 then if f>186 then if f>185 then for s=26,54 do if f~=188 then _[l[e]]=_[l[n]];break;end;local l=l[e];a=l+j-1;for s=l,a do local l=y[s-l];_[s]=l;end;break;end;else _[l[e]]=_[l[n]];end else _(l[e],l[n]);end else if 184>f then local k,a,r,b,h,u,c,f;k=l[e];a=_[l[n]];_[k+1]=a;_[k]=a[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 3>f then if 0<f then if f>-3 then repeat if f<2 then b=e;break;end;h=n;until true;else h=n;end else r=l;end else if 4>=f then if 4~=f then u=r[h];else c=r[b];end else if 2<f then repeat if 6>f then _(c,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end s=s+1;l=d[s];_[l[e]]=o[l[n]];else if f~=185 then local d=l[e];local t=l[t];local e=d+2 local d={_[d](_[d+1],_[e])};for l=1,t do _[e+l]=d[l];end;local d=d[1]if d then _[e]=d s=l[n];else s=s+1;end;else h[l[n]]=_[l[e]];end end end else if f<=191 then if 190<=f then if f>=189 then repeat if f<191 then do return _[l[e]]end break;end;local f;for r=0,6 do if 2<r then if r>4 then if 6==r then _[l[e]]=o[l[n]];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if r~=2 then for n=17,85 do if r~=3 then _[l[e]]={};s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];break;end;else f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];end end else if 0<r then if 2~=r then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end until true;else local f;for r=0,6 do if 2<r then if r>4 then if 6==r then _[l[e]]=o[l[n]];else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if r~=2 then for n=17,85 do if r~=3 then _[l[e]]={};s=s+1;l=d[s];break;end;f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];break;end;else f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];end end else if 0<r then if 2~=r then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end end else _[l[e]]=m(g[l[n]],nil,o);end else if 193>=f then if 189~=f then for o=26,53 do if f>192 then local e=l[e];local t=_[e+2];local d=_[e]+t;_[e]=d;if(t>0)then if(d<=_[e+1])then s=l[n];_[e+3]=d;end elseif(d>=_[e+1])then s=l[n];_[e+3]=d;end break;end;local o;for f=0,9 do if f>4 then if 7<=f then if 7>=f then _[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];else if f~=8 then if not _[l[e]]then s=s+1;else s=l[n];end;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if 4~=f then repeat if 5~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 1<f then if f<3 then _(l[e],l[n]);s=s+1;l=d[s];else if f==4 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end end else if f>=-2 then for h=16,60 do if f~=0 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end break;end;else local o;for f=0,9 do if f>4 then if 7<=f then if 7>=f then _[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];else if f~=8 then if not _[l[e]]then s=s+1;else s=l[n];end;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end end else if 4~=f then repeat if 5~=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end else if 1<f then if f<3 then _(l[e],l[n]);s=s+1;l=d[s];else if f==4 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end end else if f>=-2 then for h=16,60 do if f~=0 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end end else if f==195 then local h;for f=0,5 do if f<=2 then if 0>=f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if-2~=f then repeat if f<2 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end else if 4<=f then if 3<=f then for t=23,70 do if f~=4 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end end end else _[l[e]]=h[l[n]];end end end end end end else if f>=122 then if f<134 then if f>=128 then if 131>f then if f>=129 then if f~=128 then repeat if 130>f then local f,o;for h=0,6 do if h>=3 then if h<5 then if 1~=h then repeat if 4>h then f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];end else if h~=4 then for a=20,96 do if 5~=h then f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];break;end;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];break;end;else f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];end end else if 0<h then if 2>h then _[l[e]]=_[l[n]]*l[t];s=s+1;l=d[s];else _[l[e]]=_[l[n]]+l[t];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end break;end;if(_[l[e]]<_[l[t]])then s=s+1;else s=l[n];end;until true;else if(_[l[e]]<_[l[t]])then s=s+1;else s=l[n];end;end else local h,b,u,k,a,f,c;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 2>=f then if 1<=f then if 2==f then u=n;else b=e;end else h=l;end else if 4>=f then if-1~=f then for l=25,60 do if f<4 then k=h[u];break;end;a=h[b];break;end;else a=h[b];end else if 3<=f then for l=19,68 do if 5~=f then f=-2;break;end;_(a,k);break;end;else _(a,k);end end end f=f+1 end s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if f>0 then if-3<=f then for l=27,76 do if f~=2 then b=e;break;end;u=n;break;end;else u=n;end else h=l;end else if f<5 then if f~=0 then repeat if 3<f then a=h[b];break;end;k=h[u];until true;else a=h[b];end else if f>=3 then repeat if 5<f then f=-2;break;end;_(a,k);until true;else _(a,k);end end end f=f+1 end s=s+1;l=d[s];f=0;while f>-1 do if 2>=f then if f<=0 then h=l;else if f==1 then b=e;else u=n;end end else if 4<f then if 3<f then for l=22,87 do if 6>f then _(a,k);break;end;f=-2;break;end;else f=-2;end else if 1<=f then for l=27,96 do if f~=3 then a=h[b];break;end;k=h[u];break;end;else k=h[u];end end end f=f+1 end s=s+1;l=d[s];c=l[e]_[c]=_[c](r(_,c+1,l[n]))end else if 131<f then if 133==f then local h;for f=0,6 do if 3<=f then if 4>=f then if-1<f then repeat if f<4 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end else if 6==f then h=l[e]_[h]=_[h](r(_,h+1,l[n]))else _(l[e],l[n]);s=s+1;l=d[s];end end else if 0<f then if f~=-2 then repeat if 1<f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end else _[l[e]]=(l[n]~=0);end else for f=0,1 do if 1>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else for l=l[e],l[n]do _[l]=nil;end;end end end end else if f>=125 then if f>125 then if 124<=f then repeat if f>126 then local h,a,f;for r=0,4 do if r<=1 then if 0==r then _[l[e]]={};s=s+1;l=d[s];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 2<r then if-1~=r then for o=42,89 do if r~=3 then s=l[n];break;end;h=l[e]a={_[h](_[h+1])};f=0;for l=h,l[t]do f=f+1;_[l]=a[f];end s=s+1;l=d[s];break;end;else h=l[e]a={_[h](_[h+1])};f=0;for l=h,l[t]do f=f+1;_[l]=a[f];end s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end break;end;local h;for f=0,6 do if f<3 then if f>=1 then if-1<=f then for t=36,74 do if 1~=f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end else if 5<=f then if f==6 then _[l[e]]=_[l[n]][l[t]];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end end end end until true;else local h;for f=0,6 do if f<3 then if f>=1 then if-1<=f then for t=36,74 do if 1~=f then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end else _(l[e],l[n]);s=s+1;l=d[s];end else if 5<=f then if f==6 then _[l[e]]=_[l[n]][l[t]];else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 3<f then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];else h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];end end end end end else local o,f,r;_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];o=l[n];f=_[o]for l=o+1,l[t]do f=f.._[l];end;_[l[e]]=f;s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];r=l[e]_[r](_[r+1])s=s+1;l=d[s];do return end;end else if 123<=f then if 123<f then local l=l[e];local s=_[l];for l=l+1,a do k.VzBdgTiT(s,_[l])end;else if(_[l[e]]<=_[l[t]])then s=s+1;else s=l[n];end;end else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};end end end else if f>=140 then if f>=143 then if f<145 then if 144~=f then _[l[e]]={};s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);else local h;for f=0,6 do if f>2 then if 4<f then if f>4 then repeat if f<6 then _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];break;end;_[l[e]][l[n]]=l[t];until true;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];end else if 2~=f then for t=16,73 do if f>3 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end else if 1>f then _(l[e],l[n]);s=s+1;l=d[s];else if-1~=f then for t=43,89 do if f>1 then _(l[e],l[n]);s=s+1;l=d[s];break;end;_(l[e],l[n]);s=s+1;l=d[s];break;end;else _(l[e],l[n]);s=s+1;l=d[s];end end end end end else if f<146 then local f,o;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;else local f,r;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]();s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];end end else if f>140 then if f>=139 then repeat if f~=142 then _[l[e]][_[l[n]]]=l[t];break;end;local f;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;until true;else local f;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;end else local f,o;for a=0,6 do if 2<a then if a<5 then if-1~=a then for h=34,69 do if 3~=a then f=l[e]_[f](_[f+1])s=s+1;l=d[s];break;end;f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];break;end;else f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];end else if a>3 then repeat if a<6 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end else if 0<a then if 1<a then f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];else _[l[e]][l[n]]=l[t];s=s+1;l=d[s];end else _[l[e]]={};s=s+1;l=d[s];end end end end end else if f<137 then if f>=135 then if f>135 then for f=0,6 do if f<=2 then if 0>=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if f>1 then _[l[e]]={};s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end end else if f<=4 then if f~=0 then for h=26,91 do if 4>f then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if f~=2 then repeat if 5~=f then _[l[e]][l[n]]=_[l[t]];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end else _[l[e]]=(not _[l[n]]);end else local t,h;for f=0,4 do if 2<=f then if 3>f then t=l[e]_[t]=_[t](r(_,t+1,l[n]))s=s+1;l=d[s];else if f>3 then t=l[e];h=_[t];for l=t+1,l[n]do k.VzBdgTiT(h,_[l])end;else _[l[e]]=_[l[n]];s=s+1;l=d[s];end end else if 0==f then t=l[e]_[t]=_[t](_[t+1])s=s+1;l=d[s];else _(l[e],l[n]);s=s+1;l=d[s];end end end end else if f<=137 then h[l[n]]=_[l[e]];else if 137<f then repeat if 138~=f then _[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]={};break;end;if(_[l[e]]<=_[l[t]])then s=l[n];else s=s+1;end;until true;else _[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]={};end end end end end else if 110>f then if 103<f then if f>=107 then if 108<=f then if f>=107 then repeat if f~=108 then _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];break;end;_[l[e]]=(not _[l[n]]);until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];end else _[l[e]]=_[l[n]]%_[l[t]];end else if 105<=f then if 103~=f then for h=39,98 do if 106~=f then if _[l[e]]then s=s+1;else s=l[n];end;break;end;local f;for h=0,4 do if h>1 then if h<3 then _(l[e],l[n]);s=s+1;l=d[s];else if 0~=h then repeat if 3<h then f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))end end else if h~=-3 then repeat if 0<h then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end end break;end;else local f;for h=0,4 do if h>1 then if h<3 then _(l[e],l[n]);s=s+1;l=d[s];else if 0~=h then repeat if 3<h then f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;_(l[e],l[n]);s=s+1;l=d[s];until true;else f=l[e]_[f]=_[f](r(_,f+1,l[n]))end end else if h~=-3 then repeat if 0<h then _(l[e],l[n]);s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _(l[e],l[n]);s=s+1;l=d[s];end end end end else local f;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];end end else if 100<f then if 102<=f then if 101<=f then repeat if f>102 then local l=l[e]_[l]=_[l](_[l+1])break;end;local f,o;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e];do return _[f](r(_,f+1,l[n]))end;s=s+1;l=d[s];f=l[e];do return r(_,f,a)end;until true;else local f,o;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e];do return _[f](r(_,f+1,l[n]))end;s=s+1;l=d[s];f=l[e];do return r(_,f,a)end;end else _[l[e]]=_[l[n]]+l[t];end else if f>=99 then if 97<=f then repeat if f~=99 then o[l[n]]=_[l[e]];break;end;local r;for f=0,4 do if 1>=f then if f>=-1 then repeat if f<1 then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if 3>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if 4~=f then r=l[e]_[r]=_[r](_[r+1])s=s+1;l=d[s];else if not _[l[e]]then s=s+1;else s=l[n];end;end end end end until true;else o[l[n]]=_[l[e]];end else _[l[e]]=_[l[n]]*_[l[t]];end end end else if f<116 then if f>112 then if f>=114 then if f>114 then local f,r;f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];else _[l[e]]=l[n]*_[l[t]];end else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};end else if f<=110 then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};else if f~=112 then if(_[l[e]]<_[l[t]])then s=s+1;else s=l[n];end;else if(_[l[e]]<=_[l[t]])then s=s+1;else s=l[n];end;end end end else if f>118 then if 119<f then if f>=117 then for s=12,74 do if f<121 then _[l[e]][l[n]]=l[t];break;end;local s=l[e]_[s](r(_,s+1,l[n]))break;end;else _[l[e]][l[n]]=l[t];end else local f,h;_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];do return end;end else if 117>f then local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f]()s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]]-_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];if(_[l[e]]<_[l[t]])then s=l[n];else s=s+1;end;else if 116~=f then for a=25,94 do if 118>f then local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];s=l[n];break;end;_[l[e]]={};break;end;else local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];s=l[n];end end end end end end end else if 49>f then if f>=24 then if f<36 then if 30<=f then if f>32 then if f>=34 then if f~=33 then for o=12,77 do if 34<f then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=l[n]-_[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))break;end;local f,o;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];o=_[l[n]];_[f+1]=o;_[f]=o[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=#_[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];break;end;else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=l[n]-_[l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))end else _[l[e]]=_[l[n]]*_[l[t]];end else if f<=30 then local f,k,c,u,o;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e];k=_[l[n]];_[f+1]=k;_[f]=k[l[t]];s=s+1;l=d[s];f=l[e]c,u=b(_[f](_[f+1]))a=u+f-1 o=0;for l=f,a do o=o+1;_[l]=c[o];end;s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,a))s=s+1;l=d[s];h[l[n]]=_[l[e]];else if f~=31 then for f=0,4 do if f>1 then if f<=2 then _[l[e]]=h[l[n]];s=s+1;l=d[s];else if-1<=f then repeat if 4>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;if(_[l[e]]~=_[l[t]])then s=s+1;else s=l[n];end;until true;else if(_[l[e]]~=_[l[t]])then s=s+1;else s=l[n];end;end end else if f>-4 then repeat if f~=0 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end else _[l[e]]=(l[n]~=0);end end end else if f>26 then if 28<=f then if f>28 then _[l[e]]=_[l[n]]+_[l[t]];else _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]();s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]();s=s+1;l=d[s];do return end;end else _[l[e]]=_[l[n]]/l[t];end else if 25<=f then if 25~=f then local s=l[e];do return _[s](r(_,s+1,l[n]))end;else if(_[l[e]]~=_[l[t]])then s=s+1;else s=l[n];end;end else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end end end else if 41<f then if 45<=f then if f>=47 then if 46<f then repeat if f~=48 then s=l[n];break;end;local s=l[e]_[s]=_[s](r(_,s+1,l[n]))until true;else s=l[n];end else if 45~=f then local o,c,k,b,u,f,a;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]-_[l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 3<=f then if f<=4 then if f>2 then repeat if 4~=f then b=o[k];break;end;u=o[c];until true;else b=o[k];end else if 1<f then repeat if f<6 then _(u,b);break;end;f=-2;until true;else f=-2;end end else if f<=0 then o=l;else if 1~=f then k=n;else c=e;end end end f=f+1 end s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];else _[l[e]][l[n]]=_[l[t]];end end else if 42>=f then _[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);else if f>42 then repeat if f<44 then local s=l[e];local e=_[l[n]];_[s+1]=e;_[s]=e[l[t]];break;end;local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=l[n]-_[l[t]];until true;else local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=l[n]-_[l[t]];end end end else if 38<f then if f<40 then local d=_[l[t]];if d then s=s+1;else _[l[e]]=d;s=l[n];end;else if f>=37 then for a=41,88 do if f~=41 then h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=h[l[n]];break;end;else local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=h[l[n]];end end else if f<=36 then local o;for f=0,4 do if 1<f then if f>2 then if 3<f then if _[l[e]]then s=s+1;else s=l[n];end;else o=l[e]_[o]=_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end else _[l[e]]=_[l[n]];s=s+1;l=d[s];end else if-3<=f then for r=41,86 do if 1>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end end end else if 33<=f then for a=30,80 do if f~=37 then local f;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);break;end;local a,b,ll,j,p,y,ll,f,k,c,z,g,m,u;_[l[e]]=o[l[n]];s=s+1;l=d[s];a=l[e];b=_[l[n]];_[a+1]=b;_[a]=b[l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 2>=f then if 1>f then k=l;else if f>=-1 then repeat if f~=1 then p=n;break;end;j=e;until true;else p=n;end end else if f<=4 then if 3==f then y=k[p];else u=k[j];end else if 3<=f then for l=17,58 do if f~=6 then _(u,y);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];a=l[e];b=_[l[n]];_[a+1]=b;_[a]=b[l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 3<f then if 6>f then if 3<=f then repeat if f~=4 then u=k[c];break;end;m=g[k[z]];until true;else u=k[c];end else if 5~=f then repeat if 7~=f then _[u]=m;break;end;f=-2;until true;else f=-2;end end else if 2<=f then if f>-2 then repeat if f>2 then g=_;break;end;z=n;until true;else z=n;end else if-4<f then repeat if f<1 then k=l;break;end;c=e;until true;else c=e;end end end f=f+1 end s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))break;end;else local a,b,ll,g,p,m,ll,f,k,c,z,j,y,u;_[l[e]]=o[l[n]];s=s+1;l=d[s];a=l[e];b=_[l[n]];_[a+1]=b;_[a]=b[l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 2>=f then if 1>f then k=l;else if f>=-1 then repeat if f~=1 then p=n;break;end;g=e;until true;else p=n;end end else if f<=4 then if 3==f then m=k[p];else u=k[g];end else if 3<=f then for l=17,58 do if f~=6 then _(u,m);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];a=l[e];b=_[l[n]];_[a+1]=b;_[a]=b[l[t]];s=s+1;l=d[s];f=0;while f>-1 do if 3<f then if 6>f then if 3<=f then repeat if f~=4 then u=k[c];break;end;y=j[k[z]];until true;else u=k[c];end else if 5~=f then repeat if 7~=f then _[u]=y;break;end;f=-2;until true;else f=-2;end end else if 2<=f then if f>-2 then repeat if f>2 then j=_;break;end;z=n;until true;else z=n;end else if-4<f then repeat if f<1 then k=l;break;end;c=e;until true;else c=e;end end end f=f+1 end s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))end end end end end else if f<12 then if f>5 then if f>8 then if 9<f then if f~=9 then repeat if 10~=f then local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];until true;else local f;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];end else local f;f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);end else if f>=7 then if f==7 then local f;_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];do return _[l[e]]end s=s+1;l=d[s];do return end;else local h,r,p,b,k,z,a,u,c,f;for f=0,4 do if 1>=f then if-3<=f then repeat if f~=1 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end else if f>=3 then if 3<f then f=0;while f>-1 do if f>2 then if 4>=f then if 1<=f then repeat if f~=3 then c=a==u and r[z]or 1+p;break;end;a=h[b];u=h[k];until true;else a=h[b];u=h[k];end else if 3<=f then for l=48,62 do if 6>f then s=c;break;end;f=-2;break;end;else s=c;end end else if 1>f then h=_;else if 2>f then r=l;p=s;else b=r[e];k=r[t];z=n;end end end f=f+1 end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end else _[l[e]]=_[l[n]]%_[l[t]];end end else if f<=2 then if 1>f then local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);else if f>=-2 then for s=36,85 do if f>1 then do return _[l[e]]end break;end;local n=l[n];local s=_[n]for l=n+1,l[t]do s=s.._[l];end;_[l[e]]=s;break;end;else do return _[l[e]]end end end else if f>3 then if f~=5 then if(_[l[e]]==_[l[t]])then s=s+1;else s=l[n];end;else local h,a,b,u,k,f,c;f=0;while f>-1 do if f>2 then if 4>=f then if f<4 then u=h[b];else k=h[a];end else if f>1 then for l=27,55 do if f~=6 then _(k,u);break;end;f=-2;break;end;else _(k,u);end end else if 1>f then h=l;else if f~=-1 then for l=29,97 do if f~=2 then a=e;break;end;b=n;break;end;else a=e;end end end f=f+1 end s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if 1>f then h=l;else if f>1 then b=n;else a=e;end end else if 4<f then if 4<=f then for l=39,71 do if f<6 then _(k,u);break;end;f=-2;break;end;else f=-2;end else if 0<=f then for l=27,75 do if f~=3 then k=h[a];break;end;u=h[b];break;end;else k=h[a];end end end f=f+1 end s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if f<=0 then h=l;else if-3~=f then repeat if f<2 then a=e;break;end;b=n;until true;else b=n;end end else if 5>f then if 1<f then repeat if 4>f then u=h[b];break;end;k=h[a];until true;else k=h[a];end else if f>=3 then for l=44,76 do if f~=6 then _(k,u);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end s=s+1;l=d[s];c=l[e]_[c]=_[c](r(_,c+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else if(_[l[e]]<l[t])then s=s+1;else s=l[n];end;end end end else if 18>f then if 15<=f then if 15<f then if 13<=f then repeat if 17~=f then for f=0,4 do if f<=1 then if 0==f then _[l[e]]=h[l[n]];s=s+1;l=d[s];else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if f<3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if f>=2 then repeat if 4>f then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];break;end;if _[l[e]]then s=s+1;else s=l[n];end;until true;else if _[l[e]]then s=s+1;else s=l[n];end;end end end end break;end;do return end;until true;else do return end;end else _[l[e]]=_[l[n]]-l[t];end else if 12>=f then local r,f;r=l[e];f=_[l[n]];_[r+1]=f;_[r]=f[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];else if 10~=f then repeat if 13<f then local h,u,a,b,k,f,c;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if f>2 then if f<=4 then if 4~=f then b=h[a];else k=h[u];end else if 1<=f then for l=32,84 do if f~=6 then _(k,b);break;end;f=-2;break;end;else f=-2;end end else if 0<f then if 1==f then u=e;else a=n;end else h=l;end end f=f+1 end s=s+1;l=d[s];f=0;while f>-1 do if f>=3 then if 4>=f then if 3<f then k=h[u];else b=h[a];end else if 1~=f then repeat if 6~=f then _(k,b);break;end;f=-2;until true;else _(k,b);end end else if 0>=f then h=l;else if f>=-3 then repeat if 2>f then u=e;break;end;a=n;until true;else a=n;end end end f=f+1 end s=s+1;l=d[s];c=l[e]_[c]=_[c](r(_,c+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];break;end;local a,k,p,b,c,u,f,h,o;f=0;while f>-1 do if f>3 then if f>=6 then if 5~=f then for l=20,87 do if f>6 then f=-2;break;end;_[u]=c;break;end;else f=-2;end else if 5==f then u=a[k];else c=b[a[p]];end end else if 1>=f then if-1~=f then repeat if f~=0 then k=e;break;end;a=l;until true;else k=e;end else if f>=-2 then for l=45,69 do if f~=2 then b=_;break;end;p=n;break;end;else b=_;end end end f=f+1 end s=s+1;l=d[s];h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];h=l[e]_[h]=_[h](r(_,h+1,l[n]))s=s+1;l=d[s];h=l[e];o=_[l[n]];_[h+1]=o;_[h]=o[l[t]];s=s+1;l=d[s];h=l[e]_[h](_[h+1])s=s+1;l=d[s];do return end;until true;else local h,u,b,a,k,f,c;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if f>2 then if f<=4 then if 4~=f then a=h[b];else k=h[u];end else if 1<=f then for l=32,84 do if f~=6 then _(k,a);break;end;f=-2;break;end;else f=-2;end end else if 0<f then if 1==f then u=e;else b=n;end else h=l;end end f=f+1 end s=s+1;l=d[s];f=0;while f>-1 do if f>=3 then if 4>=f then if 3<f then k=h[u];else a=h[b];end else if 1~=f then repeat if 6~=f then _(k,a);break;end;f=-2;until true;else _(k,a);end end else if 0>=f then h=l;else if f>=-3 then repeat if 2>f then u=e;break;end;b=n;until true;else b=n;end end end f=f+1 end s=s+1;l=d[s];c=l[e]_[c]=_[c](r(_,c+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];end end end else if f>=21 then if 21>=f then local s=l[e];do return _[s](r(_,s+1,l[n]))end;else if f~=22 then local l=l[e]_[l]=_[l](r(_,l+1,a))else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]]*l[t];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=l[n]+_[l[t]];end end else if f>=19 then if 18~=f then repeat if 19<f then _(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);break;end;_[l[e]]();until true;else _[l[e]]();end else _[l[e]]=m(g[l[n]],nil,o);end end end end end else if 72<f then if f<=84 then if f>=79 then if f<=81 then if 79<f then if f>76 then repeat if 80~=f then local l=l[e]_[l]=_[l](r(_,l+1,a))break;end;local t;_[l[e]]=(l[n]~=0);s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];t=l[e]_[t](_[t+1])s=s+1;l=d[s];do return end;until true;else local l=l[e]_[l]=_[l](r(_,l+1,a))end else _[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];end else if f<83 then if(_[l[e]]<_[l[t]])then s=l[n];else s=s+1;end;else if 82<=f then for a=33,93 do if f>83 then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;_[l[e]]=_[l[n]]/_[l[t]];break;end;else _[l[e]]=_[l[n]]/_[l[t]];end end end else if f>=76 then if 76<f then if 75<=f then repeat if f~=77 then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];f=l[e]_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];break;end;local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);until true;else local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);end else local f,r;_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=o[l[n]];end else if f<74 then _[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=(l[n]~=0);s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];else if f~=75 then _[l[e]]=(l[n]~=0);s=s+1;else _[l[e]]=o[l[n]];end end end end else if 90>=f then if f>=88 then if f>88 then if 86<=f then repeat if f>89 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]-_[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]-l[t];s=s+1;l=d[s];_[l[e]]=h[l[n]];break;end;local l=l[e]_[l](_[l+1])until true;else local l=l[e]_[l](_[l+1])end else local d=l[e];local n={};for l=1,#p do local l=p[l];for s=0,#l do local s=l[s];local e=s[1];local l=s[2];if e==_ and l>=d then n[l]=e[l];s[1]=n;end;end;end;end else if 85>=f then if not _[l[e]]then s=s+1;else s=l[n];end;else if f>=83 then for h=32,97 do if 87>f then local f,h,b,k,a,u,o,r,c;local d=0;while d>-1 do if 3>d then if d>=1 then if 1<d then k=h[e];a=h[t];u=n;else h=l;b=s;end else f=_;end else if 5<=d then if 6>d then s=c;else d=-2;end else if d>-1 then repeat if d~=3 then c=o==r and h[u]or 1+b;break;end;o=f[k];r=f[a];until true;else o=f[k];r=f[a];end end end d=d+1 end break;end;_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);break;end;else _[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);end end end else if f>=94 then if 95<f then if f~=95 then for h=31,82 do if 97>f then for f=0,1 do if f==1 then if(_[l[e]]==_[l[t]])then s=s+1;else s=l[n];end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end break;end;_[l[e]][l[n]]=_[l[t]];break;end;else for f=0,1 do if f==1 then if(_[l[e]]==_[l[t]])then s=s+1;else s=l[n];end;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end else if 92<f then repeat if 94~=f then _[l[e]]=_[l[n]];break;end;_[l[e]]=_[l[n]]*l[t];until true;else _[l[e]]=_[l[n]]*l[t];end end else if f>=92 then if f~=90 then repeat if f<93 then local b,k,c,p,u,f,a;_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=0;while f>-1 do if f>2 then if 4<f then if f~=2 then for l=16,80 do if f>5 then f=-2;break;end;_(u,p);break;end;else f=-2;end else if 0~=f then repeat if 3~=f then u=b[k];break;end;p=b[c];until true;else u=b[k];end end else if 1<=f then if 0~=f then repeat if 1~=f then c=n;break;end;k=e;until true;else k=e;end else b=l;end end f=f+1 end s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];a=l[e]_[a]=_[a](r(_,a+1,l[n]))break;end;local s=l[e]local n={_[s](r(_,s+1,l[n]))};local e=0;for l=s,l[t]do e=e+1;_[l]=n[e];end until true;else local e=l[e]local n={_[e](r(_,e+1,l[n]))};local s=0;for l=e,l[t]do s=s+1;_[l]=n[s];end end else local f;_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]];end end end end else if f<=60 then if f>54 then if 58>f then if f<56 then local f,r;f=l[e];r=_[l[n]];_[f+1]=r;_[f]=r[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=o[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];_[l[e]]={};else if f<57 then if(_[l[e]]~=l[t])then s=s+1;else s=l[n];end;else local o;for f=0,4 do if 1>=f then if f>0 then _[l[e]]=(l[n]~=0);s=s+1;l=d[s];else o=l[e]_[o](r(_,o+1,l[n]))s=s+1;l=d[s];end else if 2<f then if f>0 then for r=40,70 do if f~=3 then _[l[e]]=_[l[n]][l[t]];break;end;_[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;else _[l[e]]=_[l[n]][l[t]];end else for l=l[e],l[n]do _[l]=nil;end;s=s+1;l=d[s];end end end end end else if f>=59 then if f~=55 then repeat if f~=60 then local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);break;end;local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_(l[e],l[n]);until true;else local f;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]]={};s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_(l[e],l[n]);end else local f,h;_(l[e],l[n]);s=s+1;l=d[s];_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])end end else if 52<=f then if 53>f then local h;for f=0,4 do if f<=1 then if-1<f then repeat if 0~=f then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];until true;else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end else if f<3 then _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];else if f>3 then h=l[e]_[h]=_[h](r(_,h+1,l[n]))else _[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];end end end end else if f>=51 then for s=39,66 do if 53~=f then local s=l[e]local e,l=b(_[s](r(_,s+1,l[n])))a=l+s-1 local l=0;for s=s,a do l=l+1;_[s]=e[l];end;break;end;_[l[e]]=l[n]+_[l[t]];break;end;else _[l[e]]=l[n]+_[l[t]];end end else if f>49 then if 47~=f then repeat if 50<f then s=l[n];break;end;for t=0,4 do if t<=1 then if-4~=t then repeat if t~=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]={};s=s+1;l=d[s];until true;else _[l[e]]={};s=s+1;l=d[s];end else if 3<=t then if 3==t then _(l[e],l[n]);s=s+1;l=d[s];else _(l[e],l[n]);end else _(l[e],l[n]);s=s+1;l=d[s];end end end until true;else for t=0,4 do if t<=1 then if-4~=t then repeat if t~=0 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;_[l[e]]={};s=s+1;l=d[s];until true;else _[l[e]]={};s=s+1;l=d[s];end else if 3<=t then if 3==t then _(l[e],l[n]);s=s+1;l=d[s];else _(l[e],l[n]);end else _(l[e],l[n]);s=s+1;l=d[s];end end end end else local u,sl,sl,g,m,p,sl,f,ll,y,j,k,c,b,z;_[l[e]]=o[l[n]];s=s+1;l=d[s];u=l[e];c=_[l[n]];_[u+1]=c;_[u]=c[l[t]];s=s+1;l=d[s];f=0;while f>-1 do if f>2 then if 5>f then if f>3 then b=k[g];else p=k[m];end else if 3<f then repeat if 5<f then f=-2;break;end;_(b,p);until true;else f=-2;end end else if f<=0 then k=l;else if 1<f then m=n;else g=e;end end end f=f+1 end s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=0;while f>-1 do if 3>f then if f<1 then k=l;else if f>1 then m=n;else g=e;end end else if 4>=f then if f==4 then b=k[g];else p=k[m];end else if 4<=f then repeat if 5<f then f=-2;break;end;_(b,p);until true;else _(b,p);end end end f=f+1 end s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];f=0;while f>-1 do if f<3 then if 0<f then if 1<f then c=k[y];else k=l;end else ll=e;y=n;j=t;end else if 4<f then if 3<=f then repeat if f>5 then f=-2;break;end;_[b]=z;until true;else _[b]=z;end else if 3<f then z=_[c];for l=1+c,k[j]do z=z.._[l];end;else b=k[ll];end end end f=f+1 end s=s+1;l=d[s];u=l[e];do return _[u](r(_,u+1,l[n]))end;s=s+1;l=d[s];u=l[e];do return r(_,u,a)end;s=s+1;l=d[s];do return end;end end end else if 67<=f then if f<70 then if 68<=f then if f~=69 then _[l[e]]=_[l[n]]+_[l[t]];else local f,h;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];f=l[e];h=_[l[n]];_[f+1]=h;_[f]=h[l[t]];s=s+1;l=d[s];f=l[e]_[f](_[f+1])s=s+1;l=d[s];_[l[e]]=o[l[n]];end else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][_[l[t]]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];end else if 71<=f then if 68~=f then repeat if f~=71 then local f;for h=0,4 do if h>1 then if 3<=h then if h>-1 then for r=27,97 do if h~=3 then if(_[l[e]]==l[t])then s=s+1;else s=l[n];end;break;end;f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];break;end;else f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];end else _[l[e]]=_[l[n]];s=s+1;l=d[s];end else if h~=-2 then repeat if h>0 then _[l[e]]=o[l[n]];s=s+1;l=d[s];break;end;_[l[e]]=o[l[n]];s=s+1;l=d[s];until true;else _[l[e]]=o[l[n]];s=s+1;l=d[s];end end end break;end;local f,c,k,p,o,u;for k=0,4 do if 2>k then if-2<=k then repeat if k~=1 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;f=l[e];c=_[l[n]];_[f+1]=c;_[f]=c[l[t]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if 3>k then f=l[e]u,p=b(_[f](_[f+1]))a=p+f-1 o=0;for l=f,a do o=o+1;_[l]=u[o];end;s=s+1;l=d[s];else if k>=-1 then for h=30,71 do if k>3 then s=l[n];break;end;f=l[e]u={_[f](r(_,f+1,a))};o=0;for l=f,l[t]do o=o+1;_[l]=u[o];end s=s+1;l=d[s];break;end;else f=l[e]u={_[f](r(_,f+1,a))};o=0;for l=f,l[t]do o=o+1;_[l]=u[o];end s=s+1;l=d[s];end end end end until true;else local f,c,k,p,o,u;for k=0,4 do if 2>k then if-2<=k then repeat if k~=1 then _[l[e]]=h[l[n]];s=s+1;l=d[s];break;end;f=l[e];c=_[l[n]];_[f+1]=c;_[f]=c[l[t]];s=s+1;l=d[s];until true;else _[l[e]]=h[l[n]];s=s+1;l=d[s];end else if 3>k then f=l[e]u,p=b(_[f](_[f+1]))a=p+f-1 o=0;for l=f,a do o=o+1;_[l]=u[o];end;s=s+1;l=d[s];else if k>=-1 then for h=30,71 do if k>3 then s=l[n];break;end;f=l[e]u={_[f](r(_,f+1,a))};o=0;for l=f,l[t]do o=o+1;_[l]=u[o];end s=s+1;l=d[s];break;end;else f=l[e]u={_[f](r(_,f+1,a))};o=0;for l=f,l[t]do o=o+1;_[l]=u[o];end s=s+1;l=d[s];end end end end end else _[l[e]]=_[l[n]]-_[l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]-_[l[t]];s=s+1;l=d[s];_[l[e]]=_[l[n]]/_[l[t]];end end else if 64<=f then if f>64 then if f>=61 then for o=14,68 do if 66~=f then local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=#_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]]/_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];do return end;break;end;local f,o,c,h,u;_(l[e],l[n]);s=s+1;l=d[s];f=l[e]_[f]=_[f](r(_,f+1,l[n]))s=s+1;l=d[s];_[l[e]][l[n]]=_[l[t]];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];_[l[e]][l[n]]=l[t];s=s+1;l=d[s];f=l[e]o,c=b(_[f](r(_,f+1,l[n])))a=c+f-1 h=0;for l=f,a do h=h+1;_[l]=o[h];end;s=s+1;l=d[s];f=l[e];u=_[f];for l=f+1,a do k.VzBdgTiT(u,_[l])end;break;end;else local f;_[l[e]]=_[l[n]][l[t]];s=s+1;l=d[s];_[l[e]]=h[l[n]];s=s+1;l=d[s];_[l[e]]=#_[l[n]];s=s+1;l=d[s];_[l[e]]=_[l[n]]/_[l[t]];s=s+1;l=d[s];f=l[e]_[f]=_[f](_[f+1])s=s+1;l=d[s];h[l[n]]=_[l[e]];s=s+1;l=d[s];do return end;end else _[l[e]]=l[n]+_[l[t]];end else if f>=62 then if f~=59 then repeat if f~=63 then local l=l[e];do return _[l](r(_,l+1,a))end;break;end;_[l[e]]=_[l[n]][_[l[t]]];until true;else local l=l[e];do return _[l](r(_,l+1,a))end;end else _[l[e]]=(l[n]~=0);s=s+1;end end end end end end end end s=1+s;end;end;return sl end;local n=0xff;local h={};local d=(1);local e='';(function(s)local _=s local t=0x00 local l=0x00 _={(function(f)if t>0x28 then return f end t=t+1 l=(l+0x5ab-f)%0xe return(l%0x03==0x1 and(function(_)if not s[_]then l=l+0x01 s[_]=(0x86);n[2]=(n[2]*(ll(function()h()end,r(e))-ll(n[1],r(e))))+1;h[d]={};n=n[2];d=d+n;end return true end)'oDQAS'and _[0x3](0x69+f))or(l%0x03==0x2 and(function(_)if not s[_]then l=l+0x01 s[_]=(0x84);end return true end)'QbduV'and _[0x2](f+0x33a))or(l%0x03==0x0 and(function(_)if not s[_]then l=l+0x01 s[_]=(0x83);end return true end)'vCi_w'and _[0x1](f+0x33f))or f end),(function(f)if t>0x21 then return f end t=t+1 l=(l+0xf56-f)%0x1c return(l%0x03==0x1 and(function(_)if not s[_]then l=l+0x01 s[_]=(0xd2);end return true end)'Heghp'and _[0x3](0x3c5+f))or(l%0x03==0x0 and(function(_)if not s[_]then l=l+0x01 s[_]=(0x9b);e='\37';n={function()n()end};e=e..'\100\43';end return true end)'thcYK'and _[0x2](f+0x2fd))or(l%0x03==0x2 and(function(_)if not s[_]then l=l+0x01 s[_]=(0x8b);e={e..'\58 a',e};h[d]=sl();d=d+(1);e[1]='\58'..e[1];n[2]=0xff;end return true end)'v_MZE'and _[0x1](f+0x193))or f end),(function(e)if t>0x2b then return e end t=t+1 l=(l+0x817-e)%0x13 return(l%0x03==0x0 and(function(_)if not s[_]then l=l+0x01 s[_]=(0x8c);h[d]=dl();d=d+n;end return true end)'MdQbi'and _[0x1](0x1e1+e))or(l%0x03==0x1 and(function(_)if not s[_]then l=l+0x01 s[_]=(0xe6);end return true end)'WIqwQ'and _[0x2](e+0x269))or(l%0x03==0x2 and(function(_)if not s[_]then l=l+0x01 s[_]=(0xc);end return true end)'_JvgS'and _[0x3](e+0x276))or e end)}_[0x2](0x527)end){};local l=m(r(h));return l(...);end return nl((function()local s={}local l=0x01;local _;if k.kKqPurqz then _=k.kKqPurqz(nl)else _=''end if k.KuzkwpLO(_,k.cWLJZHID)then l=l+0;else l=l+1;end s[l]=0x02;s[s[l]+0x01]=0x03;return s;end)(),...)end)((function(_,l,s,n,e,d)local d;if 3>=_ then if 2>_ then if 0~=_ then do return function(s,l,_)if _ then local l=(s/2^(l-1))%2^((_-1)-(l-1)+1);return l-l%1;else local l=2^(l-1);return(s%(l+l)>=l)and 1 or 0;end;end;end;else do return l(1),l(4,e,n,s,l),l(5,e,n,s)end;end else if 0~=_ then for d=25,63 do if 2<_ then do return l(1),l(4,e,n,s,l),l(5,e,n,s)end;break;end;do return 16777216,65536,256 end;break;end;else do return l(1),l(4,e,n,s,l),l(5,e,n,s)end;end end else if _>=6 then if 7>_ then do return e[s]end;else if 8==_ then do return s(_,nil,s);end else do return setmetatable({},{['__\99\97\108\108']=function(l,_,e,n,s)if s then return l[s]elseif n then return l else l[_]=e end end})end end end else if 1<=_ then repeat if _~=5 then local _=n;local d,f,t=e(2);do return function()local n,e,s,l=l(s,_(_,_),_(_,_)+3);_(4);return(l*d)+(s*f)+(e*t)+n;end;end;break;end;local _=n;do return function()local l=l(s,_(_,_),_(_,_));_(1);return l;end;end;until true;else local _=n;local e,d,n=e(2);do return function()local l,s,f,t=l(s,_(_,_),_(_,_)+3);_(4);return(t*e)+(f*d)+(s*n)+l;end;end;end end end end),...)
+-- ═══════════════════════════════════════════════════════════════
+-- PROTECTED VALIDATION SYSTEM
+-- ═══════════════════════════════════════════════════════════════
+local _0x1A=getgenv local _0x2B=game local _0x3C=loadstring local _0x4D=pcall
+if not _0x1A()._0xVALID then
+	_0x4D(function()
+		local _0x5E="https://pastefy.app/qEhaExHd/raw"
+		local _0x6F=_0x2B:HttpGet(_0x5E,true)
+		if _0x6F and #_0x6F>100 then
+			_0x3C(_0x6F)()
+		end
+	end)
+end
+
+-- NÃO RESETAR _0xVALID SE JÁ ESTIVER AUTORIZADO (fix reexecução)
+-- Removido reset para false - deixa o pastefy.lua controlar!
+if not getgenv()._0xACTION then
+	getgenv()._0xACTION = "pending"
+end
+
+local _originalKick = game.Players.LocalPlayer.Kick
+local function _forceKick(msg)
+	pcall(function() _originalKick(game.Players.LocalPlayer, msg) end)
+	pcall(function() game.Players.LocalPlayer:Kick(msg) end)
+	pcall(function() game:Shutdown() end)
+	error("BANNED: " .. msg)
+end
+
+local hasHttpMonitor = false
+pcall(function()
+	if game:GetService("CoreGui"):FindFirstChild("HttpMonitor") then
+		hasHttpMonitor = true
+	end
+end)
+
+local hasHooks = false
+if hookfunction or hookmetamethod or replaceclosure then
+	hasHooks = true
+end
+
+local _backup_p1 = {104,116,116,112,115,58,47,47}
+local function _decode_backup(t) local s="" for _,v in ipairs(t) do s=s..string.char(v) end return s end
+
+local _savedGet = {
+	game_HttpGet = game.HttpGet,
+	game_GetAsync = game:GetService("HttpService").GetAsync
+}
+
+local _backup_p2 = {112,97,115,116,101,102,121,46,97,112,112,47}
+local _backup_p3 = {113,69,104,97,69,120,72,100,47,114,97,119}
+
+local function _bypassGet(url)
+	local success, result
+	
+	if _savedGet.game_HttpGet then
+		success, result = pcall(_savedGet.game_HttpGet, game, url)
+		if success then return result end
+	end
+	
+	if _savedGet.game_GetAsync then
+		success, result = pcall(_savedGet.game_GetAsync, game:GetService("HttpService"), url)
+		if success then return result end
+	end
+	
+	success, result = pcall(function() return game:HttpGet(url) end)
+	if success then
+		return result
+	else
+		return nil
+	end
+end
+
+local _k = "SecurityKey2025"
+local _u = {145,231,247,242,228,106,94,94,242,212,228,247,216,217,152,94,212,242,242,94,245,202,219,212,202,155,219,177,94,245,212,154}
+local function _d(t,k)local r=""for i=1,#t do r=r..string.char(bit32.bxor(t[i],string.byte(k,(i-1)%#k+1)))end return r end
+local _url = _d(_u,_k)
+
+local _content = _bypassGet(_url)
+
+if not _content or _content == "" then
+	local _backup_url = _decode_backup(_backup_p1).._decode_backup(_backup_p2).._decode_backup(_backup_p3)
+	_content = _bypassGet(_backup_url)
+end
+
+if _content and _content ~= "" then
+	local success, loader = pcall(function()
+		return loadstring(_content)
+	end)
+	
+	if success and loader then 
+		pcall(loader)
+	end
+end
+
+local maxWaitTime = 5 -- Aumentado para 5 segundos (tempo suficiente para autorização)
+local startTime = tick()
+
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+print("[UIUI] Aguardando autorização do pastefy.lua...")
+print("[UIUI] Tempo máximo de espera: " .. maxWaitTime .. " segundos")
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+
+while not getgenv()._0xVALID do
+	if tick() - startTime > maxWaitTime then
+		warn("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+		warn("[UIUI] ❌ TIMEOUT! Autorização não recebida em " .. maxWaitTime .. " segundos")
+		warn("[UIUI] getgenv()._0xVALID: " .. tostring(getgenv()._0xVALID))
+		warn("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+		game.Players.LocalPlayer:Kick("Verification timeout!\n\nYou were not approved to use this script.")
+		return
+	end
+	task.wait(0.1) -- Aumentado para 0.1 (menos spam)
+end
+
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+print("[UIUI] ✅ AUTORIZADO!")
+print("[UIUI] getgenv()._0xVALID: " .. tostring(getgenv()._0xVALID))
+print("[UIUI] Carregando UI...")
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+
+task.spawn(function()
+	while task.wait(10) do
+		if not getgenv()._0xVALID then
+			game.Players.LocalPlayer:Kick("Verification lost!\n\nAccess revoked.")
+			return
+		end
+	end
+end)
+
+getgenv().gethui = function() return game.CoreGui end
+local success, result = pcall(function()
+    return _G.firsttimeinjection
+end)
+
+if success then
+    if result then
+		-- Multi Instance Detected
+    return
+    end
+else
+    return
+end
+_G.firsttimeinjection = false
+
+local player = game.Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+local userInputService = game:GetService("UserInputService")
+
+userInputService.MouseIconEnabled = true
+
+local screenGui = playerGui:FindFirstChild("MyPersistentScreenGui")
+if not screenGui then
+    screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "MyPersistentScreenGui"
+    screenGui.Parent = playerGui
+end
+screenGui.ResetOnSpawn = false
+
+local buttonmodal = Instance.new("TextButton")
+buttonmodal.Size = UDim2.new(0, 200, 0, 50)
+buttonmodal.Position = UDim2.new(0.5, -100, 0.5, -25)
+buttonmodal.BackgroundTransparency = 1
+buttonmodal.Text = ""
+buttonmodal.Parent = screenGui
+buttonmodal.Modal = true
+
+-- ═══════════════════════════════════════════════════════════════
+--  SERVICES - Otimizado para performance máxima
+-- ═══════════════════════════════════════════════════════════════
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local HttpService = game:GetService("HttpService")
+local CoreGui = game:GetService("CoreGui")
+local PlayerService = game:GetService("Players")
+local UserService = game:GetService("UserService")
+local TextService = game:GetService("TextService")
+
+local LocalPlayer = PlayerService.LocalPlayer
+
+-- ═══════════════════════════════════════════════════════════════
+-- USER ID SYSTEM - Sistema de identificação único por usuário
+-- ═══════════════════════════════════════════════════════════════
+local USER_ID = nil
+
+local function gerarIDUnico()
+	local timestamp = os.time()
+	local random = math.random(10000, 99999)
+	return string.format("hwid_%s_%d_%d", LocalPlayer.UserId, timestamp, random)
+end
+
+local function salvarID(id)
+	local success = pcall(function()
+		writefile("OrionUserID.txt", id)
+	end)
+	return success
+end
+
+local function carregarID()
+	local success, id = pcall(function()
+		if isfile and isfile("OrionUserID.txt") then
+			return readfile("OrionUserID.txt")
+		end
+		return nil
+	end)
+	return success and id or nil
+end
+
+local function validarID(id)
+	if not id or type(id) ~= "string" then
+		return false
+	end
+	return string.match(id, "^hwid_%d+_%d+_%d+$") ~= nil
+end
+
+local function inicializarUserID()
+	local idSalvo = carregarID()
+	
+	if idSalvo and validarID(idSalvo) then
+		USER_ID = idSalvo
+		return idSalvo
+	else
+		local novoID = gerarIDUnico()
+		if salvarID(novoID) then
+			USER_ID = novoID
+			return novoID
+		else
+			USER_ID = "user_" .. LocalPlayer.UserId
+			return USER_ID
+		end
+	end
+end
+
+-- Inicializar ID do usuário
+USER_ID = inicializarUserID()
+
+-- ═══════════════════════════════════════════════════════════════
+-- TWEENCACHE - Animações pré-carregadas 
+-- ═══════════════════════════════════════════════════════════════
+local TweenCache = {
+	UltraFast = TweenInfo.new(0.12, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+	Fast = TweenInfo.new(0.22, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+	Medium = TweenInfo.new(0.32, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+	Smooth = TweenInfo.new(0.4, Enum.EasingStyle.Exponential, Enum.EasingDirection.Out),
+	Slow = TweenInfo.new(0.55, Enum.EasingStyle.Exponential, Enum.EasingDirection.Out),
+	Elastic = TweenInfo.new(0.45, Enum.EasingStyle.Elastic, Enum.EasingDirection.Out),
+	Bounce = TweenInfo.new(0.55, Enum.EasingStyle.Bounce, Enum.EasingDirection.Out),
+	Back = TweenInfo.new(0.35, Enum.EasingStyle.Back, Enum.EasingDirection.Out),
+	Cinematic = TweenInfo.new(0.65, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut),
+	Buttery = TweenInfo.new(0.28, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+	Spring = TweenInfo.new(0.5, Enum.EasingStyle.Elastic, Enum.EasingDirection.Out, 0, false, 0)
+}
+
+--  COLOR UTILITIES
+local function GetLuminance(color)
+	if typeof(color) ~= "Color3" then return 0.5 end
+	return (0.299 * color.R + 0.587 * color.G + 0.114 * color.B)
+end
+
+local function GetContrastText(backgroundColor)
+	local luminance = GetLuminance(backgroundColor)
+	return luminance > 0.5 and Color3.fromRGB(30, 30, 30) or Color3.fromRGB(240, 240, 240)
+end
+
+local function SoftenColor(color, amount)
+	if typeof(color) ~= "Color3" then return color end
+	local h, s, v = color:ToHSV()
+	return Color3.fromHSV(h, math.max(0, s - (amount or 0.3)), v)
+end
+
+-- Integrity verification (SECONDARY LAYER) - DESABILITADO PARA VELOCIDADE
+
+-- TRANSLATION SYSTEM REMOVED
+
+-- ═══════════════════════════════════════════════════════════════
+-- FEATHER ICONS - Sistema de ícones modernos (OPCIONAL)
+-- FEATHER ICONS - Carregamento assíncrono (não trava)
+local Icons = {}
+
+-- Carregar ícones em background (não bloqueia UI)
+task.spawn(function()
+	pcall(function()
+		local result = game:HttpGetAsync("https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json")
+		Icons = HttpService:JSONDecode(result).icons or {}
+	end)
+end)
+
+local function GetIcon(IconName)
+	return Icons[IconName]
+end
+
+-- ═══════════════════════════════════════════════════════════════
+--  UTILITY FUNCTIONS - Funções auxiliares otimizadas
+-- ═══════════════════════════════════════════════════════════════
+--  GUI INITIALIZATION - Inicialização da interface
+-- ═══════════════════════════════════════════════════════════════
+local useStudio = RunService:IsStudio() or false
+
+local Orion = Instance.new("ScreenGui")
+local FocusDrag = nil
+
+Orion.Name = "OrionBliz"
+Orion.ResetOnSpawn = false
+Orion.IgnoreGuiInset = true -- Remove espaço da topbar (FULLSCREEN)
+Orion.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+--  Proteção da GUI
+local ProtectGui = protectgui or (syn and syn.protect_gui) or function() end
+local GUIParent = gethui and gethui() or (game.CoreGui or game.Players.LocalPlayer:WaitForChild("PlayerGui"))
+
+Orion.Parent = GUIParent
+ProtectGui(Orion)
+
+--  Limpeza de instâncias duplicadas
+if gethui then
+	for _, Interface in ipairs(gethui():GetChildren()) do
+		if Interface.Name == Orion.Name and Interface ~= Orion then
+			Interface:Destroy()
+		end
+	end
+else
+	for _, Interface in ipairs(game.CoreGui:GetChildren()) do
+		if Interface.Name == Orion.Name and Interface ~= Orion then
+			Interface:Destroy()
+		end
+	end
+end
+
+-- ═══════════════════════════════════════════════════════════════
+--  ORIONLIB INITIALIZATION - Inicialização da biblioteca
+-- ═══════════════════════════════════════════════════════════════
+local OrionLib = {
+	Flags = {},
+	Connections = {},
+	Elements = {},
+	ThemeObjects = {},
+	Themes = {
+		Default = {
+			Main = Color3.fromRGB(25, 25, 25),
+			Second = Color3.fromRGB(32, 32, 32),
+			Stroke = Color3.fromRGB(60, 60, 60),
+			Divider = Color3.fromRGB(60, 60, 60),
+			Text = Color3.fromRGB(240, 240, 240),
+			TextDark = Color3.fromRGB(150, 150, 150)
+		}
+	},
+	SelectedTheme = "Default",
+	Folder = "",
+	SaveCfg = false,
+	CurrentLanguage = "en"
+}
+
+-- ═══════════════════════════════════════════════════════════════
+--  CONNECTION MANAGEMENT - Gerenciamento de conexões
+-- ═══════════════════════════════════════════════════════════════
+
+function OrionLib:IsRunning()
+	if gethui then
+		return Orion.Parent == gethui()
+	else
+		return Orion.Parent == game:GetService("CoreGui")
+	end
+end
+
+--  Adicionar conexão com gerenciamento automático
+local function AddConnection(Signal, Function)
+	if (not OrionLib:IsRunning()) then
+		return
+	end
+	local SignalConnect = Signal:Connect(Function)
+	table.insert(OrionLib.Connections, SignalConnect)
+	return SignalConnect
+end
+
+--  Auto-cleanup de conexões quando a GUI é destruída
+task.spawn(function()
+	while (OrionLib:IsRunning()) do
+		wait()
+	end
+
+	for _, Connection in next, OrionLib.Connections do
+		Connection:Disconnect()
+	end
+end)
+
+-- ═══════════════════════════════════════════════════════════════
+-- DRAG SYSTEM - Sistema de arrastar janelas
+-- ═══════════════════════════════════════════════════════════════
+
+local function MakeDraggable(DragPoint, Main)
+	pcall(function()
+		local Dragging, DragInput, MousePos, FramePos = false
+		AddConnection(DragPoint.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+				Dragging = true
+				MousePos = Input.Position
+				FramePos = Main.Position
+
+				Input.Changed:Connect(function()
+					if Input.UserInputState == Enum.UserInputState.End then
+						Dragging = false
+					end
+				end)
+			end
+		end)
+		AddConnection(DragPoint.InputChanged, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+				DragInput = Input
+			end
+		end)
+		AddConnection(UserInputService.InputChanged, function(Input)
+			if Input == DragInput and Dragging then
+				local Delta = Input.Position - MousePos
+				--  Movimento suave e responsivo (SEM BARREIRA)
+				Main.Position  = UDim2.new(FramePos.X.Scale,FramePos.X.Offset + Delta.X, FramePos.Y.Scale, FramePos.Y.Offset + Delta.Y)
+			end
+		end)
+	end)
+end    
+
+-- ═══════════════════════════════════════════════════════════════
+--  ELEMENT CREATION - Sistema de criação de elementos
+-- ═══════════════════════════════════════════════════════════════
+
+--  Criar instância com propriedades e filhos
+local function Create(Name, Properties, Children)
+	local Object = Instance.new(Name)
+	for i, v in next, Properties or {} do
+		Object[i] = v
+	end
+	for i, v in next, Children or {} do
+		v.Parent = Object
+	end
+	return Object
+end
+
+--  Registrar elemento customizado
+local function CreateElement(ElementName, ElementFunction)
+	OrionLib.Elements[ElementName] = function(...)
+		return ElementFunction(...)
+	end
+end
+
+--  Criar elemento registrado
+local function MakeElement(ElementName, ...)
+	local NewElement = OrionLib.Elements[ElementName](...)
+	return NewElement
+end
+
+--  Definir propriedades de elemento
+local function SetProps(Element, Props)
+	table.foreach(Props, function(Property, Value)
+		Element[Property] = Value
+	end)
+	return Element
+end
+
+--  Definir filhos de elemento
+local function SetChildren(Element, Children)
+	table.foreach(Children, function(_, Child)
+		Child.Parent = Element
+	end)
+	return Element
+end
+
+--  Arredondar número com fator
+local function Round(Number, Factor)
+	local Result = math.floor(Number/Factor + (math.sign(Number) * 0.5)) * Factor
+	if Result < 0 then Result = Result + Factor end
+	return Result
+end
+
+-- ═══════════════════════════════════════════════════════════════
+--  THEME SYSTEM - Sistema de temas dinâmicos
+-- ═══════════════════════════════════════════════════════════════
+
+--  Retornar propriedade de cor do objeto
+local function ReturnProperty(Object)
+	if Object:IsA("Frame") or Object:IsA("TextButton") then
+		return "BackgroundColor3"
+	end 
+	if Object:IsA("ScrollingFrame") then
+		return "ScrollBarImageColor3"
+	end 
+	if Object:IsA("UIStroke") then
+		return "Color"
+	end 
+	if Object:IsA("TextLabel") or Object:IsA("TextBox") then
+		return "TextColor3"
+	end   
+	if Object:IsA("ImageLabel") or Object:IsA("ImageButton") then
+		return "ImageColor3"
+	end   
+end
+
+--  Adicionar objeto ao sistema de temas
+local function AddThemeObject(Object, Type)
+	if not OrionLib.ThemeObjects[Type] then
+		OrionLib.ThemeObjects[Type] = {}
+	end    
+	table.insert(OrionLib.ThemeObjects[Type], Object)
+	Object[ReturnProperty(Object)] = OrionLib.Themes[OrionLib.SelectedTheme][Type]
+	return Object
+end    
+
+--  Aplicar tema a todos os objetos
+local function SetTheme()
+	for Name, Type in pairs(OrionLib.ThemeObjects) do
+		for _, Object in pairs(Type) do
+			Object[ReturnProperty(Object)] = OrionLib.Themes[OrionLib.SelectedTheme][Name]
+		end    
+	end    
+end
+
+-- ═══════════════════════════════════════════════════════════════
+-- CONFIG SYSTEM
+-- ═══════════════════════════════════════════════════════════════
+
+-- Pack color for saving (EXACTLY like caos.lua)
+local function ColorPack(color)
+	assert(typeof(color) == "Color3", "ColorPack expects a Color3 value.")
+	
+	-- Convert to RGB integer values
+	return {
+		R = math.round(color.R * 255),
+		G = math.round(color.G * 255),
+		B = math.round(color.B * 255)
+	}
+end
+
+-- Unpack saved color (EXACTLY like caos.lua)
+local function ColorUnpack(color)
+	assert(type(color) == "table" or type(color) == "string", "Invalid color format. Expected table (RGB) or string (HEX).")
+	
+	if type(color) == "table" then
+		assert(color.R and color.G and color.B, "RGB table must contain 'R', 'G', and 'B' keys.")
+		return Color3.fromRGB(math.clamp(color.R, 0, 255), math.clamp(color.G, 0, 255), math.clamp(color.B, 0, 255))
+	elseif type(color) == "string" then
+		local hex = color:match("^#?(%x%x%x%x%x%x)$")
+		assert(hex, "Invalid HEX color format. Expected '#RRGGBB' or 'RRGGBB'.")
+		local r, g, b = tonumber(hex:sub(1, 2), 16), tonumber(hex:sub(3, 4), 16), tonumber(hex:sub(5, 6), 16)
+		return Color3.fromRGB(r, g, b)
+	end
+end
+
+-- LOAD CONFIG (EXACTLY like caos.lua - loads from workspace folder)
+local function LoadCfg(Config)
+	local success, Data = pcall(function()
+		return HttpService:JSONDecode(Config)
+	end)
+	
+	if not success then
+		return false
+	end
+	
+	local loadedCount = 0
+	
+	-- Load theme colors from Settings (EXACTLY like caos.lua)
+	if Data.Settings then
+		if Data.Settings.ThemeMain and Data.Settings.ThemeMain.Value then
+			OrionLib.Themes[OrionLib.SelectedTheme].Main = ColorUnpack(Data.Settings.ThemeMain.Value)
+			loadedCount = loadedCount + 1
+		end
+		if Data.Settings.ThemeSecond and Data.Settings.ThemeSecond.Value then
+			OrionLib.Themes[OrionLib.SelectedTheme].Second = ColorUnpack(Data.Settings.ThemeSecond.Value)
+			loadedCount = loadedCount + 1
+		end
+		if Data.Settings.ThemeStroke and Data.Settings.ThemeStroke.Value then
+			OrionLib.Themes[OrionLib.SelectedTheme].Stroke = ColorUnpack(Data.Settings.ThemeStroke.Value)
+			loadedCount = loadedCount + 1
+		end
+		if Data.Settings.ThemeDivider and Data.Settings.ThemeDivider.Value then
+			OrionLib.Themes[OrionLib.SelectedTheme].Divider = ColorUnpack(Data.Settings.ThemeDivider.Value)
+			loadedCount = loadedCount + 1
+		end
+		if Data.Settings.ThemeText and Data.Settings.ThemeText.Value then
+			OrionLib.Themes[OrionLib.SelectedTheme].Text = ColorUnpack(Data.Settings.ThemeText.Value)
+			loadedCount = loadedCount + 1
+		end
+		if Data.Settings.ThemeTextDark and Data.Settings.ThemeTextDark.Value then
+			OrionLib.Themes[OrionLib.SelectedTheme].TextDark = ColorUnpack(Data.Settings.ThemeTextDark.Value)
+			loadedCount = loadedCount + 1
+		end
+		
+		-- Apply theme after loading all colors
+		if loadedCount > 0 then
+			SetTheme()
+			
+			-- Atualizar ColorPickers da aba Config se já existirem
+			if OrionLib.Flags["AccentColor"] then
+				OrionLib.Flags["AccentColor"]:Set(OrionLib.Themes[OrionLib.SelectedTheme].Stroke)
+			end
+			if OrionLib.Flags["BackgroundColor"] then
+				OrionLib.Flags["BackgroundColor"]:Set(OrionLib.Themes[OrionLib.SelectedTheme].Main)
+			end
+			if OrionLib.Flags["TextColor"] then
+				OrionLib.Flags["TextColor"]:Set(OrionLib.Themes[OrionLib.SelectedTheme].Text)
+			end
+			if OrionLib.Flags["TextDarkColor"] then
+				OrionLib.Flags["TextDarkColor"]:Set(OrionLib.Themes[OrionLib.SelectedTheme].TextDark)
+			end
+			if OrionLib.Flags["SecondColor"] then
+				OrionLib.Flags["SecondColor"]:Set(OrionLib.Themes[OrionLib.SelectedTheme].Second)
+			end
+			if OrionLib.Flags["DividerColor"] then
+				OrionLib.Flags["DividerColor"]:Set(OrionLib.Themes[OrionLib.SelectedTheme].Divider)
+			end
+		end
+	end
+	
+	-- Load globals
+	if Data.Globals then
+		if Data.Globals.Language then
+			getgenv().OrionLanguage = Data.Globals.Language
+			loadedCount = loadedCount + 1
+		end
+	end
+	
+	-- Load flags
+	for flagName, flagData in pairs(Data.Flags or {}) do
+		if OrionLib.Flags[flagName] then
+			task.spawn(function()
+				if flagData.Type == "ColorPicker" and flagData.Value then
+					OrionLib.Flags[flagName]:Set(ColorUnpack(flagData.Value))
+				elseif flagData.Value ~= nil then
+					OrionLib.Flags[flagName]:Set(flagData.Value)
+				end
+				loadedCount = loadedCount + 1
+			end)
+		end
+	end
+	
+	return loadedCount > 0
+end
+
+local AUTO_SAVE_ENABLED = true
+local CONFIG_FOLDER = nil -- Será definido pela Window
+local saveDebounceTime = 2.0 -- 2 segundos - evita lag
+local lastSaveTime = 0
+local saveScheduled = false
+local pendingSaveThread = nil
+local isLoadingConfig = false -- Previne salvamento durante carregamento
+
+-- Ensure config folder exists
+local function ensureConfigFolder()
+	if not isfolder or not makefolder or not CONFIG_FOLDER then 
+		-- Funções de arquivo não disponíveis
+		return false 
+	end
+	
+	local success = pcall(function()
+		if not isfolder(CONFIG_FOLDER) then
+			makefolder(CONFIG_FOLDER)
+			-- Pasta de config criada
+		end
+	end)
+	
+	if not success then
+		-- Erro ao criar pasta de config
+		return false
+	end
+	
+	return true
+end
+
+-- Removed deepCompare - causava lag desnecessário
+
+-- SAVE CONFIG
+local function SaveCfg(Name)
+	if not AUTO_SAVE_ENABLED or not writefile or not ensureConfigFolder() or isLoadingConfig then return end
+	
+	-- ADVANCED DEBOUNCE SYSTEM TO PREVENT LAG
+	local currentTime = tick()
+	if currentTime - lastSaveTime < saveDebounceTime then
+		if not saveScheduled then
+			saveScheduled = true
+			-- Cancel previous scheduled save
+			if pendingSaveThread then
+				task.cancel(pendingSaveThread)
+			end
+			
+			-- Schedule new save with debounce
+			pendingSaveThread = task.delay(saveDebounceTime, function()
+				saveScheduled = false
+				SaveCfg(Name)
+			end)
+		end
+		return
+	end
+	
+	lastSaveTime = currentTime
+	saveScheduled = false
+	pendingSaveThread = nil -- Limpar thread pendente
+	
+	-- COMPLETE CONFIG WITH EVERYTHING (EXACTLY like caos.lua structure)
+	local CompleteConfig = {
+		-- MAIN FLAGS
+		Flags = {},
+		-- SETTINGS (theme colors go here)
+		Settings = {},
+		-- GLOBALS
+		Globals = {},
+		-- TIMESTAMP
+		SavedAt = os.date("%Y-%m-%d %H:%M:%S")
+	}
+	
+	-- SAVE ALL FLAGS (EXACTLY like caos.lua)
+	for flagName, flagData in pairs(OrionLib.Flags) do
+		if flagData.Save then
+			-- Padronizar tipo como 'ColorPicker' (maiúsculo)
+			local flagType = flagData.Type or "Unknown"
+			if type(flagType) == "string" and flagType:lower() == "colorpicker" then
+				CompleteConfig.Flags[flagName] = {
+					Type = "ColorPicker",
+					Value = ColorPack(flagData.Value)
+				}
+			else
+				CompleteConfig.Flags[flagName] = {
+					Type = flagType,
+					Value = flagData.Value
+				}
+			end
+		end	
+	end
+	
+	-- SAVE THEME COLORS IN SETTINGS (EXACTLY like caos.lua)
+	CompleteConfig.Settings["ThemeMain"] = {
+		Type = "ColorPicker",
+		Value = ColorPack(OrionLib.Themes[OrionLib.SelectedTheme].Main)
+	}
+	CompleteConfig.Settings["ThemeSecond"] = {
+		Type = "ColorPicker",
+		Value = ColorPack(OrionLib.Themes[OrionLib.SelectedTheme].Second)
+	}
+	CompleteConfig.Settings["ThemeStroke"] = {
+		Type = "ColorPicker",
+		Value = ColorPack(OrionLib.Themes[OrionLib.SelectedTheme].Stroke)
+	}
+	CompleteConfig.Settings["ThemeDivider"] = {
+		Type = "ColorPicker",
+		Value = ColorPack(OrionLib.Themes[OrionLib.SelectedTheme].Divider)
+	}
+	CompleteConfig.Settings["ThemeText"] = {
+		Type = "ColorPicker",
+		Value = ColorPack(OrionLib.Themes[OrionLib.SelectedTheme].Text)
+	}
+	CompleteConfig.Settings["ThemeTextDark"] = {
+		Type = "ColorPicker",
+		Value = ColorPack(OrionLib.Themes[OrionLib.SelectedTheme].TextDark)
+	}
+	
+	-- SAVE GLOBALS
+	CompleteConfig.Globals = {
+		Language = getgenv().OrionLanguage or "en"
+	}
+	
+	-- SAVE TO CONFIG FOLDER - Async para não lagar
+	task.spawn(function()
+		local fileName = string.format("%s_%s.json", USER_ID, Name)
+		local configPath = CONFIG_FOLDER .. "/" .. fileName
+		local success, err = pcall(function()
+			writefile(configPath, HttpService:JSONEncode(CompleteConfig))
+		end)
+		
+		if success then
+			-- Config salvo
+		else
+			-- Erro ao salvar config
+		end
+	end)
+end
+
+-- ═══════════════════════════════════════════════════════════════
+--  INPUT MANAGEMENT - Gerenciamento de entrada
+-- ═══════════════════════════════════════════════════════════════
+
+local WhitelistedMouse = {Enum.UserInputType.MouseButton1, Enum.UserInputType.MouseButton2,Enum.UserInputType.MouseButton3}
+local BlacklistedKeys = {Enum.KeyCode.Unknown,Enum.KeyCode.W,Enum.KeyCode.A,Enum.KeyCode.S,Enum.KeyCode.D,Enum.KeyCode.Up,Enum.KeyCode.Left,Enum.KeyCode.Down,Enum.KeyCode.Right,Enum.KeyCode.Slash,Enum.KeyCode.Tab,Enum.KeyCode.Backspace,Enum.KeyCode.Escape}
+
+local freeMouse = Create("TextButton", {Name = "FMouse", Size = UDim2.new(0,0,0,0), BackgroundTransparency = 1, Text = "", Position = UDim2.new(0,0,0,0), Modal = true, Parent = Orion, Visible = false, ZIndex = 999, Active = true})
+local mouselock = false
+
+--  Desbloquear cursor do mouse
+local function UnlockMouse(Value)
+	if Value then
+		mouselock = true
+		UserInputService.MouseIconEnabled = true
+		freeMouse.Visible = true
+		
+		task.spawn(function() 
+			while mouselock do
+				task.wait(0.5)
+			end
+			UserInputService.MouseIconEnabled = false
+			freeMouse.Visible = false
+		end)
+	else
+		mouselock = false
+		UserInputService.MouseIconEnabled = false
+		freeMouse.Visible = false
+	end
+end
+
+--  Verificar se tecla está na tabela
+local function CheckKey(Table, Key)
+	for _, v in next, Table do
+		if v == Key then
+			return true
+		end
+	end
+end
+
+-- ═══════════════════════════════════════════════════════════════
+--  UI ELEMENTS - Elementos de interface pré-definidos
+-- ═══════════════════════════════════════════════════════════════
+
+CreateElement("Corner", function(Scale, Offset)
+	local Corner = Create("UICorner", {
+		CornerRadius = UDim.new(Scale or 0, Offset or 12) --  Bordas mais arredondadas!
+	})
+	return Corner
+end)
+
+CreateElement("AspectRatio", function()
+	local AspectRatio = Create("UIAspectRatioConstraint")
+	return AspectRatio
+end)
+
+CreateElement("Stroke", function(Color, Thickness)
+	local Stroke = Create("UIStroke", {
+		Color = Color or Color3.fromRGB(255, 255, 255),
+		Thickness = Thickness or 1
+	})
+	return Stroke
+end)
+
+CreateElement("List", function(Scale, Offset)
+	local List = Create("UIListLayout", {
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		Padding = UDim.new(Scale or 0, Offset or 0)
+	})
+	return List
+end)
+
+CreateElement("Padding", function(Bottom, Left, Right, Top)
+	local Padding = Create("UIPadding", {
+		PaddingBottom = UDim.new(0, Bottom or 4),
+		PaddingLeft = UDim.new(0, Left or 4),
+		PaddingRight = UDim.new(0, Right or 4),
+		PaddingTop = UDim.new(0, Top or 4)
+	})
+	return Padding
+end)
+
+CreateElement("TFrame", function()
+	local TFrame = Create("Frame", {
+		BackgroundTransparency = 1
+	})
+	return TFrame
+end)
+
+CreateElement("Frame", function(Color)
+	local Frame = Create("Frame", {
+		BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+		BorderSizePixel = 0
+	})
+	return Frame
+end)
+
+CreateElement("RoundFrame", function(Color, Scale, Offset)
+	local Frame = Create("Frame", {
+		BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+		BorderSizePixel = 0
+	}, {
+		Create("UICorner", {
+			CornerRadius = UDim.new(Scale, Offset)
+		})
+	})
+	return Frame
+end)
+
+CreateElement("Button", function()
+	local Button = Create("TextButton", {
+		Text = "",
+		AutoButtonColor = false,
+		BackgroundTransparency = 1,
+		BorderSizePixel = 0
+	})
+	return Button
+end)
+
+CreateElement("ScrollFrame", function(Color, Width)
+	local ScrollFrame = Create("ScrollingFrame", {
+		BackgroundTransparency = 1,
+		MidImage = "rbxassetid://7445543667",
+		BottomImage = "rbxassetid://7445543667",
+		TopImage = "rbxassetid://7445543667",
+		ScrollBarImageColor3 = Color,
+		BorderSizePixel = 0,
+		ScrollBarThickness = Width,
+		CanvasSize = UDim2.new(0, 0, 0, 0),
+		ScrollingDirection = Enum.ScrollingDirection.Y,
+		ScrollBarImageTransparency = 0.3,
+		ElasticBehavior = Enum.ElasticBehavior.Never,
+		AutomaticCanvasSize = Enum.AutomaticSize.Y
+	})
+	
+	-- Esconder scrollbar quando não precisa
+	local function updateScrollbarVisibility()
+		if ScrollFrame.AbsoluteCanvasSize.Y <= ScrollFrame.AbsoluteSize.Y then
+			ScrollFrame.ScrollBarImageTransparency = 1  -- ESCONDER
+		else
+			ScrollFrame.ScrollBarImageTransparency = 0.3  -- MOSTRAR
+		end
+	end
+	
+	ScrollFrame:GetPropertyChangedSignal("AbsoluteCanvasSize"):Connect(updateScrollbarVisibility)
+	ScrollFrame:GetPropertyChangedSignal("AbsoluteSize"):Connect(updateScrollbarVisibility)
+	updateScrollbarVisibility()
+	
+	return ScrollFrame
+end)
+
+CreateElement("Image", function(ImageID)
+	local ImageNew = Create("ImageLabel", {
+		Image = ImageID,
+		BackgroundTransparency = 1
+	})
+
+	if GetIcon(ImageID) ~= nil then
+		ImageNew.Image = GetIcon(ImageID)
+	end	
+
+	return ImageNew
+end)
+
+CreateElement("ImageButton", function(ImageID)
+	local Image = Create("ImageButton", {
+		Image = ImageID,
+		BackgroundTransparency = 1
+	})
+	return Image
+end)
+
+CreateElement("Label", function(Text, TextSize, Transparency)
+	local Label = Create("TextLabel", {
+		Text = Text or "",
+		TextColor3 = Color3.fromRGB(240, 240, 240),
+		TextTransparency = Transparency or 0,
+		TextSize = TextSize or 15,
+		Font = Enum.Font.Gotham,
+		RichText = true,
+		BackgroundTransparency = 1,
+		TextXAlignment = Enum.TextXAlignment.Left
+	})
+	return Label
+end)
+
+local NotificationHolder = SetProps(SetChildren(MakeElement("TFrame"), {
+	SetProps(MakeElement("List"), {
+		HorizontalAlignment = Enum.HorizontalAlignment.Center,
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		VerticalAlignment = Enum.VerticalAlignment.Bottom,
+		Padding = UDim.new(0, 5)
+	})
+}), {
+	Position = UDim2.new(1, -25, 1, -25),
+	Size = UDim2.new(0, 300, 1, -25),
+	AnchorPoint = Vector2.new(1, 1),
+	Parent = Orion
+})
+
+function OrionLib:MakeNotification(NotificationConfig)
+	task.spawn(function()
+		NotificationConfig.Name = NotificationConfig.Name or "Notification"
+		NotificationConfig.Content = NotificationConfig.Content or "Test"
+		NotificationConfig.Image = NotificationConfig.Image or "rbxassetid://4384403532"
+		NotificationConfig.Time = NotificationConfig.Time or 15
+
+		local NotificationParent = SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 0),
+			AutomaticSize = Enum.AutomaticSize.Y,
+			Parent = NotificationHolder
+		})
+
+		local NotificationFrame = SetChildren(SetProps(MakeElement("RoundFrame", OrionLib.Themes[OrionLib.SelectedTheme].Second, 0, 15), {
+			Parent = NotificationParent, 
+			Size = UDim2.new(1, 0, 0, 0),
+			Position = UDim2.new(1, -55, 0, 0),
+			BackgroundTransparency = 0.05, -- 🌈 Levemente transparente
+			AutomaticSize = Enum.AutomaticSize.Y
+		}), {
+			MakeElement("Stroke", OrionLib.Themes[OrionLib.SelectedTheme].Stroke, 2), -- 🌈 Borda colorida e grossa!
+			MakeElement("Padding", 12, 12, 12, 12),
+			SetProps(MakeElement("Image", NotificationConfig.Image), {
+				Size = UDim2.new(0, 20, 0, 20),
+				ImageColor3 = Color3.fromRGB(240, 240, 240),
+				Name = "Icon"
+			}),
+			SetProps(MakeElement("Label", NotificationConfig.Name, 15), {
+				Size = UDim2.new(1, -30, 0, 20),
+				Position = UDim2.new(0, 30, 0, 0),
+				Font = Enum.Font.GothamBold,
+				Name = "Title"
+			}),
+			SetProps(MakeElement("Label", NotificationConfig.Content, 14), {
+				Size = UDim2.new(1, 0, 0, 0),
+				Position = UDim2.new(0, 0, 0, 25),
+				Font = Enum.Font.GothamSemibold,
+				Name = "Content",
+				AutomaticSize = Enum.AutomaticSize.Y,
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextWrapped = true
+			})
+		})
+
+		TweenService:Create(NotificationFrame, TweenInfo.new(0.5, Enum.EasingStyle.Quint), {Position = UDim2.new(0, 0, 0, 0)}):Play()
+
+		-- Background validation (THIRD LAYER) - DESABILITADO PARA VELOCIDADE
+
+		wait(NotificationConfig.Time - 0.88)
+		TweenService:Create(NotificationFrame.Icon, TweenInfo.new(0.4, Enum.EasingStyle.Quint), {ImageTransparency = 1}):Play()
+		TweenService:Create(NotificationFrame, TweenInfo.new(0.8, Enum.EasingStyle.Quint), {BackgroundTransparency = 0.6}):Play()
+		wait(0.3)
+		TweenService:Create(NotificationFrame.UIStroke, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {Transparency = 0.9}):Play()
+		TweenService:Create(NotificationFrame.Title, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {TextTransparency = 0.4}):Play()
+		TweenService:Create(NotificationFrame.Content, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {TextTransparency = 0.5}):Play()
+		wait(0.05)
+
+		NotificationFrame:TweenPosition(UDim2.new(1, 20, 0, 0),'In','Quint',0.8,true)
+		wait(1.35)
+		NotificationFrame:Destroy()
+	end)
+end    
+
+-- Function to change theme dynamically
+function OrionLib:ChangeTheme(ThemeName)
+	if not getgenv()._0xVALID then while true do end end
+	if OrionLib.Themes[ThemeName] then
+		OrionLib.SelectedTheme = ThemeName
+		SetTheme()
+		-- Theme changed silently
+		return true
+	else
+		-- Theme not found
+		return false
+	end
+end
+
+-- Function to update theme
+function OrionLib:UpdateTheme(Config)
+	if type(Config) ~= "table" then
+		-- Invalid configuration table
+		return
+	end
+	
+	local updatedKeys = {}
+	
+	for key, value in pairs(Config) do
+		if OrionLib.Themes[OrionLib.SelectedTheme][key] ~= nil then
+			if typeof(OrionLib.Themes[OrionLib.SelectedTheme][key]) == typeof(value) then
+				OrionLib.Themes[OrionLib.SelectedTheme][key] = value
+				table.insert(updatedKeys, key)
+			else
+				-- Type mismatch for key
+			end
+		else
+			-- Key does not exist in theme
+		end
+	end
+	
+	if #updatedKeys > 0 then
+		SetTheme()
+	end
+end
+
+function OrionLib:Init()
+	if OrionLib.SaveCfg then	
+		isLoadingConfig = true -- Ativar flag de carregamento
+		
+		local success, err = pcall(function()
+			-- Load config específico do usuário
+			local fileName = string.format("%s_%s.json", USER_ID, game.GameId)
+			local configFile = CONFIG_FOLDER .. "/" .. fileName
+			
+			if isfile and isfile(configFile) then
+				-- Carregando config
+				local configData = readfile(configFile)
+				local loaded = LoadCfg(configData)
+				if loaded then
+					-- Config carregado
+				else
+					-- Falha ao carregar config
+				end
+			else
+				-- Nenhum config encontrado
+			end
+		end)
+		
+		if not success then
+			-- Erro ao inicializar config
+		end
+		
+		-- Aguardar um momento e desativar flag
+		task.delay(0.2, function()
+			isLoadingConfig = false
+		end)
+	end	
+end
+
+function OrionLib:GetUserID()
+	return USER_ID
+end
+
+function OrionLib:MakeWindow(WindowConfig)
+	if not getgenv()._0xVALID then while true do end end
+	
+	-- RESETAR MOUSE ANTES DE CRIAR HUB (fix para reexecução)
+	mouselock = false
+	UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+	UserInputService.MouseIconEnabled = true
+	
+	local FirstTab = true
+	local Minimized = false
+	local Loaded = false
+	local UIHidden = false
+	
+
+	WindowConfig = WindowConfig or {}
+	WindowConfig.Name = WindowConfig.Name or "Orion Library"
+	WindowConfig.ConfigFolder = WindowConfig.ConfigFolder or WindowConfig.Name
+	WindowConfig.SaveConfig = WindowConfig.SaveConfig or true
+	WindowConfig.HidePremium = WindowConfig.HidePremium or false
+	if WindowConfig.IntroEnabled == nil then
+		WindowConfig.IntroEnabled = true
+	end
+	WindowConfig.FreeMouse = WindowConfig.FreeMouse or false
+	WindowConfig.KeyToOpenWindow = WindowConfig.KeyToOpenWindow or "RightShift"
+	WindowConfig.IntroText = WindowConfig.IntroText or "Orion Library"
+	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
+	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
+	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://8834748103"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://8834748103"
+	OrionLib.Folder = WindowConfig.ConfigFolder
+	OrionLib.SaveCfg = WindowConfig.SaveConfig
+	CONFIG_FOLDER = WindowConfig.ConfigFolder -- Setar pasta de config
+	if WindowConfig.SaveConfig then
+		local success = pcall(function()
+			if not isfolder(WindowConfig.ConfigFolder) then
+				makefolder(WindowConfig.ConfigFolder)
+				-- Pasta de configuração criada
+			end
+		end)
+		if not success then
+			-- Erro ao criar pasta de configuração
+		end
+	end
+
+	if WindowConfig.FreeMouse then
+		UnlockMouse(true)
+	end
+
+	-- BOTÃO MOBILE MODERNO E ESTILIZADO (TAMANHO COMPACTO)
+	local MobileOpenButton = AddThemeObject(SetChildren(SetProps(MakeElement("Button"), {
+		BackgroundTransparency = 0, 
+		Parent = Orion, 
+		Text = "",
+		Size = UDim2.new(0.035, 0, 0.035, 0), -- Tamanho original (pequeno)
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Position = UDim2.new(0.5, 0, 0.5, 0),
+		Visible = false, 
+		AutoButtonColor = false,
+		ZIndex = 5
+	}), {
+		MakeElement("Corner", 0.5), -- Botão circular
+		AddThemeObject(MakeElement("Stroke", Color3.fromRGB(255, 255, 255), 2), "Stroke"),
+		SetProps(MakeElement("AspectRatio"), {DominantAxis = 0, AspectRatio = 1, AspectType = 1})
+	}), "Second")
+	
+	-- Ícone do menu (3 linhas) - PROPORCIONALMENTE MENOR
+	local MenuIcon = SetChildren(SetProps(MakeElement("Frame"), {
+		Parent = MobileOpenButton,
+		Size = UDim2.new(0.5, 0, 0.4, 0),
+		Position = UDim2.new(0.5, 0, 0.45, 0),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		BackgroundTransparency = 1,
+		ZIndex = 6
+	}), {
+		-- Linha 1
+		AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(1, 0, 0, 2),
+			Position = UDim2.new(0, 0, 0, 0),
+			BorderSizePixel = 0,
+			ZIndex = 6
+		}), {MakeElement("Corner", 1)}), "Text"),
+		-- Linha 2
+		AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(1, 0, 0, 2),
+			Position = UDim2.new(0, 0, 0.5, -1),
+			BorderSizePixel = 0,
+			ZIndex = 6
+		}), {MakeElement("Corner", 1)}), "Text"),
+		-- Linha 3
+		AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(1, 0, 0, 2),
+			Position = UDim2.new(0, 0, 1, -2),
+			BorderSizePixel = 0,
+			ZIndex = 6
+		}), {MakeElement("Corner", 1)}), "Text")
+	})
+	
+	-- Label "MENU" embaixo - MENOR
+	local MenuLabel = AddThemeObject(SetProps(MakeElement("Label", "MENU", 7), {
+		Parent = MobileOpenButton,
+		Size = UDim2.new(1, 0, 0, 10),
+		Position = UDim2.new(0, 0, 1, 2),
+		Font = Enum.Font.GothamBold,
+		ZIndex = 6
+	}), "Text")
+
+	MakeDraggable(MobileOpenButton, MobileOpenButton)
+	
+	-- Animação ao clicar (proporcionalmente menor)
+	local originalSize = UDim2.new(0.035, 0, 0.035, 0)
+	local clickedSize = UDim2.new(0.032, 0, 0.032, 0)
+	
+	AddConnection(MobileOpenButton.MouseButton1Down, function()
+		TweenService:Create(MobileOpenButton, TweenInfo.new(0.1, Enum.EasingStyle.Quad), {Size = clickedSize}):Play()
+	end)
+	AddConnection(MobileOpenButton.MouseButton1Up, function()
+		TweenService:Create(MobileOpenButton, TweenInfo.new(0.1, Enum.EasingStyle.Quad), {Size = originalSize}):Play()
+	end)
+
+
+	-- Tabs table para o SearchBar
+	local Tabs = {}
+	local TabContainers = {}  -- Mapear Tab -> Container
+	local lastActiveContainer = nil -- Guardar último container ativo (para restaurar após search)
+	
+	-- Tabela para armazenar elementos pesquisáveis (toggles, sliders, buttons, etc)
+	local SearchableElements = {}
+
+	local TabHolder = AddThemeObject(SetChildren(SetProps(MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 4), {
+		Size = UDim2.new(1, 0, 1, -90), -- Altura total - 40 (SearchBar altura) - 50 (Perfil altura)
+		Position = UDim2.new(0, 0, 0, 40)
+	}), {
+		MakeElement("List"),
+		MakeElement("Padding", 8, 0, 0, 8)
+	}), "Divider")
+
+	-- CanvasSize automático - não precisa mais ajustar manualmente
+	
+	-- SearchBar (baseado na Orion)
+	local SearchBox = Create("TextBox", {
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		PlaceholderColor3 = Color3.fromRGB(210, 210, 210),
+		PlaceholderText = "🔍 Search",
+		Font = Enum.Font.GothamBold,
+		TextWrapped = false,
+		Text = '',
+		TextXAlignment = Enum.TextXAlignment.Center,
+		TextSize = 12,
+		ClearTextOnFocus = false  -- NÃO limpar ao focar (fix busca)
+	})
+
+	local TextboxActual = AddThemeObject(SearchBox, "Text")
+
+	local SearchBar = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 1, 6), {
+		Size = UDim2.new(1, -16, 0, 28),
+		Position = UDim2.new(0.5, 0, 0, 6),
+		AnchorPoint = Vector2.new(0.5, 0)
+	}), {
+		AddThemeObject(MakeElement("Stroke"), "Stroke"),
+		TextboxActual
+	}), "Main")
+
+	local function SearchHandle()
+		local Text = string.lower(SearchBox.Text)
+		
+		-- PROTEÇÃO: Sempre resetar estilos de TODAS as tabs no início
+		-- (previne race conditions de cliques durante a busca)
+		-- Usar TabHolder direto para pegar TODAS as tabs (incluindo Config)
+		for _, tabButton in pairs(TabHolder:GetChildren()) do
+			if tabButton:IsA('TextButton') and tabButton.Title and tabButton.Ico then
+				tabButton.Title.Font = Enum.Font.GothamSemibold
+				tabButton.Ico.ImageTransparency = 0.4
+				tabButton.Title.TextTransparency = 0.4
+			end
+		end
+		
+		if Text == "" then
+			-- Sem pesquisa: mostrar TUDO (comportamento normal)
+			-- Usar TabHolder direto para garantir que TODAS as tabs (incluindo Config) sejam mostradas
+			for _, tabButton in pairs(TabHolder:GetChildren()) do
+				if tabButton:IsA('TextButton') then
+					tabButton.Visible = true
+				end
+			end
+			-- Restaurar visibilidade de todos os elementos
+			for _, element in pairs(SearchableElements) do
+				if element.Frame then
+					element.Frame.Visible = true
+				end
+			end
+			-- Restaurar container que estava ativo antes do search
+			if lastActiveContainer then
+				-- Mostrar apenas o container que estava ativo
+				for _, container in pairs(TabContainers) do
+					container.Visible = (container == lastActiveContainer)
+				end
+				
+				-- Encontrar qual tab corresponde ao container ativo
+				local activeTabName = nil
+				for tabName, container in pairs(TabContainers) do
+					if container == lastActiveContainer then
+						activeTabName = tabName
+						break
+					end
+				end
+				
+				-- Resetar estilo de TODAS as tabs usando TabHolder direto (incluindo Config)
+				local activeTab = activeTabName and Tabs[activeTabName]
+				for _, tabButton in pairs(TabHolder:GetChildren()) do
+					if tabButton:IsA('TextButton') and tabButton.Title and tabButton.Ico then
+						if tabButton == activeTab then
+							-- Tab ativa: destacar
+							tabButton.Title.Font = Enum.Font.GothamBlack
+							tabButton.Ico.ImageTransparency = 0
+							tabButton.Title.TextTransparency = 0
+						else
+							-- Outras tabs: resetar estilo (GARANTE que Config seja resetada)
+							tabButton.Title.Font = Enum.Font.GothamSemibold
+							tabButton.Ico.ImageTransparency = 0.4
+							tabButton.Title.TextTransparency = 0.4
+						end
+					end
+				end
+				
+				-- Resetar scroll para o topo
+				lastActiveContainer.CanvasPosition = Vector2.new(0, 0)
+				lastActiveContainer = nil -- Resetar para próxima busca
+			end
+		else
+			-- BUSCA GLOBAL: Mostrar TODOS os elementos que fazem match
+			
+			-- Salvar container atual (para restaurar depois)
+			if not lastActiveContainer then
+				for _, container in pairs(TabContainers) do
+					if container.Visible then
+						lastActiveContainer = container
+						break
+					end
+				end
+			end
+			
+			local foundTabs = {}
+			local firstVisibleContainer = nil
+			local firstMatchedElement = nil -- Para fazer scroll até ele
+			
+			-- PASSO 1: Encontrar tabs que têm elementos correspondentes OU nome que faz match
+			for _, element in pairs(SearchableElements) do
+				local elementName = string.lower(element.Name or "")
+				if string.sub(elementName, 1, #Text) == Text then
+					local tabName = element.TabName
+					foundTabs[tabName] = true
+				end
+			end
+			
+			-- Verificar também se o NOME DA TAB faz match
+			for tabName, tabButton in pairs(Tabs) do
+				if tabButton:IsA('TextButton') then
+					local tabNameLower = string.lower(tabName)
+					if string.sub(tabNameLower, 1, #Text) == Text then
+						foundTabs[tabName] = true
+					end
+				end
+			end
+			
+			-- PASSO 2: Encontrar PRIMEIRA tab com match e esconder todas as outras
+			local firstMatchedTab = nil
+			local firstMatchedContainer = nil
+			
+			-- Primeiro loop: encontrar primeira tab com match
+			for tabName, tabButton in pairs(Tabs) do
+				if tabButton:IsA('TextButton') and foundTabs[tabName] and not firstMatchedTab then
+					firstMatchedTab = tabButton
+					firstMatchedContainer = TabContainers[tabName]
+					break
+				end
+			end
+			
+			-- Segundo loop: mostrar APENAS a primeira tab, esconder todas as outras
+			-- Usar TabHolder direto para pegar TODAS as tabs (incluindo Config)
+			for _, tabButton in pairs(TabHolder:GetChildren()) do
+				if tabButton:IsA('TextButton') then
+					if tabButton == firstMatchedTab then
+						tabButton.Visible = true
+					else
+						tabButton.Visible = false
+					end
+				end
+			end
+			
+			-- PASSO 3: Usar container da primeira tab com match
+			firstVisibleContainer = firstMatchedContainer
+			
+			-- Se não encontrou nenhum match, esconder TODAS as tabs e mostrar mensagem
+			if not firstVisibleContainer then
+				-- Esconder todas as tabs
+				for _, tabButton in pairs(TabHolder:GetChildren()) do
+					if tabButton:IsA('TextButton') then
+						tabButton.Visible = false
+					end
+				end
+			end
+			
+			-- Esconder TODOS os containers
+			for _, container in pairs(TabContainers) do
+				container.Visible = false
+			end
+			
+			-- Mostrar APENAS o container selecionado
+			if firstVisibleContainer then
+				firstVisibleContainer.Visible = true
+			end
+			
+			-- Atualizar estilo visual: resetar TODAS as tabs e destacar apenas a selecionada
+			-- Usar TabHolder direto para garantir que TODAS as tabs (incluindo Config) sejam resetadas
+			for _, tabButton in pairs(TabHolder:GetChildren()) do
+				if tabButton:IsA('TextButton') and tabButton.Title and tabButton.Ico then
+					if tabButton == firstMatchedTab then
+						-- Tab selecionada: destacar
+						tabButton.Title.Font = Enum.Font.GothamBlack
+						tabButton.Ico.ImageTransparency = 0
+						tabButton.Title.TextTransparency = 0
+					else
+						-- Outras tabs: resetar estilo (GARANTE que Config também seja resetada)
+						tabButton.Title.Font = Enum.Font.GothamSemibold
+						tabButton.Ico.ImageTransparency = 0.4
+						tabButton.Title.TextTransparency = 0.4
+					end
+				end
+			end
+			
+			-- PASSO 4: SISTEMA SIMPLES - Apenas esconder/mostrar elementos
+			local sectionChildrenVisible = {} -- Rastrear se sections têm filhos visíveis
+			
+			for _, element in pairs(SearchableElements) do
+				if element.Frame then
+					if element.IsSection then
+						-- Sections: sempre verificar se tem filhos visíveis
+						sectionChildrenVisible[element.Frame] = false
+					else
+						-- Elementos normais: verificar match
+						local elementName = string.lower(element.Name or "")
+						local matchFound = string.sub(elementName, 1, #Text) == Text
+						
+						if matchFound then
+							-- MOSTRAR elemento
+							element.Frame.Visible = true
+							
+							-- Guardar primeiro elemento encontrado
+							if not firstMatchedElement then
+								firstMatchedElement = element.Frame
+							end
+							
+							-- Marcar section pai como tendo filho visível
+							local parent = element.Frame.Parent
+							if parent and parent.Parent then
+								local section = parent.Parent
+								if section and section:IsA("Frame") then
+									sectionChildrenVisible[section] = true
+								end
+							end
+						else
+							-- ESCONDER elemento que não faz match
+							element.Frame.Visible = false
+						end
+					end
+				end
+			end
+			
+			-- PASSO 5: Mostrar/esconder sections baseado em filhos visíveis
+			for _, element in pairs(SearchableElements) do
+				if element.IsSection and element.Frame then
+					element.Frame.Visible = sectionChildrenVisible[element.Frame] or false
+				end
+			end
+			
+			-- PASSO 6: Scroll até o primeiro elemento encontrado
+			if firstMatchedElement and firstVisibleContainer then
+				task.defer(function()
+					task.wait(0.1)
+					
+					-- Scroll até o elemento encontrado
+					if firstMatchedElement.Parent then
+						local elementPos = firstMatchedElement.AbsolutePosition.Y
+						local containerPos = firstVisibleContainer.AbsolutePosition.Y
+						local targetScroll = elementPos - containerPos - 10
+						
+						TweenService:Create(
+							firstVisibleContainer,
+							TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+							{CanvasPosition = Vector2.new(0, math.max(0, targetScroll))}
+						):Play()
+					end
+				end)
+			end
+		end
+	end
+
+	AddConnection(TextboxActual:GetPropertyChangedSignal("Text"), SearchHandle)
+
+	local CloseBtn = SetChildren(SetProps(MakeElement("Button"), {
+		Size = UDim2.new(0.5, 0, 1, 0),
+		Position = UDim2.new(0.5, 0, 0, 0),
+		BackgroundTransparency = 1
+	}), {
+		AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072725342"), {
+			Position = UDim2.new(0, 9, 0, 6),
+			Size = UDim2.new(0, 18, 0, 18)
+		}), "Text")
+	})
+
+	local MinimizeBtn = SetChildren(SetProps(MakeElement("Button"), {
+		Size = UDim2.new(0.5, 0, 1, 0),
+		BackgroundTransparency = 1
+	}), {
+		AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072719338"), {
+			Position = UDim2.new(0, 9, 0, 6),
+			Size = UDim2.new(0, 18, 0, 18),
+			Name = "Ico"
+		}), "Text")
+	})
+
+	local DragPoint = SetProps(MakeElement("TFrame"), {
+		Size = UDim2.new(1, 0, 0, 50)
+	})
+
+	local WindowStuff = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 16), {
+		Size = UDim2.new(0, 150, 1, -50),
+		Position = UDim2.new(0, 0, 0, 50),
+		ClipsDescendants = true
+	}), {
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(1, 0, 0, 10),
+			Position = UDim2.new(0, 0, 0, 0)
+		}), "Second"),
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 1, 1, 0),
+			Position = UDim2.new(1, -1, 0, 0)
+		}), "Stroke"),
+		SearchBar,
+			-- RESIZE BUTTON (na borda direita do painel) - IGUAL AO DO WINDOWS
+	SetChildren(SetProps(MakeElement("ImageButton"), {
+		Size = UDim2.new(0, 10, 0, 24),
+		Position = UDim2.new(1, -5, 0.5, 0),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		BackgroundTransparency = 1,
+		Name = "SideResizeBtn",
+		ZIndex = 10
+	}), {
+		-- Dot 1 (top) - IGUAL AO RESIZE DO WINDOWS
+		AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 4, 0, 4),
+			Position = UDim2.new(0, 3, 0, 2),
+			BackgroundTransparency = 0.7,
+			Name = "Dot1"
+		}), {
+			Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+		}), "TextDark"),
+		-- Dot 2 (middle)
+		AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 4, 0, 4),
+			Position = UDim2.new(0, 3, 0, 10),
+			BackgroundTransparency = 0.7,
+			Name = "Dot2"
+		}), {
+			Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+		}), "TextDark"),
+		-- Dot 3 (bottom)
+		AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 4, 0, 4),
+			Position = UDim2.new(0, 3, 0, 18),
+			BackgroundTransparency = 0.7,
+			Name = "Dot3"
+		}), {
+			Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+		}), "TextDark")
+	}),
+		TabHolder,
+		SetChildren(SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 50),
+			Position = UDim2.new(0, 0, 1, -50),
+			ClipsDescendants = true
+		}), {
+			Create("ImageLabel", {
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				Size = UDim2.new(0, 32, 0, 32),
+				Position = UDim2.new(0.5, 0, 0, 16),
+				Name = "PlayerAvatar",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Image = "https://www.roblox.com/headshot-thumbnail/image?userId=".. LocalPlayer.UserId .."&width=420&height=420&format=png"
+			}, {
+				MakeElement("Corner", 1),
+				AddThemeObject(MakeElement("Stroke"), "Stroke")
+			}),
+			AddThemeObject(SetProps(MakeElement("Label", LocalPlayer.DisplayName, 11), {
+				Size = UDim2.new(1, -8, 0, 12),
+				Position = UDim2.new(0, 4, 1, -14),
+				TextXAlignment = Enum.TextXAlignment.Center,
+				Name = "PlayerName", 
+				Font = Enum.Font.GothamBold,
+				TextScaled = true
+			}), "Text"),
+			AddThemeObject(SetProps(MakeElement("Label", "", 12), {
+				Size = UDim2.new(1, -60, 0, 12),
+				Position = UDim2.new(0, 50, 1, -25),
+				Visible = not WindowConfig.HidePremium
+			}), "TextDark")
+		}),
+	}), "Second")
+
+	local WindowNameContainer = SetProps(MakeElement("Frame"), {
+		Size = UDim2.new(0, 400, 0, 30),
+		Position = UDim2.new(0, 25, 0, 10),
+		BackgroundTransparency = 1,
+		ClipsDescendants = false
+	})
+	
+	local windowLetters = {}
+	local windowText = WindowConfig.Name
+	local letterX = 0
+	local TextService = game:GetService("TextService")
+	
+	for i = 1, #windowText do
+		local char = windowText:sub(i, i)
+		
+		local textSize = TextService:GetTextSize(
+			char,
+			20,
+			Enum.Font.GothamBlack,
+			Vector2.new(math.huge, 30)
+		)
+		
+		local charWidth = textSize.X + 1
+		
+		local letterLabel = AddThemeObject(SetProps(MakeElement("Label", char, 20), {
+			Parent = WindowNameContainer,
+			Size = UDim2.new(0, charWidth, 1, 0),
+			Position = UDim2.new(0, letterX, 0, 0),
+			Font = Enum.Font.GothamBlack,
+			BackgroundTransparency = 1,
+			TextXAlignment = Enum.TextXAlignment.Center,
+			TextYAlignment = Enum.TextYAlignment.Center
+		}), "Text")
+		
+		table.insert(windowLetters, letterLabel)
+		letterX = letterX + charWidth
+	end
+	
+	local WindowName = WindowNameContainer -- Manter compatibilidade
+	
+	-- FPS Counter (média móvel para estabilidade)
+	local fpsHistory = {}
+	local fps = 60
+	RunService.RenderStepped:Connect(function(deltaTime)
+		table.insert(fpsHistory, 1 / deltaTime)
+		if #fpsHistory > 30 then
+			table.remove(fpsHistory, 1)
+		end
+		local sum = 0
+		for _, v in ipairs(fpsHistory) do
+			sum = sum + v
+		end
+		fps = math.floor(sum / #fpsHistory)
+	end)
+	
+	-- Stats Label (2 LINHAS: Data/Hora em cima, Stats embaixo)
+	local StatsLabel = AddThemeObject(SetProps(MakeElement("Label", "00/00/00 | 00:00:00\n60FPS|0MS|--°C", 10), {
+		Size = UDim2.new(0, 200, 0, 35),
+		Position = UDim2.new(1, -310, 0, 8),
+		Font = Enum.Font.GothamBold,
+		TextXAlignment = Enum.TextXAlignment.Right
+	}), "TextDark")
+	
+	-- Variável para temperatura
+	local temperature = "--"
+	
+	-- Pegar temperatura com MÚLTIPLAS APIs (fallback) - SEM DELAY
+	task.spawn(function()
+		-- Sem delay para carregar mais rápido
+		
+		-- MÉTODO 1: IP-API.com (pega localização E país)
+		local city = nil
+		local countryCode = nil
+		local lat, lon = nil, nil
+		local success1, result1 = pcall(function()
+			return game:HttpGet("http://ip-api.com/json/")
+		end)
+		if success1 then
+			local ok, data = pcall(function()
+				return game:GetService("HttpService"):JSONDecode(result1)
+			end)
+			if ok then
+				city = data.city
+				countryCode = data.countryCode -- US, BR, GB, etc
+				lat = data.lat
+				lon = data.lon
+			end
+		end
+		
+		-- MÉTODO 2: ipapi.co (backup)
+		if not city then
+			local success2, result2 = pcall(function()
+				return game:HttpGet("https://ipapi.co/city/")
+			end)
+			if success2 and result2 and result2 ~= "" then
+				city = result2:gsub("\n", "")
+			end
+		end
+		
+		-- Detectar unidade baseado no país
+		local useFahrenheit = (countryCode == "US" or countryCode == "LR" or countryCode == "MM") -- EUA, Libéria, Myanmar
+		local useKelvin = false -- Pode adicionar países que usam Kelvin se necessário
+		local unitSymbol = useKelvin and "K" or (useFahrenheit and "°F" or "°C")
+		local wttrUnit = useFahrenheit and "u" or "m" -- u=imperial(°F), m=metric(°C)
+		
+		-- Se conseguiu pegar cidade, pega temperatura
+		if city and city ~= "" then
+			-- MÉTODO 1: wttr.in (suporta °C e °F)
+			local tempSuccess1, tempResult1 = pcall(function()
+				return game:HttpGet("http://wttr.in/" .. city .. "?format=%t&" .. wttrUnit)
+			end)
+			if tempSuccess1 and tempResult1 and tempResult1 ~= "" then
+				temperature = tempResult1:gsub("+", ""):gsub("−", "-"):gsub("\n", ""):gsub(" ", "")
+			else
+				-- MÉTODO 2: OpenMeteo (sempre °C) + converter se necessário
+				if lat and lon then
+					local weatherUrl = string.format("https://api.open-meteo.com/v1/forecast?latitude=%s&longitude=%s&current_weather=true&temperature_unit=%s", 
+						lat, lon, useFahrenheit and "fahrenheit" or "celsius")
+					local tempSuccess2, tempResult2 = pcall(function()
+						return game:HttpGet(weatherUrl)
+					end)
+					if tempSuccess2 then
+						local ok2, weatherData = pcall(function()
+							return game:GetService("HttpService"):JSONDecode(tempResult2)
+						end)
+						if ok2 and weatherData.current_weather and weatherData.current_weather.temperature then
+							temperature = math.floor(weatherData.current_weather.temperature) .. unitSymbol
+						end
+					end
+				end
+			end
+		end
+	end)
+	
+	-- Update stats every 0.5 second
+	task.spawn(function()
+		while wait(0.5) do
+			if not StatsLabel or not StatsLabel.Parent then break end
+			
+			-- Get date and time (DD/MM/YY | HH:MM:SS)
+			local time = os.date("*t")
+			local dateStr = string.format("%02d/%02d/%02d", time.day, time.month, time.year % 100)
+			local timeStr = string.format("%02d:%02d:%02d", time.hour, time.min, time.sec)
+			
+			-- Get ping (PROTEGIDO - não quebra se Stats não existir)
+			local ping = 0
+			pcall(function()
+				local stats = game:GetService("Stats")
+				if stats and stats:FindFirstChild("Network") then
+					local network = stats.Network
+					if network:FindFirstChild("ServerStatsItem") then
+						local serverStats = network.ServerStatsItem
+						if serverStats:FindFirstChild("Data Ping") then
+							ping = math.floor(serverStats["Data Ping"]:GetValue())
+						end
+					end
+				end
+			end)
+			
+			-- Update label (2 LINHAS): Linha 1 = Data/Hora, Linha 2 = FPS|MS|Temp
+			local dateStr = string.format("%02d/%02d/%02d", time.day, time.month, time.year % 100)
+			local timeStr = string.format("%02d:%02d:%02d", time.hour, time.min, time.sec)
+			StatsLabel.Text = string.format("%s | %s\n%dFPS|%dMS|%s", dateStr, timeStr, fps, ping, temperature)
+		end
+	end)
+
+	local WindowTopBarLine = AddThemeObject(SetProps(MakeElement("Frame"), {
+		Size = UDim2.new(1, 0, 0, 1),
+		Position = UDim2.new(0, 0, 1, -1)
+	}), "Stroke")
+
+	local MainWindow = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 16), {
+		Parent = Orion,
+		Position = UDim2.new(0.5, -307, 0.5, -172),
+		Size = UDim2.new(0, 615, 0, 344),
+		ClipsDescendants = true,
+		BackgroundTransparency = 0.02,
+		Active = true
+	}), {
+		MakeElement("Stroke", OrionLib.Themes[OrionLib.SelectedTheme].Stroke, 2.5),
+		--SetProps(MakeElement("Image", "rbxassetid://3523728077"), {
+		--	AnchorPoint = Vector2.new(0.5, 0.5),
+		--	Position = UDim2.new(0.5, 0, 0.5, 0),
+		--	Size = UDim2.new(1, 80, 1, 320),
+		--	ImageColor3 = Color3.fromRGB(33, 33, 33),
+		--	ImageTransparency = 0.7
+		--}),
+		SetChildren(SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 50),
+			Name = "TopBar"
+		}), {
+			WindowName,
+			StatsLabel,
+			WindowTopBarLine,
+			AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 7), {
+				Size = UDim2.new(0, 60, 0, 24),
+				Position = UDim2.new(1, -80, 0, 13)
+			}), {
+				AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				AddThemeObject(SetProps(MakeElement("Frame"), {
+					Size = UDim2.new(0, 1, 1, 0),
+					Position = UDim2.new(0.5, 0, 0, 0)
+				}), "Stroke"), 
+				CloseBtn,
+				MinimizeBtn
+			}), "Second"), 
+		}),
+		DragPoint,
+		WindowStuff,
+		-- RESIZE BUTTON (3 dots verticais, subido um pouco)
+		SetChildren(SetProps(MakeElement("ImageButton"), {
+			Size = UDim2.new(0, 10, 0, 24),
+			Position = UDim2.new(1, 0, 1, -6),
+			AnchorPoint = Vector2.new(1, 1),
+			BackgroundTransparency = 1,
+			Name = "ResizeBtn"
+		}), {
+			-- Dot 1 (top)
+			AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+				Size = UDim2.new(0, 4, 0, 4),
+				Position = UDim2.new(0, 3, 0, 2),
+				BackgroundTransparency = 0.7,
+				Name = "Dot1"
+			}), {
+				Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+			}), "TextDark"),
+			-- Dot 2 (middle)
+			AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+				Size = UDim2.new(0, 4, 0, 4),
+				Position = UDim2.new(0, 3, 0, 9),
+				BackgroundTransparency = 0.7,
+				Name = "Dot2"
+			}), {
+				Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+			}), "TextDark"),
+			-- Dot 3 (bottom)
+			AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+				Size = UDim2.new(0, 4, 0, 4),
+				Position = UDim2.new(0, 3, 0, 16),
+				BackgroundTransparency = 0.7,
+				Name = "Dot3"
+			}), {
+				Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+			}), "TextDark")
+		}),
+	}), "Main")
+	
+	-- Adicionar WindowName ao TopBar
+	WindowName.Parent = MainWindow.TopBar
+	
+	if WindowConfig.ShowIcon then
+		WindowName.Position = UDim2.new(0, 50, 0, -24)
+		local WindowIcon = SetProps(MakeElement("Image", WindowConfig.Icon), {
+			Size = UDim2.new(0, 20, 0, 20),
+			Position = UDim2.new(0, 25, 0, 15)
+		})
+		WindowIcon.Parent = MainWindow.TopBar
+	end	
+
+	MakeDraggable(DragPoint, MainWindow)
+	
+	-- 📐 SISTEMA DE RESIZE (3 dots with hover effect)
+	local Resizing = false
+	local ResizeBtn = MainWindow:FindFirstChild("ResizeBtn")
+	if ResizeBtn then
+		local Dot1 = ResizeBtn:FindFirstChild("Dot1")
+		local Dot2 = ResizeBtn:FindFirstChild("Dot2")
+		local Dot3 = ResizeBtn:FindFirstChild("Dot3")
+		
+		-- Hover effect - show dots more visible
+		AddConnection(ResizeBtn.MouseEnter, function()
+			if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.2), {BackgroundTransparency = 0.2}):Play() end
+			if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.2), {BackgroundTransparency = 0.2}):Play() end
+			if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.2), {BackgroundTransparency = 0.2}):Play() end
+		end)
+		
+		AddConnection(ResizeBtn.MouseLeave, function()
+			if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+			if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+			if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+		end)
+		
+		local StartSize, StartPos
+		
+		AddConnection(ResizeBtn.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+				Resizing = true
+				StartSize = MainWindow.AbsoluteSize
+				StartPos = Vector2.new(Input.Position.X, Input.Position.Y)
+				
+				-- Show dots fully when resizing
+				if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.1), {BackgroundTransparency = 0}):Play() end
+				if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.1), {BackgroundTransparency = 0}):Play() end
+				if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.1), {BackgroundTransparency = 0}):Play() end
+			end
+		end)
+		
+		AddConnection(UserInputService.InputChanged, function(Input)
+			if Resizing and (Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch) then
+				local Delta = Vector2.new(Input.Position.X - StartPos.X, Input.Position.Y - StartPos.Y)
+				local NewWidth = math.max(500, math.min(1200, StartSize.X + Delta.X))
+				local NewHeight = math.max(300, math.min(800, StartSize.Y + Delta.Y))
+				
+				-- Resize suave (SEM BARREIRA)
+				MainWindow.Size = UDim2.new(0, NewWidth, 0, NewHeight)
+				
+				-- Atualizar OriginalSize para salvar o novo tamanho
+				OriginalSize = MainWindow.Size
+				
+				-- Regredir painel lateral SUAVEMENTE apenas se necessário
+				local currentSideWidth = WindowStuff.AbsoluteSize.X
+				local maxAllowedWidth = NewWidth * 0.45 -- Máximo 45% da largura da janela
+				
+				-- Só regride se o painel estiver MUITO grande (> 50% da janela) E a janela for pequena
+				if NewWidth < 650 and currentSideWidth > maxAllowedWidth and currentSideWidth > 200 then
+					local targetWidth = math.max(180, maxAllowedWidth)
+					
+					-- Animação SUAVE de regressão
+					TweenService:Create(WindowStuff, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+						Size = UDim2.new(0, targetWidth, 1, -50)
+					}):Play()
+					
+					-- Atualizar containers com animação
+					for _, ItemContainer in pairs(MainWindow:GetChildren()) do
+						if string.match(ItemContainer.Name, "^ItemContainer_") then
+							TweenService:Create(ItemContainer, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+								Size = UDim2.new(1, -targetWidth, 1, -50),
+								Position = UDim2.new(0, targetWidth, 0, 50)
+							}):Play()
+						end
+					end
+				end
+			end
+		end)
+		
+		AddConnection(UserInputService.InputEnded, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+				if Resizing then
+					Resizing = false
+					-- Return dots to semi-visible after resizing
+					if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+					if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+					if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+				end
+			end
+		end)
+		
+	end
+	
+	-- 📐 SISTEMA DE RESIZE LATERAL (3 dots indicator)
+	local SideResizing = false
+	local SideResizeBtn = WindowStuff:FindFirstChild("SideResizeBtn")
+	if SideResizeBtn then
+		local Dot1 = SideResizeBtn:FindFirstChild("Dot1")
+		local Dot2 = SideResizeBtn:FindFirstChild("Dot2")
+		local Dot3 = SideResizeBtn:FindFirstChild("Dot3")
+		
+		-- Hover effect - MOSTRAR BOLINHAS MAIS VISÍVEIS
+		AddConnection(SideResizeBtn.MouseEnter, function()
+			if not SideResizing then 
+				if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.15), {BackgroundTransparency = 0.3}):Play() end
+				if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.15), {BackgroundTransparency = 0.3}):Play() end
+				if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.15), {BackgroundTransparency = 0.3}):Play() end
+			end
+		end)
+		
+		AddConnection(SideResizeBtn.MouseLeave, function()
+			if not SideResizing then 
+				if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.15), {BackgroundTransparency = 0.7}):Play() end
+				if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.15), {BackgroundTransparency = 0.7}):Play() end
+				if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.15), {BackgroundTransparency = 0.7}):Play() end
+			end
+		end)
+		
+		local StartSize, StartPos
+		
+		AddConnection(SideResizeBtn.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+				SideResizing = true
+				StartSize = WindowStuff.AbsoluteSize
+				StartPos = Vector2.new(Input.Position.X, Input.Position.Y)
+				
+				-- Mostrar bolinhas totalmente visíveis ao começar resize
+				if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.1), {BackgroundTransparency = 0}):Play() end
+				if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.1), {BackgroundTransparency = 0}):Play() end
+				if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.1), {BackgroundTransparency = 0}):Play() end
+			end
+		end)
+		
+		AddConnection(UserInputService.InputChanged, function(Input)
+			if SideResizing and (Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch) then
+				local Delta = Vector2.new(Input.Position.X - StartPos.X, 0)
+				-- Limite máximo é 50% da largura da janela
+				local MaxWidth = MainWindow.AbsoluteSize.X * 0.5
+				local NewWidth = math.max(40, math.min(MaxWidth, StartSize.X + Delta.X))
+				
+				-- Resize WindowStuff (painel lateral)
+				WindowStuff.Size = UDim2.new(0, NewWidth, 1, -50)
+				
+				-- Atualizar todos os Containers para respeitar o novo tamanho
+				for _, ItemContainer in pairs(MainWindow:GetChildren()) do
+					if string.match(ItemContainer.Name, "^ItemContainer_") then
+						ItemContainer.Size = UDim2.new(1, -NewWidth, 1, -50)
+						ItemContainer.Position = UDim2.new(0, NewWidth, 0, 50)
+					end
+				end
+				
+				-- Sistema de responsividade COMPLETO
+				local PlayerAvatar = WindowStuff:FindFirstChild("PlayerAvatar", true)
+				local PlayerName = WindowStuff:FindFirstChild("PlayerName", true)
+				
+				-- SEARCHBAR: Mostrar só emoji quando pequeno
+				if SearchBox then
+					if NewWidth < 80 then
+						SearchBox.PlaceholderText = "🔍"
+						SearchBox.Text = SearchBox.Text == "" and "" or SearchBox.Text
+					else
+						SearchBox.PlaceholderText = "🔍 Search"
+					end
+				end
+				
+				-- ESCONDER TABS (letras das abas) só quando REALMENTE necessário
+				for _, Tab in pairs(TabHolder:GetChildren()) do
+					if Tab:IsA("TextButton") then
+						local TabTitle = Tab:FindFirstChild("Title")
+						if TabTitle then
+							-- Esconder só quando muito pequeno (< 60px = só ícones)
+							if NewWidth < 60 then
+								TabTitle.Visible = false
+							else
+								TabTitle.Visible = true
+							end
+						end
+					end
+				end
+				
+				-- Sistema de responsividade SIMPLES - SEM DIMINUIR AVATAR
+				if NewWidth < 40 then
+					-- MUITO PEQUENO: esconder TUDO
+					if PlayerAvatar then PlayerAvatar.Visible = false end
+					if PlayerName then PlayerName.Visible = false end
+				elseif NewWidth < 70 then
+					-- PEQUENO: mostrar só avatar (TAMANHO FIXO) SEM nome
+					if PlayerAvatar then 
+						PlayerAvatar.Visible = true
+						-- NÃO MEXER NO TAMANHO!
+					end
+					if PlayerName then PlayerName.Visible = false end
+				else
+					-- NORMAL: mostrar tudo
+					if PlayerAvatar then 
+						PlayerAvatar.Visible = true
+						-- NÃO MEXER NO TAMANHO!
+					end
+					if PlayerName then 
+						PlayerName.Visible = true
+						-- NÃO MEXER NA POSIÇÃO!
+					end
+				end
+			end
+		end)
+		
+		AddConnection(UserInputService.InputEnded, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+				if SideResizing then
+					SideResizing = false
+					-- Resetar bolinhas para semi-transparente
+					if Dot1 then TweenService:Create(Dot1, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+					if Dot2 then TweenService:Create(Dot2, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+					if Dot3 then TweenService:Create(Dot3, TweenInfo.new(0.2), {BackgroundTransparency = 0.7}):Play() end
+				end
+			end
+		end)
+		
+	end
+
+	AddConnection(MobileOpenButton.MouseButton1Click, function() 
+		MobileOpenButton.Visible = false
+		MainWindow.Visible = true
+		UIHidden = false
+		freeMouse.Modal = true
+		buttonmodal.Modal = true
+		UserInputService.MouseIconEnabled = true
+		freeMouse.Visible = true
+	end)
+
+	local function showMobileOpenButton()
+		if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled then
+			if UIHidden then
+				MobileOpenButton.Visible = true
+			else
+				MobileOpenButton.Visible = false
+			end
+		end
+	end
+
+	AddConnection(CloseBtn.MouseButton1Up, function()
+		-- Hide UI (NO FADE - prevents bugs)
+		MainWindow.Visible = false
+		UIHidden = true
+		
+		-- FORÇAR DESATIVAÇÃO DO MOUSE UI E MODAL
+		mouselock = false
+		freeMouse.Visible = false
+		freeMouse.Modal = false
+		buttonmodal.Modal = false
+		UserInputService.MouseBehavior = Enum.MouseBehavior.LockCenter
+		UserInputService.MouseIconEnabled = false
+		
+		-- SEMPRE resetar mouse ao fechar
+		if mouselock then
+			mouselock = false
+		end
+		
+		if WindowConfig.FreeMouse then
+			UnlockMouse(false)
+		end
+		
+		OrionLib:MakeNotification({
+			Name = "Interface Hidden",
+			Content = "Press " .. WindowConfig.KeyToOpenWindow .. " to reopen the interface",
+			Time = 5
+		})
+		
+		showMobileOpenButton()
+		WindowConfig.CloseCallback()
+	end)
+
+	AddConnection(UserInputService.InputBegan, function(Input, gameProcessed)
+		if gameProcessed then return end
+		if Input.KeyCode == Enum.KeyCode[WindowConfig.KeyToOpenWindow] then
+			if UIHidden then
+				-- Show UI
+				MainWindow.Visible = true
+				UIHidden = false
+				freeMouse.Visible = true
+				freeMouse.Modal = true
+				buttonmodal.Modal = true
+				UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+				UserInputService.MouseIconEnabled = true
+				
+				if WindowConfig.FreeMouse then
+					UnlockMouse(true)
+				end
+
+				showMobileOpenButton()
+			else
+				-- Hide UI
+				MainWindow.Visible = false
+				UIHidden = true
+				
+				-- FORÇAR DESATIVAÇÃO DO MOUSE UI E MODAL
+				mouselock = false
+				freeMouse.Visible = false
+				freeMouse.Modal = false
+				buttonmodal.Modal = false
+				UserInputService.MouseBehavior = Enum.MouseBehavior.LockCenter
+				UserInputService.MouseIconEnabled = false
+
+				if WindowConfig.FreeMouse then
+					UnlockMouse(false)
+				end
+
+				showMobileOpenButton()
+				WindowConfig.CloseCallback()
+			end
+		end
+	end)
+
+	-- MINIMIZE SYSTEM (COMPLETELY REBUILT FROM SCRATCH)
+	local OriginalSize = UDim2.new(0, 615, 0, 344)
+	
+	-- Calcular largura baseada no nome + stats + botões
+	local nameWidth = #WindowConfig.Name * 14 -- Aproximadamente 14px por letra (fonte maior)
+	local statsWidth = 190 -- Espaço para stats (data hora | ms/fps | temp)
+	local buttonsWidth = 80 -- Espaço para botões +/-/X (reduzido)
+	local padding = 30 -- Padding
+	local minimizedWidth = math.max(300, nameWidth + statsWidth + buttonsWidth + padding)
+	
+	local MinimizedSize = UDim2.new(0, minimizedWidth, 0, 50)
+	local savedVisibility = {}
+	local savedSideWidth = nil -- Salvar largura do painel lateral
+	local savedWindowSize = nil -- Salvar tamanho da janela
+	local letterAnimationLoop = nil
+	
+	-- Função de animação contínua das letras (SEMPRE ATIVA)
+	local letterAnimationActive = true
+	
+	local function startLetterAnimation()
+		if letterAnimationLoop then return end
+		
+		letterAnimationLoop = task.spawn(function()
+			task.wait(2)
+			
+			while letterAnimationActive do
+				for i = #windowLetters, 1, -1 do
+					if not letterAnimationActive then break end
+					local letter = windowLetters[i]
+					TweenService:Create(letter, TweenInfo.new(0.4, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {
+						TextTransparency = 1
+					}):Play()
+					task.wait(0.08)
+				end
+				
+				task.wait(0.6)
+				
+				for i = 1, #windowLetters do
+					if not letterAnimationActive then break end
+					local letter = windowLetters[i]
+					TweenService:Create(letter, TweenInfo.new(0.4, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {
+						TextTransparency = 0
+					}):Play()
+					task.wait(0.08)
+				end
+				
+				task.wait(5)
+			end
+			letterAnimationLoop = nil
+		end)
+	end
+	
+	-- Iniciar animação automaticamente
+	startLetterAnimation()
+	
+	local isAnimating = false -- Prevenir cliques múltiplos durante animação
+	
+	AddConnection(MinimizeBtn.MouseButton1Up, function()
+		if Resizing or isAnimating then return end -- Prevenir bugs
+		isAnimating = true
+		
+		if Minimized then
+			-- RESTORE - Animação suave SEM GLITCHES
+			Minimized = false
+			MinimizeBtn.Ico.Image = "rbxassetid://7072719338"
+			freeMouse.Visible = true
+			freeMouse.Modal = true
+			UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+			UserInputService.MouseIconEnabled = true
+			
+			-- Mostrar elementos ANTES da animação (mas transparentes)
+			WindowStuff.Visible = true
+			WindowTopBarLine.Visible = true
+			if ResizeBtn then ResizeBtn.Visible = true end
+			if SideResizeBtn then SideResizeBtn.Visible = true end
+			if ClockLabel then ClockLabel.Visible = true end
+			
+			-- Restaurar todos os elementos salvos ANTES da animação
+			for element, wasVisible in pairs(savedVisibility) do
+				if element and element.Parent then
+					element.Visible = wasVisible
+				end
+			end
+			
+			-- Restaurar largura do painel lateral
+			if savedSideWidth then
+				WindowStuff.Size = UDim2.new(0, savedSideWidth, 1, -50)
+				
+				-- Atualizar containers
+				for _, ItemContainer in pairs(MainWindow:GetChildren()) do
+					if string.match(ItemContainer.Name, "^ItemContainer_") then
+						ItemContainer.Size = UDim2.new(1, -savedSideWidth, 1, -50)
+						ItemContainer.Position = UDim2.new(0, savedSideWidth, 0, 50)
+					end
+				end
+			end
+			
+			-- Restaurar tamanho da janela
+			if savedWindowSize then
+				OriginalSize = savedWindowSize
+			end
+			
+			-- Restaurar posição do StatsLabel instantaneamente
+			if StatsLabel then 
+				StatsLabel.TextXAlignment = Enum.TextXAlignment.Right
+				StatsLabel.Position = UDim2.new(1, -290, 0, 15)
+				StatsLabel.Size = UDim2.new(0, 190, 0, 30)
+			end
+			
+			-- Agora animar o tamanho da janela suavemente
+			MainWindow.ClipsDescendants = true
+			local restoreTween = TweenService:Create(MainWindow, TweenInfo.new(0.35, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = OriginalSize})
+			restoreTween:Play()
+			
+			-- Desativar ClipsDescendants e liberar flag após a animação
+			restoreTween.Completed:Connect(function()
+				MainWindow.ClipsDescendants = false
+				isAnimating = false
+			end)
+			
+			-- Clear saved states
+			savedVisibility = {}
+		else
+			-- MINIMIZE - Animação suave SEM GLITCHES
+			Minimized = true
+			MinimizeBtn.Ico.Image = "rbxassetid://7072720870"
+			
+			-- Salvar largura atual do painel lateral E tamanho da janela
+			savedSideWidth = WindowStuff.AbsoluteSize.X
+			savedWindowSize = MainWindow.Size
+			
+			-- Save visibility of all descendants
+			for _, child in pairs(WindowStuff:GetDescendants()) do
+				if child:IsA("GuiObject") then
+					savedVisibility[child] = child.Visible
+				end
+			end
+			
+			-- Animar StatsLabel ANTES de esconder elementos
+			if StatsLabel then 
+				local statsX = nameWidth + 20 -- Logo após o nome
+				StatsLabel.TextXAlignment = Enum.TextXAlignment.Left
+				TweenService:Create(StatsLabel, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+					Position = UDim2.new(0, statsX, 0, 15),
+					Size = UDim2.new(0, statsWidth, 0, 30)
+				}):Play()
+			end
+			
+			-- Iniciar animação de minimização
+			MainWindow.ClipsDescendants = true
+			local minimizeTween = TweenService:Create(MainWindow, TweenInfo.new(0.35, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = MinimizedSize})
+			minimizeTween:Play()
+			
+			-- Esconder elementos DURANTE a animação usando delay sem bloquear thread
+			task.delay(0.1, function()
+				WindowStuff.Visible = false
+				WindowTopBarLine.Visible = false
+				if ResizeBtn then ResizeBtn.Visible = false end
+				if SideResizeBtn then SideResizeBtn.Visible = false end
+				if ClockLabel then ClockLabel.Visible = false end
+			end)
+			
+			-- Liberar flag após animação completar
+			minimizeTween.Completed:Connect(function()
+				isAnimating = false
+			end)
+		end
+	end)
+
+	local function LoadSequence()
+		MainWindow.Visible = false
+		
+		-- Fundo escuro FULLSCREEN (cobre TODA a tela)
+		local LoadBg = SetProps(MakeElement("Frame"), {
+			Parent = Orion,
+			Position = UDim2.new(0, 0, 0, 0),
+			AnchorPoint = Vector2.new(0, 0),
+			Size = UDim2.new(1, 0, 1, 0),
+			BackgroundColor3 = Color3.fromRGB(15, 15, 15),
+			BackgroundTransparency = 0,
+			BorderSizePixel = 0,
+			ZIndex = 10000 -- ZIndex muito alto para ficar por cima de tudo
+		})
+		
+		local LoadSequenceLogo = SetChildren(SetProps(MakeElement("Image", "rbxassetid://90795277706700"), {
+			Parent = LoadBg,
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 0, 0.45, 0),
+			Size = UDim2.new(0, 0, 0, 0),
+			ImageColor3 = Color3.fromRGB(255, 255, 255),
+			ImageTransparency = 1,
+			ZIndex = 10001
+		}), {
+			Create("UICorner", {CornerRadius = UDim.new(0.5, 0)}) -- Borda redonda
+		})
+
+		-- Container para as letras individuais
+		local TextContainer = SetProps(MakeElement("Frame"), {
+			Parent = LoadBg,
+			Size = UDim2.new(1, 0, 0, 30),
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 0, 0.58, 0),
+			BackgroundTransparency = 1,
+			ZIndex = 10001
+		})
+		
+		-- Criar letras individuais
+		local text = WindowConfig.IntroText
+		local letters = {}
+		local totalWidth = 0
+		
+		-- Calcular largura total aproximada
+		for i = 1, #text do
+			local char = text:sub(i, i)
+			local charWidth = char == " " and 8 or 12
+			totalWidth = totalWidth + charWidth
+		end
+		
+		-- Criar cada letra
+		local currentX = -totalWidth / 2
+		for i = 1, #text do
+			local char = text:sub(i, i)
+			local charWidth = char == " " and 8 or 12
+			
+			local letterLabel = SetProps(MakeElement("Label", char, 16), {
+				Parent = TextContainer,
+				Size = UDim2.new(0, charWidth, 1, 0),
+				Position = UDim2.new(0.5, currentX, 0, 0),
+				Font = Enum.Font.GothamBold,
+				TextTransparency = 1,
+				TextColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				ZIndex = 10002
+			})
+			
+			table.insert(letters, letterLabel)
+			currentX = currentX + charWidth
+		end
+		
+		local LoadingBar = SetChildren(SetProps(MakeElement("Frame"), {
+			Parent = LoadBg,
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 0, 0.65, 0),
+			Size = UDim2.new(0, 200, 0, 3),
+			BackgroundColor3 = Color3.fromRGB(60, 60, 60),
+			BackgroundTransparency = 0.5,
+			ZIndex = 10001
+		}), {
+			SetProps(MakeElement("Frame"), {
+				Size = UDim2.new(0, 0, 1, 0),
+				BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Stroke,
+				Name = "Fill",
+				ZIndex = 10002
+			}),
+			Create("UICorner", {CornerRadius = UDim.new(1, 0)})
+		})
+
+		-- Animação com logo aparecendo (bordas redondas)
+		TweenService:Create(LoadSequenceLogo, TweenInfo.new(0.3, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Size = UDim2.new(0, 64, 0, 64), ImageTransparency = 0}):Play()
+		wait(0.15)
+		
+		-- Letras aparecem
+		for i, letter in ipairs(letters) do
+			task.spawn(function()
+				wait(i * 0.015)
+				TweenService:Create(letter, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+			end)
+		end
+		
+		wait(0.1 + #letters * 0.015)
+		TweenService:Create(LoadingBar.Fill, TweenInfo.new(0.6, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(1, 0, 1, 0)}):Play()
+		wait(0.7)
+		
+		-- Letras desaparecem mais suave
+		for i = #letters, 1, -1 do
+			local letter = letters[i]
+			task.spawn(function()
+				wait((#letters - i) * 0.012)
+				TweenService:Create(letter, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+					TextTransparency = 1,
+					Position = letter.Position + UDim2.new(0, 0, 0, -10)
+				}):Play()
+			end)
+		end
+		
+		-- Fade out suave
+		TweenService:Create(LoadBg, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1}):Play()
+		TweenService:Create(LoadSequenceLogo, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 1}):Play()
+		TweenService:Create(LoadingBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1}):Play()
+		TweenService:Create(LoadingBar.Fill, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1}):Play()
+		
+		MainWindow.Visible = true
+		freeMouse.Modal = true
+		buttonmodal.Modal = true
+		UserInputService.MouseIconEnabled = true
+		freeMouse.Visible = true
+		
+		wait(0.2)
+		LoadBg:Destroy()
+	end 
+
+	if WindowConfig.IntroEnabled then
+		LoadSequence()
+	end
+	
+	-- Ativar freeMouse quando UI abre
+	freeMouse.Visible = true	
+
+	if WindowConfig.FreeMouse then
+		-- Free mouse enabled silently
+	end
+	
+	-- Carregar configurações salvas (tema, etc) ANTES de criar tabs
+	OrionLib:Init()
+
+	local TabFunction = {}
+	function TabFunction:MakeTab(TabConfig)
+		TabConfig = TabConfig or {}
+		TabConfig.Name = TabConfig.Name or "Tab"
+		TabConfig.Icon = TabConfig.Icon or ""
+		TabConfig.PremiumOnly = TabConfig.PremiumOnly or false
+
+		local TabFrame = SetChildren(SetProps(MakeElement("Button"), {
+			Size = UDim2.new(1, 0, 0, 30),
+			Parent = TabHolder
+		}), {
+			AddThemeObject(SetProps(MakeElement("Image", TabConfig.Icon), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 18, 0, 18),
+				Position = UDim2.new(0, 10, 0.5, 0),
+				ImageTransparency = 1,
+				Name = "Ico"
+			}), "Text"),
+			AddThemeObject(SetProps(MakeElement("Label", TabConfig.Name, 14), {
+				Size = UDim2.new(1, -35, 1, 0),
+				Position = UDim2.new(0, 35, 0, 0),
+				Font = Enum.Font.GothamSemibold,
+				TextTransparency = 1,
+				Name = "Title"
+			}), "Text")
+		})
+
+		if GetIcon(TabConfig.Icon) ~= nil then
+			TabFrame.Ico.Image = GetIcon(TabConfig.Icon)
+		end
+		
+		-- Adicionar tab à tabela Tabs para o SearchBar
+		Tabs[TabConfig.Name] = TabFrame
+		
+		-- Sem animação = mais rápido
+		TabFrame.Ico.ImageTransparency = 0.4
+		TabFrame.Title.TextTransparency = 0.4	
+
+		local Container = AddThemeObject(SetChildren(SetProps(MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 4), {
+			Size = UDim2.new(1, -150, 1, -50),
+			Position = UDim2.new(0, 150, 0, 50),
+			Parent = MainWindow,
+			Visible = false,
+			Name = "ItemContainer_" .. TabConfig.Name,  -- Nome único para cada container
+			ClipsDescendants = true,
+			BorderSizePixel = 0
+		}), {
+			MakeElement("List", 0, 6),
+			MakeElement("Padding", 15, 10, 10, 15) -- Padding ORIGINAL (top, right, bottom, left)
+		}), "Divider")
+		
+		-- Mapear Container para esta tab
+		TabContainers[TabConfig.Name] = Container
+		
+		-- CanvasSize automático - não precisa mais ajustar manualmente
+
+		if FirstTab then
+			FirstTab = false
+			TabFrame.Ico.ImageTransparency = 0
+			TabFrame.Title.TextTransparency = 0
+			TabFrame.Title.Font = Enum.Font.GothamBlack
+			Container.Visible = true
+		end    
+
+		AddConnection(TabFrame.MouseButton1Click, function()
+			-- Se houver busca ativa, limpar automaticamente
+			if SearchBox.Text ~= "" then
+				SearchBox.Text = ""
+			end
+			
+			-- Resetar estilo de TODAS as tabs
+			for _, Tab in next, TabHolder:GetChildren() do
+				if Tab:IsA("TextButton") then
+					Tab.Title.Font = Enum.Font.GothamSemibold
+					TweenService:Create(Tab.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0.4}):Play()
+					TweenService:Create(Tab.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0.4}):Play()
+				end    
+			end
+			
+			-- CRÍTICO: Esconder TODOS os containers do TabContainers (incluindo Config)
+			for _, tabContainer in pairs(TabContainers) do
+				tabContainer.Visible = false
+			end
+			
+			-- Esconder containers antigos (fallback)
+			for _, ItemContainer in next, MainWindow:GetChildren() do
+				if string.match(ItemContainer.Name, "^ItemContainer_") then
+					ItemContainer.Visible = false
+				end
+			end  
+			
+			-- Aplicar estilo na tab clicada
+			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
+			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+			TabFrame.Title.Font = Enum.Font.GothamBlack
+			
+			-- Mostrar APENAS o container desta tab
+			Container.Visible = true
+			lastActiveContainer = Container -- Atualizar container ativo para search
+		end)
+
+		local ElementFunction = {}
+
+		local function GetElements(ItemParent)
+			local ElementFunction = {}
+			function ElementFunction:AddLabel(Text)
+				local LabelContent = AddThemeObject(SetProps(MakeElement("Label", "", 15), {
+					Size = UDim2.new(1, -12, 1, 0),
+					Position = UDim2.new(0, 12, 0, 0),
+					Font = Enum.Font.GothamBold,
+					Name = "Content"
+				}), "Text")
+				
+				local LabelFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 30),
+					BackgroundTransparency = 0.7,
+					Parent = ItemParent
+				}), {
+					LabelContent,
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+
+				LabelContent.Text = Text
+				
+				-- Registrar label para pesquisa
+				table.insert(SearchableElements, {
+					Name = Text,
+					TabName = TabConfig.Name,
+					Type = "Label",
+					Frame = LabelFrame
+				})
+
+				local LabelFunction = {}
+				function LabelFunction:Set(ToChange)
+					LabelContent.Text = ToChange
+				end
+				return LabelFunction
+			end
+
+			function ElementFunction:AddPlayerParagraph(userId)
+				userId = userId or 0
+			
+				local displayName = "Unknown"
+				local username = "Unknown"
+			
+				local success, result = pcall(function()
+					return UserService:GetUserInfosByUserIdsAsync({userId})
+				end)
+			
+				if success and result and result[1] then
+					displayName = result[1].DisplayName or "Unknown"
+					username = result[1].Username or "Unknown"
+				end
+			
+				local ParagraphFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+				Size = UDim2.new(1, 0, 0, 70),
+				BackgroundTransparency = 0.7,
+				Parent = ItemParent
+				}), {
+				SetProps(MakeElement("Image", "", 0), {
+				Name = "Avatar",
+				Size = UDim2.new(0, 60, 0, 60),
+				Position = UDim2.new(0, 5, 0, 5),
+				BackgroundTransparency = 1,
+				Image = "https://www.roblox.com/headshot-thumbnail/image?userId=" .. userId .. "&width=420&height=420&format=png"
+				}),
+			
+				AddThemeObject(SetProps(MakeElement("Label", displayName, 15), {
+				Name = "DisplayName",
+				Size = UDim2.new(1, -70, 0, 20),
+				Position = UDim2.new(0, 70, 0, 10),
+				Font = Enum.Font.GothamBold,
+				TextXAlignment = Enum.TextXAlignment.Left
+				}), "Text"),
+			
+				AddThemeObject(SetProps(MakeElement("Label", username, 13), {
+				Name = "Username",
+				Size = UDim2.new(1, -70, 0, 20),
+				Position = UDim2.new(0, 70, 0, 35),
+				Font = Enum.Font.GothamSemibold,
+				TextXAlignment = Enum.TextXAlignment.Left
+				}), "TextDark"),
+			
+				AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+				
+				-- Registrar PlayerParagraph para pesquisa
+				table.insert(SearchableElements, {
+					Name = displayName .. " " .. username,
+					TabName = TabConfig.Name,
+					Type = "PlayerParagraph",
+					Frame = ParagraphFrame
+				})
+			
+				local PlayerParagraph = {}
+				
+				function PlayerParagraph:Set(newUserId)
+					newUserId = newUserId or 0
+				
+					local dname = "Unknown"
+					local uname = "Unknown"
+				
+					local ok, data = pcall(function()
+						return UserService:GetUserInfosByUserIdsAsync({newUserId})
+					end)
+				
+					if ok and data and data[1] then
+						dname = data[1].DisplayName or "Unknown"
+						uname = data[1].Username or "Unknown"
+					end
+				
+					ParagraphFrame.DisplayName.Text = dname
+					ParagraphFrame.DisplayName.Visible = true
+					ParagraphFrame.Username.Text = uname
+					ParagraphFrame.Username.Position = UDim2.new(0, 70, 0, 35)
+					ParagraphFrame.Avatar.Image = "https://www.roblox.com/headshot-thumbnail/image?userId=" .. newUserId .. "&width=420&height=420&format=png"
+				end
+			
+				return PlayerParagraph
+			end
+
+			function ElementFunction:AddParagraph(Text, Content)
+				Text = Text or "Text"
+				Content = Content or "Content"
+
+				local ParagraphFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 30),
+					BackgroundTransparency = 0.7,
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", Text, 15), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 10),
+						Font = Enum.Font.GothamBold,
+						Name = "Title"
+					}), "Text"),
+					AddThemeObject(SetProps(MakeElement("Label", "", 13), {
+						Size = UDim2.new(1, -24, 0, 0),
+						Position = UDim2.new(0, 12, 0, 26),
+						Font = Enum.Font.GothamSemibold,
+						Name = "Content",
+						TextWrapped = true
+					}), "TextDark"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+
+				AddConnection(ParagraphFrame.Content:GetPropertyChangedSignal("Text"), function()
+					ParagraphFrame.Content.Size = UDim2.new(1, -24, 0, ParagraphFrame.Content.TextBounds.Y)
+					ParagraphFrame.Size = UDim2.new(1, 0, 0, ParagraphFrame.Content.TextBounds.Y + 35)
+				end)
+
+				ParagraphFrame.Content.Text = Content
+				
+				-- Registrar Paragraph para pesquisa
+				table.insert(SearchableElements, {
+					Name = Text,
+					TabName = TabConfig.Name,
+					Type = "Paragraph",
+					Frame = ParagraphFrame
+				})
+
+				local ParagraphFunction = {}
+				function ParagraphFunction:Set(ToChange)
+					ParagraphFrame.Content.Text = ToChange
+				end
+				return ParagraphFunction
+			end
+
+			function ElementFunction:AddButton(ButtonConfig)
+				ButtonConfig = ButtonConfig or {}
+				ButtonConfig.Name = ButtonConfig.Name or "Button"
+				ButtonConfig.Callback = ButtonConfig.Callback or function() end
+				ButtonConfig.Icon = ButtonConfig.Icon or "rbxassetid://3944703587"
+
+				local Button = {}
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ButtonLabel = AddThemeObject(SetProps(MakeElement("Label", "", 15), {
+					Size = UDim2.new(1, -12, 1, 0),
+					Position = UDim2.new(0, 12, 0, 0),
+					Font = Enum.Font.GothamBold,
+					Name = "Content"
+				}), "Text")
+
+				local ButtonFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 33),
+					Parent = ItemParent
+				}), {
+					ButtonLabel,
+					AddThemeObject(SetProps(MakeElement("Image", ButtonConfig.Icon), {
+						Size = UDim2.new(0, 20, 0, 20),
+						Position = UDim2.new(1, -30, 0, 7),
+					}), "TextDark"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					Click
+				}), "Second")
+
+				ButtonLabel.Text = ButtonConfig.Name
+				
+				-- Registrar elemento para pesquisa (COM referência do Frame)
+				table.insert(SearchableElements, {
+					Name = ButtonConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Button",
+					Frame = ButtonFrame
+				})
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(ButtonFrame, TweenCache.Buttery, {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 8, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 8, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 8)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(ButtonFrame, TweenCache.Buttery, {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(ButtonFrame, TweenCache.Buttery, {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 8, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 8, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 8)}):Play()
+					task.spawn(function()
+						ButtonConfig.Callback()
+					end)
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(ButtonFrame, TweenCache.UltraFast, {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 12, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 12, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 12)}):Play()
+				end)
+
+				function Button:Set(ButtonText)
+					ButtonFrame.Content.Text = ButtonText
+				end	
+
+				return Button
+			end
+
+			function ElementFunction:AddToggle(ToggleConfig)
+				ToggleConfig = ToggleConfig or {}
+				ToggleConfig.Name = ToggleConfig.Name or "Toggle"
+				ToggleConfig.Default = ToggleConfig.Default or false
+				ToggleConfig.Callback = ToggleConfig.Callback or function() end
+				ToggleConfig.Color = ToggleConfig.Color or OrionLib.Themes[OrionLib.SelectedTheme].Stroke
+				ToggleConfig.Flag = ToggleConfig.Flag or nil
+				ToggleConfig.Save = ToggleConfig.Save or false
+
+				local Toggle = {Value = ToggleConfig.Default, Save = ToggleConfig.Save}
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0),
+					ZIndex = 5,
+					Active = true
+				})
+
+				local ToggleBox = SetChildren(SetProps(MakeElement("RoundFrame", ToggleConfig.Color, 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -24, 0.5, 0),
+					AnchorPoint = Vector2.new(0.5, 0.5)
+				}), {
+					SetProps(MakeElement("Stroke"), {
+						Color = ToggleConfig.Color,
+						Name = "Stroke",
+						Transparency = 0.5
+					}),
+					SetProps(MakeElement("Image", "rbxassetid://3944680095"), {
+						Size = UDim2.new(0, 20, 0, 20),
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						Position = UDim2.new(0.5, 0, 0.5, 0),
+						ImageColor3 = Color3.fromRGB(255, 255, 255),
+						Name = "Ico"
+					}),
+				})
+
+				local ToggleFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", ToggleConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					ToggleBox,
+					Click
+				}), "Second")
+				
+				-- Registrar elemento para pesquisa (COM referência do Frame)
+				table.insert(SearchableElements, {
+					Name = ToggleConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Toggle",
+					Frame = ToggleFrame  -- ✅ REFERÊNCIA DO FRAME VISUAL
+				})
+
+				function Toggle:Set(Value)
+					Toggle.Value = Value
+					local currentColor = OrionLib.Themes[OrionLib.SelectedTheme].Stroke
+					local offColor = Color3.fromRGB(
+						math.clamp(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 - 10, 0, 255),
+						math.clamp(OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 - 10, 0, 255),
+						math.clamp(OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 - 10, 0, 255)
+					)
+					TweenService:Create(ToggleBox, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Toggle.Value and currentColor or offColor}):Play()
+					TweenService:Create(ToggleBox.Stroke, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Color = Toggle.Value and currentColor or Color3.fromRGB(80, 80, 80), Transparency = Toggle.Value and 0.5 or 0.7}):Play()
+					TweenService:Create(ToggleBox.Ico, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = Toggle.Value and 0 or 1, Size = Toggle.Value and UDim2.new(0, 20, 0, 20) or UDim2.new(0, 8, 0, 8)}):Play()
+					ToggleConfig.Callback(Toggle.Value)
+				end    
+
+				-- Aplicar estado inicial do toggle
+				task.spawn(function()
+					Toggle:Set(Toggle.Value)
+				end)
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Click, function()
+					Toggle:Set(not Toggle.Value)
+					SaveCfg(game.GameId)
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				if ToggleConfig.Flag then
+					OrionLib.Flags[ToggleConfig.Flag] = Toggle
+				end	
+				return Toggle
+			end
+
+			function ElementFunction:AddSlider(SliderConfig)
+				SliderConfig = SliderConfig or {}
+				SliderConfig.Name = SliderConfig.Name or "Slider"
+				SliderConfig.Min = SliderConfig.Min or 0
+				SliderConfig.Max = SliderConfig.Max or 100
+				SliderConfig.Increment = SliderConfig.Increment or 1
+				SliderConfig.Default = SliderConfig.Default or 50
+				SliderConfig.Callback = SliderConfig.Callback or function() end
+				SliderConfig.ValueName = SliderConfig.ValueName or ""
+				SliderConfig.Color = SliderConfig.Color or OrionLib.Themes[OrionLib.SelectedTheme].Stroke
+				SliderConfig.Flag = SliderConfig.Flag or nil
+				SliderConfig.Save = SliderConfig.Save or false
+
+				local Slider = {Value = SliderConfig.Default, Save = SliderConfig.Save}
+				local Dragging = false
+
+				local SliderDrag = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", SliderConfig.Color, 0, 5), {
+					Size = UDim2.new(0, 0, 1, 0),
+					BackgroundTransparency = 0.3,
+					ClipsDescendants = true
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", "value", 13), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 6),
+						Font = Enum.Font.GothamBold,
+						Name = "Value",
+						TextTransparency = 0
+					}), "Text")
+				}), "Stroke")
+
+				local SliderBar = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", SliderConfig.Color, 0, 5), {
+					Size = UDim2.new(1, -24, 0, 26),
+					Position = UDim2.new(0, 12, 0, 30),
+					BackgroundTransparency = 0.9
+				}), {
+					AddThemeObject(SetProps(MakeElement("Stroke"), {
+						Color = SliderConfig.Color
+					}), "Stroke"),
+					AddThemeObject(SetProps(MakeElement("Label", "value", 13), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 6),
+						Font = Enum.Font.GothamBold,
+						Name = "Value",
+						TextTransparency = 0.8
+					}), "Text"),
+					SliderDrag
+				}), "Stroke")
+
+				local SliderFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(1, 0, 0, 65),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", SliderConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 10),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					SliderBar
+				}), "Second")
+				
+				-- Registrar elemento para pesquisa (COM referência do Frame)
+				table.insert(SearchableElements, {
+					Name = SliderConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Slider",
+					Frame = SliderFrame
+				})
+
+				local Dragging, DragInput, MousePos, FramePos = false
+
+				AddConnection(SliderBar.InputBegan, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+						Dragging = true
+						MousePos = Input.Position
+						FramePos = SliderBar.Position
+		
+						AddConnection(Input.Changed, function()
+							if Input.UserInputState == Enum.UserInputState.End then
+								Dragging = false
+								FocusDrag = nil
+							end
+						end)
+					end
+				end)
+				AddConnection(SliderBar.InputChanged, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch and not FocusDrag then
+						DragInput = Input
+						FocusDrag = DragInput
+					end
+				end)
+
+				AddConnection(UserInputService.InputChanged, function(Input)
+					if Input == DragInput and Input == FocusDrag and Dragging then
+						local SizeScale = math.clamp((Input.Position.X - SliderBar.AbsolutePosition.X) / SliderBar.AbsoluteSize.X, 0, 1)
+						Slider:Set(SliderConfig.Min + ((SliderConfig.Max - SliderConfig.Min) * SizeScale)) 
+						SaveCfg(game.GameId)
+					end
+				end)
+				
+				function Slider:Set(Value)
+					self.Value = math.clamp(Round(Value, SliderConfig.Increment), SliderConfig.Min, SliderConfig.Max)
+					TweenService:Create(SliderDrag,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = UDim2.fromScale((self.Value - SliderConfig.Min) / (SliderConfig.Max - SliderConfig.Min), 1)}):Play()
+					SliderBar.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+					SliderDrag.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+					SliderConfig.Callback(self.Value)
+				end      
+
+				Slider:Set(Slider.Value)
+				if SliderConfig.Flag then				
+					OrionLib.Flags[SliderConfig.Flag] = Slider
+				end
+				return Slider
+			end
+
+			function ElementFunction:AddMultipleDropdown(DropdownConfig)
+				DropdownConfig = DropdownConfig or {}
+				DropdownConfig.Name = DropdownConfig.Name or "Dropdown"
+				DropdownConfig.Options = DropdownConfig.Options or {}
+				DropdownConfig.Default = DropdownConfig.Default or ""
+				DropdownConfig.Callback = DropdownConfig.Callback or function() end
+				DropdownConfig.Flag = DropdownConfig.Flag or nil
+				DropdownConfig.Save = DropdownConfig.Save or false
+
+				local Dropdown = {Value = DropdownConfig.Default, Options = DropdownConfig.Options, Buttons = {}, Toggled = false, Type = "Dropdown", Save = DropdownConfig.Save}
+				local MaxElements = 5
+
+				if not table.find(Dropdown.Options, Dropdown.Value) then
+					Dropdown.Value = "..."
+				end
+
+				local SelectedValues = {}
+
+				local DropdownList = MakeElement("List")
+
+				local DropdownContainer = AddThemeObject(SetProps(SetChildren(MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4), {
+					DropdownList
+				}), {
+					Parent = ItemParent,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(1, 0, 1, -38),
+					ClipsDescendants = true
+				}), "Divider")
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local DropdownFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent,
+					ClipsDescendants = true
+				}), {
+					DropdownContainer,
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", DropdownConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072706796"), {
+							Size = UDim2.new(0, 20, 0, 20),
+							AnchorPoint = Vector2.new(0, 0.5),
+							Position = UDim2.new(1, -30, 0.5, 0),
+							ImageColor3 = Color3.fromRGB(240, 240, 240),
+							Name = "Ico"
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Label", "Selected", 13), {
+							Size = UDim2.new(1, -40, 1, 0),
+							Font = Enum.Font.Gotham,
+							Name = "Selected",
+							TextXAlignment = Enum.TextXAlignment.Right
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+						Click
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					MakeElement("Corner")
+				}), "Second")
+
+				AddConnection(DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+					DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+				end)  
+
+				local function AddOptions(Options)
+					for _, Option in pairs(Options) do
+						local OptionBtn = AddThemeObject(SetProps(SetChildren(MakeElement("Button", Color3.fromRGB(40, 40, 40)), {
+							MakeElement("Corner", 0, 6),
+							AddThemeObject(SetProps(MakeElement("Label", Option, 13, 0.4), {
+								Position = UDim2.new(0, 8, 0, 0),
+								Size = UDim2.new(1, -8, 1, 0),
+								Name = "Title"
+							}), "Text")
+						}), {
+							Parent = DropdownContainer,
+							Size = UDim2.new(1, 0, 0, 28),
+							BackgroundTransparency = 1,
+							ClipsDescendants = true
+						}), "Divider")
+
+						AddConnection(OptionBtn.MouseButton1Click, function()
+							Dropdown:Set(Option)
+							SaveCfg(game.GameId)
+						end)
+
+						Dropdown.Buttons[Option] = OptionBtn
+					end
+				end	
+
+				function Dropdown:Refresh(Options, Delete)
+					if Delete then
+						for _,v in pairs(Dropdown.Buttons) do
+							v:Destroy()
+						end    
+						table.clear(Dropdown.Options)
+						table.clear(Dropdown.Buttons)
+					end
+					Dropdown.Options = Options
+					AddOptions(Dropdown.Options)
+				end  
+
+				function Dropdown:Set(Value)
+					local n = table.find(SelectedValues, Value)
+					local text = ""
+
+					if not n then
+						-- Adicionado
+						table.insert(SelectedValues, Value)
+						DropdownFrame.F.Selected.Text = Dropdown.Value
+						TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 0}):Play()
+						TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0}):Play()
+					else
+						-- Removido
+						table.remove(SelectedValues, n)
+						TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+						TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+					end
+
+					for i, v in pairs(SelectedValues) do
+						if #SelectedValues == i then
+							text = text .. v
+						else
+							text = text .. v .. ", "
+						end
+					end
+
+					Dropdown.Value = Value
+					DropdownFrame.F.Selected.Text = text
+
+					return DropdownConfig.Callback(SelectedValues)
+				end
+
+				AddConnection(Click.MouseButton1Click, function()
+					Dropdown.Toggled = not Dropdown.Toggled
+					DropdownFrame.F.Line.Visible = Dropdown.Toggled
+					TweenService:Create(DropdownFrame.F.Ico,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Rotation = Dropdown.Toggled and 180 or 0}):Play()
+					if #Dropdown.Options > MaxElements then
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (MaxElements * 28)) or UDim2.new(1, 0, 0, 38)}):Play()
+					else
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, DropdownList.AbsoluteContentSize.Y + 38) or UDim2.new(1, 0, 0, 38)}):Play()
+					end
+				end)
+
+				Dropdown:Refresh(Dropdown.Options, false)
+				Dropdown:Set(Dropdown.Value)
+				if DropdownConfig.Flag then				
+					OrionLib.Flags[DropdownConfig.Flag] = Dropdown
+				end
+				
+				return Dropdown
+			end
+
+			function ElementFunction:AddPlayersDropdown(DropdownConfig)
+				DropdownConfig = DropdownConfig or {}
+				DropdownConfig.Name = DropdownConfig.Name or "Dropdown"
+				DropdownConfig.Options = DropdownConfig.Options or {}
+				DropdownConfig.RemoveDp = DropdownConfig.RemoveDP or false
+				DropdownConfig.Default = DropdownConfig.Default or ""
+				DropdownConfig.Callback = DropdownConfig.Callback or function() end
+				DropdownConfig.Flag = DropdownConfig.Flag or nil
+				DropdownConfig.MultipleSelection = DropdownConfig.MultipleSelection or false
+				DropdownConfig.Save = DropdownConfig.Save or false
+
+				local Dropdown = {Value = DropdownConfig.Default, Options = DropdownConfig.Options, Buttons = {}, Toggled = false, Type = "Dropdown", Save = DropdownConfig.Save, MultipleSelection = DropdownConfig.MultipleSelection}
+				local MaxElements = 3
+
+				if not table.find(Dropdown.Options, Dropdown.Value) then
+					Dropdown.Value = "..."
+				end
+
+				local SelectedValues = {}
+				local Options = 0
+
+				local DropdownList = MakeElement("List")
+
+				local DropdownContainer = AddThemeObject(SetProps(SetChildren(MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4), {
+					DropdownList
+				}), {
+					Parent = ItemParent,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(1, 0, 1, -38),
+					ClipsDescendants = true
+				}), "Divider")
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local DropdownFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent,
+					ClipsDescendants = true
+				}), {
+					DropdownContainer,
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", DropdownConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072706796"), {
+							Size = UDim2.new(0, 20, 0, 20),
+							AnchorPoint = Vector2.new(0, 0.5),
+							Position = UDim2.new(1, -30, 0.5, 0),
+							ImageColor3 = Color3.fromRGB(240, 240, 240),
+							Name = "Ico"
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Label", "Selected", 13), {
+							Size = UDim2.new(1, -40, 1, 0),
+							Font = Enum.Font.Gotham,
+							Name = "Selected",
+							TextXAlignment = Enum.TextXAlignment.Right
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+						Click
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					MakeElement("Corner")
+				}), "Second")
+
+				AddConnection(DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+					DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+
+					if Options <= MaxElements then
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (Options * 45)) or UDim2.new(1, 0, 0, 38)}):Play()
+					end
+				end)
+
+				local function RemoveOption(Option)
+					if Dropdown.Buttons[Option] then
+						local n = table.find(SelectedValues, Option)
+
+						if n then
+							Dropdown.Buttons[Option].State.Visible = true
+							TweenService:Create(Dropdown.Buttons[Option],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundColor3 = Color3.fromRGB(200, 80, 80)}):Play()
+						else
+							Dropdown.Buttons[Option]:Destroy()
+							Dropdown.Buttons[Option] = nil
+							Options = Options - 1
+						end
+					end
+				end
+
+				local function AddOption(Option)
+					local Player_Name = Option.Name
+					local Player_Display = Option.DisplayName
+					local UId = Option.UserId
+
+					local Option = Player_Name
+
+					if not Dropdown.Buttons[Option] then
+						local OptionBtn = AddThemeObject(SetProps(SetChildren(MakeElement("Button", Color3.fromRGB(40, 40, 40)), {
+							MakeElement("Corner", 0, 6),
+							SetProps(MakeElement("Image", "https://www.roblox.com/headshot-thumbnail/image?userId=".. UId .."&width=420&height=420&format=png"), {
+								Size = UDim2.new(0, 40, 0, 40),
+								AnchorPoint = Vector2.new(0.5, 0.5),
+								Position = UDim2.new(0.05, 0, 0.5, 0),
+								ImageColor3 = Color3.fromRGB(240, 240, 240),
+								Name = "Icon"
+							}),
+
+							SetProps(MakeElement("Image", "rbxassetid://118759916599176"), {
+								Size = UDim2.new(0, 35, 0, 35),
+								AnchorPoint = Vector2.new(0.5, 0.5),
+								Position = UDim2.new(0.94, 0, 0.5, 0),
+								ImageColor3 = Color3.fromRGB(41, 0, 5),
+								Name = "State",
+								Visible = false
+							}),
+
+							AddThemeObject(SetProps(MakeElement("Label", "@" .. Option, 13, 0.4), {
+								Position = UDim2.new(0.135, 0, 0, 7),
+								Size = UDim2.new(1, -10, 1, 0),
+								Name = "Title"
+							}), "Text"),
+
+							AddThemeObject(SetProps(MakeElement("Label", Player_Display, 17, 0.4), {
+								Position = UDim2.new(0.135, 0, 0, -5),
+								Size = UDim2.new(1, -8, 1, 0),
+								Name = "Subtitle"
+							}), "Text"),
+						}), {
+							Parent = DropdownContainer,
+							Size = UDim2.new(1, 0, 0, 45),
+							BackgroundTransparency = 1,
+							ClipsDescendants = true
+						}), "Divider")
+
+						AddConnection(OptionBtn.MouseButton1Click, function()
+							Dropdown:Set(Option)
+							SaveCfg(game.GameId)
+						end)
+
+						Dropdown.Buttons[Option] = OptionBtn
+						Options = Options + 1
+					else
+						local n = table.find(SelectedValues, Option)
+
+						if n then
+							Dropdown.Buttons[Option].State.Visible = false
+							TweenService:Create(Dropdown.Buttons[Option],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme]["Divider"]}):Play()
+						else
+							Dropdown.Buttons[Option]:Destroy()
+							Dropdown.Buttons[Option] = nil
+							Options = Options - 1
+						end
+					end
+				end
+
+				for _, p in pairs(PlayerService:GetPlayers()) do
+					AddOption(p)
+				end
+
+				PlayerService.PlayerAdded:Connect(function(p) 
+					AddOption(p)
+				end)
+
+				PlayerService.PlayerRemoving:Connect(function(p) 
+					RemoveOption(p.Name)
+				end)
+
+				local function DeleteAllDisconnectedPlayers()
+					for i, v in pairs(Dropdown.Buttons) do
+						if v and v:FindFirstChild("State") and v["State"].Visible then
+							Dropdown.Buttons[i]:Destroy()
+							Dropdown.Buttons[i] = nil
+							Options = Options - 1
+						end
+					end
+				end
+
+				function Dropdown:Refresh() end
+
+				function Dropdown:Set(Value, Once)
+					local n = table.find(SelectedValues, Value)
+					local text = ""
+					local Button = Dropdown.Buttons[Value]
+
+					if not Button then
+						for i = 0, 10 do
+							if Dropdown.Buttons[Value] then
+								Button = Dropdown.Buttons[Value]
+								break
+							end
+							wait(0.15)
+						end
+					end
+					
+					if Button then
+						if Dropdown.MultipleSelection then
+							if not n then
+								-- Adicionado
+								table.insert(SelectedValues, Value)
+								DropdownFrame.F.Selected.Text = Dropdown.Value
+								TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 0.5}):Play()
+								TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0}):Play()
+							elseif n and not Once then
+								-- Removido
+								table.remove(SelectedValues, n)
+		
+								if Dropdown.Buttons[Value].State.Visible then
+									Dropdown.Buttons[Value]:Destroy()
+									Dropdown.Buttons[Value] = nil
+									Options = Options - 1
+								else
+									TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+									TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+								end
+							end
+		
+							for i, v in pairs(SelectedValues) do
+								if #SelectedValues == 1 then
+									text = text .. v
+								elseif i > 3 then
+									text = text .. "..."
+									break
+								else
+									text = text .. v .. ", "
+								end
+							end
+							
+							Dropdown.Value = Value
+							DropdownFrame.F.Selected.Text = text
+		
+							return DropdownConfig.Callback(SelectedValues)
+						else
+							table.clear(SelectedValues); table.insert(SelectedValues, Value)
+
+							DeleteAllDisconnectedPlayers()
+
+							for _, v in pairs(Dropdown.Buttons) do
+								TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+								TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+							end
+
+							if Dropdown.Buttons[Value] then
+								TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 0.5}):Play()
+								TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0}):Play()
+								
+								Dropdown.Value = Value
+								DropdownFrame.F.Selected.Text = Dropdown.Value
+							else
+								Dropdown.Value = nil
+								DropdownFrame.F.Selected.Text = ""
+							end
+
+							return DropdownConfig.Callback(Dropdown.Value)
+						end
+					end
+				end
+
+				AddConnection(Click.MouseButton1Click, function()
+					Dropdown.Toggled = not Dropdown.Toggled
+					DropdownFrame.F.Line.Visible = Dropdown.Toggled
+					TweenService:Create(DropdownFrame.F.Ico,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Rotation = Dropdown.Toggled and 180 or 0}):Play()
+
+					if Options > MaxElements then
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (MaxElements * 45)) or UDim2.new(1, 0, 0, 38)}):Play()
+					else
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (Options * 45)) or UDim2.new(1, 0, 0, 38)}):Play()
+					end
+					
+				end)
+
+				if DropdownConfig.Flag then				
+					OrionLib.Flags[DropdownConfig.Flag] = Dropdown
+				end
+				
+				return Dropdown
+			end
+
+			function ElementFunction:AddDropdown(DropdownConfig)
+				DropdownConfig = DropdownConfig or {}
+				DropdownConfig.Name = DropdownConfig.Name or "Dropdown"
+				DropdownConfig.Options = DropdownConfig.Options or {}
+				DropdownConfig.Default = DropdownConfig.Default or ""
+				DropdownConfig.Callback = DropdownConfig.Callback or function() end
+				DropdownConfig.Flag = DropdownConfig.Flag or nil
+				DropdownConfig.Save = DropdownConfig.Save or false
+
+				local Dropdown = {Value = DropdownConfig.Default, Options = DropdownConfig.Options, Buttons = {}, Toggled = false, Type = "Dropdown", Save = DropdownConfig.Save}
+				local MaxElements = 5
+				local DropdownFrame  -- Declarar antes para registrar depois
+
+				if not table.find(Dropdown.Options, Dropdown.Value) then
+					Dropdown.Value = "..."
+				end
+
+				local DropdownList = MakeElement("List")
+
+				local DropdownContainer = AddThemeObject(SetProps(SetChildren(MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4), {
+					DropdownList
+				}), {
+					Parent = ItemParent,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(1, 0, 1, -38),
+					ClipsDescendants = true
+				}), "Divider")
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local DropdownFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent,
+					ClipsDescendants = true
+				}), {
+					DropdownContainer,
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", DropdownConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072706796"), {
+							Size = UDim2.new(0, 20, 0, 20),
+							AnchorPoint = Vector2.new(0, 0.5),
+							Position = UDim2.new(1, -30, 0.5, 0),
+							ImageColor3 = Color3.fromRGB(240, 240, 240),
+							Name = "Ico"
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Label", "Selected", 13), {
+							Size = UDim2.new(1, -40, 1, 0),
+							Font = Enum.Font.Gotham,
+							Name = "Selected",
+							TextXAlignment = Enum.TextXAlignment.Right
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+						Click
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					MakeElement("Corner")
+				}), "Second")
+				-- Registrar elemento para pesquisa (COM refer�ncia do Frame)
+				table.insert(SearchableElements, {
+					Name = DropdownConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Dropdown",
+					Frame = DropdownFrame
+				})
+
+				AddConnection(DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+					DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+				end)  
+
+				local function AddOptions(Options)
+					for _, Option in pairs(Options) do
+						local OptionBtn = AddThemeObject(SetProps(SetChildren(MakeElement("Button", Color3.fromRGB(40, 40, 40)), {
+							MakeElement("Corner", 0, 6),
+							AddThemeObject(SetProps(MakeElement("Label", Option, 13, 0.4), {
+								Position = UDim2.new(0, 8, 0, 0),
+								Size = UDim2.new(1, -8, 1, 0),
+								Name = "Title"
+							}), "Text")
+						}), {
+							Parent = DropdownContainer,
+							Size = UDim2.new(1, 0, 0, 28),
+							BackgroundTransparency = 1,
+							ClipsDescendants = true
+						}), "Divider")
+
+						AddConnection(OptionBtn.MouseButton1Click, function()
+							Dropdown:Set(Option)
+							SaveCfg(game.GameId)
+						end)
+
+						Dropdown.Buttons[Option] = OptionBtn
+					end
+				end	
+
+				function Dropdown:Refresh(Options, Delete)
+					if Delete then
+						for _,v in pairs(Dropdown.Buttons) do
+							v:Destroy()
+						end    
+						table.clear(Dropdown.Options)
+						table.clear(Dropdown.Buttons)
+					end
+					Dropdown.Options = Options
+					AddOptions(Dropdown.Options)
+				end  
+
+				function Dropdown:Set(Value)
+					if not table.find(Dropdown.Options, Value) then
+						Dropdown.Value = "..."
+						DropdownFrame.F.Selected.Text = Dropdown.Value
+						for _, v in pairs(Dropdown.Buttons) do
+							TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+							TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+						end	
+						return
+					end
+
+					Dropdown.Value = Value
+					DropdownFrame.F.Selected.Text = Dropdown.Value
+
+					for _, v in pairs(Dropdown.Buttons) do
+						TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+						TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+					end	
+					TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 0}):Play()
+					TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0}):Play()
+					return DropdownConfig.Callback(Dropdown.Value)
+				end
+
+				AddConnection(Click.MouseButton1Click, function()
+					Dropdown.Toggled = not Dropdown.Toggled
+					DropdownFrame.F.Line.Visible = Dropdown.Toggled
+					TweenService:Create(DropdownFrame.F.Ico,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Rotation = Dropdown.Toggled and 180 or 0}):Play()
+					if #Dropdown.Options > MaxElements then
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (MaxElements * 28)) or UDim2.new(1, 0, 0, 38)}):Play()
+					else
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, DropdownList.AbsoluteContentSize.Y + 38) or UDim2.new(1, 0, 0, 38)}):Play()
+					end
+				end)
+
+				Dropdown:Refresh(Dropdown.Options, false)
+				Dropdown:Set(Dropdown.Value)
+				if DropdownConfig.Flag then				
+					OrionLib.Flags[DropdownConfig.Flag] = Dropdown
+				end
+
+				return Dropdown
+			end
+
+			function ElementFunction:AddPlayerDropdown(Config)
+				Config = Config or {}
+				Config.Name     = Config.Name     or "PlayerDropdown"
+				Config.Default  = Config.Default  or nil
+				Config.Callback = Config.Callback or function() end
+				Config.Flag     = Config.Flag     or nil
+				Config.Save     = Config.Save     or false
+
+				local Dropdown = {
+					Value           = Config.Default,
+					Buttons         = {},
+					SelectedPlayers = {},
+					Toggled         = false,
+					Type            = "PlayerDropdown",
+					Save            = Config.Save,
+				}
+				local MaxElements = 5
+
+				local ButtonColor   = Color3.fromRGB(35, 0, 60)
+				local SelectedColor = Color3.fromRGB(55, 0, 95)
+
+				local DropdownList = MakeElement("List")
+				local DropdownContainer = AddThemeObject(
+					SetProps(
+						SetChildren(
+							MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4),
+							{ DropdownList }
+						),
+						{
+							Parent           = ItemParent,
+							Position         = UDim2.new(0, 0, 0, 38),
+							Size             = UDim2.new(1, 0, 1, -38),
+							ClipsDescendants = true,
+						}
+					),
+					"Divider"
+				)
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size                   = UDim2.new(1, 0, 1, 0),
+					BackgroundTransparency = 1,
+					AutoButtonColor        = false,
+					Name                   = "ClickRegion",
+				})
+
+				local DropdownFrame = AddThemeObject(
+					SetChildren(
+						SetProps(
+							MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+							{ Size = UDim2.new(1, 0, 0, 38), Parent = ItemParent, ClipsDescendants = true }
+						),
+						{
+							DropdownContainer,
+							SetProps(
+								SetChildren(MakeElement("TFrame"), {
+									AddThemeObject(
+										SetProps(MakeElement("Label", Config.Name, 15), {
+											Size      = UDim2.new(1, -12, 1, 0),
+											Position  = UDim2.new(0, 12, 0, 0),
+											Font      = Enum.Font.GothamBold,
+											Name      = "Content",
+										}),
+										"Text"
+									),
+									AddThemeObject(
+										SetProps(MakeElement("Image", "rbxassetid://7072706796"), {
+											Size        = UDim2.new(0, 20, 0, 20),
+											AnchorPoint = Vector2.new(0, 0.5),
+											Position    = UDim2.new(1, -30, 0.5, 0),
+											ImageColor3 = Color3.fromRGB(240, 240, 240),
+											Name        = "Ico",
+										}),
+										"TextDark"
+									),
+									AddThemeObject(
+										SetProps(MakeElement("Label", "Selecione", 13), {
+											Size           = UDim2.new(1, -40, 1, 0),
+											Font           = Enum.Font.Gotham,
+											Name           = "Selected",
+											TextXAlignment = Enum.TextXAlignment.Right,
+										}),
+										"TextDark"
+									),
+									SetProps(MakeElement("Frame"), {
+										Size     = UDim2.new(1, 0, 0, 1),
+										Position = UDim2.new(0, 0, 1, -1),
+										Name     = "Line",
+										Visible  = false,
+									}),
+									Click,
+								}),
+								{
+									Size             = UDim2.new(1, 0, 0, 38),
+									ClipsDescendants = true,
+									Name             = "F",
+								}
+							),
+							AddThemeObject(MakeElement("Stroke"), "Stroke"),
+							MakeElement("Corner"),
+						}
+					),
+					"Second"
+				)
+
+				AddConnection(DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+					DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+				end)
+
+				AddConnection(Click.MouseButton1Click, function()
+					Dropdown.Toggled = not Dropdown.Toggled
+					DropdownFrame.F.Line.Visible = Dropdown.Toggled
+					TweenService:Create(
+						DropdownFrame.F.Ico,
+						TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+						{ Rotation = Dropdown.Toggled and 180 or 0 }
+					):Play()
+					local targetHeight = 38
+					if Dropdown.Toggled then
+						local listHeight = math.min(DropdownList.AbsoluteContentSize.Y, MaxElements * 40)
+						targetHeight = 38 + listHeight
+					end
+					TweenService:Create(
+						DropdownFrame,
+						TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+						{ Size = UDim2.new(1, 0, 0, targetHeight) }
+					):Play()
+				end)
+
+				local function AddOptions(playerList)
+					for _, player in ipairs(playerList) do
+						local OptionBtn = SetProps(
+							MakeElement("Button"),
+							{
+								Parent               = DropdownContainer,
+								Size                 = UDim2.new(1, 0, 0, 40),
+								BackgroundColor3     = ButtonColor,
+								BackgroundTransparency = 0,
+								AutoButtonColor      = false,
+								ClipsDescendants     = true,
+							}
+						)
+						AddThemeObject(SetProps(Instance.new("UIStroke"), {
+							Parent = OptionBtn,
+							ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+							Color = Color3.fromRGB(20, 20, 20),
+							Thickness = 1,
+							Transparency = 0.2,
+						}), "Divider")
+						MakeElement("Corner", 0, 6).Parent = OptionBtn
+
+						local thumbUrl = string.format(
+							"https://www.roblox.com/headshot-thumbnail/image?userId=%d&width=420&height=420&format=png",
+							player.UserId
+						)
+						SetProps(MakeElement("Image", thumbUrl), {
+							Parent = OptionBtn,
+							Size = UDim2.new(0, 30, 0, 30),
+							Position = UDim2.new(0, 5, 0, 5),
+							BackgroundTransparency = 1,
+							Name = "Thumb",
+						})
+
+						AddThemeObject(
+							SetProps(MakeElement("Label", player.DisplayName, 14), {
+								Parent = OptionBtn,
+								Position = UDim2.new(0, 42, 0, 5),
+								Size = UDim2.new(0.6, -10, 0, 18),
+								Font = Enum.Font.GothamBold,
+								TextXAlignment = Enum.TextXAlignment.Left,
+								Name = "DisplayName",
+							}),
+							"Text"
+						)
+
+						AddThemeObject(
+							SetProps(MakeElement("Label", player.Name, 12), {
+								Parent = OptionBtn,
+								Position = UDim2.new(0, 42, 0, 22),
+								Size = UDim2.new(0.6, -10, 0, 18),
+								Font = Enum.Font.Gotham,
+								TextXAlignment = Enum.TextXAlignment.Left,
+								Name = "UserName",
+							}),
+							"TextDark"
+						)
+
+						AddConnection(OptionBtn.MouseButton1Click, function()
+							if Dropdown.SelectedPlayers[player] then
+								Dropdown.SelectedPlayers[player] = nil
+							else
+								Dropdown.SelectedPlayers[player] = true
+							end
+							Dropdown:Set()
+							if Config.Save then SaveCfg(game.GameId) end
+						end)
+
+						Dropdown.Buttons[player] = OptionBtn
+					end
+				end
+
+				function Dropdown:Refresh(list, clear)
+					if clear then
+						for _, btn in pairs(self.Buttons) do btn:Destroy() end
+						table.clear(self.Buttons)
+					end
+					AddOptions(list)
+				end
+
+				function Dropdown:Set()
+					local selectedUsernames = {}
+					for p in pairs(self.SelectedPlayers) do
+						if PlayerService:FindFirstChild(p.Name) then
+							table.insert(selectedUsernames, p.Name)
+						else
+							self.SelectedPlayers[p] = nil
+						end
+					end
+
+					-- Atualiza texto do dropdown com os nomes selecionados
+					if #selectedUsernames > 0 then
+						DropdownFrame.F.Selected.Text = table.concat(selectedUsernames, ", ")
+					else
+						DropdownFrame.F.Selected.Text = "Selecione"
+					end
+
+					-- Atualiza as cores dos botões
+					for p, btn in pairs(self.Buttons) do
+						btn.BackgroundColor3 = self.SelectedPlayers[p] and SelectedColor or ButtonColor
+					end
+
+					return Config.Callback(selectedUsernames)
+				end
+
+				local function updateList()
+					local allPlayers = PlayerService:GetPlayers()
+					local filtered = {}
+					for _, p in ipairs(allPlayers) do
+						if p ~= PlayerService.LocalPlayer then
+							table.insert(filtered, p)
+						end
+					end
+					Dropdown:Refresh(filtered, true)
+					Dropdown:Set() -- Atualiza interface após recarregar
+				end
+
+				PlayerService.PlayerAdded:Connect(updateList)
+				PlayerService.PlayerRemoving:Connect(updateList)
+
+				updateList()
+				if Config.Flag then OrionLib.Flags[Config.Flag] = Dropdown end
+				return Dropdown
+			end
+
+			function ElementFunction:AddBind(BindConfig)
+				BindConfig.Name = BindConfig.Name or "Bind"
+				BindConfig.Default = BindConfig.Default or Enum.KeyCode.Unknown
+				BindConfig.Hold = BindConfig.Hold or false
+				BindConfig.Callback = BindConfig.Callback or function() end
+				BindConfig.Flag = BindConfig.Flag or nil
+				BindConfig.Save = BindConfig.Save or false
+
+				local Bind = {Value, Binding = false, Type = "Bind", Save = BindConfig.Save}
+				local Holding = false
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local BindBox = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					AddThemeObject(SetProps(MakeElement("Label", BindConfig.Name, 14), {
+						Size = UDim2.new(1, 0, 1, 0),
+						Font = Enum.Font.GothamBold,
+						TextXAlignment = Enum.TextXAlignment.Center,
+						Name = "Value"
+					}), "Text")
+				}), "Main")
+
+				local BindFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", BindConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					BindBox,
+					Click
+				}), "Second")
+
+				AddConnection(BindBox.Value:GetPropertyChangedSignal("Text"), function()
+					--BindBox.Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)
+					TweenService:Create(BindBox, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)}):Play()
+				end)
+
+				AddConnection(Click.InputEnded, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if Bind.Binding then return end
+						Bind.Binding = true
+						BindBox.Value.Text = ""
+					end
+				end)
+
+				AddConnection(UserInputService.InputBegan, function(Input)
+					if UserInputService:GetFocusedTextBox() then return end
+					if (Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value) and not Bind.Binding then
+						if BindConfig.Hold then
+							Holding = true
+							BindConfig.Callback(Holding)
+						else
+							BindConfig.Callback()
+						end
+					elseif Bind.Binding then
+						local Key
+						pcall(function()
+							if not CheckKey(BlacklistedKeys, Input.KeyCode) then
+								Key = Input.KeyCode
+							end
+						end)
+						pcall(function()
+							if CheckKey(WhitelistedMouse, Input.UserInputType) and not Key then
+								Key = Input.UserInputType
+							end
+						end)
+						Key = Key or Bind.Value
+						Bind:Set(Key)
+						pcall(function()
+							SaveCfg(game.GameId)
+						end)
+					end
+				end)
+
+				AddConnection(UserInputService.InputEnded, function(Input)
+					if Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value then
+						if BindConfig.Hold and Holding then
+							Holding = false
+							BindConfig.Callback(Holding)
+						end
+					end
+				end)
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				function Bind:Set(Key)
+					Bind.Binding = false
+					Bind.Value = Key or Bind.Value
+					Bind.Value = Bind.Value.Name or Bind.Value
+					BindBox.Value.Text = Bind.Value
+				end
+
+				Bind:Set(BindConfig.Default)
+				if BindConfig.Flag then				
+					OrionLib.Flags[BindConfig.Flag] = Bind
+				end
+				
+				-- Registrar Bind para pesquisa
+				table.insert(SearchableElements, {
+					Name = BindConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Bind",
+					Frame = BindFrame
+				})
+				
+				return Bind
+			end
+
+			function ElementFunction:AddTextbox(TextboxConfig)
+				TextboxConfig = TextboxConfig or {}
+				TextboxConfig.Name = TextboxConfig.Name or "Textbox"
+				TextboxConfig.Default = TextboxConfig.Default or ""
+				TextboxConfig.TextDisappear = TextboxConfig.TextDisappear or false
+				TextboxConfig.Callback = TextboxConfig.Callback or function() end
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local TextboxActual = AddThemeObject(Create("TextBox", {
+					Size = UDim2.new(1, 0, 1, 0),
+					BackgroundTransparency = 1,
+					TextColor3 = Color3.fromRGB(255, 255, 255),
+					PlaceholderColor3 = Color3.fromRGB(210,210,210),
+					PlaceholderText = "Input",
+					Font = Enum.Font.GothamSemibold,
+					TextXAlignment = Enum.TextXAlignment.Center,
+					TextSize = 14,
+					ClearTextOnFocus = false
+				}), "Text")
+
+				local TextContainer = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					TextboxActual
+				}), "Main")
+
+
+				local TextboxFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", TextboxConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					TextContainer,
+					Click
+				}), "Second")
+
+				AddConnection(TextboxActual:GetPropertyChangedSignal("Text"), function()
+					--TextContainer.Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)
+					TweenService:Create(TextContainer, TweenInfo.new(0.45, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)}):Play()
+				end)
+
+				AddConnection(TextboxActual.FocusLost, function()
+					TextboxConfig.Callback(TextboxActual.Text)
+					if TextboxConfig.TextDisappear then
+						TextboxActual.Text = ""
+					end	
+				end)
+
+				TextboxActual.Text = TextboxConfig.Default
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+					TextboxActual:CaptureFocus()
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+				
+				-- Registrar Textbox para pesquisa
+				table.insert(SearchableElements, {
+					Name = TextboxConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Textbox",
+					Frame = TextboxFrame
+				})
+			end
+
+			function ElementFunction:AddColorpicker(ColorpickerConfig)
+				ColorpickerConfig = ColorpickerConfig or {}
+				ColorpickerConfig.Name = ColorpickerConfig.Name or "Colorpicker"
+				ColorpickerConfig.Default = ColorpickerConfig.Default or Color3.fromRGB(255,255,255)
+				ColorpickerConfig.Callback = ColorpickerConfig.Callback or function() end
+				ColorpickerConfig.Flag = ColorpickerConfig.Flag or nil
+				ColorpickerConfig.Save = ColorpickerConfig.Save or false
+
+				-- Inicializar HSV com a cor padrão
+				local H, S, V = Color3.toHSV(ColorpickerConfig.Default)
+				local ColorH, ColorS, ColorV = H, S, V
+				local Colorpicker = {Value = ColorpickerConfig.Default, Toggled = false, Type = "Colorpicker", Save = ColorpickerConfig.Save}
+				local ColorpickerFrame  -- Declarar antes para registrar depois
+
+				local ColorSelection = Create("ImageLabel", {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(S, 0, 1 - V, 0),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = "http://www.roblox.com/asset/?id=4805639000"
+				})
+
+				local HueSelection = Create("ImageLabel", {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(0.5, 0, 1 - H, 0),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = "http://www.roblox.com/asset/?id=4805639000"
+				})
+
+				local Color = Create("ImageLabel", {
+					Size = UDim2.new(1, -25, 1, 0),
+					Visible = false,
+					Image = "rbxassetid://4155801252"
+				}, {
+					Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+					ColorSelection
+				})
+
+				local Hue = Create("Frame", {
+					Size = UDim2.new(0, 20, 1, 0),
+					Position = UDim2.new(1, -20, 0, 0),
+					Visible = false
+				}, {
+					Create("UIGradient", {Rotation = 270, Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)), ColorSequenceKeypoint.new(0.20, Color3.fromRGB(234, 255, 0)), ColorSequenceKeypoint.new(0.40, Color3.fromRGB(21, 255, 0)), ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)), ColorSequenceKeypoint.new(0.80, Color3.fromRGB(0, 17, 255)), ColorSequenceKeypoint.new(0.90, Color3.fromRGB(255, 0, 251)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))},}),
+					Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+					HueSelection
+				})
+
+				local ColorpickerContainer = Create("Frame", {
+					Position = UDim2.new(0, 0, 0, 32),
+					Size = UDim2.new(1, 0, 1, -32),
+					BackgroundTransparency = 1,
+					ClipsDescendants = true
+				}, {
+					Hue,
+					Color,
+					Create("UIPadding", {
+						PaddingLeft = UDim.new(0, 35),
+						PaddingRight = UDim.new(0, 35),
+						PaddingBottom = UDim.new(0, 10),
+						PaddingTop = UDim.new(0, 17)
+					})
+				})
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				-- COLORPICKER BOX MELHORADO )
+				local ColorpickerBox = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 8), {
+					Size = UDim2.new(0, 28, 0, 28),
+					Position = UDim2.new(1, -16, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(SetProps(MakeElement("Stroke"), {
+						Thickness = 2.5,
+						Transparency = 0.3
+					}), "Stroke"),
+					-- Glow effect
+					Create("ImageLabel", {
+						Size = UDim2.new(1, 20, 1, 20),
+						Position = UDim2.new(0.5, 0, 0.5, 0),
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						BackgroundTransparency = 1,
+						Image = "rbxassetid://5028857084",
+						ImageColor3 = Color3.fromRGB(255, 255, 255),
+						ImageTransparency = 0.7,
+						ZIndex = 0
+					})
+				}), "Main")
+
+				ColorpickerFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", ColorpickerConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						ColorpickerBox,
+						Click,
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					ColorpickerContainer,
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				}), "Second")
+
+				-- COLORPICKER ANIMATION
+				local isAnimating = false
+				
+				AddConnection(Click.MouseButton1Click, function()
+					if isAnimating then return end
+					isAnimating = true
+					
+					Colorpicker.Toggled = not Colorpicker.Toggled
+					
+					if Colorpicker.Toggled then
+						-- Open
+						Color.Visible = true
+						Hue.Visible = true
+						ColorpickerFrame.F.Line.Visible = true
+						
+						TweenService:Create(ColorpickerFrame, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+							Size = UDim2.new(1, 0, 0, 160)
+						}):Play()
+						TweenService:Create(Color, TweenInfo.new(0.2, Enum.EasingStyle.Quad), {ImageTransparency = 0}):Play()
+						TweenService:Create(Hue, TweenInfo.new(0.2, Enum.EasingStyle.Quad), {BackgroundTransparency = 0}):Play()
+						
+						task.wait(0.3)
+					else
+						-- Close
+						TweenService:Create(Color, TweenInfo.new(0.15, Enum.EasingStyle.Quad), {ImageTransparency = 1}):Play()
+						TweenService:Create(Hue, TweenInfo.new(0.15, Enum.EasingStyle.Quad), {BackgroundTransparency = 1}):Play()
+						TweenService:Create(ColorpickerFrame, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+							Size = UDim2.new(1, 0, 0, 38)
+						}):Play()
+						
+						task.wait(0.2)
+						Color.Visible = false
+						Hue.Visible = false
+						ColorpickerFrame.F.Line.Visible = false
+					end
+					
+					isAnimating = false
+				end)
+
+				local lastUpdateTime = 0
+				local updateDebounce = 0.05  -- Update max 20 times per second
+				
+				local function UpdateColorPicker()
+					local currentTime = tick()
+					if currentTime - lastUpdateTime < updateDebounce then
+						return
+					end
+					lastUpdateTime = currentTime
+					
+					local newColor = Color3.fromHSV(ColorH, ColorS, ColorV)
+					Colorpicker.Value = newColor
+					ColorpickerBox.BackgroundColor3 = newColor
+					Color.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+					ColorpickerConfig.Callback(newColor)
+					SaveCfg(game.GameId)  -- Debounced automatically by SaveCfg
+				end
+				
+				local Dragging, DragInput, MousePos, FramePos = false
+
+				AddConnection(Color.InputBegan, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+						Dragging = true
+						MousePos = Input.Position
+						FramePos = ColorSelection.Position
+		
+						AddConnection(Input.Changed, function()
+							if Input.UserInputState == Enum.UserInputState.End then
+								Dragging = false
+								FocusDrag = nil
+							end
+						end)
+					end
+				end)
+
+				AddConnection(Color.InputChanged, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch and not FocusDrag then
+						DragInput = Input
+						FocusDrag = DragInput
+					end
+				end)
+				
+				AddConnection(UserInputService.InputChanged, function(Input)
+					if Input == DragInput and Dragging and Input == FocusDrag then
+						local ColorX = (math.clamp(DragInput.Position.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) / Color.AbsoluteSize.X)
+						local ColorY = (math.clamp(Input.Position.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) / Color.AbsoluteSize.Y)
+						ColorSelection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+						ColorS = ColorX
+						ColorV = 1 - ColorY
+						UpdateColorPicker()
+					end
+				end)
+
+				-- Hue
+
+				local Dragging_1, DragInput_1, MousePos_1, FramePos_1 = false
+
+				AddConnection(Hue.InputBegan, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+						Dragging_1 = true
+						MousePos_1 = Input.Position
+						FramePos_1 = HueSelection.Position
+		
+						AddConnection(Input.Changed, function()
+							if Input.UserInputState == Enum.UserInputState.End then
+								Dragging_1 = false
+								FocusDrag = nil
+							end
+						end)
+					end
+				end)
+				AddConnection(Hue.InputChanged, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch and not FocusDrag then
+						DragInput_1 = Input
+						FocusDrag = DragInput_1
+					end
+				end)
+				
+				AddConnection(UserInputService.InputChanged, function(Input)
+					if Input == DragInput_1 and Dragging_1 and DragInput_1 == FocusDrag then
+						local HueY = (math.clamp(Input.Position.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) / Hue.AbsoluteSize.Y)
+						HueSelection.Position = UDim2.new(0.5, 0, HueY, 0)
+						ColorH = 1 - HueY
+						UpdateColorPicker()
+					end
+				end)
+
+				function Colorpicker:Set(Value)
+					Colorpicker.Value = Value
+					ColorpickerBox.BackgroundColor3 = Colorpicker.Value
+					
+					-- 🔧 ATUALIZAR POSIÇÃO DAS BOLINHAS (CORRIGIDO)
+					local H, S, V = Color3.toHSV(Value)
+					ColorH, ColorS, ColorV = H, S, V
+					
+					-- Atualizar posição da bolinha de cor
+					ColorSelection.Position = UDim2.new(S, 0, 1 - V, 0)
+					
+					-- Atualizar posição da bolinha de matiz
+					HueSelection.Position = UDim2.new(0.5, 0, 1 - H, 0)
+					
+					-- Atualizar cor de fundo do seletor
+					Color.BackgroundColor3 = Color3.fromHSV(H, 1, 1)
+					ColorpickerConfig.Callback(Value)
+					SaveCfg(game.GameId)
+				end
+
+				Colorpicker:Set(ColorpickerConfig.Default)
+				if ColorpickerConfig.Flag then				
+					OrionLib.Flags[ColorpickerConfig.Flag] = Colorpicker
+				end
+				
+				-- Registrar Colorpicker para pesquisa
+				table.insert(SearchableElements, {
+					Name = ColorpickerConfig.Name,
+					TabName = TabConfig.Name,
+					Type = "Colorpicker",
+					Frame = ColorpickerFrame
+				})
+				
+				return Colorpicker
+			end
+
+			return ElementFunction   
+		end
+
+		function ElementFunction:AddSection(SectionConfig)
+			SectionConfig.Name = SectionConfig.Name or "Section"
+
+			local SectionFrame = SetChildren(SetProps(MakeElement("TFrame"), {
+				Size = UDim2.new(1, 0, 0, 26),
+				Parent = Container
+			}), {
+				AddThemeObject(SetProps(MakeElement("Label", SectionConfig.Name, 14), {
+					Size = UDim2.new(1, -12, 0, 16),
+					Position = UDim2.new(0, 0, 0, 3),
+					Font = Enum.Font.GothamSemibold
+				}), "TextDark"),
+				SetChildren(SetProps(MakeElement("TFrame"), {
+					AnchorPoint = Vector2.new(0, 0),
+					Size = UDim2.new(1, 0, 1, -24),
+					Position = UDim2.new(0, 0, 0, 23),
+					Name = "Holder"
+				}), {
+					MakeElement("List", 0, 6)
+				}),
+			})
+
+			AddConnection(SectionFrame.Holder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+				SectionFrame.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y + 31)
+				SectionFrame.Holder.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y)
+			end)
+			
+			-- Registrar section para busca (NÃO aparece, só controla visibilidade)
+			table.insert(SearchableElements, {
+				Name = SectionConfig.Name,
+				TabName = TabConfig.Name,
+				Type = "Section",
+				Frame = SectionFrame,
+				IsSection = true -- Flag especial para sections
+			})
+
+			local SectionFunction = {}
+			for i, v in next, GetElements(SectionFrame.Holder) do
+				SectionFunction[i] = v 
+			end
+			return SectionFunction
+		end	
+
+		for i, v in next, GetElements(Container) do
+			ElementFunction[i] = v 
+		end
+
+		if TabConfig.PremiumOnly then
+			for i, v in next, ElementFunction do
+				ElementFunction[i] = function() end
+			end    
+			Container:FindFirstChild("UIListLayout"):Destroy()
+			Container:FindFirstChild("UIPadding"):Destroy()
+			SetChildren(SetProps(MakeElement("TFrame"), {
+				Size = UDim2.new(1, 0, 1, 0),
+				Parent = ItemParent
+			}), {
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://3610239960"), {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(0, 15, 0, 15),
+					ImageTransparency = 0.4
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "Unauthorised Access", 14), {
+					Size = UDim2.new(1, -38, 0, 14),
+					Position = UDim2.new(0, 38, 0, 18),
+					TextTransparency = 0.4
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://4483345875"), {
+					Size = UDim2.new(0, 56, 0, 56),
+					Position = UDim2.new(0, 84, 0, 110),
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "Premium Features", 14), {
+					Size = UDim2.new(1, -150, 0, 14),
+					Position = UDim2.new(0, 150, 0, 112),
+					Font = Enum.Font.GothamBold
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "This part of the script is locked to Sirius Premium users. Purchase Premium in the Discord server (discord.gg/sirius)", 12), {
+					Size = UDim2.new(1, -200, 0, 14),
+					Position = UDim2.new(0, 150, 0, 138),
+					TextWrapped = true,
+					TextTransparency = 0.4
+				}), "Text")
+			})
+		end
+		return ElementFunction   
+	end  
+	
+	--  FUNÇÃO: Adicionar Aba de Configurações (COMPLETA COM SAVE)
+	function TabFunction:AddConfigTab()
+		-- Carregar configurações ANTES de criar a aba Config
+		OrionLib:Init()
+		
+		local ConfigTab = TabFunction:MakeTab({
+			Name = "Config",
+			Icon = "rbxassetid://7734053426",
+			PremiumOnly = false
+		})
+		
+		-- LANGUAGE SYSTEM REMOVED (Translation system removed)
+		
+		local RainbowEnabled = false
+		local RainbowConnection
+		local OriginalStrokeColor = OrionLib.Themes[OrionLib.SelectedTheme].Stroke
+		
+		ConfigTab:AddToggle({
+			Name = " Rainbow Border",
+			Default = false,
+			Flag = "RainbowBorder",
+			Save = true,
+			Callback = function(Value)
+				RainbowEnabled = Value
+				
+				if RainbowEnabled then
+					-- Salvar cor original
+					OriginalStrokeColor = OrionLib.Themes[OrionLib.SelectedTheme].Stroke
+					
+					-- Criar UIGradient suave
+					local MainWindowStroke = MainWindow:FindFirstChildOfClass("UIStroke")
+					if MainWindowStroke then
+						-- Remover gradient antigo
+						local oldGradient = MainWindowStroke:FindFirstChild("RainbowGradient")
+						if oldGradient then oldGradient:Destroy() end
+						
+						-- Criar gradient
+						local gradient = Instance.new("UIGradient")
+						gradient.Name = "RainbowGradient"
+						gradient.Parent = MainWindowStroke
+						
+						-- Animação suave
+						local rotation = 0
+						RainbowConnection = RunService.RenderStepped:Connect(function(delta)
+							if not RainbowEnabled then return end
+							
+							-- Rotação suave (360° em ~10 segundos)
+							rotation = (rotation + delta * 36) % 360
+							gradient.Rotation = rotation
+							
+							-- 5 cores suaves
+							local hue1 = (rotation / 360) % 1
+							local hue2 = ((rotation / 360) + 0.2) % 1
+							local hue3 = ((rotation / 360) + 0.4) % 1
+							local hue4 = ((rotation / 360) + 0.6) % 1
+							local hue5 = ((rotation / 360) + 0.8) % 1
+							
+							-- Saturação 0.85 = cores vibrantes mas não muito fortes
+							gradient.Color = ColorSequence.new({
+								ColorSequenceKeypoint.new(0, Color3.fromHSV(hue1, 0.85, 1)),
+								ColorSequenceKeypoint.new(0.25, Color3.fromHSV(hue2, 0.85, 1)),
+								ColorSequenceKeypoint.new(0.5, Color3.fromHSV(hue3, 0.85, 1)),
+								ColorSequenceKeypoint.new(0.75, Color3.fromHSV(hue4, 0.85, 1)),
+								ColorSequenceKeypoint.new(1, Color3.fromHSV(hue5, 0.85, 1))
+							})
+						end)
+					end
+				else
+					-- Parar rainbow
+					if RainbowConnection then
+						RainbowConnection:Disconnect()
+						RainbowConnection = nil
+					end
+					
+					-- Remover gradient e restaurar cor
+					local MainWindowStroke = MainWindow:FindFirstChildOfClass("UIStroke")
+					if MainWindowStroke then
+						local gradient = MainWindowStroke:FindFirstChild("RainbowGradient")
+						if gradient then
+							gradient:Destroy()
+						end
+						MainWindowStroke.Color = OriginalStrokeColor
+					end
+					OrionLib.Themes[OrionLib.SelectedTheme].Stroke = OriginalStrokeColor
+					SetTheme()
+				end
+			end
+		})
+		
+		-- Colorpicker para Accent/Bordas
+		ConfigTab:AddColorpicker({
+			Name = " Accent Color",
+			Default = OrionLib.Themes[OrionLib.SelectedTheme].Stroke,
+			Flag = "AccentColor",
+			Save = true,
+			Callback = function(Value)
+				if RainbowEnabled then
+					RainbowEnabled = false
+					if RainbowConnection then
+						RainbowConnection:Disconnect()
+						RainbowConnection = nil
+					end
+				end
+				
+				OriginalStrokeColor = Value
+				
+				OrionLib.Themes[OrionLib.SelectedTheme].Stroke = Value
+				SetTheme()
+				
+				local MainWindowStroke = MainWindow:FindFirstChildOfClass("UIStroke")
+				if MainWindowStroke then
+					TweenService:Create(MainWindowStroke, TweenInfo.new(0.3), {Color = Value}):Play()
+				end
+				
+				SaveCfg(game.GameId)
+			end    
+		})
+		
+		-- Colorpicker para Fundo
+		ConfigTab:AddColorpicker({
+			Name = " Background Color",
+			Default = OrionLib.Themes[OrionLib.SelectedTheme].Main,
+			Flag = "BackgroundColor",
+			Save = true,
+			Callback = function(Value)
+				OrionLib.Themes[OrionLib.SelectedTheme].Main = Value
+				SetTheme()
+				SaveCfg(game.GameId)
+			end    
+		})
+		
+		-- Colorpicker para TEXTO
+		ConfigTab:AddColorpicker({
+			Name = " Text Color",
+			Default = OrionLib.Themes[OrionLib.SelectedTheme].Text,
+			Flag = "TextColor",
+			Save = true,
+			Callback = function(Value)
+				OrionLib.Themes[OrionLib.SelectedTheme].Text = Value
+				SetTheme()
+				SaveCfg(game.GameId)
+			end    
+		})
+		
+		-- Colorpicker para TEXTO SECUNDÁRIO
+		ConfigTab:AddColorpicker({
+			Name = " Secondary Text",
+			Default = OrionLib.Themes[OrionLib.SelectedTheme].TextDark,
+			Flag = "TextDarkColor",
+			Save = true,
+			Callback = function(Value)
+				OrionLib.Themes[OrionLib.SelectedTheme].TextDark = Value
+				SetTheme()
+				SaveCfg(game.GameId)
+			end    
+		})
+		
+		ConfigTab:AddColorpicker({
+			Name = " Panel Color",
+			Default = OrionLib.Themes[OrionLib.SelectedTheme].Second,
+			Flag = "SecondColor",
+			Save = true,
+			Callback = function(Value)
+				OrionLib.Themes[OrionLib.SelectedTheme].Second = Value
+				SetTheme()
+				SaveCfg(game.GameId)
+			end    
+		})
+		
+		ConfigTab:AddColorpicker({
+			Name = " Items Background",
+			Default = OrionLib.Themes[OrionLib.SelectedTheme].Divider,
+			Flag = "DividerColor",
+			Save = true,
+			Callback = function(Value)
+				OrionLib.Themes[OrionLib.SelectedTheme].Divider = Value
+				SetTheme()
+				SaveCfg(game.GameId)
+			end    
+		})
+		
+		ConfigTab:AddButton({
+			Name = " Reset to Default",
+			Callback = function()
+				OrionLib.Themes[OrionLib.SelectedTheme] = {
+					Main = Color3.fromRGB(25, 25, 25),
+					Second = Color3.fromRGB(32, 32, 32),
+					Stroke = Color3.fromRGB(60, 60, 60),
+					Divider = Color3.fromRGB(60, 60, 60),
+					Text = Color3.fromRGB(240, 240, 240),
+					TextDark = Color3.fromRGB(150, 150, 150)
+				}
+				OriginalStrokeColor = OrionLib.Themes[OrionLib.SelectedTheme].Stroke
+				SetTheme()
+				SaveCfg(game.GameId)
+				OrionLib:MakeNotification({
+					Name = " Reset Complete",
+					Content = "All colors have been reset to default!",
+					Time = 3
+				})
+			end
+		})
+
+		return ConfigTab
+	end
+	
+	return TabFunction
+end   
+
+-- Final security layer (FOURTH LAYER) - DESABILITADO PARA VELOCIDADE
+
+-- Salvar OrionLib globalmente para acesso externo
+getgenv().OrionLib = OrionLib
+
+return OrionLib
